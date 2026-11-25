@@ -10,4 +10,4 @@
 
 Страница: https://osipenko-stanislav.github.io/cu-icons/
 
-GitHub Pages публикует ветку `main`, папку `/ (root)`.
+GitHub Pages публикует страницу через GitHub Actions при изменениях в ветке `main`.
