@@ -1,0 +1,1633 @@
+[
+  {
+    "id": "airplay-lined",
+    "file": "svg/airplay-lined.svg",
+    "family": "airplay",
+    "sha256": "5ddb02171f2cf0dc39868aa015f173cda49d4112e7e7768f6b580f93af56baad",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "airpods-lined",
+    "file": "svg/airpods-lined.svg",
+    "family": "airpods",
+    "sha256": "989d30418dc81eb4021f9cf4f7594f269243f52f7cf15463d6d46424c9980934",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "atom-01-lined",
+    "file": "svg/atom-01-lined.svg",
+    "family": "atom",
+    "sha256": "302413c49e3b1640182388896ae11f913033055fb1054882019e9dd069cd4d2e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "atom-02-lined",
+    "file": "svg/atom-02-lined.svg",
+    "family": "atom",
+    "sha256": "987ff23f4e25f91ef6dcbafe7c6f979a73cf3ef628a362c4deb7174c8552742b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "award-01-lined",
+    "file": "svg/award-01-lined.svg",
+    "family": "award",
+    "sha256": "706791b6dd0b48b47a1c1922b412d233e7d16641d5fa288976c99610ce8f974f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "award-02-lined",
+    "file": "svg/award-02-lined.svg",
+    "family": "award",
+    "sha256": "5926c9b42524b311049516e0bd45592adc75ec047683200f6ec7daac64041bc5",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "award-03-lined",
+    "file": "svg/award-03-lined.svg",
+    "family": "award",
+    "sha256": "e30831634692e7cbe8d6192b5f459c6c84b8fc9b6c2cb897c908b1b8ce8cff11",
+    "review": "Approved"
+  },
+  {
+    "id": "award-04-lined",
+    "file": "svg/award-04-lined.svg",
+    "family": "award",
+    "sha256": "a616517052bd1531c863004e0b4de3079c296a8484221ccf1be96fa4d2350aa2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "award-05-lined",
+    "file": "svg/award-05-lined.svg",
+    "family": "award",
+    "sha256": "861906f6d57c1d994cce9efe3fdd5f0e1e08517da96e34ee512059720d7e33ff",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "backpack-lined",
+    "file": "svg/backpack-lined.svg",
+    "family": "backpack",
+    "sha256": "aef53b3afa05cc20725ed554fb8d362ce9bf68dfe53af681e04316c48d2702d0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "battery-charging-01-lined",
+    "file": "svg/battery-charging-01-lined.svg",
+    "family": "battery",
+    "sha256": "3494439bf029d8dcc9626ccbb590decc1a93c857d91042639f52cf8b39139623",
+    "review": "Approved"
+  },
+  {
+    "id": "battery-charging-02-lined",
+    "file": "svg/battery-charging-02-lined.svg",
+    "family": "battery",
+    "sha256": "19b7a80a8b2c339ebfd207d373d0c9b3267a73b05ba59e1b2f46734f8bcdb660",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "battery-empty-lined",
+    "file": "svg/battery-empty-lined.svg",
+    "family": "battery",
+    "sha256": "d99262db585f3212b879964a8f8a2bda22af353e7c7d4dabd9b07d08dd0d46ef",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "battery-full-lined",
+    "file": "svg/battery-full-lined.svg",
+    "family": "battery",
+    "sha256": "c94b82836635fedc5429505b7da6c55ffdd3a49b8d2bf7555a42f2612914d6f4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "battery-low-lined",
+    "file": "svg/battery-low-lined.svg",
+    "family": "battery",
+    "sha256": "915244ffe074a67691f4b7ba905104318600a21f4ee5c37dd057b39f139e4a56",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "battery-mid-lined",
+    "file": "svg/battery-mid-lined.svg",
+    "family": "battery",
+    "sha256": "cc356563f267012c9291e0f275a644cb9fd129b9aa7b292853a6719c0a3e5dfc",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "beaker-01-lined",
+    "file": "svg/beaker-01-lined.svg",
+    "family": "beaker",
+    "sha256": "e132ea08e11ae0c2908353f55c8dccfaa874b01cdd732cc32b11b7c48c22ca63",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "beaker-02-lined",
+    "file": "svg/beaker-02-lined.svg",
+    "family": "beaker",
+    "sha256": "d9a02e31026fc5284ceff1c22a58a4b31150f1e823cad1a4269ed01a8d036c00",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "bluetooth-connect-lined",
+    "file": "svg/bluetooth-connect-lined.svg",
+    "family": "bluetooth",
+    "sha256": "615ee0f70e299436cd98f192dd94d8db539f6f2cd4d79ec728b9b4dcde374807",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "bluetooth-off-lined",
+    "file": "svg/bluetooth-off-lined.svg",
+    "family": "bluetooth",
+    "sha256": "1843886285549f848cab6817dfc6063878f82ca8d9d67e81f1f96ce5395def29",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "bluetooth-on-lined",
+    "file": "svg/bluetooth-on-lined.svg",
+    "family": "bluetooth",
+    "sha256": "af63a7702db4d702fe68b84150b9770c366e79e83d78cf23ee8587d6dc1cafb2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "bluetooth-signal-lined",
+    "file": "svg/bluetooth-signal-lined.svg",
+    "family": "bluetooth",
+    "sha256": "32b964cf1068e28e36380b0bbf7fe5c73899cf1ab1ec4ae17bc42df938b2d73f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "book-closed-lined",
+    "file": "svg/book-closed-lined.svg",
+    "family": "book",
+    "sha256": "87c3aade07d3a6e7c9bbc1c4a465c8d009801fc91c7caa02b71266261b40793a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "book-open-01-lined",
+    "file": "svg/book-open-01-lined.svg",
+    "family": "book",
+    "sha256": "d799b03cba0589eeea9199c9c4b14dbcab014980b9e6e0dbb77f24c99fb60871",
+    "review": "Approved"
+  },
+  {
+    "id": "book-open-02-lined",
+    "file": "svg/book-open-02-lined.svg",
+    "family": "book",
+    "sha256": "c980d37ba5183a2b9c3bff6439c92178e6254dbc0b6b5ca4bccdaa3ad218c893",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "box-lined",
+    "file": "svg/box-lined.svg",
+    "family": "box",
+    "sha256": "6646c10bad2cf47a9cf5c91b977bb2454d1c18242a04b8711b46892802666ba9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "briefcase-01-lined",
+    "file": "svg/briefcase-01-lined.svg",
+    "family": "briefcase",
+    "sha256": "ebb7e2cabef6d4ecab20ea8801993eff6c8b36a1b23f61d1114edc9d79578c88",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "briefcase-02-lined",
+    "file": "svg/briefcase-02-lined.svg",
+    "family": "briefcase",
+    "sha256": "947d6fe2abfa9da0259ab50d2f2907250a3919881dddc9955dc20a55a6b73def",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "calculator-lined",
+    "file": "svg/calculator-lined.svg",
+    "family": "calculator",
+    "sha256": "edd6692d094f4f7ca73a3a29a2d5b823be796277c81902d09ef7aed3378ac6e6",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "certificate-01-lined",
+    "file": "svg/certificate-01-lined.svg",
+    "family": "certificate",
+    "sha256": "ef0b172b2cd722fae947702c575382885948d635697edd3289d2de09aa030557",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "certificate-02-lined",
+    "file": "svg/certificate-02-lined.svg",
+    "family": "certificate",
+    "sha256": "5c94e930234bd42be307df1f5c8bcc7e2cd9363d3368768d9abfa92aee30a7d4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "chrome-cast-lined",
+    "file": "svg/chrome-cast-lined.svg",
+    "family": "chrome",
+    "sha256": "fefdac8af6fe0bccdd1a772838b6b8e68ab11211d4ca6923cce66d03b358ba1a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clapperboard-lined",
+    "file": "svg/clapperboard-lined.svg",
+    "family": "clapperboard",
+    "sha256": "69e815d02ca5eb62841707129f5d72602cab746f4fd4343fa22682bcb0a10453",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-attachment-lined",
+    "file": "svg/clipboard-attachment-lined.svg",
+    "family": "clipboard",
+    "sha256": "563b08f85dbd0ebbb9199986b4bb46307a2aa85eaa394ebb88e132642b911b22",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-check-lined",
+    "file": "svg/clipboard-check-lined.svg",
+    "family": "clipboard",
+    "sha256": "82f2cad82504ed45453178c1e0350f4111163881af412eee8b02b2bf2a71132a",
+    "review": "Approved"
+  },
+  {
+    "id": "clipboard-download-lined",
+    "file": "svg/clipboard-download-lined.svg",
+    "family": "clipboard",
+    "sha256": "66916ef1ab9c231a5b1828b14392cc9dd7527ecd25a68e23e4ecce8d498cda21",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-lined",
+    "file": "svg/clipboard-lined.svg",
+    "family": "clipboard",
+    "sha256": "3f40f1f44ff57d983f34874196c37c19ad1714628640a660d7af245a18ca3f81",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-minus-lined",
+    "file": "svg/clipboard-minus-lined.svg",
+    "family": "clipboard",
+    "sha256": "585b21d7458f6889e67e232d42e49ad0a08d2baff051b03508a1a545f9905c16",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-plus-lined",
+    "file": "svg/clipboard-plus-lined.svg",
+    "family": "clipboard",
+    "sha256": "3e57940cddf977f67eaa114daffc81199016b0ae19f526d5b3a59dce1fac9d44",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "clipboard-x-lined",
+    "file": "svg/clipboard-x-lined.svg",
+    "family": "clipboard",
+    "sha256": "faa3db0c940e770103c81e05d29c31d4992f618cace800e29f6b6e916c747325",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "compass-lined",
+    "file": "svg/compass-lined.svg",
+    "family": "compass",
+    "sha256": "d8b79e57875b5670a8f1c51332055abb5ba7c9a1e460bb9d3433212384f1eac7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "disc-01-lined",
+    "file": "svg/disc-01-lined.svg",
+    "family": "disc",
+    "sha256": "12fbd2f26ce36e20b11c60b36d60ef298d11a01f54e86a091bb8d20cdeb17043",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "disc-02-lined",
+    "file": "svg/disc-02-lined.svg",
+    "family": "disc",
+    "sha256": "111569167dad6ee399de8fffd70389d62deea69a9f05833cbd8fa51da31f4598",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "face-id-lined",
+    "file": "svg/face-id-lined.svg",
+    "family": "face",
+    "sha256": "3a1aed3c79c0807d7501b011c071050f10f3c818c726e20e02d77620dd7b3ae7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "face-id-square-lined",
+    "file": "svg/face-id-square-lined.svg",
+    "family": "face",
+    "sha256": "da91c79b9e2bab967f2f1e57a2a89d5df5d6a670be9dbfb9a1dcf6752a659837",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "fast-backward-lined",
+    "file": "svg/fast-backward-lined.svg",
+    "family": "fast",
+    "sha256": "33608fca2f226c5698933dac1344aeed70d451a1e0739877fe609b763d8dc574",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "fast-forward-lined",
+    "file": "svg/fast-forward-lined.svg",
+    "family": "fast",
+    "sha256": "1855641c0a79a8c3f97368989038c25c81c18bb52238ef66914ac8932865e78e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-01-lined",
+    "file": "svg/file-01-lined.svg",
+    "family": "file",
+    "sha256": "4d0a796ca1ecf1e3c911f017e86dc53d6ceb8e3ef63e412bbbe07b3f670251b7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-02-lined",
+    "file": "svg/file-02-lined.svg",
+    "family": "file",
+    "sha256": "2c58d9069c650b4d558ee516eaf39783d5380ca5ccaac4853354d6280a91a746",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-03-lined",
+    "file": "svg/file-03-lined.svg",
+    "family": "file",
+    "sha256": "459e73a14f17f7f2c21e7047dfdcb8f36de5dfdeb8789dbfa20d7d998bb434db",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-04-lined",
+    "file": "svg/file-04-lined.svg",
+    "family": "file",
+    "sha256": "f6f55f113d5b8f1bfe20b9dc348d02d01ab239c6cbd060e369c53ffca1aaef08",
+    "review": "Approved"
+  },
+  {
+    "id": "file-05-lined",
+    "file": "svg/file-05-lined.svg",
+    "family": "file",
+    "sha256": "d54d826a752b6f3fe88df3e07514d3cb589917f3f2e9489f844dd952626bb123",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-06-lined",
+    "file": "svg/file-06-lined.svg",
+    "family": "file",
+    "sha256": "45bbfed3080c4d29c28d254751c0662aff40261e7d2b300822633b5c1b9bab2e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-07-lined",
+    "file": "svg/file-07-lined.svg",
+    "family": "file",
+    "sha256": "75e0a37ff5ad7c16c13a646316e15970a93124488c1f5c57b58d3e5695d0c96b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-attachment-01-lined",
+    "file": "svg/file-attachment-01-lined.svg",
+    "family": "file",
+    "sha256": "2eb6130ac9bf3259c2fe5b2d9922b1a43b0d68d555788575b9f1293d9ae89f94",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-attachment-02-lined",
+    "file": "svg/file-attachment-02-lined.svg",
+    "family": "file",
+    "sha256": "8cacb79556359c07533e57e9e7bc8fe9437c5fa53bc9b240354d76c16de0347f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-attachment-03-lined",
+    "file": "svg/file-attachment-03-lined.svg",
+    "family": "file",
+    "sha256": "c88da9dde144ecef714a62e718d4903cdcb7583d2d85ba114fb0597052d8afa1",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-attachment-04-lined",
+    "file": "svg/file-attachment-04-lined.svg",
+    "family": "file",
+    "sha256": "297887f346a07311f13d51dfcbf3d9dbb3b86fc0ac2b4c2fda1a783caad501a0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-attachment-05-lined",
+    "file": "svg/file-attachment-05-lined.svg",
+    "family": "file",
+    "sha256": "7d599caf87fd4bbc28bdb13e8f868c8843d85a7c65085740afdf8901b2f1b70d",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-check-01-lined",
+    "file": "svg/file-check-01-lined.svg",
+    "family": "file",
+    "sha256": "531d2a34915a8778e9292d829cfe81cb0499f3aa0e960bb63a404daea448fe67",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-check-02-lined",
+    "file": "svg/file-check-02-lined.svg",
+    "family": "file",
+    "sha256": "791d7402a91f58c52f0f35c7d283cd60fdec5c3bcea1e1c03049beb859aa52b4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-check-03-lined",
+    "file": "svg/file-check-03-lined.svg",
+    "family": "file",
+    "sha256": "280ebb54a336c0d15ace0c2c34948c02e8fb7b3f6cbdcfb7afc2ffa730f8965c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-circle-lined",
+    "file": "svg/file-circle-lined.svg",
+    "family": "file",
+    "sha256": "5059cef4021c4b03031127a014fd66ffe2f26f0ff4aaa5f3da38d458946747c3",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-download-01-lined",
+    "file": "svg/file-download-01-lined.svg",
+    "family": "file",
+    "sha256": "d757b38915e1e18dbae767537cf351848fdd15dd3e9728d49a9723895318f6f4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-download-02-lined",
+    "file": "svg/file-download-02-lined.svg",
+    "family": "file",
+    "sha256": "0c7eabfa99a89ca8cc50537aa582a77bd23a0872490b51b87259b0428b3f52bd",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-download-03-lined",
+    "file": "svg/file-download-03-lined.svg",
+    "family": "file",
+    "sha256": "d3bc49a8bd93becc9ecba1f4e834d33b03b684fb9679f6cf816cddaa380008d1",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-heart-01-lined",
+    "file": "svg/file-heart-01-lined.svg",
+    "family": "file",
+    "sha256": "dbb030edf2ef3d8aa9b6780e5086f212a0e2e54c52b1bcfc2fb18e616d8965d5",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-heart-02-lined",
+    "file": "svg/file-heart-02-lined.svg",
+    "family": "file",
+    "sha256": "c7e1c68d90a10adb519d662e630e4fcb8c36a967049df4186f6c1742327c0c25",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-heart-03-lined",
+    "file": "svg/file-heart-03-lined.svg",
+    "family": "file",
+    "sha256": "cc01a2e2418139406b92938d2debbc21ee7c00d3c1af1077eabbe4eab7fc6967",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-lock-01-lined",
+    "file": "svg/file-lock-01-lined.svg",
+    "family": "file",
+    "sha256": "dd6a9084b1eb323314e0665f4644c1bb55218eb68019c79a5a02c5c7513fd6b9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-lock-02-lined",
+    "file": "svg/file-lock-02-lined.svg",
+    "family": "file",
+    "sha256": "d7f476eb8072f593f0e78edd961c8c1bf10f1bbac5ed8fccfa0b3972181066e4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-lock-03-lined",
+    "file": "svg/file-lock-03-lined.svg",
+    "family": "file",
+    "sha256": "d7118efb629fcd93133883740a214cede81105534657afbb7459327a49b499c3",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-minus-01-lined",
+    "file": "svg/file-minus-01-lined.svg",
+    "family": "file",
+    "sha256": "aabe0656ec2a5aba7b059d7c6ece968fa8af34aac18e0915bfc267d72f3b9288",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-minus-02-lined",
+    "file": "svg/file-minus-02-lined.svg",
+    "family": "file",
+    "sha256": "d04a3b08b39bb87a6d1352d7b1d9c5a8f619dc9a10f717fa14fa8ed6b36b7c24",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-minus-03-lined",
+    "file": "svg/file-minus-03-lined.svg",
+    "family": "file",
+    "sha256": "df9d46f683ae39c608d1fe71a87c51b02ec871645ab30427b1be0502cace25f0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-plus-01-lined",
+    "file": "svg/file-plus-01-lined.svg",
+    "family": "file",
+    "sha256": "1a80ad37f01e1b21870212846a78046ce1869395240f2cdf5e2feaa969d452f8",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-plus-02-lined",
+    "file": "svg/file-plus-02-lined.svg",
+    "family": "file",
+    "sha256": "340f3adb3cd328b4996974cda51479194e5d358f9dfd8a3741559ac89d93476a",
+    "review": "Approved"
+  },
+  {
+    "id": "file-plus-03-lined",
+    "file": "svg/file-plus-03-lined.svg",
+    "family": "file",
+    "sha256": "dee653c79cbd8d85143b5adcf27739b65d9591567bce7bcba59f3ad398b24ffd",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-question-01-lined",
+    "file": "svg/file-question-01-lined.svg",
+    "family": "file",
+    "sha256": "b1cb661307ff937028720c169bf7d1e8cbfa375deec4f1bd34ca5b8142899fe6",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-question-02-lined",
+    "file": "svg/file-question-02-lined.svg",
+    "family": "file",
+    "sha256": "bef7845a8cd244f35aa59e57553402b84a49579851a50048d7b57509a97876d7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-question-03-lined",
+    "file": "svg/file-question-03-lined.svg",
+    "family": "file",
+    "sha256": "c9bcbaf0663386345ebc7446b31bc1af62bfc3ac59752e6044701aa2047d2b27",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-search-01-lined",
+    "file": "svg/file-search-01-lined.svg",
+    "family": "file",
+    "sha256": "43efd35eaa895db61688ca23c9aa0221dbfb87a745af1fa14a0647196372dfe4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-search-02-lined",
+    "file": "svg/file-search-02-lined.svg",
+    "family": "file",
+    "sha256": "847dfd76e0edbc0553d64b76f22ce00c318b6bc80b12d51504fc267685d93229",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-search-03-lined",
+    "file": "svg/file-search-03-lined.svg",
+    "family": "file",
+    "sha256": "cf3562d9f7dc0b99c04b4009a7f7b3f5da815d6976d54d1ae37e087cbb10b380",
+    "review": "Approved"
+  },
+  {
+    "id": "file-shield-01-lined",
+    "file": "svg/file-shield-01-lined.svg",
+    "family": "file",
+    "sha256": "e15b418b9c1fc07dd88289ad5702321beb44275bff89224634f343b37fb2c732",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-shield-02-lined",
+    "file": "svg/file-shield-02-lined.svg",
+    "family": "file",
+    "sha256": "0109df147ea8d690497ea73e5e45fe0d0fe35e93a5b11bbf9e83e914fe457c48",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-shield-03-lined",
+    "file": "svg/file-shield-03-lined.svg",
+    "family": "file",
+    "sha256": "1ebd870342277a442b79315bbe2f0da21de2e67326fd5b733321fe03394ad067",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-x-01-lined",
+    "file": "svg/file-x-01-lined.svg",
+    "family": "file",
+    "sha256": "0857b0e01aa54ff510a43fc106bdfaad92162bd33cde2912438dfe20db0071e0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-x-02-lined",
+    "file": "svg/file-x-02-lined.svg",
+    "family": "file",
+    "sha256": "5a127e1135ea2e53dfee99962aa5ce49dbea28bed245465512ca0130a615eef7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "file-x-03-lined",
+    "file": "svg/file-x-03-lined.svg",
+    "family": "file",
+    "sha256": "acef0d9b2a003fb733df33253c623202d9feb265734838e8dfcffa5bf1f7f230",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "film-01-lined",
+    "file": "svg/film-01-lined.svg",
+    "family": "film",
+    "sha256": "7df01c361f6fd4730bdc773f725ee20c8840213a31094b4bedd259a96249a122",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "film-02-lined",
+    "file": "svg/film-02-lined.svg",
+    "family": "film",
+    "sha256": "2e4e8d0b52e106bff70b66f136926b14f524a34e331a53aeef7cda46999eda45",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "film-03-lined",
+    "file": "svg/film-03-lined.svg",
+    "family": "film",
+    "sha256": "ba4810a6e4b61d0e7996a2eedb1d047844b2db1e87c60071e7b5ea994fb92a61",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "fingerprint-01-lined",
+    "file": "svg/fingerprint-01-lined.svg",
+    "family": "fingerprint",
+    "sha256": "743c10fef1114f728b6f4a6a919cb50e02a4c80a3eb5b3801605df4a35497c37",
+    "review": "Approved"
+  },
+  {
+    "id": "fingerprint-02-lined",
+    "file": "svg/fingerprint-02-lined.svg",
+    "family": "fingerprint",
+    "sha256": "a731c657ab01beda7a9674ffba250074e9e7a57f82577b7129625294a93e9890",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "fingerprint-03-lined",
+    "file": "svg/fingerprint-03-lined.svg",
+    "family": "fingerprint",
+    "sha256": "8d179d7765f447b117aa7d5a3005ecccef5ab4b732ddeea6becb8851156cc2b6",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "fingerprint-04-lined",
+    "file": "svg/fingerprint-04-lined.svg",
+    "family": "fingerprint",
+    "sha256": "71dcdb924a9e118654327b347ad46eb3b1edd11af62d429558ffe3422b7718a4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-check-lined",
+    "file": "svg/folder-check-lined.svg",
+    "family": "folder",
+    "sha256": "93c8387d483c787544ce80ae74a593d48539df3159d5fb11d4a1c14418056f08",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-closed-lined",
+    "file": "svg/folder-closed-lined.svg",
+    "family": "folder",
+    "sha256": "428e628d4f93b69fc2b33334009cdfb52c9c33fae099250f2b79edbcffb8f190",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-download-lined",
+    "file": "svg/folder-download-lined.svg",
+    "family": "folder",
+    "sha256": "fed735f4b76dc2484ed58ae3beeb4301e671c5269332a974cf16abbaaae220c2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-lined",
+    "file": "svg/folder-lined.svg",
+    "family": "folder",
+    "sha256": "e4dd9a01003679afbabbbb15ce39fa3bdf5f719e4f1347b85f9fceddc8d68e2e",
+    "review": "Approved"
+  },
+  {
+    "id": "folder-lock-lined",
+    "file": "svg/folder-lock-lined.svg",
+    "family": "folder",
+    "sha256": "b7e56806902cd05e85c6f04b5b3620ad24e394d718d7913e93a4fffd8bdb937f",
+    "review": "Approved"
+  },
+  {
+    "id": "folder-minus-lined",
+    "file": "svg/folder-minus-lined.svg",
+    "family": "folder",
+    "sha256": "58ff5a64d0c56e85ee0c3dc5fd4d0afe70395044e76847d6100c179ed3a57c6f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-plus-lined",
+    "file": "svg/folder-plus-lined.svg",
+    "family": "folder",
+    "sha256": "3d792c041e1f02bb022ba47a68883e7edae86e4d64574b451e348e65d3827db9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-question-lined",
+    "file": "svg/folder-question-lined.svg",
+    "family": "folder",
+    "sha256": "3d8cff25bc7e0667dcd55bdb1f0668fa1e1e8b758650a03eb185913526c663e8",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-search-lined",
+    "file": "svg/folder-search-lined.svg",
+    "family": "folder",
+    "sha256": "6bdc1d75f4993979a5f564ba2b6e85513f74e71022f7a9e9ec3153d1b751c60a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-shield-lined",
+    "file": "svg/folder-shield-lined.svg",
+    "family": "folder",
+    "sha256": "45304e1e2fa06a592dd142403d581e5a890df0b6b5e140cd5635b8b76db0502a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "folder-x-lined",
+    "file": "svg/folder-x-lined.svg",
+    "family": "folder",
+    "sha256": "0c001c7e553869fd665366bfe5eeb6e02b726b45aecc92f8fceae53aa85bed27",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "gaming-pad-01-lined",
+    "file": "svg/gaming-pad-01-lined.svg",
+    "family": "gaming",
+    "sha256": "dc9a739fe4eb4fa80d2d661ccaa16ae928584cc06b31402fa36e649ff34c02f3",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "gaming-pad-02-lined",
+    "file": "svg/gaming-pad-02-lined.svg",
+    "family": "gaming",
+    "sha256": "4c277b3ec0cbd0c6c1ec77c74f4aa4543cbd815a028eb17aa89bc9801ed28260",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "glasses-01-lined",
+    "file": "svg/glasses-01-lined.svg",
+    "family": "glasses",
+    "sha256": "cb18c5d721d02c5e5c781cf5aa8826239e614551dbe739e0de93f76b1421bf26",
+    "review": "Approved"
+  },
+  {
+    "id": "glasses-02-lined",
+    "file": "svg/glasses-02-lined.svg",
+    "family": "glasses",
+    "sha256": "c1eef9308bae2216ff11f265961c69a92d8491f7c036e0d65b9d71bce9a1f3a9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "globe-slated-01-lined",
+    "file": "svg/globe-slated-01-lined.svg",
+    "family": "globe",
+    "sha256": "8ad3ec636649d9a63030d6eb7278aa52138435446ce122527a2c26fa68496d89",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "globe-slated-02-lined",
+    "file": "svg/globe-slated-02-lined.svg",
+    "family": "globe",
+    "sha256": "703de5a444d2b0544086177f751c09b4cd1db4d5911d54eeb8e3909c7fe02398",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "graduation-hat-01-lined",
+    "file": "svg/graduation-hat-01-lined.svg",
+    "family": "graduation",
+    "sha256": "3f599db371684c9430b7a8b2f72533c64c1935b795a2594f4bd44d412e44c10a",
+    "review": "Approved"
+  },
+  {
+    "id": "graduation-hat-02-lined",
+    "file": "svg/graduation-hat-02-lined.svg",
+    "family": "graduation",
+    "sha256": "73d78d729ecbccc272d27a49ec60684a595035895322cc592533ec27b2eb8591",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "hard-drive-lined",
+    "file": "svg/hard-drive-lined.svg",
+    "family": "hard",
+    "sha256": "a085bb077a6881b560d9d90b79dd7e2e43b22c0e31dfa6fef84679986f2a1231",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "headphones-01-lined",
+    "file": "svg/headphones-01-lined.svg",
+    "family": "headphones",
+    "sha256": "94b3169c7eb53c5d6a4b096393fe0390e104e5dd17e7b20936af588d500872cf",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "headphones-02-lined",
+    "file": "svg/headphones-02-lined.svg",
+    "family": "headphones",
+    "sha256": "5fd972514834e4172c20aa878d69bc8370ae8fdeaaf30c6e6d6b2b3a5d84a72b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "key-01-lined",
+    "file": "svg/key-01-lined.svg",
+    "family": "key",
+    "sha256": "d5ca8a4533aab1b4de934a627f9b26d21d110ba8796e9686edcc1aa8e9562c4b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "key-02-lined",
+    "file": "svg/key-02-lined.svg",
+    "family": "key",
+    "sha256": "e12672c8d1e893f85b6c86152bbbe0cd16bd39463960a7bb24cf5a2fbd98dd37",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "keyboard-01-lined",
+    "file": "svg/keyboard-01-lined.svg",
+    "family": "keyboard",
+    "sha256": "ef3bfd6d075e8be4dfabe0227ca65015cc834b93767450ecbeb5a96905fdc61e",
+    "review": "Approved"
+  },
+  {
+    "id": "keyboard-02-lined",
+    "file": "svg/keyboard-02-lined.svg",
+    "family": "keyboard",
+    "sha256": "ca87db12a24f38daf2e3f0068f33a670785fc0c7fb06343c3e8f39fb2111bb97",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "laptop-01-lined",
+    "file": "svg/laptop-01-lined.svg",
+    "family": "laptop",
+    "sha256": "91ab33dae6d376586e581f8e6f5bf2ec3450211fb578b1394b5d0cdf2b418443",
+    "review": "Approved"
+  },
+  {
+    "id": "laptop-02-lined",
+    "file": "svg/laptop-02-lined.svg",
+    "family": "laptop",
+    "sha256": "9a23928cdfab51492526df9959acc7ae3e73a0887c2dfd186af7dcbd9f56359d",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "file": "svg/lightbulb-01-lined.svg",
+    "family": "lightbulb",
+    "sha256": "355adc58a0e2720bed8ac7d650111a75f8feb350e24aa9b85206e46b2d01fb64",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lightbulb-02-lined",
+    "file": "svg/lightbulb-02-lined.svg",
+    "family": "lightbulb",
+    "sha256": "9036379175d41fa98a8665b3a30411d482466068564c671cb2e4071b87b3cb27",
+    "review": "Approved"
+  },
+  {
+    "id": "lightbulb-03-lined",
+    "file": "svg/lightbulb-03-lined.svg",
+    "family": "lightbulb",
+    "sha256": "e1fc4c30dcf5e5cbcb6c9a5fe1b28324f44ac3c3a2b82dc00385648361e95da0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lightbulb-04-lined",
+    "file": "svg/lightbulb-04-lined.svg",
+    "family": "lightbulb",
+    "sha256": "9dda0b47813fdd58de481a942232ed2304630818c468205f77ec71a79519369f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lightbulb-05-lined",
+    "file": "svg/lightbulb-05-lined.svg",
+    "family": "lightbulb",
+    "sha256": "ee6ac71a841f6ef1e203113eec20622738fefcd4647fad1243975a612f3e2808",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-01-lined",
+    "file": "svg/lock-01-lined.svg",
+    "family": "lock",
+    "sha256": "9e5db799205c690cd7aec1af22eb3037d228cc776bad5004ceb2248d74f4b44e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-02-lined",
+    "file": "svg/lock-02-lined.svg",
+    "family": "lock",
+    "sha256": "5de96268413eca656c657dcfe1eb0ef6b8f234669e76f379f9a8a36f1e32b8c3",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-03-lined",
+    "file": "svg/lock-03-lined.svg",
+    "family": "lock",
+    "sha256": "9f5be5e657e5782dc96adea9dbfceae511c7272d8efba25d60ae74e4b30cdbe0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-04-lined",
+    "file": "svg/lock-04-lined.svg",
+    "family": "lock",
+    "sha256": "a70964c37e59b86da8f9a31f6acf6699d9ef72bcfe6ba30db33c345330dca49c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-keyhole-circle-lined",
+    "file": "svg/lock-keyhole-circle-lined.svg",
+    "family": "lock",
+    "sha256": "f583f87c5abeab545ae973202c05f9b8f43b9d87b3368a0c4b2039beadde86ec",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-keyhole-square-lined",
+    "file": "svg/lock-keyhole-square-lined.svg",
+    "family": "lock",
+    "sha256": "1e23c6ad1ce9c9535100a49b8273888fcebe5e2b0d3fbfb976ebd636eb7db039",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-unlocked-01-lined",
+    "file": "svg/lock-unlocked-01-lined.svg",
+    "family": "lock",
+    "sha256": "aaad45457d4cc277110bffaa10f2e438f376e26cc89b4b998edee21e3a0bd49c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-unlocked-02-lined",
+    "file": "svg/lock-unlocked-02-lined.svg",
+    "family": "lock",
+    "sha256": "efc5a14d7b622ba06eebb878488bf911c889fec04407c73ce1e9dd8ecc75e531",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-unlocked-03-lined",
+    "file": "svg/lock-unlocked-03-lined.svg",
+    "family": "lock",
+    "sha256": "a131e51b97e95d23071ceb918962f59ba2bafbc287c4d0239ce208c9fee52822",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "lock-unlocked-04-lined",
+    "file": "svg/lock-unlocked-04-lined.svg",
+    "family": "lock",
+    "sha256": "aca02aa8837b2ada2d5baea54e3b4e64d6940071aae18398002672bdb3ec78c1",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "microphone-01-lined",
+    "file": "svg/microphone-01-lined.svg",
+    "family": "microphone",
+    "sha256": "f10f185b225f398eb60ea0b2ef8767c3131896e66578e966814c17b7cc85e603",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "microphone-02-lined",
+    "file": "svg/microphone-02-lined.svg",
+    "family": "microphone",
+    "sha256": "de2fecaead84bfaba72e2a5cf123c4aa77a8ec7e34ff0a177d914d36c662b63a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "microphone-off-01-lined",
+    "file": "svg/microphone-off-01-lined.svg",
+    "family": "microphone",
+    "sha256": "e906f3e8a198d7a2c9f34591ec37b03134580f18ea841ab813e5f65e37a4fc36",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "microphone-off-02-lined",
+    "file": "svg/microphone-off-02-lined.svg",
+    "family": "microphone",
+    "sha256": "79c7e60a27befefe25f59d91ecc001b072ca539f6b77d13f849ca05c9a33a816",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "microscope-lined",
+    "file": "svg/microscope-lined.svg",
+    "family": "microscope",
+    "sha256": "ff983dfa614a7ab226d7a72d955efc0f57f1426ac83ce4f4b8edf51cae4148ee",
+    "review": "Approved"
+  },
+  {
+    "id": "modem-01-lined",
+    "file": "svg/modem-01-lined.svg",
+    "family": "modem",
+    "sha256": "f3e204f33a10e4d8c19dfdcef64210888e592d283f9a2e4774640b2a12632c99",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "modem-02-lined",
+    "file": "svg/modem-02-lined.svg",
+    "family": "modem",
+    "sha256": "e4d7172fb65d7b3adf9d3e57cd3b267eb085bf37ab40bbc6a226c1a9061c6f5b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "monitor-01-lined",
+    "file": "svg/monitor-01-lined.svg",
+    "family": "monitor",
+    "sha256": "a85277e762e73f39068051c38e2146d7cf21fdb1f1aaec854199c859ab7d5e8d",
+    "review": "Approved"
+  },
+  {
+    "id": "monitor-02-lined",
+    "file": "svg/monitor-02-lined.svg",
+    "family": "monitor",
+    "sha256": "be10076a648911cf5e867d71a13a9f05e101ef6d9ef35eeffe55f25759734f53",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "monitor-03-lined",
+    "file": "svg/monitor-03-lined.svg",
+    "family": "monitor",
+    "sha256": "deb02f21962274f7a51944dcecc26018f52194da8cd05ca3241890610651aac4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "monitor-04-lined",
+    "file": "svg/monitor-04-lined.svg",
+    "family": "monitor",
+    "sha256": "e2436c831867d2226e0517568e87e28d75fcb3d0df83f94d4ccf9df473a04cf6",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "monitor-05-lined",
+    "file": "svg/monitor-05-lined.svg",
+    "family": "monitor",
+    "sha256": "e420dcb5ba290e093356232bfb3689967b15945645451274e03cff7eec9cdc3e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "mouse-lined",
+    "file": "svg/mouse-lined.svg",
+    "family": "mouse",
+    "sha256": "2752c54d27f082de83533b13af0763141d262e038c909165041dcd7112b6ab64",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "music-note-01-lined",
+    "file": "svg/music-note-01-lined.svg",
+    "family": "music",
+    "sha256": "f21366ac6fc0cabc77a08b4326ce0c2118cbc22d7bd8e18799d31219694424aa",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "music-note-02-lined",
+    "file": "svg/music-note-02-lined.svg",
+    "family": "music",
+    "sha256": "fd62796a662801614cd6d6f05d52ba8f45970a3b2199a85cbef5370fc17982f0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "music-note-plus-lined",
+    "file": "svg/music-note-plus-lined.svg",
+    "family": "music",
+    "sha256": "4ec5bac4892a2245f89928fa0115172335ffe0d10a3cc04f433fe1cbc5422d84",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "paperclip-lined",
+    "file": "svg/paperclip-lined.svg",
+    "family": "paperclip",
+    "sha256": "9310920a811934586dce24d1530c69fa555d248bee3053836ff6458c03b17f1e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "passcode-lined",
+    "file": "svg/passcode-lined.svg",
+    "family": "passcode",
+    "sha256": "6226b899112318c829357875a449cd8f7e800779c620e9cc4632b15e590f351c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "passcode-lock-lined",
+    "file": "svg/passcode-lock-lined.svg",
+    "family": "passcode",
+    "sha256": "283934e9d7e98d6ba0454e58c09a1d76659ef878d2cefcddb5545789496486d4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "pause-circle-lined",
+    "file": "svg/pause-circle-lined.svg",
+    "family": "pause",
+    "sha256": "24a312afa570f0cd72c2b51e36b603a15de0746fac346a5c208945f054ac5ddd",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "pause-square-lined",
+    "file": "svg/pause-square-lined.svg",
+    "family": "pause",
+    "sha256": "5b0c73c08de9c663c68db927b4bf713a492b86e32878d2b3aefa84f185800d3c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "phone-01-lined",
+    "file": "svg/phone-01-lined.svg",
+    "family": "phone",
+    "sha256": "48bf15ad670a15dbca6fd8e2860e96fd6e49700485b6f8a3a0f5d1c39494b5ef",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "phone-02-lined",
+    "file": "svg/phone-02-lined.svg",
+    "family": "phone",
+    "sha256": "65e121c9045b6c6f253a6468d99b1de6da5441c7d49c776e669e61ab8d31ca91",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "play-circle-lined",
+    "file": "svg/play-circle-lined.svg",
+    "family": "play",
+    "sha256": "2704ac7c3284c1cb965477af7a4df52cd265046b78cd2ffb48d7edb61a664cae",
+    "review": "Approved"
+  },
+  {
+    "id": "play-lined",
+    "file": "svg/play-lined.svg",
+    "family": "play",
+    "sha256": "195f0da3c1fbe8110e77ac5fa5f98efda8eb154ede8c34117926d92fbcd9c707",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "play-square-lined",
+    "file": "svg/play-square-lined.svg",
+    "family": "play",
+    "sha256": "19fc33a62e330f7f2c7d2a9777c96bdce661cf7a94073acf0947e7fbbb7d9f40",
+    "review": "Approved"
+  },
+  {
+    "id": "podcast-lined",
+    "file": "svg/podcast-lined.svg",
+    "family": "podcast",
+    "sha256": "b7b459793fe582af7b95c0d5cceb1c4de249751c9b84a2364b0a680e211fc600",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "power-01-lined",
+    "file": "svg/power-01-lined.svg",
+    "family": "power",
+    "sha256": "5599e9faf66c7edb97686020becbd74cbfb94a44174ffd4a6eeb93f50c54b4e8",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "power-02-lined",
+    "file": "svg/power-02-lined.svg",
+    "family": "power",
+    "sha256": "9e8df25b659a326f23ca5987b162c8e145d6c32b55b82f7edbce5bfaa28b4eca",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "power-03-lined",
+    "file": "svg/power-03-lined.svg",
+    "family": "power",
+    "sha256": "3be8197cd401740872fd0fe6254d47e572674e57565fd2bbec7fbc45f9ff9623",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "printer-lined",
+    "file": "svg/printer-lined.svg",
+    "family": "printer",
+    "sha256": "7dd24076066c0a8f5fb643ba8eab0de116a22c4ca51b49d6e57a9fb5db521076",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "recording-01-lined",
+    "file": "svg/recording-01-lined.svg",
+    "family": "recording",
+    "sha256": "45db57b7b015864e78233a999587a0100680dce06ccac9df1942d25a08e190fb",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "recording-02-lined",
+    "file": "svg/recording-02-lined.svg",
+    "family": "recording",
+    "sha256": "ebb375309656441b8b7b766d1bfc6b48db5c2bf16d927203d381ea0a0c0d8ce0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "recording-03-lined",
+    "file": "svg/recording-03-lined.svg",
+    "family": "recording",
+    "sha256": "52ac4efbc59a9aad49b6f2fe6a25a093ee822fa1998422a912ce5bd462b02015",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "repeat-01-lined",
+    "file": "svg/repeat-01-lined.svg",
+    "family": "repeat",
+    "sha256": "114f90342d04954451ae16e5a49a772109ccbafcbd36bfc4337f18836714c846",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "repeat-02-lined",
+    "file": "svg/repeat-02-lined.svg",
+    "family": "repeat",
+    "sha256": "2389a7b626f270b4ba180931c4ea755cf51a2bb1934a6937657baff76eba032b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "repeat-03-lined",
+    "file": "svg/repeat-03-lined.svg",
+    "family": "repeat",
+    "sha256": "52cd3f1890676adff6e98242c550ef646c2ae00e4c89cb2d9dd99d8bb41d051a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "repeat-04-lined",
+    "file": "svg/repeat-04-lined.svg",
+    "family": "repeat",
+    "sha256": "2f50e4ae77c2d91617334d7a7f9f670e008d76f292ceed3ba3a5aa96d7300343",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "rss-01-lined",
+    "file": "svg/rss-01-lined.svg",
+    "family": "rss",
+    "sha256": "6cd911b07eab9329d4b0116cd8012e98229ce38a3c2206a5741ccf12b2096a42",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "rss-02-lined",
+    "file": "svg/rss-02-lined.svg",
+    "family": "rss",
+    "sha256": "426b249c132d3b2c507a4b0dbfcb6f53b04cb7f4944d170fe0bcb6e5d330d1b8",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "ruler-lined",
+    "file": "svg/ruler-lined.svg",
+    "family": "ruler",
+    "sha256": "6a74b1950f30e934c7fdad3991cce262460a1115ffac7ededc0e7759bd5036ec",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "scan-lined",
+    "file": "svg/scan-lined.svg",
+    "family": "scan",
+    "sha256": "1519b8c9ea8cb66f85d7845cf6e9f90fccb1f7861a8f040bf6705be10bd76a8e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-01-lined",
+    "file": "svg/shield-01-lined.svg",
+    "family": "shield",
+    "sha256": "e5869f6b6218d516e9f1202a2e0bfb99a11e822148a8c1c9feb43bf16f262933",
+    "review": "Approved"
+  },
+  {
+    "id": "shield-02-lined",
+    "file": "svg/shield-02-lined.svg",
+    "family": "shield",
+    "sha256": "25b3f2d55af5a9c8596678fa32185efc4d10afa0dc805af775f01247be9083a3",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-03-lined",
+    "file": "svg/shield-03-lined.svg",
+    "family": "shield",
+    "sha256": "3bb6a047450a17158ae86e84bc4981d33eba858e92c7fbf3d147089a08625953",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-dollar-lined",
+    "file": "svg/shield-dollar-lined.svg",
+    "family": "shield",
+    "sha256": "4710da8916a6609e41b2792493144ed958a031a592220b56a19a36bce15ac3ec",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-off-lined",
+    "file": "svg/shield-off-lined.svg",
+    "family": "shield",
+    "sha256": "4d99712981410872a1f2c42fa3472b7940739b4d11b36b9838455ef7b1a75828",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-plus-lined",
+    "file": "svg/shield-plus-lined.svg",
+    "family": "shield",
+    "sha256": "61b411a25a8871f9eb548ddb200b9694e8d449481b67d1c128063f684a15f640",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shield-tick-lined",
+    "file": "svg/shield-tick-lined.svg",
+    "family": "shield",
+    "sha256": "22e02010e0a911ac7d7c38f43b88287ba09ac033758f400eeb98a0d9a3e40c3e",
+    "review": "Approved"
+  },
+  {
+    "id": "shield-zap-lined",
+    "file": "svg/shield-zap-lined.svg",
+    "family": "shield",
+    "sha256": "4306a004dc6aba3f7379975a94e865917215fd4a7d2c7a5c964094066e9c4b5e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shuffle-01-lined",
+    "file": "svg/shuffle-01-lined.svg",
+    "family": "shuffle",
+    "sha256": "3b7af33b6416eb31c7fdd82d4064f2d67172cdddf344c76f5bf7d49f44e7c79f",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "shuffle-02-lined",
+    "file": "svg/shuffle-02-lined.svg",
+    "family": "shuffle",
+    "sha256": "5f88993f3dbc1cc18d2dc5c55aa9a26321ff429c9db00ab00c3a448c7958e3c5",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "signal-01-lined",
+    "file": "svg/signal-01-lined.svg",
+    "family": "signal",
+    "sha256": "0cc0a87be0060fb30936e7bafaba999d49cfb964d60481c4768ab8a3a12be6e8",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "signal-02-lined",
+    "file": "svg/signal-02-lined.svg",
+    "family": "signal",
+    "sha256": "34916191e95c1d2337ea58e04b292e304896e65f10390301b7e8c16e3e6db885",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "signal-03-lined",
+    "file": "svg/signal-03-lined.svg",
+    "family": "signal",
+    "sha256": "85d705436e5d30e1de7eeab7aa8e2e98d41b6e10538631ffaee9223e837c8bcf",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "simcard-lined",
+    "file": "svg/simcard-lined.svg",
+    "family": "simcard",
+    "sha256": "03825c6c270ca01f0b44aeedb560d52b6bb8f62fc927a3f57d77d120383f6521",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "skip-back-lined",
+    "file": "svg/skip-back-lined.svg",
+    "family": "skip",
+    "sha256": "0b81ec2f583e3250b5e816f04b5d1ab72dc08c2cad0393e786110961a50282bf",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "skip-forward-lined",
+    "file": "svg/skip-forward-lined.svg",
+    "family": "skip",
+    "sha256": "ce3f81e3cb327c22a76b494b5810af315beb671a7a10dc1ddcfacadbc99b83ce",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sliders-01-lined",
+    "file": "svg/sliders-01-lined.svg",
+    "family": "sliders",
+    "sha256": "5d1214b721b83e21eb16f732bc608a95a5a2c47720f23be42610d8ede6692909",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sliders-02-lined",
+    "file": "svg/sliders-02-lined.svg",
+    "family": "sliders",
+    "sha256": "2fbc080d17c6e622aa7bf5203ab5391b9df6d51bc039ade3fb3805d361715e1a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sliders-03-lined",
+    "file": "svg/sliders-03-lined.svg",
+    "family": "sliders",
+    "sha256": "df7111f1227ad7b5882ff2eae873aa7d60a311cb3dd71eac941c7b08eb4e7c7e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sliders-04-lined",
+    "file": "svg/sliders-04-lined.svg",
+    "family": "sliders",
+    "sha256": "7c6d7780dd21628f6cab73ed4afb9bb2a019fb6a1a97d3ce879489720592588c",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "speaker-01-lined",
+    "file": "svg/speaker-01-lined.svg",
+    "family": "speaker",
+    "sha256": "d9c5647c8d8de2e092a2f1b7256c03da01cbabfac1aab75f54c44c8b9c4a2536",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "speaker-02-lined",
+    "file": "svg/speaker-02-lined.svg",
+    "family": "speaker",
+    "sha256": "7c3e92dde07723a96c5df9e6643e33ef1e578f6c1d1c4af2b4c4a91b09656052",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "speaker-03-lined",
+    "file": "svg/speaker-03-lined.svg",
+    "family": "speaker",
+    "sha256": "c489948f44bfc883f5d815733ed538678690dc13bd763281d1d47962b22a96f5",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "stand-lined",
+    "file": "svg/stand-lined.svg",
+    "family": "stand",
+    "sha256": "9f62c93d3f37457798c710eaf181d05e4782e017f2da062d6cf1698900e767f2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sticker-circle-lined",
+    "file": "svg/sticker-circle-lined.svg",
+    "family": "sticker",
+    "sha256": "9fbe89c3de676ad17953f8818889a9d70e62b716f0d6c6951fab616f7e4e28a9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "sticker-square-lined",
+    "file": "svg/sticker-square-lined.svg",
+    "family": "sticker",
+    "sha256": "ff4450c50f4da971f6bb63dfcc65b320a948fbddb08c973bb2d3c124eac03369",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "stop-circle-lined",
+    "file": "svg/stop-circle-lined.svg",
+    "family": "stop",
+    "sha256": "d448c0813aad4fd53c531cc2271688d719d909419ac5c0efd9fa9851021f12d4",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "stop-lined",
+    "file": "svg/stop-lined.svg",
+    "family": "stop",
+    "sha256": "45dc0f6e5545ee235e463b26090ba3a748e8fdba0ad9cb94f6d1e8a6bc7cafb2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "stop-square-lined",
+    "file": "svg/stop-square-lined.svg",
+    "family": "stop",
+    "sha256": "4e34828c88c0e2b755c8377190fd8163a2dfe90cc4f550f3e5fd3814037dadfe",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "tablet-01-lined",
+    "file": "svg/tablet-01-lined.svg",
+    "family": "tablet",
+    "sha256": "efb873cf51a5b5ccb495411393bdd7de37de75461f7cf423b9a13aad7e3a556e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "tablet-02-lined",
+    "file": "svg/tablet-02-lined.svg",
+    "family": "tablet",
+    "sha256": "835d7a62138551cae65ebe4421756ccfc222be238dba8ef506f0abed43afff48",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "telescope-lined",
+    "file": "svg/telescope-lined.svg",
+    "family": "telescope",
+    "sha256": "419f8f95c76f31828d55fb9279980636181d6c6e2fd49c74a7f1d4ec9a479647",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "trophy-01-lined",
+    "file": "svg/trophy-01-lined.svg",
+    "family": "trophy",
+    "sha256": "77ab4811ca7974968ff9c06b931450a162cb6f2f5feef2f3494fd2785a21f039",
+    "review": "Approved"
+  },
+  {
+    "id": "trophy-02-lined",
+    "file": "svg/trophy-02-lined.svg",
+    "family": "trophy",
+    "sha256": "40819aba948c0a83efd6b7d0bd9f9d87de179331d619a3545fc63434f047be5e",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "tv-01-lined",
+    "file": "svg/tv-01-lined.svg",
+    "family": "tv",
+    "sha256": "11bf80e863fb57afeb18e085ffef11deb3b0acf83b9155fa7c889ae6c956b167",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "tv-02-lined",
+    "file": "svg/tv-02-lined.svg",
+    "family": "tv",
+    "sha256": "ae00737fe1ecdd8b7b2d1ddc67285e44c45af388acfc4622f9c1179e03508fe0",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "tv-03-lined",
+    "file": "svg/tv-03-lined.svg",
+    "family": "tv",
+    "sha256": "3f241dce3f5f3266f076cfe86ad2db1ce9c2aa38d5377c9dac53dc5379a1abaa",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "usb-flash-drive-lined",
+    "file": "svg/usb-flash-drive-lined.svg",
+    "family": "usb",
+    "sha256": "2c8723c3821fa025ccb62cd6fa623db1c6787554a26457a8aa92e56761b2de92",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "video-recorder-lined",
+    "file": "svg/video-recorder-lined.svg",
+    "family": "video",
+    "sha256": "9d527891bfb05c95889596ada674934ce26c87b408a2f1bcff0f5f6d486c01b9",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "video-recorder-off-lined",
+    "file": "svg/video-recorder-off-lined.svg",
+    "family": "video",
+    "sha256": "66017ee3f952e4ff551a7f59a28f54306fada30915ba690d3f5d97fec65dbc1b",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "voicemail-lined",
+    "file": "svg/voicemail-lined.svg",
+    "family": "voicemail",
+    "sha256": "96fc81140b3f0d1f9659b7535dc1da2c325b75eb856f3f190181a5ff516748d2",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "volume-max-lined",
+    "file": "svg/volume-max-lined.svg",
+    "family": "volume",
+    "sha256": "c491c2bf121e6b7bd4d7457f0e7552e6e9c69c007261324bd9dbefb652f4773d",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "volume-min-lined",
+    "file": "svg/volume-min-lined.svg",
+    "family": "volume",
+    "sha256": "3ce11f17ca2ef6a2f38009bfc088e9db485f9a5d3c7f30e03317377531c029f7",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "volume-minus-lined",
+    "file": "svg/volume-minus-lined.svg",
+    "family": "volume",
+    "sha256": "9b3b60cd13bc01ffb8439c74b285e952be5483006306a8369cc34a262717cd69",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "volume-plus-lined",
+    "file": "svg/volume-plus-lined.svg",
+    "family": "volume",
+    "sha256": "79e973aeb3a6185e31d7ee56babc4bc3afd325b5715877f7cd45eaa637e379be",
+    "review": "Approved"
+  },
+  {
+    "id": "volume-x-lined",
+    "file": "svg/volume-x-lined.svg",
+    "family": "volume",
+    "sha256": "32b467d4f7fdd07c5e3951c0d62b3c58d9073bc064b5c1f7e999f104c651e7ed",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "webcam-01-lined",
+    "file": "svg/webcam-01-lined.svg",
+    "family": "webcam",
+    "sha256": "218ef79eef1151f93f1dd81c99343e5f09f8bca635d482646db2b929bc079c09",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "webcam-02-lined",
+    "file": "svg/webcam-02-lined.svg",
+    "family": "webcam",
+    "sha256": "d55f2cb1a7825b82e8be9419a968978bcbda2369ac7dd9b1fd9011ec52ba0e6a",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "wifi-lined",
+    "file": "svg/wifi-lined.svg",
+    "family": "wifi",
+    "sha256": "71f143b23274dbd5407d9a4bea682d188b242e9b24c0e1354f005e4a40bfea10",
+    "review": "Approved"
+  },
+  {
+    "id": "wifi-off-lined",
+    "file": "svg/wifi-off-lined.svg",
+    "family": "wifi",
+    "sha256": "3616783f141d20aca2caa332918e4a13c53960724eccc81362d9c5cdbddbf449",
+    "review": "AI reviewed"
+  },
+  {
+    "id": "youtube-lined",
+    "file": "svg/youtube-lined.svg",
+    "family": "youtube",
+    "sha256": "d27537d8fcc3e08c3e455f3205c300bd1454a57abc61678d0de17a6ff7405cd8",
+    "review": "AI reviewed"
+  }
+]
