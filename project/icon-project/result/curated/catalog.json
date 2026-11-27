@@ -8,14 +8,6 @@
     "canonical": "reorder-lined"
   },
   {
-    "id": "activity-heart-lined",
-    "file": "activity-heart-lined.svg",
-    "sha256": "abaee5ef38d328b901b671bbc9db34b40397f1b1ade7f8ad912ddc9a1e4ef5bc",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "activity-heart-lined"
-  },
-  {
     "id": "activity-lined",
     "file": "activity-lined.svg",
     "sha256": "b6e501762de58522d3b6637aa0aebd794d73ae43a7083e48757c09de908df5a5",
@@ -40,46 +32,6 @@
     "canonical": "airpods-lined"
   },
   {
-    "id": "alarm-clock-check-lined",
-    "file": "alarm-clock-check-lined.svg",
-    "sha256": "ab09e21219e9816b877aa80c26485394670769e5d67b9092d95711885cfa383f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alarm-clock-check-lined"
-  },
-  {
-    "id": "alarm-clock-lined",
-    "file": "alarm-clock-lined.svg",
-    "sha256": "4b6c25e4505cf6c4644e2760fcc500c6efa4f80a8240f760890812efda11e538",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alarm-clock-lined"
-  },
-  {
-    "id": "alarm-clock-minus-lined",
-    "file": "alarm-clock-minus-lined.svg",
-    "sha256": "eb760761f9f26b0260fbade240eee1b83e410ccd93dc3f1d410f21b228cec60b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alarm-clock-minus-lined"
-  },
-  {
-    "id": "alarm-clock-off-lined",
-    "file": "alarm-clock-off-lined.svg",
-    "sha256": "e58418e18324b88ee4ffdb1aac261966ed61bdaf4f998c7ef2bb6d823b113a3c",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "alarm-clock-off-lined"
-  },
-  {
-    "id": "alarm-clock-plus-lined",
-    "file": "alarm-clock-plus-lined.svg",
-    "sha256": "7e00bbdb87af22fccfc60f7e4e0c249f12ba2c49c3c8d3ba9e95f396a6050057",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alarm-clock-plus-lined"
-  },
-  {
     "id": "alert-circle-lined",
     "file": "alert-circle-lined.svg",
     "sha256": "ac289e173cab0fdf492fe5d6ba8ad6c411c1935a6e4d113e4e1e9ec607418802",
@@ -88,52 +40,12 @@
     "canonical": "alert-circle-lined"
   },
   {
-    "id": "alert-hexagon-lined",
-    "file": "alert-hexagon-lined.svg",
-    "sha256": "162addd57b409cca952cc04a766275304a618d93242173a1347e581495511250",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alert-hexagon-lined"
-  },
-  {
-    "id": "alert-octagon-lined",
-    "file": "alert-octagon-lined.svg",
-    "sha256": "44273baf82855aa571be0690fe5fc07c4d0b86c034bc980836ff7602f919baf5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alert-octagon-lined"
-  },
-  {
-    "id": "alert-square-lined",
-    "file": "alert-square-lined.svg",
-    "sha256": "6df8635ce6694d122e61b0e81147553a1a2db7ecf3f7e6ec6091dedcf829b739",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "alert-square-lined"
-  },
-  {
     "id": "alert-triangle-lined",
     "file": "alert-triangle-lined.svg",
     "sha256": "34363dc2e766f33037f6b55b4ed6de3dd8ab29155921d135e5bf4bc4eb2dcfdc",
     "status": "User-requested geometry revision; review pending",
     "viewBox": "0 0 24 24",
     "canonical": "alert-triangle-lined"
-  },
-  {
-    "id": "align-bottom-01-lined",
-    "file": "align-bottom-01-lined.svg",
-    "sha256": "214774223efc5a29f18420c1d81f4a2a71e7cbead96fb53dc198d7a90a0f786d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "align-bottom-01-lined"
-  },
-  {
-    "id": "align-center-lined",
-    "file": "align-center-lined.svg",
-    "sha256": "58543731cc7bfe7e009a01c1fc8bd6567fba8f381b5e610efe44c191f458898e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "align-center-lined"
   },
   {
     "id": "align-horizontal-centre-01-lined",
@@ -296,166 +208,6 @@
     "canonical": "archive-lined"
   },
   {
-    "id": "arrow-block-down-lined",
-    "file": "arrow-block-down-lined.svg",
-    "sha256": "4dbd22948aec9a22f31be4a80f253262089d355a653931bdd1cbbf252eb41255",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-block-down-lined"
-  },
-  {
-    "id": "arrow-block-left-lined",
-    "file": "arrow-block-left-lined.svg",
-    "sha256": "fb9a536211eae53c97cdfa199ef08796d54159eaa53d4fe026e04e5508a712a5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-block-left-lined"
-  },
-  {
-    "id": "arrow-block-right-lined",
-    "file": "arrow-block-right-lined.svg",
-    "sha256": "806367e4092f6f1b2be5f77df5024243af477a7c7fac2736a542f94099ab5394",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-block-right-lined"
-  },
-  {
-    "id": "arrow-block-up-lined",
-    "file": "arrow-block-up-lined.svg",
-    "sha256": "480087e06582b1d04de8f4a9d7faeb33b0d3e0564dff5c66a9deb93c25fedc1c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-block-up-lined"
-  },
-  {
-    "id": "arrow-circle-broken-down-left-lined",
-    "file": "arrow-circle-broken-down-left-lined.svg",
-    "sha256": "a7fe0dbf1a1ca4b70664382844e16eb3e074b5e49b12b8aee64f07b333848eb9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-down-left-lined"
-  },
-  {
-    "id": "arrow-circle-broken-down-lined",
-    "file": "arrow-circle-broken-down-lined.svg",
-    "sha256": "a0d0b81e93ac8d25d7697020f803f7ea6090c88cf1f02a223732bd546dfa11ad",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-down-lined"
-  },
-  {
-    "id": "arrow-circle-broken-down-right-lined",
-    "file": "arrow-circle-broken-down-right-lined.svg",
-    "sha256": "ec078d9e34b949de3bbb3a0d9ea8f2368676e4e9c3cf00def30996f92be1b84d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-down-right-lined"
-  },
-  {
-    "id": "arrow-circle-broken-left-lined",
-    "file": "arrow-circle-broken-left-lined.svg",
-    "sha256": "d66827b99bd7ea1ea04036e72fba75a3846fabd6695bcefd5d0f6617bc5a14ba",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-left-lined"
-  },
-  {
-    "id": "arrow-circle-broken-right-lined",
-    "file": "arrow-circle-broken-right-lined.svg",
-    "sha256": "b8bf75854a6f2c51f86d5e187ef28154897e7dcc7c42d91c17ac757269e770c1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-right-lined"
-  },
-  {
-    "id": "arrow-circle-broken-up-left-lined",
-    "file": "arrow-circle-broken-up-left-lined.svg",
-    "sha256": "4070075552ec71fb8c00f23cd3441e46d02f6acd6dd55f3705ba7a3fdc5973ea",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-up-left-lined"
-  },
-  {
-    "id": "arrow-circle-broken-up-lined",
-    "file": "arrow-circle-broken-up-lined.svg",
-    "sha256": "cf522b89d935019d2484191e719b7e48e11dcc8bdcdbcd4f2f46bea06f9a5878",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-up-lined"
-  },
-  {
-    "id": "arrow-circle-broken-up-right-lined",
-    "file": "arrow-circle-broken-up-right-lined.svg",
-    "sha256": "4822573086b983e0ee9b578fac825737036254db0568d101bd1c44527e8dc693",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-broken-up-right-lined"
-  },
-  {
-    "id": "arrow-circle-down-left-lined",
-    "file": "arrow-circle-down-left-lined.svg",
-    "sha256": "9876e3e40abfdf7c9eddf0de560264240496a7372b65bd98b2a02ff112bd5265",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-down-left-lined"
-  },
-  {
-    "id": "arrow-circle-down-lined",
-    "file": "arrow-circle-down-lined.svg",
-    "sha256": "fc5282fd64a8b404c97de4321fe545622ac39120de566034c0e7c46b63e10032",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-down-lined"
-  },
-  {
-    "id": "arrow-circle-down-right-lined",
-    "file": "arrow-circle-down-right-lined.svg",
-    "sha256": "62339b0f60061554658a1bc360a62994b7fbbb9e21022ed6dffd3575f3b494a4",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-down-right-lined"
-  },
-  {
-    "id": "arrow-circle-left-lined",
-    "file": "arrow-circle-left-lined.svg",
-    "sha256": "678bc641e07a27bc847c2a3b10b406a206959c14f4c49b75ba32976fce630a1d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-left-lined"
-  },
-  {
-    "id": "arrow-circle-right-lined",
-    "file": "arrow-circle-right-lined.svg",
-    "sha256": "395287174422a815e33106831bec3e49906a453bb0f18525e959fb56570dc005",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-right-lined"
-  },
-  {
-    "id": "arrow-circle-up-left-lined",
-    "file": "arrow-circle-up-left-lined.svg",
-    "sha256": "9089470e9a957ffca6d4e71a4a2bb558bd5c38d1d7cc274731cac36e572a1369",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-up-left-lined"
-  },
-  {
-    "id": "arrow-circle-up-lined",
-    "file": "arrow-circle-up-lined.svg",
-    "sha256": "b70b1db2947fb79ebd410d4f756f1db1537ab0685acd9321b92d3dcd8af793c4",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-up-lined"
-  },
-  {
-    "id": "arrow-circle-up-right-lined",
-    "file": "arrow-circle-up-right-lined.svg",
-    "sha256": "4dbdd260734edf68443b77cdd01aac0ebc9561a37b45b60cb2ab69c9ecabeb86",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-circle-up-right-lined"
-  },
-  {
     "id": "arrow-down-left-lined",
     "file": "arrow-down-left-lined.svg",
     "sha256": "d3d2229e6176fefb4d71043b3a4d3060e90b62a57f73188019fdc55b8f72cbc0",
@@ -494,70 +246,6 @@
     "status": "Approved",
     "viewBox": "0 0 24 24",
     "canonical": "arrow-right-lined"
-  },
-  {
-    "id": "arrow-square-down-left-lined",
-    "file": "arrow-square-down-left-lined.svg",
-    "sha256": "2a84967df2688521a9410452f10a128edf53d3a159c8494813ffc5c0f4c1cf56",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-down-left-lined"
-  },
-  {
-    "id": "arrow-square-down-lined",
-    "file": "arrow-square-down-lined.svg",
-    "sha256": "024f1f338c4733eea02aa4f851c1476bd90a3ff2c1e6ddba84a33d8918546004",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-down-lined"
-  },
-  {
-    "id": "arrow-square-down-right-lined",
-    "file": "arrow-square-down-right-lined.svg",
-    "sha256": "68e54da61d80a1141818ba30a75e831d4c40c06d5af4dc5d8b126c7d966aa5f3",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-down-right-lined"
-  },
-  {
-    "id": "arrow-square-left-lined",
-    "file": "arrow-square-left-lined.svg",
-    "sha256": "26a083d8996593148ffed74f402c70f12227c2525c8f0224bc75069e3809c1f0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-left-lined"
-  },
-  {
-    "id": "arrow-square-right-lined",
-    "file": "arrow-square-right-lined.svg",
-    "sha256": "fd1d87484b65ef35bfe644362fc36f9e2bb11f3e36b0aacb443abc14a828adb0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-right-lined"
-  },
-  {
-    "id": "arrow-square-up-left-lined",
-    "file": "arrow-square-up-left-lined.svg",
-    "sha256": "3caf42614bec0dfb201ca87f3880e7711f9d53b26013270ad9021a4e746d6d77",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-up-left-lined"
-  },
-  {
-    "id": "arrow-square-up-lined",
-    "file": "arrow-square-up-lined.svg",
-    "sha256": "3267aca9624c0a39b61c8869f47e021e5edc4da6d8822a8024c0f5efeb48756c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-up-lined"
-  },
-  {
-    "id": "arrow-square-up-right-lined",
-    "file": "arrow-square-up-right-lined.svg",
-    "sha256": "b6e17e1e9e2b43c0396c36ad494086bc1909fbcabed5309d4cb55c3e2ef10307",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrow-square-up-right-lined"
   },
   {
     "id": "arrow-up-left-lined",
@@ -608,14 +296,6 @@
     "canonical": "arrows-right-lined"
   },
   {
-    "id": "arrows-triangle-lined",
-    "file": "arrows-triangle-lined.svg",
-    "sha256": "4307ae15b9fe6e6d369d9c24b3bb4279b5ed9afdcbf044686bd5026d3a16e70d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "arrows-triangle-lined"
-  },
-  {
     "id": "arrows-up-lined",
     "file": "arrows-up-lined.svg",
     "sha256": "8ead95b8dbc1ec7216da9bf4ffc10a97a313209d27c2bb981222fb0aa3aff986",
@@ -638,14 +318,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "at-sign-lined"
-  },
-  {
-    "id": "atom-01-lined",
-    "file": "atom-01-lined.svg",
-    "sha256": "ec1014980948300747445732dde719f738e54f0c786af05c83f82c932d8efa26",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "atom-01-lined"
   },
   {
     "id": "atom-02-lined",
@@ -672,14 +344,6 @@
     "canonical": "award-01-lined"
   },
   {
-    "id": "award-03-lined",
-    "file": "award-03-lined.svg",
-    "sha256": "ffde5b0a6db288829295a3e6b28d5566c3d81851a4456838673538bf029ea212",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "award-03-lined"
-  },
-  {
     "id": "backpack-lined",
     "file": "backpack-lined.svg",
     "sha256": "8352a08fd94ce4c9cb0b28861657b935b5b2d103a33d0b698871acd160a84172",
@@ -702,22 +366,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "bank-note-01-lined"
-  },
-  {
-    "id": "bank-note-02-lined",
-    "file": "bank-note-02-lined.svg",
-    "sha256": "eb6b84e17329ddfa9e63ed5fa107fbb456243ffcaa68882c31c6e16845add1c1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bank-note-02-lined"
-  },
-  {
-    "id": "bank-note-03-lined",
-    "file": "bank-note-03-lined.svg",
-    "sha256": "beb1580c077afe41d38a6c4fe3ea8ab265cf18a966000844edf59ef643544fdf",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bank-note-03-lined"
   },
   {
     "id": "bar-chart-01-lined",
@@ -816,102 +464,6 @@
     "canonical": "bar-chart-12-lined"
   },
   {
-    "id": "bar-chart-circle-01-lined",
-    "file": "bar-chart-circle-01-lined.svg",
-    "sha256": "6149d927134ab7d918e0d704531b1f165f0de5a58fd32a9dcc271f4def8cdb2a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-circle-01-lined"
-  },
-  {
-    "id": "bar-chart-circle-02-lined",
-    "file": "bar-chart-circle-02-lined.svg",
-    "sha256": "2f355f873ecdff62b3fa3f96347b4fa46b8b5f8307221388bf3d0aa472ec671c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-circle-02-lined"
-  },
-  {
-    "id": "bar-chart-circle-03-lined",
-    "file": "bar-chart-circle-03-lined.svg",
-    "sha256": "73d4b57d5e4b00cd94399dbc0432700312db807e6c11c8a83c631d3ffe4a5e31",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-circle-03-lined"
-  },
-  {
-    "id": "bar-chart-square-01-lined",
-    "file": "bar-chart-square-01-lined.svg",
-    "sha256": "f1256eec21884cbcf6564c56f5ce481d647bd41c11e4759c093fd294f710a0ea",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-01-lined"
-  },
-  {
-    "id": "bar-chart-square-02-lined",
-    "file": "bar-chart-square-02-lined.svg",
-    "sha256": "73213e6ea70c8161a530ef06f616f2be7a2f9f5246c0aa26cba78de51f09301e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-02-lined"
-  },
-  {
-    "id": "bar-chart-square-03-lined",
-    "file": "bar-chart-square-03-lined.svg",
-    "sha256": "1afc204546bcfa9c89f8fbf4d913f83b8cf755148ca35d2cbd8a74a40aa12531",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-03-lined"
-  },
-  {
-    "id": "bar-chart-square-down-lined",
-    "file": "bar-chart-square-down-lined.svg",
-    "sha256": "a7429e8a4ee229b7339d8266d7b926020c81f9d503091bc18755b0cea839bfdd",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-down-lined"
-  },
-  {
-    "id": "bar-chart-square-minus-lined",
-    "file": "bar-chart-square-minus-lined.svg",
-    "sha256": "57e713cd166e7e5fe16803f0c23a99b20ed23333b12014eadad027cf48d00659",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-minus-lined"
-  },
-  {
-    "id": "bar-chart-square-plus-lined",
-    "file": "bar-chart-square-plus-lined.svg",
-    "sha256": "5df47010a879ccbb1ce41a1051ea4ba6e5b599b4eb009d46867a6439b7f0ed5f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-plus-lined"
-  },
-  {
-    "id": "bar-chart-square-up-lined",
-    "file": "bar-chart-square-up-lined.svg",
-    "sha256": "1fedc0385ac0fb7193ec0e055b4c97bcc6d4fe196ca87abe6f9d9a1fe85a634d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-chart-square-up-lined"
-  },
-  {
-    "id": "bar-line-chart-lined",
-    "file": "bar-line-chart-lined.svg",
-    "sha256": "59c98d0b2e53ba9f465397baf2ee7a98407aa257df09ff0c701692062aedd69a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bar-line-chart-lined"
-  },
-  {
-    "id": "battery-charging-01-lined",
-    "file": "battery-charging-01-lined.svg",
-    "sha256": "e0360db8b61654d07c58462ecbe5df23ae361242c796f4a14832a1a8b5b63e5b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "battery-charging-01-lined"
-  },
-  {
     "id": "battery-charging-02-lined",
     "file": "battery-charging-02-lined.svg",
     "sha256": "ce79fcb3c3ba8b4d300c09f1efc7f1a6dbccc988f0d64d9d410fa35291b89140",
@@ -968,36 +520,12 @@
     "canonical": "bell-01-lined"
   },
   {
-    "id": "bell-minus-lined",
-    "file": "bell-minus-lined.svg",
-    "sha256": "671adcb179c5c1d86af5f48181b7a4d89fe6c985dc649f42986624a5423f0182",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bell-minus-lined"
-  },
-  {
     "id": "bell-off-01-lined",
     "file": "bell-off-01-lined.svg",
     "sha256": "90d4624d08edf9e9e9aa9ccab954f68d34691143ad4c165728c083bf99e67267",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "bell-off-01-lined"
-  },
-  {
-    "id": "bell-plus-lined",
-    "file": "bell-plus-lined.svg",
-    "sha256": "328b9e58d412ce3860fe649246cf21b31ca247ffde2500c63dce6022ff35027a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bell-plus-lined"
-  },
-  {
-    "id": "bell-ringing-01-lined",
-    "file": "bell-ringing-01-lined.svg",
-    "sha256": "4a6c59e9756a96fdb322b75c70518f4b238f98e73d9126facb81c96e84cccb23",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bell-ringing-01-lined"
   },
   {
     "id": "bezier-curve-01-lined",
@@ -1062,14 +590,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "bold-01-lined"
-  },
-  {
-    "id": "bold-square-lined",
-    "file": "bold-square-lined.svg",
-    "sha256": "eea552483cb63f215be07d9389d588eae0ba3e6566827c9930bae3d421a34bf7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "bold-square-lined"
   },
   {
     "id": "book-closed-lined",
@@ -1216,14 +736,6 @@
     "canonical": "brush-01-lined"
   },
   {
-    "id": "brush-02-lined",
-    "file": "brush-02-lined.svg",
-    "sha256": "d1414e63c7490dd62bee676b150fbffc1cdb255eecb037b012868136d299ce15",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "brush-02-lined"
-  },
-  {
     "id": "brush-03-lined",
     "file": "brush-03-lined.svg",
     "sha256": "0cbdb7a94cf99b7ba59bddf3deb6fbe473bd9e7b8b8bded844cbb8dbdd215422",
@@ -1238,62 +750,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "building-01-lined"
-  },
-  {
-    "id": "building-02-lined",
-    "file": "building-02-lined.svg",
-    "sha256": "46753b6ae3ddf0f66eda1d66c228c30e80f53ffa4c871de444c17cc3d53bfa71",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-02-lined"
-  },
-  {
-    "id": "building-03-lined",
-    "file": "building-03-lined.svg",
-    "sha256": "ef85b999f9b63921db900db9f696ff1789e0b8428d6c5778c7f1dff74582d86b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-03-lined"
-  },
-  {
-    "id": "building-04-lined",
-    "file": "building-04-lined.svg",
-    "sha256": "cd6adc1862ea86b0e70675766ccb4984a02af0093a80dec5a9f8e7aa1fd89db8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-04-lined"
-  },
-  {
-    "id": "building-05-lined",
-    "file": "building-05-lined.svg",
-    "sha256": "c8697bd8b1ee8a31400547ec6641e4913ba57e0a1bcb0713c37be6bc7d281b4e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-05-lined"
-  },
-  {
-    "id": "building-06-lined",
-    "file": "building-06-lined.svg",
-    "sha256": "ce827536c4d7b90f06c0374f9cdf8c6c1e5b80126bd9892df977effb1d4e9bfd",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-06-lined"
-  },
-  {
-    "id": "building-07-lined",
-    "file": "building-07-lined.svg",
-    "sha256": "fd34825657b34a602dc6ffbb1a5fbc822f93dfa31842b5056f142ec38032e947",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-07-lined"
-  },
-  {
-    "id": "building-08-lined",
-    "file": "building-08-lined.svg",
-    "sha256": "69e0b27bad6ed012274d50d3b7bf3db92ad47f35e2524bc96e6a9d4a45e57b0c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "building-08-lined"
   },
   {
     "id": "bus-lined",
@@ -1360,14 +816,6 @@
     "canonical": "calendar-plus-01-lined"
   },
   {
-    "id": "camera-01-lined",
-    "file": "camera-01-lined.svg",
-    "sha256": "fa69df40da6d2f3cf0fe4a4a3f4bbeee0c13edabbdbfb32ccb0a792ed66b561b",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "camera-01-lined"
-  },
-  {
     "id": "camera-lens-lined",
     "file": "camera-lens-lined.svg",
     "sha256": "6e6c64e8bd27c4d710f1165e59234050dedbc10a71e45a23be2b905eda0979a8",
@@ -1382,14 +830,6 @@
     "status": "User-requested geometry revision; review pending",
     "viewBox": "0 0 24 24",
     "canonical": "camera-off-lined"
-  },
-  {
-    "id": "camera-plus-lined",
-    "file": "camera-plus-lined.svg",
-    "sha256": "f8181c1e7f129c8d3c78b267c2899aec451cf4031bfc07e1172e19feea07875c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "camera-plus-lined"
   },
   {
     "id": "car-01-lined",
@@ -1408,52 +848,12 @@
     "canonical": "certificate-01-lined"
   },
   {
-    "id": "certificate-02-lined",
-    "file": "certificate-02-lined.svg",
-    "sha256": "b1d980fd0e26baffc510e52efae432f0303cbf7a6b086708e9b4bbe2e22e08ca",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "certificate-02-lined"
-  },
-  {
-    "id": "chart-breakout-circle-lined",
-    "file": "chart-breakout-circle-lined.svg",
-    "sha256": "4aad227fe5e8fecfaa6496ff76830b062f04b06e28d0a4e879f84938655393aa",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "chart-breakout-circle-lined"
-  },
-  {
-    "id": "chart-breakout-square-lined",
-    "file": "chart-breakout-square-lined.svg",
-    "sha256": "4bbf8ab8fdef256dd8267ba1e18a56ce10c2b477c845cd020cdcad31b428269b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "chart-breakout-square-lined"
-  },
-  {
     "id": "check-circle-lined",
     "file": "check-circle-lined.svg",
     "sha256": "86703c320d19d045e12a8bc7f80591819b22432ae8b4ff0211a0ef697c4fc836",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "check-circle-lined"
-  },
-  {
-    "id": "check-done-01-lined",
-    "file": "check-done-01-lined.svg",
-    "sha256": "8ccd927cbf9c31b67606b61833f96a994d3ea23f39aeb6c5cf5a1644d94c0bfa",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "check-done-01-lined"
-  },
-  {
-    "id": "check-heart-lined",
-    "file": "check-heart-lined.svg",
-    "sha256": "282a24f1d64f030898a33ecdeb768207bf2adbbb2cb21f29a7733b38e69e33e3",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "check-heart-lined"
   },
   {
     "id": "check-lined",
@@ -1470,22 +870,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "check-small-lined"
-  },
-  {
-    "id": "check-square-lined",
-    "file": "check-square-lined.svg",
-    "sha256": "cadcc123d9f08928e0779c97ab36bafcc704b9be1e6158eabee5736e867b5767",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "check-square-lined"
-  },
-  {
-    "id": "check-verified-01-lined",
-    "file": "check-verified-01-lined.svg",
-    "sha256": "10d053501a144085fea800e17841f9cab5ac1febf8805d1eebd4649fe78ce41d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "check-verified-01-lined"
   },
   {
     "id": "chevron-down-double-lined",
@@ -1574,30 +958,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "chrome-cast-lined"
-  },
-  {
-    "id": "circle-cut-lined",
-    "file": "circle-cut-lined.svg",
-    "sha256": "b4c954841c1da8098b55e22f888a7dd8001b505578b07ea9fa7793bc3988d03f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "circle-cut-lined"
-  },
-  {
-    "id": "circle-lined",
-    "file": "circle-lined.svg",
-    "sha256": "a1ed87891d69e9aadb743742b965cf3687da9a74e2558ac9e86fb15a605e9849",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "circle-lined"
-  },
-  {
-    "id": "clapperboard-lined",
-    "file": "clapperboard-lined.svg",
-    "sha256": "50727c07e2cff2d8295e52dd36b8c3f6bef2587ef651ac9afb85a4ef44b84a50",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "clapperboard-lined"
   },
   {
     "id": "clipboard-attachment-lined",
@@ -1712,28 +1072,12 @@
     "canonical": "clock-snooze-lined"
   },
   {
-    "id": "clock-stopwatch-lined",
-    "file": "clock-stopwatch-lined.svg",
-    "sha256": "fb0ee2330261eb4723f71db7c1209384c5f84a60a3410d540a537a7a24efbb8e",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "clock-stopwatch-lined"
-  },
-  {
     "id": "cloud-01-lined",
     "file": "cloud-01-lined.svg",
     "sha256": "923ea6a5d7971f7404c085892df82fd618514a71748378ea5aa958c88a1214b0",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "cloud-01-lined"
-  },
-  {
-    "id": "cloud-blank-01-lined",
-    "file": "cloud-blank-01-lined.svg",
-    "sha256": "923ea6a5d7971f7404c085892df82fd618514a71748378ea5aa958c88a1214b0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cloud-blank-01-lined"
   },
   {
     "id": "cloud-lightning-lined",
@@ -1760,28 +1104,12 @@
     "canonical": "cloud-off-lined"
   },
   {
-    "id": "cloud-raining-01-lined",
-    "file": "cloud-raining-01-lined.svg",
-    "sha256": "343c7f5ec9125aeda74e4a92ff09b039c5d56a86a8e268235b89271a6cbb430e",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "cloud-raining-01-lined"
-  },
-  {
     "id": "cloud-raining-02-lined",
     "file": "cloud-raining-02-lined.svg",
     "sha256": "8ff33aa1b8c79424c6804859942cd24bdc91f4ddaa2a2eff4cbf4863be9dd019",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "cloud-raining-02-lined"
-  },
-  {
-    "id": "cloud-raining-03-lined",
-    "file": "cloud-raining-03-lined.svg",
-    "sha256": "a10e91692b8df9a3ecdbc454172aacae524ecc249110c7c8ea586daa91bdb0d3",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cloud-raining-03-lined"
   },
   {
     "id": "cloud-raining-04-lined",
@@ -1832,30 +1160,6 @@
     "canonical": "code-02-lined"
   },
   {
-    "id": "code-browser-lined",
-    "file": "code-browser-lined.svg",
-    "sha256": "fc84a11f7541bdea9da5e1400389e9fd6df2d4bde4114ed923fd0d4fde690239",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "code-browser-lined"
-  },
-  {
-    "id": "code-circle-01-lined",
-    "file": "code-circle-01-lined.svg",
-    "sha256": "f2e82248914af9ab47bf960a1efc466eac5cb94aa4a7d19beaae5501fb9ea4ee",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "code-circle-01-lined"
-  },
-  {
-    "id": "code-square-01-lined",
-    "file": "code-square-01-lined.svg",
-    "sha256": "fc84a11f7541bdea9da5e1400389e9fd6df2d4bde4114ed923fd0d4fde690239",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "code-square-01-lined"
-  },
-  {
     "id": "codepen-lined",
     "file": "codepen-lined.svg",
     "sha256": "9e15b8ca7bb551977adee9acb14bc07196e6caea8b6ee47042fae297e44da077",
@@ -1864,84 +1168,12 @@
     "canonical": "codepen-lined"
   },
   {
-    "id": "coins-01-lined",
-    "file": "coins-01-lined.svg",
-    "sha256": "1c9fa97f01468a1a7f60215b9924079099ee0ca0bfdbfe0130d9112af19ffc1e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-01-lined"
-  },
-  {
-    "id": "coins-02-lined",
-    "file": "coins-02-lined.svg",
-    "sha256": "e9d9f0fda3f1ee2658f144bd10ebab2030f582efcbc0dbfaeaccabd45289b548",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-02-lined"
-  },
-  {
-    "id": "coins-hand-lined",
-    "file": "coins-hand-lined.svg",
-    "sha256": "d6be78946ddf4ed6341ec20fc2be66c4f1f579923bc160959c55e7a9857c31e8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-hand-lined"
-  },
-  {
-    "id": "coins-stacked-01-lined",
-    "file": "coins-stacked-01-lined.svg",
-    "sha256": "5a84c09daf2dd993c8394befcde780c889171b4c4442fb0b7491a5c74c547def",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-stacked-01-lined"
-  },
-  {
-    "id": "coins-stacked-02-lined",
-    "file": "coins-stacked-02-lined.svg",
-    "sha256": "1de9286305d1c1bbea633f93f3f3581789b2640b478e6b8b42d27a0c0cff0575",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-stacked-02-lined"
-  },
-  {
     "id": "coins-stacked-04-lined",
     "file": "coins-stacked-04-lined.svg",
     "sha256": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "coins-stacked-04-lined"
-  },
-  {
-    "id": "coins-swap-01-lined",
-    "file": "coins-swap-01-lined.svg",
-    "sha256": "49b7e4c13e3b281a78bc0018cd140a555f4c5e8ebad29a2450facfcd03a6feae",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-swap-01-lined"
-  },
-  {
-    "id": "coins-swap-02-lined",
-    "file": "coins-swap-02-lined.svg",
-    "sha256": "2628ba3180ce1e68e7a6c0c2487807327311b60f7e020e62466c1eee5ff67585",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "coins-swap-02-lined"
-  },
-  {
-    "id": "colors-lined",
-    "file": "colors-lined.svg",
-    "sha256": "4cb78828bc1e71bcf917119fdabfeb7b1010c2289c93eb63e1feb1830f25f456",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "colors-lined"
-  },
-  {
-    "id": "columns-01-lined",
-    "file": "columns-01-lined.svg",
-    "sha256": "eb86a378208c58c851f14d1aeaecd13c2118743b31beb8edb97539d5a9fda0ee",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "columns-01-lined"
   },
   {
     "id": "columns-02-lined",
@@ -1968,22 +1200,6 @@
     "canonical": "command-lined"
   },
   {
-    "id": "compass-01-lined",
-    "file": "compass-01-lined.svg",
-    "sha256": "e2ad9a11e71a0ba8d6a39303dec2939bfa77100d0f00117dc80e0fb948794533",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "compass-01-lined"
-  },
-  {
-    "id": "compass-02-lined",
-    "file": "compass-02-lined.svg",
-    "sha256": "ac65bc173a649481a9c266c59e59a531eecef78f95f5075024e6d7e23db50268",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "compass-02-lined"
-  },
-  {
     "id": "compass-03-lined",
     "file": "compass-03-lined.svg",
     "sha256": "59d86a1048a21f4a70e0efa6d674453c3ebcc0eaa5a370bcc02ad67114171040",
@@ -2006,30 +1222,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "container-lined"
-  },
-  {
-    "id": "contrast-01-lined",
-    "file": "contrast-01-lined.svg",
-    "sha256": "dcede85567eb2287edea88ab4dd6d02296da0bd55c7032a1620d57cc1364f987",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "contrast-01-lined"
-  },
-  {
-    "id": "contrast-02-lined",
-    "file": "contrast-02-lined.svg",
-    "sha256": "bdda9fbe6003d4982687651ce8d66446f05ded4419c4cabb4e6d534df255eb20",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "contrast-02-lined"
-  },
-  {
-    "id": "contrast-03-lined",
-    "file": "contrast-03-lined.svg",
-    "sha256": "9098f19423a9b3d2d4cb57761958d21e15f5da70dfe866f71dbbcefb9dd22d19",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "contrast-03-lined"
   },
   {
     "id": "copy-01-lined",
@@ -2136,14 +1328,6 @@
     "canonical": "credit-card-down-lined"
   },
   {
-    "id": "credit-card-download-lined",
-    "file": "credit-card-download-lined.svg",
-    "sha256": "a7d6320ed168165ac6f498c7894599a01dc903a9e98e047d5cae3c8b3c1bbf14",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "credit-card-download-lined"
-  },
-  {
     "id": "credit-card-edit-lined",
     "file": "credit-card-edit-lined.svg",
     "sha256": "e52d30f6f40eff656eda32626150185c2d7097bc6b233ca1788b229d3309164a",
@@ -2208,14 +1392,6 @@
     "canonical": "credit-card-up-lined"
   },
   {
-    "id": "credit-card-upload-lined",
-    "file": "credit-card-upload-lined.svg",
-    "sha256": "a81a7761bc2a204cdd38242f3b174a6455e92b6731101adc3bfbaef8d07326ce",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "credit-card-upload-lined"
-  },
-  {
     "id": "credit-card-x-lined",
     "file": "credit-card-x-lined.svg",
     "sha256": "443a245123f9cd2b2cc828571b22e02f339f4729a402046505433a1f7e6d0a3f",
@@ -2230,38 +1406,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "crop-01-lined"
-  },
-  {
-    "id": "cryptocurrency-01-lined",
-    "file": "cryptocurrency-01-lined.svg",
-    "sha256": "67396cabd1a3dd047856f22f1c7e726e68718b998629f799f9ad9f77a7f35d10",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cryptocurrency-01-lined"
-  },
-  {
-    "id": "cryptocurrency-02-lined",
-    "file": "cryptocurrency-02-lined.svg",
-    "sha256": "eb20f3e9d63c74d182af9ca84a795a3b82f8db8bcbc6339291d1ecf1eeb57392",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cryptocurrency-02-lined"
-  },
-  {
-    "id": "cryptocurrency-03-lined",
-    "file": "cryptocurrency-03-lined.svg",
-    "sha256": "de087ad361532bd6b2feb1f7b9b898c4557d8dcb0cd02c9f903c27b15f232917",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cryptocurrency-03-lined"
-  },
-  {
-    "id": "cryptocurrency-04-lined",
-    "file": "cryptocurrency-04-lined.svg",
-    "sha256": "f312b73c48ac1f3a0eb9d19e9135fa0197012ae947a38bdea5f5e3758b07d640",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cryptocurrency-04-lined"
   },
   {
     "id": "cube-01-lined",
@@ -2304,60 +1448,12 @@
     "canonical": "cube-outline-lined"
   },
   {
-    "id": "currency-bitcoin-circle-lined",
-    "file": "currency-bitcoin-circle-lined.svg",
-    "sha256": "33983451fb3952188d4cdab0dc146104400ce0939fe166d7a53a81f11ac2c12c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-bitcoin-circle-lined"
-  },
-  {
-    "id": "currency-bitcoin-lined",
-    "file": "currency-bitcoin-lined.svg",
-    "sha256": "b3abf9fc7d2114bdfc7422c2f98f92d7bb3620b95bfb1c577cd414159514bea2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-bitcoin-lined"
-  },
-  {
-    "id": "currency-dollar-circle-lined",
-    "file": "currency-dollar-circle-lined.svg",
-    "sha256": "77ca011338ffd4e31b22dc7939423491f918024b46ff074b61b43af34d97c039",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-dollar-circle-lined"
-  },
-  {
     "id": "currency-dollar-lined",
     "file": "currency-dollar-lined.svg",
     "sha256": "830a69957f2ecf5dab88ca12d868b550bc811557297dd280656cc096807cafa1",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "currency-dollar-lined"
-  },
-  {
-    "id": "currency-ethereum-circle-lined",
-    "file": "currency-ethereum-circle-lined.svg",
-    "sha256": "a55e68132158925b46109b74818d92189e66b9c05185e0d49ee0919a61d12ef2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-ethereum-circle-lined"
-  },
-  {
-    "id": "currency-ethereum-lined",
-    "file": "currency-ethereum-lined.svg",
-    "sha256": "7a9e04b5730de70c313d30f22922859269400cc585c7b8b45aad8ba591ae56a9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-ethereum-lined"
-  },
-  {
-    "id": "currency-euro-circle-lined",
-    "file": "currency-euro-circle-lined.svg",
-    "sha256": "744069c6e5aaad36c57d3593179524ec97dcd4ceb5ca3d453c43905ca5acd8c5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-euro-circle-lined"
   },
   {
     "id": "currency-euro-lined",
@@ -2368,44 +1464,12 @@
     "canonical": "currency-euro-lined"
   },
   {
-    "id": "currency-pound-circle-lined",
-    "file": "currency-pound-circle-lined.svg",
-    "sha256": "162f31d1f9b6747abb6981b72895d2f91769773a6a419094030e0aab7a4f724a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-pound-circle-lined"
-  },
-  {
-    "id": "currency-pound-lined",
-    "file": "currency-pound-lined.svg",
-    "sha256": "47522549bcdb6526da5fa6bd9315278679087cda07ab53b916e84c2d66e0446c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-pound-lined"
-  },
-  {
-    "id": "currency-ruble-circle-lined",
-    "file": "currency-ruble-circle-lined.svg",
-    "sha256": "d6e025f7dfbc3db2f8617f06b697120279d0892e0286f4d58e12fcfbb3d873eb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-ruble-circle-lined"
-  },
-  {
     "id": "currency-ruble-lined",
     "file": "currency-ruble-lined.svg",
     "sha256": "11db9167a87b83bb5ed9bfc3902b8ad864fe4443140caf7578f362e9381faf91",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "currency-ruble-lined"
-  },
-  {
-    "id": "currency-rupee-circle-lined",
-    "file": "currency-rupee-circle-lined.svg",
-    "sha256": "3d5ae09119ee004178b63e2c88fc33fca837c9e34c3a996113d90e1191b7f760",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-rupee-circle-lined"
   },
   {
     "id": "currency-rupee-lined",
@@ -2416,28 +1480,12 @@
     "canonical": "currency-rupee-lined"
   },
   {
-    "id": "currency-yen-circle-lined",
-    "file": "currency-yen-circle-lined.svg",
-    "sha256": "5023fdcff6d8b37a255a683263dfc64d8333f5f595debad55d3728f04f56074e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "currency-yen-circle-lined"
-  },
-  {
     "id": "currency-yen-lined",
     "file": "currency-yen-lined.svg",
     "sha256": "dc76fde748b1a6add52e6579a381dc404c76233142502d414b55d2204240fe59",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "currency-yen-lined"
-  },
-  {
-    "id": "cursor-01-lined",
-    "file": "cursor-01-lined.svg",
-    "sha256": "3607100363949ae7b0d86e95bb506d49d79af7ee3e23fd82b7f9ba281b2243a1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "cursor-01-lined"
   },
   {
     "id": "cursor-box-lined",
@@ -2456,14 +1504,6 @@
     "canonical": "cursor-click-01-lined"
   },
   {
-    "id": "data-lined",
-    "file": "data-lined.svg",
-    "sha256": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "data-lined"
-  },
-  {
     "id": "database-01-lined",
     "file": "database-01-lined.svg",
     "sha256": "7750ab6c0c843f90f24260c3ef30d9e29c540d6944271c5963cb40ab3b64169d",
@@ -2472,36 +1512,12 @@
     "canonical": "database-01-lined"
   },
   {
-    "id": "dataflow-01-lined",
-    "file": "dataflow-01-lined.svg",
-    "sha256": "537efd867727df6aa69fc75da112fd15529f1382e7c5bb033959511e6fc833c5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dataflow-01-lined"
-  },
-  {
     "id": "dataflow-02-lined",
     "file": "dataflow-02-lined.svg",
     "sha256": "1906206b993e29e73ff664f5326ee926057d339b6915d7a89d436c2263d09820",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "dataflow-02-lined"
-  },
-  {
-    "id": "dataflow-03-lined",
-    "file": "dataflow-03-lined.svg",
-    "sha256": "ec98d5be0cc288fcd329e1b60f946227fb057df65c7509550e24915ab858739d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dataflow-03-lined"
-  },
-  {
-    "id": "dataflow-04-lined",
-    "file": "dataflow-04-lined.svg",
-    "sha256": "8ccf88cd4495c69b18f10e1604df5b4bd84932de8e5f05f66e05d2d28fade7c5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dataflow-04-lined"
   },
   {
     "id": "delete-lined",
@@ -2518,62 +1534,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "diamond-01-lined"
-  },
-  {
-    "id": "dice-1-lined",
-    "file": "dice-1-lined.svg",
-    "sha256": "bf8a9b10ff44dd55ec92619c7b7f8a5777bc1569f8e9cb716fc39d8669988cca",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-1-lined"
-  },
-  {
-    "id": "dice-2-lined",
-    "file": "dice-2-lined.svg",
-    "sha256": "e706c2750604aa0c28a4683bdd48a3e09868e15abffa5e2388be0234df63798b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-2-lined"
-  },
-  {
-    "id": "dice-3-lined",
-    "file": "dice-3-lined.svg",
-    "sha256": "a544fd068cada1a742683e75bdbce21b3c6246925793fb572572755db3e0b8e9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-3-lined"
-  },
-  {
-    "id": "dice-4-lined",
-    "file": "dice-4-lined.svg",
-    "sha256": "234a4e9e143530c3dc160376cf4af1bf1e415b56822768c5435d89b30b4021ef",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-4-lined"
-  },
-  {
-    "id": "dice-5-lined",
-    "file": "dice-5-lined.svg",
-    "sha256": "0facf73ba4d2bc0bcbb9a31a390f63e214c20510bc08b83c4e8cc42073474242",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-5-lined"
-  },
-  {
-    "id": "dice-6-lined",
-    "file": "dice-6-lined.svg",
-    "sha256": "3814a14b5017cdf92773f0434c0f63e19616ce3dd9fb0a2a915c173c003622ed",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dice-6-lined"
-  },
-  {
-    "id": "disc-01-lined",
-    "file": "disc-01-lined.svg",
-    "sha256": "55d4573fa1fcd42ac1e184fa215cde551bd51deea612224dc8df596add0068d5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "disc-01-lined"
   },
   {
     "id": "disc-02-lined",
@@ -2616,28 +1576,12 @@
     "canonical": "divide-02-lined"
   },
   {
-    "id": "divide-03-lined",
-    "file": "divide-03-lined.svg",
-    "sha256": "76cdc3d0cb2485c65877a206600237b8f3288693657a95eb8c8653f45ff20a55",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "divide-03-lined"
-  },
-  {
     "id": "divider-lined",
     "file": "divider-lined.svg",
     "sha256": "40ddb9ed2c47371e65ecb50117fb4940f6700c10b2c3ff3933af8799cd1cf2ce",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "divider-lined"
-  },
-  {
-    "id": "dot-single-lined",
-    "file": "dot-single-lined.svg",
-    "sha256": "085e8a3c485ea7ce1378ebd45067235bfb8828b4f62130bec42d157eb2c88197",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "dot-single-lined"
   },
   {
     "id": "dotpoints-01-lined",
@@ -2688,38 +1632,6 @@
     "canonical": "download-cloud-01-lined"
   },
   {
-    "id": "drop-lined",
-    "file": "drop-lined.svg",
-    "sha256": "ee86a74d4b24d80b4afa94833d0d3e26bd2ddc342d132b62cd5bf97ae2556dba",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "drop-lined"
-  },
-  {
-    "id": "droplets-01-lined",
-    "file": "droplets-01-lined.svg",
-    "sha256": "6ca88d430dbdd1c6e9a79a6363aea3a6aad357dde2722d0d88faf21c8ee0c1ec",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "droplets-01-lined"
-  },
-  {
-    "id": "droplets-02-lined",
-    "file": "droplets-02-lined.svg",
-    "sha256": "f95a12c72156a2036c01d75206b400e517182c27f6e9d34ca1b69e6a95136f55",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "droplets-02-lined"
-  },
-  {
-    "id": "droplets-03-lined",
-    "file": "droplets-03-lined.svg",
-    "sha256": "026440f2fa94796d5871a98daa8131d7442845c24f03c7170c1f90a037b59c11",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "droplets-03-lined"
-  },
-  {
     "id": "dropper-lined",
     "file": "dropper-lined.svg",
     "sha256": "8c5d860485afd1ae845d672c24904407f256f60b042d9751223afc927ff5ece2",
@@ -2766,38 +1678,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "eraser-lined"
-  },
-  {
-    "id": "expand-01-lined",
-    "file": "expand-01-lined.svg",
-    "sha256": "86335e65983c2afec5c3f5ea73b90da65fe94e51c6322f2253004502b422cab3",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "expand-01-lined"
-  },
-  {
-    "id": "expand-02-lined",
-    "file": "expand-02-lined.svg",
-    "sha256": "ca7daa0f9615184e0d2d512b927796b1f8e64e96ebfebcf96f1c0df45cf928a2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "expand-02-lined"
-  },
-  {
-    "id": "expand-03-lined",
-    "file": "expand-03-lined.svg",
-    "sha256": "2d2c722bb0cc6f5f6c6f881e133d3500ca0c1421ad358a578fcb9dda7aae7002",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "expand-03-lined"
-  },
-  {
-    "id": "expand-04-lined",
-    "file": "expand-04-lined.svg",
-    "sha256": "b00e6155ca01afa51e89b79881bfe6d6f6f10ad7353bef0203011d605da1dba0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "expand-04-lined"
   },
   {
     "id": "expand-05-lined",
@@ -2856,22 +1736,6 @@
     "canonical": "face-happy-lined"
   },
   {
-    "id": "face-id-lined",
-    "file": "face-id-lined.svg",
-    "sha256": "aa736abace7fc63a414f5712413b24771a367f3c6d7e16c3b2a3d3cbfae3c595",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "face-id-lined"
-  },
-  {
-    "id": "face-id-square-lined",
-    "file": "face-id-square-lined.svg",
-    "sha256": "6bedd7b15be7334316d5dda22bf2ee584a7489274339fde98863d491861088e5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "face-id-square-lined"
-  },
-  {
     "id": "face-neutral-lined",
     "file": "face-neutral-lined.svg",
     "sha256": "573e946125d7246fa21ca675acfcf7b5ee8a8b5ddae2d148cfae0d4c04234a85",
@@ -2928,28 +1792,12 @@
     "canonical": "feather-lined"
   },
   {
-    "id": "figma-lined",
-    "file": "figma-lined.svg",
-    "sha256": "e5bac12f7c1d3b04c8507a7ccee412d4d0ed18605ac0cf75d48955e7c28ca44d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "figma-lined"
-  },
-  {
     "id": "file-01-lined",
     "file": "file-01-lined.svg",
     "sha256": "3266ea71473d50af8efc453315e52d04ac3a4306088ebc97521f79ed41776f5c",
     "status": "Approved",
     "viewBox": "0 0 24 24",
     "canonical": "file-01-lined"
-  },
-  {
-    "id": "file-02-lined",
-    "file": "file-02-lined.svg",
-    "sha256": "0ae351ba44e2d1665ca2f3eeaab22b0bbc4792a9d9a7871e2f49bd60204826a4",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "file-02-lined"
   },
   {
     "id": "file-03-lined",
@@ -2968,14 +1816,6 @@
     "canonical": "file-04-lined"
   },
   {
-    "id": "file-06-lined",
-    "file": "file-06-lined.svg",
-    "sha256": "7e675d63b2cb4ce983a055c65bd26f54639fba7ceff05a79604006e997a42bc5",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "file-06-lined"
-  },
-  {
     "id": "file-attachment-01-lined",
     "file": "file-attachment-01-lined.svg",
     "sha256": "30f7cb98d3273d9b20b9c452d8ad0c6b72f713b804926d51607b8040ddcb479e",
@@ -2990,14 +1830,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "file-check-01-lined"
-  },
-  {
-    "id": "file-circle-lined",
-    "file": "file-circle-lined.svg",
-    "sha256": "ddd209d745e56279962863f3da88c3c9f2208eaf823f6f437e10b39d967dfa2d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "file-circle-lined"
   },
   {
     "id": "file-code-01-lined",
@@ -3080,14 +1912,6 @@
     "canonical": "file-x-01-lined"
   },
   {
-    "id": "film-01-lined",
-    "file": "film-01-lined.svg",
-    "sha256": "27173df23a7b9a198cf3d85dbfd21bfac383bd4388b5e61135f6b04df88b1e27",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "film-01-lined"
-  },
-  {
     "id": "film-03-lined",
     "file": "film-03-lined.svg",
     "sha256": "b7292cc31c9e296306358c0f4e67d6a64aac6da2185c7ff8c62326dda65c4e89",
@@ -3118,38 +1942,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "filter-lines-up-lined"
-  },
-  {
-    "id": "fingerprint-01-lined",
-    "file": "fingerprint-01-lined.svg",
-    "sha256": "b4f1685db3ebeca4f882c61d61ca63037fb71d11d8c65fd4f35ab8f222d842e7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "fingerprint-01-lined"
-  },
-  {
-    "id": "flag-01-lined",
-    "file": "flag-01-lined.svg",
-    "sha256": "4e5a65e4fc2428548125fbacd6dc3cb2677096be35a1f8e51152aaa097216bd5",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "flag-01-lined"
-  },
-  {
-    "id": "flag-03-lined",
-    "file": "flag-03-lined.svg",
-    "sha256": "8170bbef307318d3267f7fdb478679fac8d8a600594934e63ad7a1d24ce785bb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "flag-03-lined"
-  },
-  {
-    "id": "flag-04-lined",
-    "file": "flag-04-lined.svg",
-    "sha256": "6767488acc480667a255d3788bcbfdeb48a0a1b49fb731eb430c30d2b7caf815",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "flag-04-lined"
   },
   {
     "id": "flag-06-lined",
@@ -3320,14 +2112,6 @@
     "canonical": "folder-x-lined"
   },
   {
-    "id": "framer-lined",
-    "file": "framer-lined.svg",
-    "sha256": "349f6acacea6aad4ad7ce357a6092a36447b5ec40725ce00e8b5ac33cdea2a75",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "framer-lined"
-  },
-  {
     "id": "gaming-pad-01-lined",
     "file": "gaming-pad-01-lined.svg",
     "sha256": "fd3b718ceed04fb016ef30a88ad4339c2abfe90edb8550cde398f12bb4d0b7f7",
@@ -3384,60 +2168,12 @@
     "canonical": "glasses-01-lined"
   },
   {
-    "id": "globe-01-lined",
-    "file": "globe-01-lined.svg",
-    "sha256": "5c3a6a82e4cf59ccfb959b078ecda2df939cd13d39a0f78d5b3df2678d961106",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-01-lined"
-  },
-  {
-    "id": "globe-02-lined",
-    "file": "globe-02-lined.svg",
-    "sha256": "7b2b6ee5fef364eee002ead295ee887ef155596239c8d517a4e442d544fe43ae",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-02-lined"
-  },
-  {
     "id": "globe-03-lined",
     "file": "globe-03-lined.svg",
     "sha256": "5f892f09fa528cbaa0a2b648a2e7b8b797bafa439411caa9ff2f0e941da5df1b",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "globe-03-lined"
-  },
-  {
-    "id": "globe-04-lined",
-    "file": "globe-04-lined.svg",
-    "sha256": "00af8ae65acebd635c0c04de2721a9e3067762fad9965494af469359186bb10e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-04-lined"
-  },
-  {
-    "id": "globe-05-lined",
-    "file": "globe-05-lined.svg",
-    "sha256": "13c4f251db71f9a1bae6afade6f4c70beea77a71c7673b322c094342b2cd52c4",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-05-lined"
-  },
-  {
-    "id": "globe-06-lined",
-    "file": "globe-06-lined.svg",
-    "sha256": "b299cae0506c35c6049bd52fe81f6e30e488ab889a9c63af29146cf2ac7251ce",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-06-lined"
-  },
-  {
-    "id": "globe-slated-01-lined",
-    "file": "globe-slated-01-lined.svg",
-    "sha256": "82770c74cf46743e5805c81f9ca1f161510a8fd92329cf54ae60ed3a32efce55",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "globe-slated-01-lined"
   },
   {
     "id": "google-chrome-lined",
@@ -3600,14 +2336,6 @@
     "canonical": "headphones-01-lined"
   },
   {
-    "id": "heart-circle-lined",
-    "file": "heart-circle-lined.svg",
-    "sha256": "4a0461ec2b5b29db9ec064b54b7b64358683bcc77577f109ba1c4b8fabd9227b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "heart-circle-lined"
-  },
-  {
     "id": "heart-hand-lined",
     "file": "heart-hand-lined.svg",
     "sha256": "081e4acb06433be81e62f15050a7ac5b1055f43da91b50d4c82adcf9ed3b91f9",
@@ -3616,36 +2344,12 @@
     "canonical": "heart-hand-lined"
   },
   {
-    "id": "heart-hexagon-lined",
-    "file": "heart-hexagon-lined.svg",
-    "sha256": "e7321f1595a81ee85a842a2e43660921ad481e590be010200204b198ebe4f03a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "heart-hexagon-lined"
-  },
-  {
-    "id": "heart-octagon-lined",
-    "file": "heart-octagon-lined.svg",
-    "sha256": "9edb47f0873c57523de04f8805b6ac7f6926c9005b95d098b1c2b29cb3c71d02",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "heart-octagon-lined"
-  },
-  {
     "id": "heart-rounded-lined",
     "file": "heart-rounded-lined.svg",
     "sha256": "04ab7ea5e968a61591e2bf48009c293c5e2d554f79a3e0a23c6b19c23ce27758",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "heart-rounded-lined"
-  },
-  {
-    "id": "heart-square-lined",
-    "file": "heart-square-lined.svg",
-    "sha256": "b81583dec1fb161ea6ee741c428f4827be75d47ed1f4578a7bfcbe6739369491",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "heart-square-lined"
   },
   {
     "id": "hearts-lined",
@@ -3662,70 +2366,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "help-circle-lined"
-  },
-  {
-    "id": "help-hexagon-lined",
-    "file": "help-hexagon-lined.svg",
-    "sha256": "84012adc60cf7029d9563e5384b62f4553a23fc18c8b0fba33142cdc968e7901",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "help-hexagon-lined"
-  },
-  {
-    "id": "help-octagon-lined",
-    "file": "help-octagon-lined.svg",
-    "sha256": "35ec14952a70e16fe01a6d1948b1e61f45c8411ae0e9cfd8b830188dc1b8b4b6",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "help-octagon-lined"
-  },
-  {
-    "id": "help-square-lined",
-    "file": "help-square-lined.svg",
-    "sha256": "5738ea2414a225e02f10ea27442fde7d3fbc93714c15b09d059ad9122394f8a2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "help-square-lined"
-  },
-  {
-    "id": "hexagon-01-lined",
-    "file": "hexagon-01-lined.svg",
-    "sha256": "669161c8d1267c670509df0994118fdf44b3ef892cf1563b658bfb01765fb886",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "hexagon-01-lined"
-  },
-  {
-    "id": "home-01-lined",
-    "file": "home-01-lined.svg",
-    "sha256": "cd1d40e35fcdb9d4bdf336ef00d07d82bb151d06de9d684faf8739d399a75348",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "home-01-lined"
-  },
-  {
-    "id": "home-02-lined",
-    "file": "home-02-lined.svg",
-    "sha256": "b5482f52c53ed3d27f7d575d34941ec615528ee0a80523c167641aff6a23b97f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "home-02-lined"
-  },
-  {
-    "id": "home-04-lined",
-    "file": "home-04-lined.svg",
-    "sha256": "665f345b59eb6aa2888e6255dcf69c9115bfbb69fb9908103251a6700528f9ec",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "home-04-lined"
-  },
-  {
-    "id": "home-line-lined",
-    "file": "home-line-lined.svg",
-    "sha256": "b58548dbb292a75b2b38c47a68230edc4d10c1ff8f6b727bed38815c0e36e690",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "home-line-lined"
   },
   {
     "id": "home-smile-lined",
@@ -3760,44 +2400,12 @@
     "canonical": "hurricane-01-lined"
   },
   {
-    "id": "hurricane-02-lined",
-    "file": "hurricane-02-lined.svg",
-    "sha256": "f855a5bfc9f28de130c952ba7e3c06d89b65bc05dfa2922fe12726aa71884cf8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "hurricane-02-lined"
-  },
-  {
-    "id": "hurricane-03-lined",
-    "file": "hurricane-03-lined.svg",
-    "sha256": "156e876a9437c1088b28913b1be774b2336e6dc13e1392e5aefc81c4aff3004c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "hurricane-03-lined"
-  },
-  {
     "id": "image-01-lined",
     "file": "image-01-lined.svg",
     "sha256": "2c299addac22e7de2def45bafc567906e454e688555405d7ea861bff035a698a",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "image-01-lined"
-  },
-  {
-    "id": "image-02-lined",
-    "file": "image-02-lined.svg",
-    "sha256": "7e5b95e46b54b405a381abb21e61f3c4d802cbd18d225036765ac8ba384c275b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "image-02-lined"
-  },
-  {
-    "id": "image-05-lined",
-    "file": "image-05-lined.svg",
-    "sha256": "677ccdca9fcc76e0537005cb4b99a40a2b24237e3612073fa7ba9d82de4e543f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "image-05-lined"
   },
   {
     "id": "image-check-lined",
@@ -3814,22 +2422,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "image-down-lined"
-  },
-  {
-    "id": "image-indent-left-lined",
-    "file": "image-indent-left-lined.svg",
-    "sha256": "183761d6c63872dbbb5124bfa43e6c1fd59d0c54c4e7866f63157f02b9ef9ff5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "image-indent-left-lined"
-  },
-  {
-    "id": "image-indent-right-lined",
-    "file": "image-indent-right-lined.svg",
-    "sha256": "2049d6f744cf9043080216b1587143c1b4dc9abf896cd725e4767a3771aacd9a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "image-indent-right-lined"
   },
   {
     "id": "image-left-lined",
@@ -3976,38 +2568,6 @@
     "canonical": "info-circle-lined"
   },
   {
-    "id": "info-hexagon-lined",
-    "file": "info-hexagon-lined.svg",
-    "sha256": "4c930a3b8ebe376a8cd7fcea462d273dc096aa4e9e2aefc880a24ef7b4100f4c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "info-hexagon-lined"
-  },
-  {
-    "id": "info-octagon-lined",
-    "file": "info-octagon-lined.svg",
-    "sha256": "619d892923154b3fbcb5ba7d147b9c2e1411dc106bf0f47787cfbff321c2de93",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "info-octagon-lined"
-  },
-  {
-    "id": "info-square-lined",
-    "file": "info-square-lined.svg",
-    "sha256": "cba4098c26a585e05ca0f1371f8df59606b91da453abe68b5ad460e7a0fe2483",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "info-square-lined"
-  },
-  {
-    "id": "intersect-circle-lined",
-    "file": "intersect-circle-lined.svg",
-    "sha256": "3cd2860aa72dc6e318bee09b947f3dc1418860302c4d97d9ed26032b041be0b0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "intersect-circle-lined"
-  },
-  {
     "id": "intersect-square-lined",
     "file": "intersect-square-lined.svg",
     "sha256": "f4e65751c77020161d8a6fe87bf5b46dba06b0e05697e96fa3088ce8f734c3b1",
@@ -4022,14 +2582,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "italic-01-lined"
-  },
-  {
-    "id": "italic-square-lined",
-    "file": "italic-square-lined.svg",
-    "sha256": "1caded47616ad3066976116de01e2790609faa9868b783484482a948f71fb8c9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "italic-square-lined"
   },
   {
     "id": "key-01-lined",
@@ -4192,36 +2744,12 @@
     "canonical": "life-buoy-01-lined"
   },
   {
-    "id": "lightbulb-01-lined",
-    "file": "lightbulb-01-lined.svg",
-    "sha256": "f7406d5b977e3efde1467630d13dd0ee593ea9410c7e6f2480d01bdcd385a64c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "lightbulb-01-lined"
-  },
-  {
     "id": "lightbulb-02-lined",
     "file": "lightbulb-02-lined.svg",
     "sha256": "ae37927963bad710426b98cff29c4017afa1e5a7407f91a824501211ec104bb9",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "lightbulb-02-lined"
-  },
-  {
-    "id": "lightbulb-04-lined",
-    "file": "lightbulb-04-lined.svg",
-    "sha256": "d4b51e85e67288d96d69168735d54332e90267a086de67ac8efd3f1dbe3ae67d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "lightbulb-04-lined"
-  },
-  {
-    "id": "lightbulb-05-lined",
-    "file": "lightbulb-05-lined.svg",
-    "sha256": "d8c01d8615f82de56379da871262bf4673fd6ab10ad6254694030794d8c561a2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "lightbulb-05-lined"
   },
   {
     "id": "line-chart-down-02-lined",
@@ -4232,44 +2760,12 @@
     "canonical": "line-chart-down-02-lined"
   },
   {
-    "id": "line-chart-down-03-lined",
-    "file": "line-chart-down-03-lined.svg",
-    "sha256": "350a211009d05533e811ca88fac2f16c0b804a4095ed4ee4f03eacd3f8474950",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "line-chart-down-03-lined"
-  },
-  {
-    "id": "line-chart-down-05-lined",
-    "file": "line-chart-down-05-lined.svg",
-    "sha256": "2414fe8de0a4c201f34713ce8cbc77e62e0ee0446245007fd8c59eacfe2df736",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "line-chart-down-05-lined"
-  },
-  {
     "id": "line-chart-up-02-lined",
     "file": "line-chart-up-02-lined.svg",
     "sha256": "16d2246c6a9c0d1b8df92821ce8d27ae64ea23ec64c0fdcf67b2030f10502129",
     "status": "User-requested geometry revision; review pending",
     "viewBox": "0 0 24 24",
     "canonical": "line-chart-up-02-lined"
-  },
-  {
-    "id": "line-chart-up-03-lined",
-    "file": "line-chart-up-03-lined.svg",
-    "sha256": "79e0e003c64d52166d5ce8b3f310928d70c28194a4ddca1725603df68a6414cf",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "line-chart-up-03-lined"
-  },
-  {
-    "id": "line-chart-up-05-lined",
-    "file": "line-chart-up-05-lined.svg",
-    "sha256": "9dc13d7f9be8ed84169e5bc2e5414a1f310b52b4b4fdd6e4b7053d5d7ea42476",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "line-chart-up-05-lined"
   },
   {
     "id": "line-height-lined",
@@ -4288,14 +2784,6 @@
     "canonical": "link-03-lined"
   },
   {
-    "id": "link-broken-01-lined",
-    "file": "link-broken-01-lined.svg",
-    "sha256": "026162a729f0b7687eeede6d144224b164a2f5eb877acb71eacfa8bbcc7922e7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "link-broken-01-lined"
-  },
-  {
     "id": "link-external-01-lined",
     "file": "link-external-01-lined.svg",
     "sha256": "8c2b8c56e48666bc28841bf93fcb5b73e1f740e30801f09230e8b857973eb366",
@@ -4304,44 +2792,12 @@
     "canonical": "link-external-01-lined"
   },
   {
-    "id": "list-numbered-lined",
-    "file": "list-numbered-lined.svg",
-    "sha256": "ec246dbf4c4becf6f16ec726d8c9c02761b15b04c63f8b990f23dfc45d346a6e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "list-numbered-lined"
-  },
-  {
-    "id": "loading-01-lined",
-    "file": "loading-01-lined.svg",
-    "sha256": "f91b9d311696076e41e275bebe55a477e62210dcb3cfa9f58aac2481b82d8beb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "loading-01-lined"
-  },
-  {
     "id": "lock-01-lined",
     "file": "lock-01-lined.svg",
     "sha256": "cdb0d38305f238d59b529b8b7a76ad25136208c759e0aa4a77a493f03cc88398",
     "status": "Approved",
     "viewBox": "0 0 24 24",
     "canonical": "lock-01-lined"
-  },
-  {
-    "id": "lock-keyhole-circle-lined",
-    "file": "lock-keyhole-circle-lined.svg",
-    "sha256": "1694a13283afb51bc6fe1a3a637ad2edfbc1431ea4447e84104b18ca34eb9028",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "lock-keyhole-circle-lined"
-  },
-  {
-    "id": "lock-keyhole-square-lined",
-    "file": "lock-keyhole-square-lined.svg",
-    "sha256": "56f8078a8c6680a897a72b128934662fb95699739b2f766388ad8c533b8a7959",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "lock-keyhole-square-lined"
   },
   {
     "id": "lock-unlocked-01-lined",
@@ -4368,30 +2824,6 @@
     "canonical": "log-out-01-lined"
   },
   {
-    "id": "luggage-01-lined",
-    "file": "luggage-01-lined.svg",
-    "sha256": "863a4af1f6cbf4c41e99a9a7a49d0529ce06c5e72741e38bf4ebb8cd2355399f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "luggage-01-lined"
-  },
-  {
-    "id": "magic-wand-01-lined",
-    "file": "magic-wand-01-lined.svg",
-    "sha256": "dca6e2136f9f58f1cb577b1a63fe0644a6f2dd94d7b4342aef1e100861e898b6",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "magic-wand-01-lined"
-  },
-  {
-    "id": "mail-03-lined",
-    "file": "mail-03-lined.svg",
-    "sha256": "01e5f38ec6524a3ffebbe2b3f5f606b39f37b7cf4b6e73e2265fc07562a69d1d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "mail-03-lined"
-  },
-  {
     "id": "mail-04-lined",
     "file": "mail-04-lined.svg",
     "sha256": "c3ad7eb05d6c15fd1147d0a5962b3303bcfce8690cfe93ea136a964134417b30",
@@ -4406,22 +2838,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "map-01-lined"
-  },
-  {
-    "id": "map-02-lined",
-    "file": "map-02-lined.svg",
-    "sha256": "9418eedbf11ffec70740bc4c7adb2da40161393ec513168e20f6e6ec5da0233a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "map-02-lined"
-  },
-  {
-    "id": "mark-lined",
-    "file": "mark-lined.svg",
-    "sha256": "fc52ff1219fbc5e3bf1bd4fb21a86e2199d642f172a11977f078a866986d3de5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "mark-lined"
   },
   {
     "id": "marker-pin-01-lined",
@@ -4440,52 +2856,12 @@
     "canonical": "marker-pin-04-lined"
   },
   {
-    "id": "marker-pin-05-lined",
-    "file": "marker-pin-05-lined.svg",
-    "sha256": "507c4bfb52b92d8e4ff9a6a01dd4ab3d88da1122d26ccff67231a5df7c83f016",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "marker-pin-05-lined"
-  },
-  {
-    "id": "marker-pin-06-lined",
-    "file": "marker-pin-06-lined.svg",
-    "sha256": "1f244f59aca39ff51b12ac26e20e9864a5cd9ea20942f5f1835b5fa3bced5798",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "marker-pin-06-lined"
-  },
-  {
-    "id": "maximize-02-lined",
-    "file": "maximize-02-lined.svg",
-    "sha256": "b0e665f79c2024625eb1100a2924f30c844443da547f910bc74a1b5b58b1cb7f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "maximize-02-lined"
-  },
-  {
-    "id": "medical-circle-lined",
-    "file": "medical-circle-lined.svg",
-    "sha256": "c813573f59361354ed3f686bd4c209a8ef28ddc3315b8e02aea5a6018ec7c5b6",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "medical-circle-lined"
-  },
-  {
     "id": "medical-cross-lined",
     "file": "medical-cross-lined.svg",
     "sha256": "1669a681d659a00f994307b85c267ebcdff3e2f516e5ec20ba3a63842bf36f19",
     "status": "Approved",
     "viewBox": "0 0 24 24",
     "canonical": "medical-cross-lined"
-  },
-  {
-    "id": "medical-square-lined",
-    "file": "medical-square-lined.svg",
-    "sha256": "d2e8e0dd01878f9576687eb34e6a71067fbcc83174673ad07eb88ea01ef5e88c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "medical-square-lined"
   },
   {
     "id": "menu-01-lined",
@@ -4608,28 +2984,12 @@
     "canonical": "message-smile-circle-lined"
   },
   {
-    "id": "message-square-01-lined",
-    "file": "message-square-01-lined.svg",
-    "sha256": "2a999426a299a689c969fa759b1856552d9f10e70537ff31e07549cc7c3c53b2",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "message-square-01-lined"
-  },
-  {
     "id": "message-text-circle-01-lined",
     "file": "message-text-circle-01-lined.svg",
     "sha256": "9f4bdced2b145853357c36fe32799381ed5d3066ca7489ee5dd75ad168dda4b5",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "message-text-circle-01-lined"
-  },
-  {
-    "id": "message-text-square-01-lined",
-    "file": "message-text-square-01-lined.svg",
-    "sha256": "0796932c1a833dd81b7f60f10e7465b014836141822e5c1c8cd46db954deac84",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "message-text-square-01-lined"
   },
   {
     "id": "message-x-circle-lined",
@@ -4672,14 +3032,6 @@
     "canonical": "minimize-01-lined"
   },
   {
-    "id": "minus-circle-lined",
-    "file": "minus-circle-lined.svg",
-    "sha256": "ca0020c50c107041c28fc63361c8217c6d494c04e5260b607f3de08228f430a9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "minus-circle-lined"
-  },
-  {
     "id": "minus-lined",
     "file": "minus-lined.svg",
     "sha256": "74bb115cc42050610322342447dd3793e0715f15abf9d0c6099b7f3a74b561ba",
@@ -4688,28 +3040,12 @@
     "canonical": "minus-lined"
   },
   {
-    "id": "minus-square-lined",
-    "file": "minus-square-lined.svg",
-    "sha256": "ffeab20cbef9835e305289db492dff65c22d752c50b6a0de7b2bb5ad1ca7e4a7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "minus-square-lined"
-  },
-  {
     "id": "modem-01-lined",
     "file": "modem-01-lined.svg",
     "sha256": "ebdf3f728cd6b737de01b484edf9f7789a6ab24441639560cc2d830352ddcc36",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "modem-01-lined"
-  },
-  {
-    "id": "monitor-01-lined",
-    "file": "monitor-01-lined.svg",
-    "sha256": "3279c407f80d77e86c4cd3724c6e27a8714a1e329304466fc8b43f6cdbbdedf0",
-    "status": "Approved",
-    "viewBox": "0 0 24 24",
-    "canonical": "monitor-01-lined"
   },
   {
     "id": "monitor-05-lined",
@@ -4726,22 +3062,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "moon-01-lined"
-  },
-  {
-    "id": "moon-eclipse-lined",
-    "file": "moon-eclipse-lined.svg",
-    "sha256": "306ed2c556423fb82a018156081df2f9b3a71ed8a1cb6a19d874a37c89b288ff",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "moon-eclipse-lined"
-  },
-  {
-    "id": "moon-star-lined",
-    "file": "moon-star-lined.svg",
-    "sha256": "462977e4d98c7e93dffc924705ef35652a7a5ba73551f52321611707c316a43b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "moon-star-lined"
   },
   {
     "id": "mouse-lined",
@@ -4768,14 +3088,6 @@
     "canonical": "music-note-01-lined"
   },
   {
-    "id": "music-note-plus-lined",
-    "file": "music-note-plus-lined.svg",
-    "sha256": "56cfbb82dc27fc28d3b18118a3c38a9b79b15b32bde6f9257399c97f72febffc",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "music-note-plus-lined"
-  },
-  {
     "id": "navigation-pointer-01-lined",
     "file": "navigation-pointer-01-lined.svg",
     "sha256": "45a685fc1aa414a6e66a69fe1acb0f4ec1b496b7f1ee66bc11203cfee29893f2",
@@ -4790,46 +3102,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "navigation-pointer-off-01-lined"
-  },
-  {
-    "id": "notification-box-lined",
-    "file": "notification-box-lined.svg",
-    "sha256": "13cc8e27f1bfb13c86c24d94fa0ac90f81e1a8d317d0131f1d22339a41af4cde",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "notification-box-lined"
-  },
-  {
-    "id": "notification-message-lined",
-    "file": "notification-message-lined.svg",
-    "sha256": "72abf44f1a4f330e62f494670c2d74bd38f543c1cf5a84fa795279db977f7a36",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "notification-message-lined"
-  },
-  {
-    "id": "notification-text-lined",
-    "file": "notification-text-lined.svg",
-    "sha256": "5c1c25498d3839779b1d0665dc6efaf58a6e973066099576da053c42cca6f7c9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "notification-text-lined"
-  },
-  {
-    "id": "octagon-lined",
-    "file": "octagon-lined.svg",
-    "sha256": "fa9becfc93e8d3138f6b6eebfb44842649df2920429863211e6e518b791bf16b",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "octagon-lined"
-  },
-  {
-    "id": "old-time-messenger-lined",
-    "file": "old_time-messenger-lined.svg",
-    "sha256": "e4923b2655c4062253bc3bfd88f406ba197fd3f452dd232ef56bc4035488a2a3",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "old-time-messenger-lined"
   },
   {
     "id": "package-check-lined",
@@ -4878,14 +3150,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "package-x-lined"
-  },
-  {
-    "id": "paint-lined",
-    "file": "paint-lined.svg",
-    "sha256": "375ca7ceacf1af49c1e7d04a92378265045d0e6089c51659830440e5c06f2c5f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "paint-lined"
   },
   {
     "id": "paint-pour-lined",
@@ -4944,28 +3208,12 @@
     "canonical": "passport-lined"
   },
   {
-    "id": "pause-circle-lined",
-    "file": "pause-circle-lined.svg",
-    "sha256": "e711dd8eae497465e43232290f7486d1a9534c95d55098a15f172f5191e1d02f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "pause-circle-lined"
-  },
-  {
     "id": "pause-lined",
     "file": "pause-lined.svg",
     "sha256": "aaa13a0c118e0248aa73437c6e5bef5ba3e5674ec816de5cabef05c04da3ed55",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "pause-lined"
-  },
-  {
-    "id": "pause-square-lined",
-    "file": "pause-square-lined.svg",
-    "sha256": "f7501bd3096cb674a37d369c8dfd0bdb13c3ef302c7da8d2bf2f3a941de74c85",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "pause-square-lined"
   },
   {
     "id": "pen-tool-01-lined",
@@ -5008,14 +3256,6 @@
     "canonical": "pencil-line-lined"
   },
   {
-    "id": "pentagon-lined",
-    "file": "pentagon-lined.svg",
-    "sha256": "36cc05176bea20c354c57f83ffef775dac45460ccfdf9d26f730f1de28f496a5",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "pentagon-lined"
-  },
-  {
     "id": "percent-01-lined",
     "file": "percent-01-lined.svg",
     "sha256": "2f52e447de4796734ebc1365e6e8d327a6ff54f48edabd8455a22e59094c2fa9",
@@ -5030,14 +3270,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "perspective-01-lined"
-  },
-  {
-    "id": "perspective-02-lined",
-    "file": "perspective-02-lined.svg",
-    "sha256": "95f45172b5400a135a054f28a9713f447d0f098cfb9321240e14ee8df1fdf978",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "perspective-02-lined"
   },
   {
     "id": "phone-01-lined",
@@ -5120,14 +3352,6 @@
     "canonical": "pie-chart-01-lined"
   },
   {
-    "id": "pie-chart-02-lined",
-    "file": "pie-chart-02-lined.svg",
-    "sha256": "5c7e030654668baf951bdc8f19042e3ca6d5ec0c8ca958be0c9f0a683e8b64fd",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "pie-chart-02-lined"
-  },
-  {
     "id": "pie-chart-03-lined",
     "file": "pie-chart-03-lined.svg",
     "sha256": "b6d11ae48186766c349430e4042c3fcbaf5faf0d1c1a4897811b9a2010db054d",
@@ -5160,28 +3384,12 @@
     "canonical": "pilcrow-01-lined"
   },
   {
-    "id": "pilcrow-square-lined",
-    "file": "pilcrow-square-lined.svg",
-    "sha256": "2d9a9c7e3b630f4bf60d31b31fa8d4ca4803960a4249429f74d380728798d9ef",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "pilcrow-square-lined"
-  },
-  {
     "id": "pin-01-lined",
     "file": "pin-01-lined.svg",
     "sha256": "07709ff64c04a6c274e5210a88a998763f955a0e8d4b7bf4cd910c9145e5f26a",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "pin-01-lined"
-  },
-  {
-    "id": "placeholder-lined",
-    "file": "placeholder-lined.svg",
-    "sha256": "a1ed87891d69e9aadb743742b965cf3687da9a74e2558ac9e86fb15a605e9849",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "placeholder-lined"
   },
   {
     "id": "plane-lined",
@@ -5192,14 +3400,6 @@
     "canonical": "plane-lined"
   },
   {
-    "id": "play-circle-lined",
-    "file": "play-circle-lined.svg",
-    "sha256": "985d0983b1cba076ee85b34d775c2fa560601d11e979d14f9809f715690ef633",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "play-circle-lined"
-  },
-  {
     "id": "play-lined",
     "file": "play-lined.svg",
     "sha256": "6b25bf35be0fe146a7e348bf47b6c407a95bfc74040ac47f96caff4303d2485e",
@@ -5208,36 +3408,12 @@
     "canonical": "play-lined"
   },
   {
-    "id": "play-square-lined",
-    "file": "play-square-lined.svg",
-    "sha256": "21bea3eabca3866fe972a102be8baf0ebe9c89358e4484365034125a5ea74c80",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "play-square-lined"
-  },
-  {
-    "id": "plus-circle-lined",
-    "file": "plus-circle-lined.svg",
-    "sha256": "58740e8ab3bba5643c937a25c2aa306083d964369c956a4e7d8a784305bf813f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "plus-circle-lined"
-  },
-  {
     "id": "plus-lined",
     "file": "plus-lined.svg",
     "sha256": "8c1289fb7cb3d394c39f4bbcb76921dd4e6790ea5746276fb99487faffd6ab3a",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "plus-lined"
-  },
-  {
-    "id": "plus-square-lined",
-    "file": "plus-square-lined.svg",
-    "sha256": "8c6ccadcf5bddd6fea7ac28264e0abd5791222391fe485b6de4f8a38c987a637",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "plus-square-lined"
   },
   {
     "id": "podcast-lined",
@@ -5288,14 +3464,6 @@
     "canonical": "qr-code-01-lined"
   },
   {
-    "id": "radio-lined",
-    "file": "radio-lined.svg",
-    "sha256": "9ff0d5c5506ccad477ab75141e6eccba7c86658252c2ba71b618de76e7f73ac8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "radio-lined"
-  },
-  {
     "id": "receipt-check-lined",
     "file": "receipt-check-lined.svg",
     "sha256": "1e1fbbaa12b84511de185fbfd18dd9ff76ad746b7828c32dfca00c3e43bb444d",
@@ -5326,14 +3494,6 @@
     "status": "User-requested geometry revision; review pending",
     "viewBox": "0 0 24 24",
     "canonical": "recording-02-lined"
-  },
-  {
-    "id": "recording-03-lined",
-    "file": "recording-03-lined.svg",
-    "sha256": "2d9092f4ed36d24b3ac69d3989520136b55baeb82f0addac9f4231df18f8a46d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "recording-03-lined"
   },
   {
     "id": "reflect-01-lined",
@@ -5464,14 +3624,6 @@
     "canonical": "route-lined"
   },
   {
-    "id": "rows-01-lined",
-    "file": "rows-01-lined.svg",
-    "sha256": "82e3e683db90a9742a859faa22ad40e515ea2b51133177578ed1a366ea2815a8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "rows-01-lined"
-  },
-  {
     "id": "rows-02-lined",
     "file": "rows-02-lined.svg",
     "sha256": "f3c358f891ac5a198ddda7c0ade557c18cf4c170237c434051a3250eb7a05a2b",
@@ -5486,14 +3638,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "rows-03-lined"
-  },
-  {
-    "id": "rss-01-lined",
-    "file": "rss-01-lined.svg",
-    "sha256": "aee4b6df6eb0e06358eb3704a0da94a5b86e834bbd929534f82418c7459c41c1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "rss-01-lined"
   },
   {
     "id": "ruler-lined",
@@ -5512,22 +3656,6 @@
     "canonical": "safe-lined"
   },
   {
-    "id": "sale-01-lined",
-    "file": "sale-01-lined.svg",
-    "sha256": "ff586c5398aad9b6c0a61b614cd94477d838a241feb5b827931f46e5dd772318",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sale-01-lined"
-  },
-  {
-    "id": "sale-02-lined",
-    "file": "sale-02-lined.svg",
-    "sha256": "a49e007cc1652fb0c391d74bb6f61996c3d7dcacf7255790a39b1e908ca9b47d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sale-02-lined"
-  },
-  {
     "id": "save-01-lined",
     "file": "save-01-lined.svg",
     "sha256": "28fd378a9d461de08a76d5b100722af574a1abf39bc67b2ffee0ca8d33e7fde3",
@@ -5544,36 +3672,12 @@
     "canonical": "scale-01-lined"
   },
   {
-    "id": "scale-02-lined",
-    "file": "scale-02-lined.svg",
-    "sha256": "b5c8d1732d5c1ea95433a4355e4c7f11358a62b875ad39914905458317182c97",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "scale-02-lined"
-  },
-  {
-    "id": "scale-03-lined",
-    "file": "scale-03-lined.svg",
-    "sha256": "11f6b34a94dd474a446a4efcf645798cd014888a7d93d16f8530bd8cd00051a7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "scale-03-lined"
-  },
-  {
     "id": "scales-01-lined",
     "file": "scales-01-lined.svg",
     "sha256": "db3ea38e5f9876014f7476c47944c0ee44734b26a2bec4917689b9381a507466",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "scales-01-lined"
-  },
-  {
-    "id": "scales-02-lined",
-    "file": "scales-02-lined.svg",
-    "sha256": "bf8f4934a448ee101390b41806620b33d12839fe6c3319da7f1df5e342963ee0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "scales-02-lined"
   },
   {
     "id": "scan-lined",
@@ -5592,22 +3696,6 @@
     "canonical": "scissors-01-lined"
   },
   {
-    "id": "scissors-cut-01-lined",
-    "file": "scissors-cut-01-lined.svg",
-    "sha256": "8d3c58c54bc3ad83a431e90dd99a7a313fde9233ed33ffcdf0e0a8b50b430dc6",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "scissors-cut-01-lined"
-  },
-  {
-    "id": "search-lg-lined",
-    "file": "search-lg-lined.svg",
-    "sha256": "0f7a9d57158495e4aeb4586dbec58e0b4e382d98553f90d56107d46d7cdd867f",
-    "status": "User-requested geometry revision; review pending",
-    "viewBox": "0 0 24 24",
-    "canonical": "search-lg-lined"
-  },
-  {
     "id": "search-md-lined",
     "file": "search-md-lined.svg",
     "sha256": "39ffe7b038c2f546aa1fd575eb3a9a78b3baf8362cedb58cfdff96b3878027ab",
@@ -5616,52 +3704,12 @@
     "canonical": "search-md-lined"
   },
   {
-    "id": "search-refraction-lined",
-    "file": "search-refraction-lined.svg",
-    "sha256": "198f60af39262dc18e1169fd31a952020347adff7fd8c860e984f99ada43f77f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "search-refraction-lined"
-  },
-  {
-    "id": "search-sm-lined",
-    "file": "search-sm-lined.svg",
-    "sha256": "4f325b6bd4c8f882921cd05438543078eb13d0e1cc12301f09c7d3e210a86aed",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "search-sm-lined"
-  },
-  {
     "id": "send-01-lined",
     "file": "send-01-lined.svg",
     "sha256": "7d1ae34493eed814a33e5a1bbba30a999bbb567c06d245eeb0af5c2ccfc61d2b",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "send-01-lined"
-  },
-  {
-    "id": "server-01-lined",
-    "file": "server-01-lined.svg",
-    "sha256": "fe8a45d91e30472eebf98bc4a4a9d8534256538c1069a0417c4695654fefd161",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "server-01-lined"
-  },
-  {
-    "id": "server-02-lined",
-    "file": "server-02-lined.svg",
-    "sha256": "749cd67dd30784271de6c564dd486a4a05289582d823a78f154d43950586d43a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "server-02-lined"
-  },
-  {
-    "id": "server-03-lined",
-    "file": "server-03-lined.svg",
-    "sha256": "7f9f3399655717b1342c155828f414ae86d284b315066412509a8ed0e032b78a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "server-03-lined"
   },
   {
     "id": "server-04-lined",
@@ -5680,36 +3728,12 @@
     "canonical": "server-05-lined"
   },
   {
-    "id": "server-06-lined",
-    "file": "server-06-lined.svg",
-    "sha256": "c4bec8fcb2ae5357cd7e5e520b10a05deef8507d193fd082c0ad6cf577974d00",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "server-06-lined"
-  },
-  {
     "id": "settings-01-lined",
     "file": "settings-01-lined.svg",
     "sha256": "51273896765a9ff03e6c683e2e196419c64158768b960e1cc159d86ac2c46a50",
     "status": "Approved",
     "viewBox": "0 0 24 24",
     "canonical": "settings-01-lined"
-  },
-  {
-    "id": "settings-02-lined",
-    "file": "settings-02-lined.svg",
-    "sha256": "19a6737033549301508b050e92a4e25de4835a37cd197d52fab32396f99692aa",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "settings-02-lined"
-  },
-  {
-    "id": "settings-03-lined",
-    "file": "settings-03-lined.svg",
-    "sha256": "59e7bd9f6c3a01978cc6f106662234f2f337d1ff730c095caa2c91d60cb4ae57",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "settings-03-lined"
   },
   {
     "id": "settings-04-lined",
@@ -5728,44 +3752,12 @@
     "canonical": "share-02-lined"
   },
   {
-    "id": "share-03-lined",
-    "file": "share-03-lined.svg",
-    "sha256": "2caa727e00a1d630f38e3856e527604267842e24593175a2e3bce70c810e444a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "share-03-lined"
-  },
-  {
-    "id": "share-05-lined",
-    "file": "share-05-lined.svg",
-    "sha256": "305f3df5c3c9ec7e3c5a478944a3d4d908c8db06f2a838bcf285dbed0b8d0ebb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "share-05-lined"
-  },
-  {
-    "id": "share-07-lined",
-    "file": "share-07-lined.svg",
-    "sha256": "b0e790aac56f0e8cbe019fd04248cc226a40b65f064d4dfb238691bd51a1481c",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "share-07-lined"
-  },
-  {
     "id": "shield-01-lined",
     "file": "shield-01-lined.svg",
     "sha256": "28ce17968969afb9c23a495a96b8b46b4a31e8db604a749c1255bd137430f415",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "shield-01-lined"
-  },
-  {
-    "id": "shield-dollar-lined",
-    "file": "shield-dollar-lined.svg",
-    "sha256": "bfecbb5f7ddf7b88fb0b8818f414ee5101c43d57671e6108beabc920f6bd60ae",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "shield-dollar-lined"
   },
   {
     "id": "shield-off-lined",
@@ -5824,28 +3816,12 @@
     "canonical": "shuffle-01-lined"
   },
   {
-    "id": "signal-01-lined",
-    "file": "signal-01-lined.svg",
-    "sha256": "e90314d9fcbbf11b503ba1fdc70a6f9084ddd0590923bd4020db43749e7df7c0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "signal-01-lined"
-  },
-  {
     "id": "signal-02-lined",
     "file": "signal-02-lined.svg",
     "sha256": "7b9a1ce03ed0d3ad85b594b6bf2ddb0eb3a11bc8adb5b843062a2152d332be61",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "signal-02-lined"
-  },
-  {
-    "id": "signal-03-lined",
-    "file": "signal-03-lined.svg",
-    "sha256": "ec9f03106ff017b4209af452b4487757dde68bf2c88224e3f62bc6c8afdb8d2e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "signal-03-lined"
   },
   {
     "id": "simcard-lined",
@@ -5896,46 +3872,6 @@
     "canonical": "slash-circle-02-lined"
   },
   {
-    "id": "slash-divider-lined",
-    "file": "slash-divider-lined.svg",
-    "sha256": "cc4b34f469bb7a7ab7c9b9b509472758354f1f0bd7f6669209baaa7f20c2c4d7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "slash-divider-lined"
-  },
-  {
-    "id": "slash-octagon-lined",
-    "file": "slash-octagon-lined.svg",
-    "sha256": "951d441fcea1318a974b443ca0119d4c16b961b8b80bbbafac78e5761d4cbe1a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "slash-octagon-lined"
-  },
-  {
-    "id": "sliders-02-lined",
-    "file": "sliders-02-lined.svg",
-    "sha256": "771d8d4f081ccbc5cd7ea27d9b656793105788aa0da52892eba08ec244d3e9aa",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sliders-02-lined"
-  },
-  {
-    "id": "sliders-03-lined",
-    "file": "sliders-03-lined.svg",
-    "sha256": "08670a7e6f1885115d3b08c9636c1de698e0640ee71d0281c32a3a6a7ff1e6f1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sliders-03-lined"
-  },
-  {
-    "id": "sliders-04-lined",
-    "file": "sliders-04-lined.svg",
-    "sha256": "08670a7e6f1885115d3b08c9636c1de698e0640ee71d0281c32a3a6a7ff1e6f1",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sliders-04-lined"
-  },
-  {
     "id": "snowflake-01-lined",
     "file": "snowflake-01-lined.svg",
     "sha256": "c33b7ecc568f0bbc4b34512f952ce25af4915271a6fa52c5e51110027f6dd4ca",
@@ -5952,28 +3888,12 @@
     "canonical": "spacing-height-01-lined"
   },
   {
-    "id": "spacing-height-02-lined",
-    "file": "spacing-height-02-lined.svg",
-    "sha256": "642b4177e2224953e32f15d1cb824c24e6afeb444376d19779fb9ed0544aad2a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "spacing-height-02-lined"
-  },
-  {
     "id": "spacing-width-01-lined",
     "file": "spacing-width-01-lined.svg",
     "sha256": "03ba1773eb3151904082e31c5b574e13b1cbea17859b6924edbadfa665c265a7",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "spacing-width-01-lined"
-  },
-  {
-    "id": "spacing-width-02-lined",
-    "file": "spacing-width-02-lined.svg",
-    "sha256": "28cab05578b2c7e2598a872148d595e645420d09c012a27005d10868390a03f0",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "spacing-width-02-lined"
   },
   {
     "id": "speaker-01-lined",
@@ -5990,30 +3910,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "speedometer-01-lined"
-  },
-  {
-    "id": "speedometer-02-lined",
-    "file": "speedometer-02-lined.svg",
-    "sha256": "023481ad9fc5560aa397dc83e7df3eaac263c357bc1f32b46a84e451b4add8d7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "speedometer-02-lined"
-  },
-  {
-    "id": "speedometer-03-lined",
-    "file": "speedometer-03-lined.svg",
-    "sha256": "4aea7700f57bb9a9c2aaec93004678d8bf8787b5c5a03a99fc9afea7b1e82c04",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "speedometer-03-lined"
-  },
-  {
-    "id": "speedometer-04-lined",
-    "file": "speedometer-04-lined.svg",
-    "sha256": "89a3c5e246d54921d0cb87be103d794e41e5e423f686424fb8c18eb887a4f5cb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "speedometer-04-lined"
   },
   {
     "id": "square-lined",
@@ -6040,68 +3936,12 @@
     "canonical": "star-01-lined"
   },
   {
-    "id": "star-02-lined",
-    "file": "star-02-lined.svg",
-    "sha256": "f3c99292f90b78512f3e9032ce06950788ef742e39597484b653b43cff7e5219",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "star-02-lined"
-  },
-  {
-    "id": "star-03-lined",
-    "file": "star-03-lined.svg",
-    "sha256": "fa0957438de1979c9f084f99f3074ef10006695c3b624da16da9d4419383826a",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "star-03-lined"
-  },
-  {
-    "id": "star-05-lined",
-    "file": "star-05-lined.svg",
-    "sha256": "005948673f5d9965ff125a9a6a54816b60181ac0b3ab11581619918e5145aeef",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "star-05-lined"
-  },
-  {
     "id": "star-06-lined",
     "file": "star-06-lined.svg",
     "sha256": "0b50b1d6535964517d7ea39eba557dc79040e7f664bb7bac472dd2aa6993ee58",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "star-06-lined"
-  },
-  {
-    "id": "stars-01-lined",
-    "file": "stars-01-lined.svg",
-    "sha256": "0b50b1d6535964517d7ea39eba557dc79040e7f664bb7bac472dd2aa6993ee58",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "stars-01-lined"
-  },
-  {
-    "id": "stars-02-lined",
-    "file": "stars-02-lined.svg",
-    "sha256": "0b50b1d6535964517d7ea39eba557dc79040e7f664bb7bac472dd2aa6993ee58",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "stars-02-lined"
-  },
-  {
-    "id": "stars-03-lined",
-    "file": "stars-03-lined.svg",
-    "sha256": "0b50b1d6535964517d7ea39eba557dc79040e7f664bb7bac472dd2aa6993ee58",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "stars-03-lined"
-  },
-  {
-    "id": "sticker-circle-lined",
-    "file": "sticker-circle-lined.svg",
-    "sha256": "863904cabb21a7d189c4fee67bcce7c7447b75c10b00900296cd445bac18a294",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sticker-circle-lined"
   },
   {
     "id": "sticker-square-lined",
@@ -6112,14 +3952,6 @@
     "canonical": "sticker-square-lined"
   },
   {
-    "id": "stop-circle-lined",
-    "file": "stop-circle-lined.svg",
-    "sha256": "4f76a28581f3cd264e17d7dc8337b14221fd34fb94aa2388a8198b2f18ad9c1d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "stop-circle-lined"
-  },
-  {
     "id": "stop-lined",
     "file": "stop-lined.svg",
     "sha256": "4c9df95a887d6bcef8fa20c3a06af73f845b952b34d6116397a0c937bd320ebb",
@@ -6128,28 +3960,12 @@
     "canonical": "stop-lined"
   },
   {
-    "id": "stop-square-lined",
-    "file": "stop-square-lined.svg",
-    "sha256": "22dac4febda223fe55e843c8a17d178fc5b8003153739cd9434265ba44062f74",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "stop-square-lined"
-  },
-  {
     "id": "strikethrough-01-lined",
     "file": "strikethrough-01-lined.svg",
     "sha256": "3951f0eb33f8b4cd3572b85846088ba8db72d38da5571dbc3ddc5f83b7b0f61d",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "strikethrough-01-lined"
-  },
-  {
-    "id": "strikethrough-square-lined",
-    "file": "strikethrough-square-lined.svg",
-    "sha256": "94e4ba6d120292bd7f0a4dc40f923a2fab363723c074f75027e8e92e0f5ce7fb",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "strikethrough-square-lined"
   },
   {
     "id": "subscript-lined",
@@ -6168,14 +3984,6 @@
     "canonical": "sun-lined"
   },
   {
-    "id": "sun-setting-01-lined",
-    "file": "sun-setting-01-lined.svg",
-    "sha256": "9f589610e9cd8f95132f5566403bc1cb7428a112c8ac2fdb18dfbb0c6f0ba88d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sun-setting-01-lined"
-  },
-  {
     "id": "sun-setting-02-lined",
     "file": "sun-setting-02-lined.svg",
     "sha256": "76471dfb51019e10bb2f51e78c98f0a8b1b4fb883e036a32b7e30eab0eab378d",
@@ -6190,22 +3998,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "sun-setting-03-lined"
-  },
-  {
-    "id": "sunrise-lined",
-    "file": "sunrise-lined.svg",
-    "sha256": "9e215a46ef36fad63f72f258090db779d650dc7fe747db7b9025d647952bf0c8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sunrise-lined"
-  },
-  {
-    "id": "sunset-lined",
-    "file": "sunset-lined.svg",
-    "sha256": "5cb0a6225fd9392e098cca7bb32e7908d5fdc0b15a412255acdda154e654c770",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "sunset-lined"
   },
   {
     "id": "switch-horizontal-01-lined",
@@ -6264,38 +4056,6 @@
     "canonical": "tag-01-lined"
   },
   {
-    "id": "tag-03-lined",
-    "file": "tag-03-lined.svg",
-    "sha256": "daa6b89813f384e04296401735fddc83790584cdb0a4c5e34596e99a28a666b4",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "tag-03-lined"
-  },
-  {
-    "id": "target-01-lined",
-    "file": "target-01-lined.svg",
-    "sha256": "26e222828e06c9a12f26538bb2d90545137587cd4d7156e8ca94d54c43e19fba",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "target-01-lined"
-  },
-  {
-    "id": "target-02-lined",
-    "file": "target-02-lined.svg",
-    "sha256": "b9660aeed975bb43f41e2dab2674308ac17811c319f8a3aac0797bc0fcef4780",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "target-02-lined"
-  },
-  {
-    "id": "target-03-lined",
-    "file": "target-03-lined.svg",
-    "sha256": "a0063b65b983faa48e26e16ebc96c613202b73195240ad3b67efa6c1b3e369dd",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "target-03-lined"
-  },
-  {
     "id": "target-04-lined",
     "file": "target-04-lined.svg",
     "sha256": "20d2abd5ffbbf87a3b088802f2991cf13feddaf0f49ad37a6bd47eaa476e0453",
@@ -6328,28 +4088,12 @@
     "canonical": "terminal-browser-lined"
   },
   {
-    "id": "terminal-circle-lined",
-    "file": "terminal-circle-lined.svg",
-    "sha256": "cfa33b61ffabb1918ef475109566c8aa9fc7a33c3866fddbeea636f57f432f55",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "terminal-circle-lined"
-  },
-  {
     "id": "terminal-lined",
     "file": "terminal-lined.svg",
     "sha256": "c4373fa1bd4c9df548eace0c0f67ab3018779d0663ba65e951b9f3a20bb506b5",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "terminal-lined"
-  },
-  {
-    "id": "terminal-square-lined",
-    "file": "terminal-square-lined.svg",
-    "sha256": "d8c0788985abc955b21469220bc71bc261f8cf3706c22383c4613b301804b341",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "terminal-square-lined"
   },
   {
     "id": "text-input-lined",
@@ -6408,68 +4152,12 @@
     "canonical": "ticket-01-lined"
   },
   {
-    "id": "toggle-01-left-lined",
-    "file": "toggle-01-left-lined.svg",
-    "sha256": "f7f796192919717517be609f66a0a3d3ca2b14817dc725353d9a189dc8ae9969",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-01-left-lined"
-  },
-  {
-    "id": "toggle-01-right-lined",
-    "file": "toggle-01-right-lined.svg",
-    "sha256": "3a11b8ccba959d6dbb22e13a4075437246bf3c5f752f7ff8492d7beb197dbeb2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-01-right-lined"
-  },
-  {
-    "id": "toggle-02-left-lined",
-    "file": "toggle-02-left-lined.svg",
-    "sha256": "be0189c66e7bf30319176073519927e5697e1e037d7cdf1d06fff074148b6a05",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-02-left-lined"
-  },
-  {
-    "id": "toggle-02-right-lined",
-    "file": "toggle-02-right-lined.svg",
-    "sha256": "503870c4ef0a494ff68bf41de2e2e2aba841190315055d840eed31951211803e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-02-right-lined"
-  },
-  {
-    "id": "toggle-03-left-lined",
-    "file": "toggle-03-left-lined.svg",
-    "sha256": "65e4dd143498f5053c35713bdcc5a3263175a54f335b48c0ac16f340c0346d06",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-03-left-lined"
-  },
-  {
-    "id": "toggle-03-right-lined",
-    "file": "toggle-03-right-lined.svg",
-    "sha256": "d29588033779b9e52eb9f0d3fdcd39c4d28ec07cbdc57ac9ce309ce4950f5407",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "toggle-03-right-lined"
-  },
-  {
     "id": "tool-01-lined",
     "file": "tool-01-lined.svg",
     "sha256": "1c4ee91cf429ed36c73392a37205f01c4d03b8c30bd73d57cda1222d4ee6caf6",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "tool-01-lined"
-  },
-  {
-    "id": "tool-02-lined",
-    "file": "tool-02-lined.svg",
-    "sha256": "00a24ae9a5b37cd91bb65734c83946901b3d30b914f4e67370b35be852ad69e7",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "tool-02-lined"
   },
   {
     "id": "train-lined",
@@ -6568,14 +4256,6 @@
     "canonical": "type-01-lined"
   },
   {
-    "id": "type-square-lined",
-    "file": "type-square-lined.svg",
-    "sha256": "e824f9fefb47e4460780ebcdf4d7a25488d255083f32a155eadf38a8f205868e",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "type-square-lined"
-  },
-  {
     "id": "type-strikethrough-01-lined",
     "file": "type-strikethrough-01-lined.svg",
     "sha256": "56d0f97bd0610b992d74f9ded813971c932411bf4fe48bfb730ca0232d3563c9",
@@ -6598,14 +4278,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "underline-01-lined"
-  },
-  {
-    "id": "underline-square-lined",
-    "file": "underline-square-lined.svg",
-    "sha256": "7b61f0f1e558b6c4ce7115b96302d186c3d3e58a89fb48777997fc457e0420a2",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "underline-square-lined"
   },
   {
     "id": "upload-01-lined",
@@ -6646,14 +4318,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "user-check-01-lined"
-  },
-  {
-    "id": "user-circle-lined",
-    "file": "user-circle-lined.svg",
-    "sha256": "f376337a49585aa6d744827d65e0ae5a578c216552311a50babd421701642558",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "user-circle-lined"
   },
   {
     "id": "user-down-01-lined",
@@ -6702,14 +4366,6 @@
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "user-right-01-lined"
-  },
-  {
-    "id": "user-square-lined",
-    "file": "user-square-lined.svg",
-    "sha256": "c0d659779ca35aa6af0c72438edc2dbd66364d6d46f134c405eeb44ee8d45171",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "user-square-lined"
   },
   {
     "id": "user-up-01-lined",
@@ -6856,14 +4512,6 @@
     "canonical": "virus-lined"
   },
   {
-    "id": "voicemail-lined",
-    "file": "voicemail-lined.svg",
-    "sha256": "5b2d0c2e4ee365d0c0e2d03e54591f068522ff8804ed7d111248744a3364786d",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "voicemail-lined"
-  },
-  {
     "id": "volume-max-lined",
     "file": "volume-max-lined.svg",
     "sha256": "09e37f5207271259b8f4ce469ee22e00b45ba0652fb51e355369641ccaf1d448",
@@ -6920,14 +4568,6 @@
     "canonical": "watch-circle-lined"
   },
   {
-    "id": "watch-square-lined",
-    "file": "watch-square-lined.svg",
-    "sha256": "2c0ac9a90d3d50c86ab752d10df88e050af99098aea403546174ceb15f79d7f8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "watch-square-lined"
-  },
-  {
     "id": "waves-lined",
     "file": "waves-lined.svg",
     "sha256": "d07accf20a10e75591af1e418b88e4cb46089bb0593bdf3d462287448d98201b",
@@ -6960,36 +4600,12 @@
     "canonical": "wifi-off-lined"
   },
   {
-    "id": "wind-01-lined",
-    "file": "wind-01-lined.svg",
-    "sha256": "b0db1dbea5c8c02b3a223e16a47b8a9c659059f03683d3bcfe57e24ab086439f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "wind-01-lined"
-  },
-  {
     "id": "wind-02-lined",
     "file": "wind-02-lined.svg",
     "sha256": "1270ec0531e7c034a58958b4e2e638d573d1fb5b21a30b18922067ce8acaeff9",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "wind-02-lined"
-  },
-  {
-    "id": "wind-03-lined",
-    "file": "wind-03-lined.svg",
-    "sha256": "5c2aded53622130277f84c7340784fa398a60c2740aaefe09ab4d0a83b991a2f",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "wind-03-lined"
-  },
-  {
-    "id": "x-circle-lined",
-    "file": "x-circle-lined.svg",
-    "sha256": "da5c59da270a5d06b4ff63febee66e3cd16eaeb26890bd32af6a973ee1656bf8",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "x-circle-lined"
   },
   {
     "id": "x-close-lined",
@@ -7000,22 +4616,6 @@
     "canonical": "x-close-lined"
   },
   {
-    "id": "x-lined",
-    "file": "x-lined.svg",
-    "sha256": "6b1a065f974d2b7602594a5f1b46b343c87c48d0b9550a7a963b0e994959d089",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "x-lined"
-  },
-  {
-    "id": "x-square-lined",
-    "file": "x-square-lined.svg",
-    "sha256": "86f7665e77e14fd48afdc3c1eee1a24ed051f51d2eeb48004d9a747ca328a398",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "x-square-lined"
-  },
-  {
     "id": "youtube-lined",
     "file": "youtube-lined.svg",
     "sha256": "b56b9a8681b9f28c55c2da7fdef260986bfeb3c304443cde9cd0650a9bbe46fc",
@@ -7024,28 +4624,12 @@
     "canonical": "youtube-lined"
   },
   {
-    "id": "zap-circle-lined",
-    "file": "zap-circle-lined.svg",
-    "sha256": "ac84f951b147d4405634f03fcb63ab6ff70e3fc899185605387ba646252cd034",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "zap-circle-lined"
-  },
-  {
     "id": "zap-fast-lined",
     "file": "zap-fast-lined.svg",
     "sha256": "d887db13fdd0b95a2d68b1d2c570fba82c76ddfccf19a1ff3ba17a2f2566f613",
     "status": "AI reviewed",
     "viewBox": "0 0 24 24",
     "canonical": "zap-fast-lined"
-  },
-  {
-    "id": "zap-square-lined",
-    "file": "zap-square-lined.svg",
-    "sha256": "7a51ee601cbb327e548af4b60b56d0aa16924bd4752b04052b6c11ff27184ed9",
-    "status": "AI reviewed",
-    "viewBox": "0 0 24 24",
-    "canonical": "zap-square-lined"
   },
   {
     "id": "zoom-in-lined",

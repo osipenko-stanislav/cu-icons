@@ -2,6 +2,8 @@
 from pathlib import Path
 import shutil,json,hashlib
 W=Path.cwd();P=W/'icon-project';D=Path('/private/tmp/cu-icons-publish-20261127');S=D/'site';S.mkdir(exist_ok=True)
+release=json.loads((P/'exports/current/status.json').read_text())
+active=release['active_scenes'];archived=release['archive_excluded']
 for name in ['scenes.json','player.js']:shutil.copy2(P/'gallery/motion-review/reference-series'/name,S/name)
 shutil.copy2(P/'publication/github/static-export.js',S/'static-export.js');shutil.copy2(P/'motion/reference-series/export.html',S/'export-template.html')
 (S/'licenses').mkdir(exist_ok=True)
@@ -27,10 +29,15 @@ def ignore(path,names):
  return out
 project=D/'project';project.mkdir(exist_ok=True)
 for name in ['icon-project','ref','work']:shutil.copytree(W/name,project/name,dirs_exist_ok=True,ignore=ignore)
+curated=Path('icon-project/result/curated')
+for name in ['svg','geometry','animation']:
+ source=W/curated/name
+ for asset in (project/curated/name).iterdir():
+  if asset.is_file() and not (source/asset.name).exists():asset.unlink()
 # Local project paths remain unchanged inside project/; run tools from there.
 (D/'README.md').write_text('''# CU Icons
 
-Текущая версия от 27 ноября 2026: **902 активные иконки**, 306 альтернатив сохранены отдельно в архиве проекта.
+Текущая версия от 27 ноября 2026: **@@ACTIVE@@ активных иконок**. Из основного набора исключены @@ARCHIVED@@ иконок. [Архив пользовательского отбора](project/icon-project/archive/relevance-2026-11-27/README.md) содержит SVG и анимации 302 иконок.
 
 **[Открыть галерею](https://osipenko-stanislav.github.io/cu-icons/)** · [Скачать готовый пак](site/downloads/cu-icons-balanced-1x.zip)
 
@@ -55,8 +62,8 @@ for name in ['icon-project','ref','work']:shutil.copytree(W/name,project/name,di
 Исправлены ошибки наследования цвета в 22 сценах и зависания при скрытии/смене reduced motion. Усилены 15 жестов и перестроены пять переходов Play/Pause. Новые варианты технически проверены и ожидают визуального одобрения пользователя. Данные: [последнее ревью](project/icon-project/review/motion/stability-2026-11-27/README.md), [версия пака](site/version.json).
 
 Генерируемые исторические ZIP-перестановки и сырые дампы браузерных кадров не включены; текущий пак, исходники и отчёты сохранены. Лицензии используемых анимационных библиотек находятся в `site/licenses/` и внутри ZIP. Собственная общая лицензия на библиотеку в этой публикации не назначается.
-''')
+'''.replace('@@ACTIVE@@',str(active)).replace('@@ARCHIVED@@',str(archived)))
 (D/'index.html').write_text('<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0;url=site/"><a href="site/">Открыть актуальную галерею</a>')
 (D/'.gitignore').write_text('.DS_Store\n__pycache__/\n*.pyc\n.venv/\n.manifest.lock\n.env\n.env.*\n')
 p=D/'.github/workflows/pages.yml';s=p.read_text().replace('path: .','path: site');p.write_text(s)
-files=[f for f in D.rglob('*') if f.is_file() and '.git' not in f.parts];size=sum(f.stat().st_size for f in files);status={'files':len(files),'bytes':size,'active_scenes':902,'repository':'osipenko-stanislav/cu-icons','site_path':'site','pack_sha256':hashlib.sha256((S/'downloads/cu-icons-balanced-1x.zip').read_bytes()).hexdigest()};(P/'publication/github/preparation.json').write_text(json.dumps(status,indent=2)+'\n');print(status)
+files=[f for f in D.rglob('*') if f.is_file() and '.git' not in f.parts];size=sum(f.stat().st_size for f in files);status={'files':len(files),'bytes':size,'active_scenes':active,'repository':'osipenko-stanislav/cu-icons','site_path':'site','pack_sha256':hashlib.sha256((S/'downloads/cu-icons-balanced-1x.zip').read_bytes()).hexdigest()};(P/'publication/github/preparation.json').write_text(json.dumps(status,indent=2)+'\n');print(status)

@@ -1,9 +1,8 @@
 {
-  "files": 22161,
-  "bytes": 171762422,
-  "active_scenes": 902,
+  "files": 22175,
+  "bytes": 157814951,
+  "active_scenes": 600,
   "repository": "osipenko-stanislav/cu-icons",
   "site_path": "site",
-  "pack_sha256": "80e90ff12e5eb8c84e91f1d7e8dc9eb7eeee60fcefd0184d6e8336f5cf9b0e50",
-  "excluded_generated_cache": true
+  "pack_sha256": "97cdb4f300695ceafdc68048066dd64d353974dcb7c35f82d617a36d3b0c8b75"
 }

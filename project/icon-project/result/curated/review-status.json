@@ -16,22 +16,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "activity-heart-lined",
-    "comment": "Брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "activity-heart-lined",
-    "current_static_sha256": "abaee5ef38d328b901b671bbc9db34b40397f1b1ade7f8ad912ddc9a1e4ef5bc",
-    "current_scene_sha256": "a691ed2113f74824f187f04ea483d6899acdc451e8f11b6856d53a9deeac1265",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "activity-lined",
     "comment": "Брак в анимации",
     "preset": "Balanced",
@@ -76,85 +60,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "alarm-clock-check-lined",
-    "comment": "Брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "alarm-clock-check-lined",
-    "current_static_sha256": "ab09e21219e9816b877aa80c26485394670769e5d67b9092d95711885cfa383f",
-    "current_scene_sha256": "cd43328944df823211283281ab85f4022d1ee4553e9d980de1c3ac927bb584e8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alarm-clock-lined",
-    "comment": "Ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "alarm-clock-lined",
-    "current_static_sha256": "4b6c25e4505cf6c4644e2760fcc500c6efa4f80a8240f760890812efda11e538",
-    "current_scene_sha256": "5b4f94731a8b1ab66048211825766cdad23f7ae85eba4312f96b346990b110e1",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alarm-clock-minus-lined",
-    "comment": "Брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "alarm-clock-minus-lined",
-    "current_static_sha256": "eb760761f9f26b0260fbade240eee1b83e410ccd93dc3f1d410f21b228cec60b",
-    "current_scene_sha256": "b01fb2c70b15ce9a77e3bf8b1de9fa7d771d3321d6d5d3bae8391a86335bd008",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alarm-clock-off-lined",
-    "comment": "Брак в анимации и геометрии иконки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "alarm-clock-off-lined",
-    "current_static_sha256": "89ab25bf5863cf8ceb626c8a651d2ba5cbe25b71639c9bc234a91d2d093ab1ee",
-    "current_scene_sha256": "e46194c1feb0ca3c7e45bf194cc3c8c411f6d29e324a7b96040531a839dc4bda",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alarm-clock-plus-lined",
-    "comment": "Брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "alarm-clock-plus-lined",
-    "current_static_sha256": "7e00bbdb87af22fccfc60f7e4e0c249f12ba2c49c3c8d3ba9e95f396a6050057",
-    "current_scene_sha256": "dbb0c51f5ce24a142022b6ad96b06f888f22478046a8f945601deb86daa56bbc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "alert-circle-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -166,48 +71,6 @@
     "canonical": "alert-circle-lined",
     "current_static_sha256": "ac289e173cab0fdf492fe5d6ba8ad6c411c1935a6e4d113e4e1e9ec607418802",
     "current_scene_sha256": "a2813d5738a68102c675f898504415b2123dffc651d93e16319abd17ee1c71be",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alert-hexagon-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "alert-hexagon-lined",
-    "current_static_sha256": "162addd57b409cca952cc04a766275304a618d93242173a1347e581495511250",
-    "current_scene_sha256": "e6f7526ef3f779d96db958ccacdb81c133cf03cb701c646e4997da5dbd6fa7f6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alert-octagon-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "alert-octagon-lined",
-    "current_static_sha256": "44273baf82855aa571be0690fe5fc07c4d0b86c034bc980836ff7602f919baf5",
-    "current_scene_sha256": "89a6101a4a3143fdcea7dc66b51f6230573884a853cf1f5e0adaaa32b061079d",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "alert-square-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "alert-square-lined",
-    "current_static_sha256": "6df8635ce6694d122e61b0e81147553a1a2db7ecf3f7e6ec6091dedcf829b739",
-    "current_scene_sha256": "62cdf12804a37165b10ec591d2a7d5fd632f338b285d888429b2a65d03b5e9ef",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -224,34 +87,6 @@
     "canonical": "alert-triangle-lined",
     "current_static_sha256": "1b8698c909c0380a96d82636b9fd1f7bac9a36ba7e4d591ecf404da801fa1ef1",
     "current_scene_sha256": "2b49ed4dee8037730be5613ccdd088d344236a074b57feed1a5cab00b7fd68a7",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "align-bottom-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "align-bottom-01-lined",
-    "current_static_sha256": "214774223efc5a29f18420c1d81f4a2a71e7cbead96fb53dc198d7a90a0f786d",
-    "current_scene_sha256": "e471ac27045a9a22e23ba21baa1bf4ceec797f332f70fafa8be2c3bb23719894",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "align-center-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "align-center-lined",
-    "current_static_sha256": "58543731cc7bfe7e009a01c1fc8bd6567fba8f381b5e610efe44c191f458898e",
-    "current_scene_sha256": "dc9b31f8679fadb1c1976bdbde9b12de541d77260f5f475420a045352b6aa75b",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -550,322 +385,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "arrow-block-down-lined",
-    "comment": "Нужна динамика",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion"
-    ],
-    "collection": "active",
-    "canonical": "arrow-block-down-lined",
-    "current_static_sha256": "4dbd22948aec9a22f31be4a80f253262089d355a653931bdd1cbbf252eb41255",
-    "current_scene_sha256": "224f74b3e1f1c13d76ce5798dd111e9d3f65c9b475f756f2f0a090a64f96fca6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-block-left-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "arrow-block-left-lined",
-    "current_static_sha256": "fb9a536211eae53c97cdfa199ef08796d54159eaa53d4fe026e04e5508a712a5",
-    "current_scene_sha256": "72f6804f51deacea75bab1c9873b789592678965d954b779eca4243a3857f823",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-block-right-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "arrow-block-right-lined",
-    "current_static_sha256": "806367e4092f6f1b2be5f77df5024243af477a7c7fac2736a542f94099ab5394",
-    "current_scene_sha256": "f1eae94a0238aa6b2b9d8d76eb10dbf48a1019ffc0910fc2ee2e610228be434e",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-block-up-lined",
-    "comment": "нужна динамика",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion"
-    ],
-    "collection": "active",
-    "canonical": "arrow-block-up-lined",
-    "current_static_sha256": "480087e06582b1d04de8f4a9d7faeb33b0d3e0564dff5c66a9deb93c25fedc1c",
-    "current_scene_sha256": "a104819ea690101b0ed53fb719fd81a14ab88baac99dc28886ed73cfe5ea4c28",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-down-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-down-left-lined",
-    "current_static_sha256": "a7fe0dbf1a1ca4b70664382844e16eb3e074b5e49b12b8aee64f07b333848eb9",
-    "current_scene_sha256": "19bbff500e521c463e970aad22f614265cbdb0f1e9ff5b5ec74c1a1cd348e145",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-down-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-down-lined",
-    "current_static_sha256": "a0d0b81e93ac8d25d7697020f803f7ea6090c88cf1f02a223732bd546dfa11ad",
-    "current_scene_sha256": "e35621b7bfd2f8cff598f8e1e23e038791bf2f0627940251be72d679c6e9d33c",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-down-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-down-right-lined",
-    "current_static_sha256": "ec078d9e34b949de3bbb3a0d9ea8f2368676e4e9c3cf00def30996f92be1b84d",
-    "current_scene_sha256": "8359f9dffde049311b3392e82797c77573391d0c520b1a903de209fc78d4eb9b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-left-lined",
-    "current_static_sha256": "d66827b99bd7ea1ea04036e72fba75a3846fabd6695bcefd5d0f6617bc5a14ba",
-    "current_scene_sha256": "2b69a2ba69e7f9dcf5849f8b076e1c3600f8273083d825a67af5a47bb8aea7eb",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-right-lined",
-    "current_static_sha256": "b8bf75854a6f2c51f86d5e187ef28154897e7dcc7c42d91c17ac757269e770c1",
-    "current_scene_sha256": "e83b77a9ff7549f03f5166c0cef3a8c2097870030af8504cef99007c2a42b195",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-up-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-up-left-lined",
-    "current_static_sha256": "4070075552ec71fb8c00f23cd3441e46d02f6acd6dd55f3705ba7a3fdc5973ea",
-    "current_scene_sha256": "6f3b0709973fb1d4939b7b6f899689c2c8c15b2abcbc415171903d3af859553b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-up-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-up-lined",
-    "current_static_sha256": "cf522b89d935019d2484191e719b7e48e11dcc8bdcdbcd4f2f46bea06f9a5878",
-    "current_scene_sha256": "6755673cedaef48d49340cd173dca18695d5640c85aa45701e97130872bbaed1",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-broken-up-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-broken-up-right-lined",
-    "current_static_sha256": "4822573086b983e0ee9b578fac825737036254db0568d101bd1c44527e8dc693",
-    "current_scene_sha256": "6deeade1be8d993515a1c61d415b6fe5a0b4027d500f75e4c9ae2b8881913ab9",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-down-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-down-left-lined",
-    "current_static_sha256": "9876e3e40abfdf7c9eddf0de560264240496a7372b65bd98b2a02ff112bd5265",
-    "current_scene_sha256": "84f01173d9b4e581b5c04980b5868d89943e0547a6b13098611a3b5f67270463",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-down-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-down-lined",
-    "current_static_sha256": "fc5282fd64a8b404c97de4321fe545622ac39120de566034c0e7c46b63e10032",
-    "current_scene_sha256": "402def2b7a2eb2cca226ae492864105d50e7ed4794d53d7556932d1fa3b05240",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-down-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-down-right-lined",
-    "current_static_sha256": "62339b0f60061554658a1bc360a62994b7fbbb9e21022ed6dffd3575f3b494a4",
-    "current_scene_sha256": "483b3379285a8195d67ea33d19da40f61f8d5ff884a0b0fad8393aaa7a5ed470",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-left-lined",
-    "current_static_sha256": "678bc641e07a27bc847c2a3b10b406a206959c14f4c49b75ba32976fce630a1d",
-    "current_scene_sha256": "092de5cd8465cf575c6b6cebf29246e10ccc2e46cdc9a70c5612f42214b7a6db",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-right-lined",
-    "current_static_sha256": "395287174422a815e33106831bec3e49906a453bb0f18525e959fb56570dc005",
-    "current_scene_sha256": "0c15c40928980f4503831d593c39ef6c1cdadc46a785ebbb710cdbc128fa07e3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-up-left-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-up-left-lined",
-    "current_static_sha256": "9089470e9a957ffca6d4e71a4a2bb558bd5c38d1d7cc274731cac36e572a1369",
-    "current_scene_sha256": "3e61f8d706cfcaf33d03a7af57fb29b738dc42f77d9c5c3f0cac7d3872c22f05",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-up-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-up-lined",
-    "current_static_sha256": "b70b1db2947fb79ebd410d4f756f1db1537ab0685acd9321b92d3dcd8af793c4",
-    "current_scene_sha256": "16a734667dc074b6b59a437a0f1c5fbc9fadde99ffc9954bbc516f9b360b9b70",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-circle-up-right-lined",
-    "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-circle-up-right-lined",
-    "current_static_sha256": "4dbdd260734edf68443b77cdd01aac0ebc9561a37b45b60cb2ab69c9ecabeb86",
-    "current_scene_sha256": "83fe3938c6b093b966c8f01c93a473396dec6c907860a3fc37013950d1ae1b97",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "arrow-down-left-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -935,142 +454,6 @@
     "canonical": "arrow-right-lined",
     "current_static_sha256": "405e46c369a76a2fb4c7b17322fc5dede491c3a3680a20753140722bd2ac8b84",
     "current_scene_sha256": "fb71a972696746b6f23c89aca912bf887aa233e0e470a429075b07742abc779f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-down-left-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-down-left-lined",
-    "current_static_sha256": "2a84967df2688521a9410452f10a128edf53d3a159c8494813ffc5c0f4c1cf56",
-    "current_scene_sha256": "d3a56591c71c1a7b18a5f277699570fa70ed6a3b829436403a06ba236a591259",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-down-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-down-lined",
-    "current_static_sha256": "024f1f338c4733eea02aa4f851c1476bd90a3ff2c1e6ddba84a33d8918546004",
-    "current_scene_sha256": "c592cae5a58221aea2d7bfd9c193ee539386fdb37e2af3b6b682627a575e306b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-down-right-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-down-right-lined",
-    "current_static_sha256": "68e54da61d80a1141818ba30a75e831d4c40c06d5af4dc5d8b126c7d966aa5f3",
-    "current_scene_sha256": "045e39d515ea5f7ab27650e9420d5b4f3466d36e2493f9ce8c75231d85178b2f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-left-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-left-lined",
-    "current_static_sha256": "26a083d8996593148ffed74f402c70f12227c2525c8f0224bc75069e3809c1f0",
-    "current_scene_sha256": "a69df16e391a3ce32b9eded4351ee5bd945dfa2242d6140589c8b3abf396ae55",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-right-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-right-lined",
-    "current_static_sha256": "fd1d87484b65ef35bfe644362fc36f9e2bb11f3e36b0aacb443abc14a828adb0",
-    "current_scene_sha256": "f6dee82560c02362f30c7d43b297672afe0a3f6ad94765ca2c1aab2c29be5b84",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-up-left-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-up-left-lined",
-    "current_static_sha256": "3caf42614bec0dfb201ca87f3880e7711f9d53b26013270ad9021a4e746d6d77",
-    "current_scene_sha256": "d9db57d022544eb71ced2ce963c6859b1ee8894616eb4ebfe43033a6784cf1f5",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-up-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-up-lined",
-    "current_static_sha256": "3267aca9624c0a39b61c8869f47e021e5edc4da6d8822a8024c0f5efeb48756c",
-    "current_scene_sha256": "5073329ae729cdb494346924dfd06ae2d049081ce3e915912d514c63a501b970",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "arrow-square-up-right-lined",
-    "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion",
-      "mask-and-stationary-frame"
-    ],
-    "collection": "active",
-    "canonical": "arrow-square-up-right-lined",
-    "current_static_sha256": "b6e17e1e9e2b43c0396c36ad494086bc1909fbcabed5309d4cb55c3e2ef10307",
-    "current_scene_sha256": "23bd7d58d24b1eb496a4041388bf6bb10c37972d2d2b32f333d1de180a9f1ec9",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -1172,24 +555,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "arrows-triangle-lined",
-    "comment": "брак в анимации, прошлая со строуком была лучше",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "stroke-choice",
-      "previous-version",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "arrows-triangle-lined",
-    "current_static_sha256": "4307ae15b9fe6e6d369d9c24b3bb4279b5ed9afdcbf044686bd5026d3a16e70d",
-    "current_scene_sha256": "ea787f211931662d5fd0eae92d4eb51d390443d628b2c0466062511184608ef8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "arrows-up-lined",
     "comment": "брак анимации, стрелки дожлны двигаться вверх и вниз но по-разному",
     "preset": "Balanced",
@@ -1233,23 +598,6 @@
     "canonical": "at-sign-lined",
     "current_static_sha256": "abf02baaebf750b4907edc585889dbc4b92990237256e749c700c79cdece91a8",
     "current_scene_sha256": "8968ad2ba951cf3b992e7b4217cc07c78194903656877c89736c8d3409a28f52",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "atom-01-lined",
-    "comment": "брак геометрии и анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "atom-01-lined",
-    "current_static_sha256": "ec1014980948300747445732dde719f738e54f0c786af05c83f82c932d8efa26",
-    "current_scene_sha256": "8fc229ad2b72edf23d0037be53dac4fb2678a9ea30b943570a118cb371cec90c",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -1300,20 +648,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "award-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "award-03-lined",
-    "current_static_sha256": "ffde5b0a6db288829295a3e6b28d5566c3d81851a4456838673538bf029ea212",
-    "current_scene_sha256": "c068816d3240ffb49a8d9f093a95a3b374cac799312ac667cd8031a463c26a14",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "backpack-lined",
     "comment": "это отлично",
     "preset": "Balanced",
@@ -1353,34 +687,6 @@
     "canonical": "bank-note-01-lined",
     "current_static_sha256": "b64a3bf4133de6f5083b91c8192faa3df66c4fa63a353f905b6acc5942a721b3",
     "current_scene_sha256": "d4ea6f21d2ae68ff2f437d4dd3925166c1396c28902fd3fb162b60f272548fc3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bank-note-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bank-note-02-lined",
-    "current_static_sha256": "eb6b84e17329ddfa9e63ed5fa107fbb456243ffcaa68882c31c6e16845add1c1",
-    "current_scene_sha256": "ac3dac279483534b6e4e7daed7885e88dcc5a524437ff30df58671ed4e079555",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bank-note-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bank-note-03-lined",
-    "current_static_sha256": "beb1580c077afe41d38a6c4fe3ea8ab265cf18a966000844edf59ef643544fdf",
-    "current_scene_sha256": "5ef5ea9f5d2f3ad471d3d612baa8c3bf6bc53cdd12b67ccf966ea465c66bdbf7",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -1552,178 +858,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "bar-chart-circle-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-circle-01-lined",
-    "current_static_sha256": "6149d927134ab7d918e0d704531b1f165f0de5a58fd32a9dcc271f4def8cdb2a",
-    "current_scene_sha256": "f213b19c086e0f70693997bfe6d57e30f61c17b8b6dda5c0f4a82162f9df79ad",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-circle-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-circle-02-lined",
-    "current_static_sha256": "2f355f873ecdff62b3fa3f96347b4fa46b8b5f8307221388bf3d0aa472ec671c",
-    "current_scene_sha256": "8d22036836bf01ef315df9c9c0bec131e90e7e3c5d34cfdec36e0c3eb540d01c",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-circle-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-circle-03-lined",
-    "current_static_sha256": "73d4b57d5e4b00cd94399dbc0432700312db807e6c11c8a83c631d3ffe4a5e31",
-    "current_scene_sha256": "944b318a4df2f1d184a9787b1fb152f81540be6a245fec6e7c26b3ce5a8fdfcc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-01-lined",
-    "current_static_sha256": "f1256eec21884cbcf6564c56f5ce481d647bd41c11e4759c093fd294f710a0ea",
-    "current_scene_sha256": "1d1999f0fd57882bd474d2cfd79555133ea275247cfab2ee7ffb5d05fc5e6c03",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-02-lined",
-    "current_static_sha256": "73213e6ea70c8161a530ef06f616f2be7a2f9f5246c0aa26cba78de51f09301e",
-    "current_scene_sha256": "1d09237a950c030681ddb20b90d70a7610bf087ccee0e2090f8e888faab7d6ff",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-03-lined",
-    "current_static_sha256": "1afc204546bcfa9c89f8fbf4d913f83b8cf755148ca35d2cbd8a74a40aa12531",
-    "current_scene_sha256": "95f420bddb5b86c4960899fb112669af29d0235c5ebbe55a75a77412e724e1db",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-down-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-down-lined",
-    "current_static_sha256": "a7429e8a4ee229b7339d8266d7b926020c81f9d503091bc18755b0cea839bfdd",
-    "current_scene_sha256": "96c0ce4c2f8cb8cf3a7248491fd267ec2509ba887f2a20e17f6810e8b19fcbd8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-minus-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-minus-lined",
-    "current_static_sha256": "57e713cd166e7e5fe16803f0c23a99b20ed23333b12014eadad027cf48d00659",
-    "current_scene_sha256": "6b45d466e534bec5d6abaa372a65accdb24ec61f538425700b108b36426bd94d",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-plus-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-plus-lined",
-    "current_static_sha256": "5df47010a879ccbb1ce41a1051ea4ba6e5b599b4eb009d46867a6439b7f0ed5f",
-    "current_scene_sha256": "dfd09346f74e412ca87b3a39ed809c4e00d0357189bc0c3361c6d545431cdbd7",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-chart-square-up-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bar-chart-square-up-lined",
-    "current_static_sha256": "1fedc0385ac0fb7193ec0e055b4c97bcc6d4fe196ca87abe6f9d9a1fe85a634d",
-    "current_scene_sha256": "275ad3051bf1c05baa91381fcdc0734bfaf2bad836b1d85d0d40d1fbb1f2e126",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bar-line-chart-lined",
-    "comment": "брак анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "bar-line-chart-lined",
-    "current_static_sha256": "59c98d0b2e53ba9f465397baf2ee7a98407aa257df09ff0c701692062aedd69a",
-    "current_scene_sha256": "abd2d2d43567ff325490e2016c552a396576aa8dc9227381171b89455fcee6db",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "battery-charging-01-lined",
-    "comment": "брак анимации, линия справа не работает",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "battery-charging-01-lined",
-    "current_static_sha256": "e0360db8b61654d07c58462ecbe5df23ae361242c796f4a14832a1a8b5b63e5b",
-    "current_scene_sha256": "e58c1014008981224ebaf66307625a3e87b392934323d387c68a80ced52c6159",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "battery-charging-02-lined",
     "comment": "хорошо",
     "preset": "Balanced",
@@ -1825,23 +959,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "bell-minus-lined",
-    "comment": "брак анимации и геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "bell-minus-lined",
-    "current_static_sha256": "671adcb179c5c1d86af5f48181b7a4d89fe6c985dc649f42986624a5423f0182",
-    "current_scene_sha256": "08bfcfeed7808a3d035b75e995b1397b839566cddd65c9d3798286c0f4749d8c",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "bell-off-01-lined",
     "comment": "брак анимации и геометрии",
     "preset": "Balanced",
@@ -1856,40 +973,6 @@
     "canonical": "bell-off-01-lined",
     "current_static_sha256": "90d4624d08edf9e9e9aa9ccab954f68d34691143ad4c165728c083bf99e67267",
     "current_scene_sha256": "6a6296c15406a4a5599745c1382070f5ee30662ef8adaa0f648f6bddbb9f36b2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bell-plus-lined",
-    "comment": "брак анимации и геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "bell-plus-lined",
-    "current_static_sha256": "328b9e58d412ce3860fe649246cf21b31ca247ffde2500c63dce6022ff35027a",
-    "current_scene_sha256": "5ac72f2cdf65cc6817417e64933f9ad4ab89889f308d721808184a6fa4ff7f53",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bell-ringing-01-lined",
-    "comment": "брак анимации и геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "bell-ringing-01-lined",
-    "current_static_sha256": "4a6c59e9756a96fdb322b75c70518f4b238f98e73d9126facb81c96e84cccb23",
-    "current_scene_sha256": "1720b8de9372fd20deb4a4d8eda59f668ddae0982639d157e14be519ff4f8300",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2008,20 +1091,6 @@
     "canonical": "bold-01-lined",
     "current_static_sha256": "e78185aa878282d6f0e0a704bd1bac2f5c4ab6243e867bd20fefa6c6c0f1da7b",
     "current_scene_sha256": "1553f8cb526e8d3f13e85a93fc30ae1b35824d43668c835399091ebb7be709b3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "bold-square-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "bold-square-lined",
-    "current_static_sha256": "eea552483cb63f215be07d9389d588eae0ba3e6566827c9930bae3d421a34bf7",
-    "current_scene_sha256": "6b4d6da12f7765b65e67f1444ca014a6471f677ea511108f4fb58393187609b5",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2303,22 +1372,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "brush-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "brush-02-lined",
-    "current_static_sha256": "d1414e63c7490dd62bee676b150fbffc1cdb255eecb037b012868136d299ce15",
-    "current_scene_sha256": "3a0d0d2df129f91e5970c9844a751d082fcd21f65e9b4e857787c54107dc54f2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "brush-03-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -2346,104 +1399,6 @@
     "canonical": "building-01-lined",
     "current_static_sha256": "fd2e25d9eb289b83833984980b1e1ce97f4af9f328e7864efad8634f27ab811b",
     "current_scene_sha256": "f2d5cc76b1c912a0c03f67066677a7d30d6e511e1587f98115cb0e59720e28ab",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-02-lined",
-    "current_static_sha256": "46753b6ae3ddf0f66eda1d66c228c30e80f53ffa4c871de444c17cc3d53bfa71",
-    "current_scene_sha256": "2050b8400662b127c898ef962b652d5a9d24005f49d4378f04445b6eff772b32",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-03-lined",
-    "current_static_sha256": "ef85b999f9b63921db900db9f696ff1789e0b8428d6c5778c7f1dff74582d86b",
-    "current_scene_sha256": "c63efab6eb320bdc5b1ea65e9c9c912f0c9fda498a0393d9b971cf0bacb47995",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-04-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-04-lined",
-    "current_static_sha256": "cd6adc1862ea86b0e70675766ccb4984a02af0093a80dec5a9f8e7aa1fd89db8",
-    "current_scene_sha256": "2e213bdc2e8e6823ea57bb438f9ebb3f8f7bc491c801e493a638dddf34d8dece",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-05-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-05-lined",
-    "current_static_sha256": "c8697bd8b1ee8a31400547ec6641e4913ba57e0a1bcb0713c37be6bc7d281b4e",
-    "current_scene_sha256": "d9809b80ca4aaa9ec8da04cd98158f54ffae125ecfdfc130230b85d948f01095",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-06-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-06-lined",
-    "current_static_sha256": "ce827536c4d7b90f06c0374f9cdf8c6c1e5b80126bd9892df977effb1d4e9bfd",
-    "current_scene_sha256": "1d2befa6863456d71e5b684fd8f73ced98e077d3bb7fdbd0141b4bafc00c833b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-07-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-07-lined",
-    "current_static_sha256": "fd34825657b34a602dc6ffbb1a5fbc822f93dfa31842b5056f142ec38032e947",
-    "current_scene_sha256": "a779c00eb6f53ee7c366261303d6ffba7e9616a54dd8112be5bbed5fec02b8df",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "building-08-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "building-08-lined",
-    "current_static_sha256": "69e0b27bad6ed012274d50d3b7bf3db92ad47f35e2524bc96e6a9d4a45e57b0c",
-    "current_scene_sha256": "1fa975f4cf581638cef52da4d75845cedecac36fae633420b9da00dec5ff3407",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2561,20 +1516,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "camera-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "camera-01-lined",
-    "current_static_sha256": "fa69df40da6d2f3cf0fe4a4a3f4bbeee0c13edabbdbfb32ccb0a792ed66b561b",
-    "current_scene_sha256": "e41e897e38747c479f3a73ecdc411362bb5874a3509b6e2780b78d2eb97826c0",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "camera-lens-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -2603,20 +1544,6 @@
     "canonical": "camera-off-lined",
     "current_static_sha256": "131d436241d70f0a54d81440ddd876809d7c94f4c6fbb8f16bdfc2dcea7eb6a4",
     "current_scene_sha256": "26f6d67ab8861c8130c6aecbe8c2bcdf8a9e1d0dc45d83a31289596038f000d7",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "camera-plus-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "camera-plus-lined",
-    "current_static_sha256": "f8181c1e7f129c8d3c78b267c2899aec451cf4031bfc07e1172e19feea07875c",
-    "current_scene_sha256": "b02192d70dac937e9acf70398526288015c84495fb5ba4a867159542fc6e5b5a",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2650,48 +1577,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "certificate-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "certificate-02-lined",
-    "current_static_sha256": "b1d980fd0e26baffc510e52efae432f0303cbf7a6b086708e9b4bbe2e22e08ca",
-    "current_scene_sha256": "6366e81b7724a644a85ac3eea01db04c5d7e54354ef6c87dc89b50395f022771",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "chart-breakout-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "chart-breakout-circle-lined",
-    "current_static_sha256": "4aad227fe5e8fecfaa6496ff76830b062f04b06e28d0a4e879f84938655393aa",
-    "current_scene_sha256": "96be521cde18b94473e7b4cbca9ee6f3627e6a9948e5cd9fddeb752ee9b9c811",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "chart-breakout-square-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "chart-breakout-square-lined",
-    "current_static_sha256": "4bbf8ab8fdef256dd8267ba1e18a56ce10c2b477c845cd020cdcad31b428269b",
-    "current_scene_sha256": "572d8c382533b7f28a88d9bd6a504b1460a6346b8872d9b27ed10cc3e660f480",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "check-circle-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -2703,34 +1588,6 @@
     "canonical": "check-circle-lined",
     "current_static_sha256": "86703c320d19d045e12a8bc7f80591819b22432ae8b4ff0211a0ef697c4fc836",
     "current_scene_sha256": "7278e9fd3ed98026db42ab8a381726f8df19a3052565351df629d34a53334fbc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "check-done-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "check-done-01-lined",
-    "current_static_sha256": "8ccd927cbf9c31b67606b61833f96a994d3ea23f39aeb6c5cf5a1644d94c0bfa",
-    "current_scene_sha256": "c007a6d1bedfb33c519e7dbae087cf573b633b12cdebb2775c49b4b503d8efdc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "check-heart-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "check-heart-lined",
-    "current_static_sha256": "282a24f1d64f030898a33ecdeb768207bf2adbbb2cb21f29a7733b38e69e33e3",
-    "current_scene_sha256": "ce05755a8aea6879755304c9c13c60de329fb9150620ca66244a235281d298e6",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2759,36 +1616,6 @@
     "canonical": "check-small-lined",
     "current_static_sha256": "94513fc9f790d79f8525079d652471419cf3391239eb6a0d8076ffdf3a628ae3",
     "current_scene_sha256": "142bb77bf26172f08a71d86a5dabc29cb3a4e23509b040aa10f001bc578fecd2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "check-square-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "check-square-lined",
-    "current_static_sha256": "cadcc123d9f08928e0779c97ab36bafcc704b9be1e6158eabee5736e867b5767",
-    "current_scene_sha256": "c4fb899b93d3c8703e6a9222aa784d7d77103bd9732e167591af302455d25915",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "check-verified-01-lined",
-    "comment": "ок, но в конце можно анимировать отдельно приближение звезды, как в других подобных примерах",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "check-verified-01-lined",
-    "current_static_sha256": "10d053501a144085fea800e17841f9cab5ac1febf8805d1eebd4649fe78ce41d",
-    "current_scene_sha256": "5cd4cfa5fb3871506448c3cd86a679a05d4bed8cdd3805595e580b458d7cb729",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -2951,48 +1778,6 @@
     "canonical": "chrome-cast-lined",
     "current_static_sha256": "36dbd2134b04194565d24e0a8df81b79907882558ad180a377ebeaaed1e787b0",
     "current_scene_sha256": "134d3303882390b53c3ba09bcfe9b497f72c2a63a4b7ac116b54c8345936b21e",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "circle-cut-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "circle-cut-lined",
-    "current_static_sha256": "b4c954841c1da8098b55e22f888a7dd8001b505578b07ea9fa7793bc3988d03f",
-    "current_scene_sha256": "45fdf49bf0ab0f78eade4e78d74c521b636349b45033e1affebe6587efb31cca",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "circle-lined",
-    "current_static_sha256": "a1ed87891d69e9aadb743742b965cf3687da9a74e2558ac9e86fb15a605e9849",
-    "current_scene_sha256": "fa96994b4d600642f07e0d66f2ceed2836d70cc3cad9d9cfbe74f1a3b4807d96",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "clapperboard-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "clapperboard-lined",
-    "current_static_sha256": "50727c07e2cff2d8295e52dd36b8c3f6bef2587ef651ac9afb85a4ef44b84a50",
-    "current_scene_sha256": "bcd6d2105807160859e4e7a7e4bc138dd990c0d338bed10a14602f088a3b7e48",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -3225,23 +2010,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "clock-stopwatch-lined",
-    "comment": "брак геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "clock-stopwatch-lined",
-    "current_static_sha256": "3f6089893ec74105b0a9dc74c123796153659a630c2e2b0b2432e0582267cc15",
-    "current_scene_sha256": "e318a14dee8338a5c995d84a3641cbc7c13e513b075de77d99ed8356921445f5",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "cloud-01-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -3253,20 +2021,6 @@
     "canonical": "cloud-01-lined",
     "current_static_sha256": "923ea6a5d7971f7404c085892df82fd618514a71748378ea5aa958c88a1214b0",
     "current_scene_sha256": "e4e61fa7bca72bd6b7429d899f02f163340d7dbd45322d777a1fbc23e0a45a50",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cloud-blank-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cloud-blank-01-lined",
-    "current_static_sha256": "923ea6a5d7971f7404c085892df82fd618514a71748378ea5aa958c88a1214b0",
-    "current_scene_sha256": "188b2979b7ebf58cae920d8bf485b23ab78b51753557c1c40d7d2946f3ab0184",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -3317,20 +2071,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "cloud-raining-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cloud-raining-01-lined",
-    "current_static_sha256": "343c7f5ec9125aeda74e4a92ff09b039c5d56a86a8e268235b89271a6cbb430e",
-    "current_scene_sha256": "b39d52d1d4d31d388547d6e8f528fc27c2e35ed23e79c2fe769c002ab20de3b0",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "cloud-raining-02-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -3342,20 +2082,6 @@
     "canonical": "cloud-raining-02-lined",
     "current_static_sha256": "8ff33aa1b8c79424c6804859942cd24bdc91f4ddaa2a2eff4cbf4863be9dd019",
     "current_scene_sha256": "165c0996da6a2d2d05c7bdee684cbf27d652cb5789fa396d72c5fcf7148a82e1",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cloud-raining-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cloud-raining-03-lined",
-    "current_static_sha256": "a10e91692b8df9a3ecdbc454172aacae524ecc249110c7c8ea586daa91bdb0d3",
-    "current_scene_sha256": "6cb5b7e045d1b2508bc82056fb25ce139f0c45635002646a4b781f65480bc2a2",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -3448,54 +2174,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "code-browser-lined",
-    "comment": "брак анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "code-browser-lined",
-    "current_static_sha256": "fc84a11f7541bdea9da5e1400389e9fd6df2d4bde4114ed923fd0d4fde690239",
-    "current_scene_sha256": "9505779caf31b24aaa600d740640c09f3ac85dc646b03743e3195107db9298fe",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "code-circle-01-lined",
-    "comment": "брак анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "code-circle-01-lined",
-    "current_static_sha256": "f2e82248914af9ab47bf960a1efc466eac5cb94aa4a7d19beaae5501fb9ea4ee",
-    "current_scene_sha256": "96e3a4a2cf84a0e124085941136ee1d0060820257de6599f6b3badb273e7de63",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "code-square-01-lined",
-    "comment": "брак анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "code-square-01-lined",
-    "current_static_sha256": "fc84a11f7541bdea9da5e1400389e9fd6df2d4bde4114ed923fd0d4fde690239",
-    "current_scene_sha256": "d43dce26bb006fb9097a293ff46833b950aab36e27d621ad60c417989ac1a504",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "codepen-lined",
     "comment": "брак анимации",
     "preset": "Balanced",
@@ -3512,80 +2190,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "coins-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "coins-01-lined",
-    "current_static_sha256": "1c9fa97f01468a1a7f60215b9924079099ee0ca0bfdbfe0130d9112af19ffc1e",
-    "current_scene_sha256": "87d3066371fc7ed8bb2fe160d5c8ecc6334d83c982835a2ff05af97d21eb38f6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "coins-02-lined",
-    "current_static_sha256": "e9d9f0fda3f1ee2658f144bd10ebab2030f582efcbc0dbfaeaccabd45289b548",
-    "current_scene_sha256": "55df5a84101f9802a3a35349a3eb93143a6abee3e64068e5ed10f58c01c3cc96",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-hand-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "coins-hand-lined",
-    "current_static_sha256": "d6be78946ddf4ed6341ec20fc2be66c4f1f579923bc160959c55e7a9857c31e8",
-    "current_scene_sha256": "0900fe293773dbc03c2b067e574af66d89d8ce129ff0e8c2ea780f3e7dab76dc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-stacked-01-lined",
-    "comment": "анимация не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "coins-stacked-01-lined",
-    "current_static_sha256": "5a84c09daf2dd993c8394befcde780c889171b4c4442fb0b7491a5c74c547def",
-    "current_scene_sha256": "6dac753b34c1f3c9df9a2c460b8e15ccd0df84c367eb11874bdefcebd3066be5",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-stacked-02-lined",
-    "comment": "анимация не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "coins-stacked-02-lined",
-    "current_static_sha256": "1de9286305d1c1bbea633f93f3f3581789b2640b478e6b8b42d27a0c0cff0575",
-    "current_scene_sha256": "de1e8b8e0f55ad22d81abe0dd44d416598c7b63c974bdd5da166ce97419a7cb2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "coins-stacked-04-lined",
     "comment": "анимация не подходит",
     "preset": "Balanced",
@@ -3599,71 +2203,6 @@
     "canonical": "coins-stacked-04-lined",
     "current_static_sha256": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
     "current_scene_sha256": "5f5f9d8eb4b0ecabeeebf36333ccbb5544f0c8ceea49a0d95386d65560376c62",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-swap-01-lined",
-    "comment": "брак геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "coins-swap-01-lined",
-    "current_static_sha256": "f39c70fe2c10c5e458d0550cffe90b0db81038b22e78afba5d309f3da487c9fa",
-    "current_scene_sha256": "ec9884c40ca36695086c503fb2f8e784cb9e11562c808d79715ab92484f10ae8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "coins-swap-02-lined",
-    "comment": "брак геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "coins-swap-02-lined",
-    "current_static_sha256": "cac1e73c6a1355c02ac6db519adacbc02f3ab0510247a802ec363daaeb93a9aa",
-    "current_scene_sha256": "ceeb55caacb4af09dcf1471adc0b0378b8c85bdd2be0a29a0b23a43229c01252",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "colors-lined",
-    "comment": "анимация не зациклена",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "loop",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "colors-lined",
-    "current_static_sha256": "4cb78828bc1e71bcf917119fdabfeb7b1010c2289c93eb63e1feb1830f25f456",
-    "current_scene_sha256": "ea1cadc41e0b1c0bb28ac7629b1aa7cd8c8359f1ccecd30f8570f57574c475c6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "columns-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "columns-01-lined",
-    "current_static_sha256": "eb86a378208c58c851f14d1aeaecd13c2118743b31beb8edb97539d5a9fda0ee",
-    "current_scene_sha256": "9ff30467c3a388971d94c886387a453263498513417d599aa15c6f8f08e0fb62",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -3706,38 +2245,6 @@
     "canonical": "command-lined",
     "current_static_sha256": "2af222596c6a7621ee228d287c30272e1bf85fc53696e7705faae2c27c8b12cd",
     "current_scene_sha256": "c51302203427f8bb5e26331215a70e913eff73b0efd47e45b852110857704b6e",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "compass-01-lined",
-    "comment": "анимация не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "compass-01-lined",
-    "current_static_sha256": "e2ad9a11e71a0ba8d6a39303dec2939bfa77100d0f00117dc80e0fb948794533",
-    "current_scene_sha256": "94990e10c6b85ea8fc24aa9159a9c52f7f0c0e151c47df4e3b9c4232147c5fc6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "compass-02-lined",
-    "comment": "анимация не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "compass-02-lined",
-    "current_static_sha256": "ac65bc173a649481a9c266c59e59a531eecef78f95f5075024e6d7e23db50268",
-    "current_scene_sha256": "e218774b38d42df231d35d62c67444d838551d4a98d11d7ef20f716ecaf8119b",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -3785,57 +2292,6 @@
     "canonical": "container-lined",
     "current_static_sha256": "b0fd9085949c2ac7c400a253dadcbda3516c18a12524870566a828c4eaeac2f7",
     "current_scene_sha256": "813dec708d9def1deea3cb02231c1cdbf361b8866b671b7e04e8a6f66ddcc22c",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "contrast-01-lined",
-    "comment": "анимация не зациклена",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "loop",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "contrast-01-lined",
-    "current_static_sha256": "dcede85567eb2287edea88ab4dd6d02296da0bd55c7032a1620d57cc1364f987",
-    "current_scene_sha256": "b5ed3914384c2581db681de99650eca16e1e921d3546e36ad9dfe9a569f714a7",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "contrast-02-lined",
-    "comment": "анимация не зациклена",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "loop",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "contrast-02-lined",
-    "current_static_sha256": "bdda9fbe6003d4982687651ce8d66446f05ded4419c4cabb4e6d534df255eb20",
-    "current_scene_sha256": "36f0f2a85aa42c5e53d02d72d058f9da2dd5763764bdb8fe0269052d293373f8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "contrast-03-lined",
-    "comment": "анимация не зациклена",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "loop",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "contrast-03-lined",
-    "current_static_sha256": "9098f19423a9b3d2d4cb57761958d21e15f5da70dfe866f71dbbcefb9dd22d19",
-    "current_scene_sha256": "041e5a8f56a6d1cfaf7868f8a684c8689489696f9aa72e80ccc349722f43b6e7",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4027,22 +2483,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "credit-card-download-lined",
-    "comment": "анимируй сам объект пояснения, а не двигай карту",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion"
-    ],
-    "collection": "active",
-    "canonical": "credit-card-download-lined",
-    "current_static_sha256": "a7d6320ed168165ac6f498c7894599a01dc903a9e98e047d5cae3c8b3c1bbf14",
-    "current_scene_sha256": "36acc3bfb5c837dbc3cf33609b856a295fa76596849de9cd1d3db84555254283",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "credit-card-edit-lined",
     "comment": "анимируй сам объект пояснения, а не двигай карту",
     "preset": "Balanced",
@@ -4173,22 +2613,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "credit-card-upload-lined",
-    "comment": "анимируй сам объект пояснения, а не двигай карту",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "object-or-part-motion"
-    ],
-    "collection": "active",
-    "canonical": "credit-card-upload-lined",
-    "current_static_sha256": "a81a7761bc2a204cdd38242f3b174a6455e92b6731101adc3bfbaef8d07326ce",
-    "current_scene_sha256": "5ef744afef979d07ed5e5929a8493f3c05a3f1e69e3f34c7300107c8ce08673c",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "credit-card-x-lined",
     "comment": "анимируй сам объект пояснения, а не двигай карту",
     "preset": "Balanced",
@@ -4216,66 +2640,6 @@
     "canonical": "crop-01-lined",
     "current_static_sha256": "4ea072b9da558854d879d27d35558e87e2f45a99a8b3152f7dfd5b80dd27b8c4",
     "current_scene_sha256": "5d5bde57777d00151f20241f26eab3f1c7f06fd8d45f4c9a4c2c6e07f05bfc07",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cryptocurrency-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cryptocurrency-01-lined",
-    "current_static_sha256": "67396cabd1a3dd047856f22f1c7e726e68718b998629f799f9ad9f77a7f35d10",
-    "current_scene_sha256": "3dccf2740f66bc4ba700a0802a21053c562b623cefc653c67105aab0cfd61b5b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cryptocurrency-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cryptocurrency-02-lined",
-    "current_static_sha256": "eb20f3e9d63c74d182af9ca84a795a3b82f8db8bcbc6339291d1ecf1eeb57392",
-    "current_scene_sha256": "a09bd6957cec616c6488d50872d99762caa30f4719d05b7de80c6599882cfcf9",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cryptocurrency-03-lined",
-    "comment": "не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "cryptocurrency-03-lined",
-    "current_static_sha256": "de087ad361532bd6b2feb1f7b9b898c4557d8dcb0cd02c9f903c27b15f232917",
-    "current_scene_sha256": "d7fd53bdbd6fd06dd5b77a2d55350d365d64f8461fca0a29caa9e82f6e6014c0",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cryptocurrency-04-lined",
-    "comment": "не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "cryptocurrency-04-lined",
-    "current_static_sha256": "f312b73c48ac1f3a0eb9d19e9135fa0197012ae947a38bdea5f5e3758b07d640",
-    "current_scene_sha256": "a25ef1f006c60474d4ca02a6d2934c7ecedfbd26f734c6d47e94adde1108cfe4",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4349,48 +2713,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "currency-bitcoin-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-bitcoin-circle-lined",
-    "current_static_sha256": "33983451fb3952188d4cdab0dc146104400ce0939fe166d7a53a81f11ac2c12c",
-    "current_scene_sha256": "51911b985dcec5756670ece9ff97a29e96b8d9670d81da516c37cfedbdb1042b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-bitcoin-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-bitcoin-lined",
-    "current_static_sha256": "b3abf9fc7d2114bdfc7422c2f98f92d7bb3620b95bfb1c577cd414159514bea2",
-    "current_scene_sha256": "7464a213abb0a017c86509b6918261ed8adf535cfb08736226beafaf3076f9bb",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-dollar-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-dollar-circle-lined",
-    "current_static_sha256": "77ca011338ffd4e31b22dc7939423491f918024b46ff074b61b43af34d97c039",
-    "current_scene_sha256": "a2b0391ee383de2d858bd587f1b7c522a8f9f126775b1342ec2c856e00c6d6a3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "currency-dollar-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -4402,48 +2724,6 @@
     "canonical": "currency-dollar-lined",
     "current_static_sha256": "830a69957f2ecf5dab88ca12d868b550bc811557297dd280656cc096807cafa1",
     "current_scene_sha256": "6bf8ac6d859fb8fcf01d0ecb612e70609cd0863f67955cd58aa1f9e8f9d7798a",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-ethereum-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-ethereum-circle-lined",
-    "current_static_sha256": "a55e68132158925b46109b74818d92189e66b9c05185e0d49ee0919a61d12ef2",
-    "current_scene_sha256": "b3a0e506262e1b97c4affa714b8654596b978ed772fa8b17b46bd916c95d1ded",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-ethereum-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-ethereum-lined",
-    "current_static_sha256": "7a9e04b5730de70c313d30f22922859269400cc585c7b8b45aad8ba591ae56a9",
-    "current_scene_sha256": "e33e9863c449a2e79af745f27bec53f179e4951dbad5db4108f553a2b14d5961",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-euro-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-euro-circle-lined",
-    "current_static_sha256": "744069c6e5aaad36c57d3593179524ec97dcd4ceb5ca3d453c43905ca5acd8c5",
-    "current_scene_sha256": "11709686f7ed49fcb54ca7ce660a44d389470a3d49d85d7cdfb5e7c6ef806af8",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4461,48 +2741,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "currency-pound-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-pound-circle-lined",
-    "current_static_sha256": "162f31d1f9b6747abb6981b72895d2f91769773a6a419094030e0aab7a4f724a",
-    "current_scene_sha256": "f3c850a2195efa420ca31f151ca4de30ef3c8e07ff4161db3eeb841202abed9f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-pound-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-pound-lined",
-    "current_static_sha256": "47522549bcdb6526da5fa6bd9315278679087cda07ab53b916e84c2d66e0446c",
-    "current_scene_sha256": "529b83b56c89fd6f06ef4b286f4c7d0e14c6037a2fba129032b1dbda0ebbe019",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-ruble-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-ruble-circle-lined",
-    "current_static_sha256": "d6e025f7dfbc3db2f8617f06b697120279d0892e0286f4d58e12fcfbb3d873eb",
-    "current_scene_sha256": "95451ff4fc3047167d8c5de765282822eade7fcb71abea004bf6a60122e341b3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "currency-ruble-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -4514,20 +2752,6 @@
     "canonical": "currency-ruble-lined",
     "current_static_sha256": "11db9167a87b83bb5ed9bfc3902b8ad864fe4443140caf7578f362e9381faf91",
     "current_scene_sha256": "c14369aa0f2d5fa90e6c9ef0a566fe829c46d15b4d801c4032a75d9cac480ea2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "currency-rupee-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-rupee-circle-lined",
-    "current_static_sha256": "3d5ae09119ee004178b63e2c88fc33fca837c9e34c3a996113d90e1191b7f760",
-    "current_scene_sha256": "ec75521116b822f695d93336887898f6e36708e281613e760852126e90445ff1",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4545,20 +2769,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "currency-yen-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "currency-yen-circle-lined",
-    "current_static_sha256": "5023fdcff6d8b37a255a683263dfc64d8333f5f595debad55d3728f04f56074e",
-    "current_scene_sha256": "6229fa3871da734db2133b4e6a97851fa1b79fb71a86c5beb490ccfdf251d287",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "currency-yen-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -4570,20 +2780,6 @@
     "canonical": "currency-yen-lined",
     "current_static_sha256": "dc76fde748b1a6add52e6579a381dc404c76233142502d414b55d2204240fe59",
     "current_scene_sha256": "3ed7e9879fa86ef6b7a76223f261c32ae71dc53dfb05c2541d4daa8f904b17c3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "cursor-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "cursor-01-lined",
-    "current_static_sha256": "3607100363949ae7b0d86e95bb506d49d79af7ee3e23fd82b7f9ba281b2243a1",
-    "current_scene_sha256": "54254776dd0b1e54ac6f4f78b3143ba5b66a48210982f0708887c388b2e2e1b8",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4617,22 +2813,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "data-lined",
-    "comment": "не подходит",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "data-lined",
-    "current_static_sha256": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
-    "current_scene_sha256": "426e726badb2c218353fa3d7b6fffe94e2642f4d413b8329fec07b18488d1418",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "database-01-lined",
     "comment": "ок, но 2 3 и 4 линии надо анимировать не одновременно",
     "preset": "Balanced",
@@ -4649,22 +2829,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "dataflow-01-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dataflow-01-lined",
-    "current_static_sha256": "537efd867727df6aa69fc75da112fd15529f1382e7c5bb033959511e6fc833c5",
-    "current_scene_sha256": "2570b6cbe0772b957c7db3c34cabaefbf6629cbf44d5bdf98adeddd15e7ca364",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "dataflow-02-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -4678,38 +2842,6 @@
     "canonical": "dataflow-02-lined",
     "current_static_sha256": "1906206b993e29e73ff664f5326ee926057d339b6915d7a89d436c2263d09820",
     "current_scene_sha256": "6474b57c65f7af1999fd68cc223bd7f4b28b0ed8b500c56088980b98b9d896ac",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dataflow-03-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dataflow-03-lined",
-    "current_static_sha256": "ec98d5be0cc288fcd329e1b60f946227fb057df65c7509550e24915ab858739d",
-    "current_scene_sha256": "c7fc3f21e77cd0b024a3be1021e415874751e11005bda5fb97598d4361fb804f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dataflow-04-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dataflow-04-lined",
-    "current_static_sha256": "8ccf88cd4495c69b18f10e1604df5b4bd84932de8e5f05f66e05d2d28fade7c5",
-    "current_scene_sha256": "6019a806e661a73c4daa4b486589fc8d942a5adfa0c13cee0c83dd9529224ffe",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4743,116 +2875,6 @@
     "canonical": "diamond-01-lined",
     "current_static_sha256": "60e1df3558d81c3deda8f49e683e0f1da8e7ffad4b437bd444fdacae9c790290",
     "current_scene_sha256": "254f610049877c3d37dabcfff80fc086ce51cc422e6fc1ab0aea4f3514c1bca0",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-1-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-1-lined",
-    "current_static_sha256": "bf8a9b10ff44dd55ec92619c7b7f8a5777bc1569f8e9cb716fc39d8669988cca",
-    "current_scene_sha256": "aba2349acdd08ab843287bab372bb2c98329404046d5bfab5c77df7ffc1531ff",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-2-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-2-lined",
-    "current_static_sha256": "e706c2750604aa0c28a4683bdd48a3e09868e15abffa5e2388be0234df63798b",
-    "current_scene_sha256": "cd0a81b8f2e86fe9b481e3b7d37b16b62becab301cf11139052557216a56b675",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-3-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-3-lined",
-    "current_static_sha256": "a544fd068cada1a742683e75bdbce21b3c6246925793fb572572755db3e0b8e9",
-    "current_scene_sha256": "9967fde498c79f3dc4c5684bcfdf6d20215567bc5d876c6b8640e1cc5ef527e7",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-4-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-4-lined",
-    "current_static_sha256": "234a4e9e143530c3dc160376cf4af1bf1e415b56822768c5435d89b30b4021ef",
-    "current_scene_sha256": "727515f947c312fe2cdace3302033c764a716fa1c19722b99b7ff5891a9f07b0",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-5-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-5-lined",
-    "current_static_sha256": "0facf73ba4d2bc0bcbb9a31a390f63e214c20510bc08b83c4e8cc42073474242",
-    "current_scene_sha256": "3db51b9e9497830382a4bf1eab7e116a8ab448610ee3e822ff31c3ec9b0c8b30",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dice-6-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "dice-6-lined",
-    "current_static_sha256": "3814a14b5017cdf92773f0434c0f63e19616ce3dd9fb0a2a915c173c003622ed",
-    "current_scene_sha256": "80c605f9e8492d7e9d00eeb560895716a1b8c7ca2c678e69f2787fd4a6c7d4ce",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "disc-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "disc-01-lined",
-    "current_static_sha256": "55d4573fa1fcd42ac1e184fa215cde551bd51deea612224dc8df596add0068d5",
-    "current_scene_sha256": "2cb8db34470721c591f4fc4d5f86c503b9fc7d13249056476b504590ca1cbd27",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -4932,20 +2954,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "divide-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "divide-03-lined",
-    "current_static_sha256": "76cdc3d0cb2485c65877a206600237b8f3288693657a95eb8c8653f45ff20a55",
-    "current_scene_sha256": "288f1c7a70e3021f3663b210ee4e9c763b0e55594704438528ccbaafce3b7d32",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "divider-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -4959,20 +2967,6 @@
     "canonical": "divider-lined",
     "current_static_sha256": "40ddb9ed2c47371e65ecb50117fb4940f6700c10b2c3ff3933af8799cd1cf2ce",
     "current_scene_sha256": "ba52834ec384b95b195dd2589c449c7901e734769550b3e2d8e76c467020cd06",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "dot-single-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "dot-single-lined",
-    "current_static_sha256": "085e8a3c485ea7ce1378ebd45067235bfb8828b4f62130bec42d157eb2c88197",
-    "current_scene_sha256": "ead138c3e8dfcf2a1d69e1cdb671b38cce6da3836c459b4ea2a7f9a9b8e0f8df",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -5064,64 +3058,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "drop-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "drop-lined",
-    "current_static_sha256": "ee86a74d4b24d80b4afa94833d0d3e26bd2ddc342d132b62cd5bf97ae2556dba",
-    "current_scene_sha256": "633b9b109b89e41bc4aee56c72e390dd61db15a2454fe77aa3f5ecb227a8e37b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "droplets-01-lined",
-    "comment": "лучше не одновременно",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "stagger"
-    ],
-    "collection": "active",
-    "canonical": "droplets-01-lined",
-    "current_static_sha256": "6ca88d430dbdd1c6e9a79a6363aea3a6aad357dde2722d0d88faf21c8ee0c1ec",
-    "current_scene_sha256": "50c6e1cc75b69f266d96b1fca24366c5f9f36b9bd292ba1d1f16bccc5fe48c07",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "droplets-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "droplets-02-lined",
-    "current_static_sha256": "f95a12c72156a2036c01d75206b400e517182c27f6e9d34ca1b69e6a95136f55",
-    "current_scene_sha256": "6ed016d73c02e98aab5cdb621131702e967a529d8f7d22dd64b07c5fa32b480e",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "droplets-03-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "droplets-03-lined",
-    "current_static_sha256": "026440f2fa94796d5871a98daa8131d7442845c24f03c7170c1f90a037b59c11",
-    "current_scene_sha256": "39f7247b8e869f2b0bcae4c8fbcccc711d3ea4cf3109b7f149b447f55374c771",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "dropper-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -5207,70 +3143,6 @@
     "canonical": "eraser-lined",
     "current_static_sha256": "1ed67aa3282ee685f2e72f9279a420730bd8c338ef79b12a802a71460aca07dd",
     "current_scene_sha256": "ad42d576ffc5173d074ea7ab2ee289c92f374f647533b63e04ab49a55d8edca6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "expand-01-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "expand-01-lined",
-    "current_static_sha256": "86335e65983c2afec5c3f5ea73b90da65fe94e51c6322f2253004502b422cab3",
-    "current_scene_sha256": "e4d76909150d76c6aa0d7725c8a724a9b7774fb7f23699c379db8e4401a82c6f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "expand-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "expand-02-lined",
-    "current_static_sha256": "ca7daa0f9615184e0d2d512b927796b1f8e64e96ebfebcf96f1c0df45cf928a2",
-    "current_scene_sha256": "5e63b73ade0bd74000061581843e893d24387e7c0cfca5c9c2d81975ec6826da",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "expand-03-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "expand-03-lined",
-    "current_static_sha256": "2d2c722bb0cc6f5f6c6f881e133d3500ca0c1421ad358a578fcb9dda7aae7002",
-    "current_scene_sha256": "124e59af0019c79371a75ccbfe29343639e2bdfdf7f74393efe55d3dea8c39bf",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "expand-04-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "expand-04-lined",
-    "current_static_sha256": "b00e6155ca01afa51e89b79881bfe6d6f6f10ad7353bef0203011d605da1dba0",
-    "current_scene_sha256": "70674818d7f36ce76edfb029fdfe6ede163ab77bef388d35fce24e335a0ec127",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -5382,34 +3254,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "face-id-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "face-id-lined",
-    "current_static_sha256": "aa736abace7fc63a414f5712413b24771a367f3c6d7e16c3b2a3d3cbfae3c595",
-    "current_scene_sha256": "a9443162d5f9711ecf7aa4ade539168ffdcf82b69bf522ddf9f943e6d1bf01ae",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "face-id-square-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "face-id-square-lined",
-    "current_static_sha256": "6bedd7b15be7334316d5dda22bf2ee584a7489274339fde98863d491861088e5",
-    "current_scene_sha256": "a8572826dc3a3bc422f1c05dd8f2ae227f4dce164327eba5f3c2ac368b7b4ab3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "face-neutral-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -5508,20 +3352,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "figma-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "figma-lined",
-    "current_static_sha256": "e5bac12f7c1d3b04c8507a7ccee412d4d0ed18605ac0cf75d48955e7c28ca44d",
-    "current_scene_sha256": "f806c14122c8c91bad2562bef60ceb18ee0fb2af738f6a9fd1cdc1fd293494da",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "file-01-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -5533,20 +3363,6 @@
     "canonical": "file-01-lined",
     "current_static_sha256": "3266ea71473d50af8efc453315e52d04ac3a4306088ebc97521f79ed41776f5c",
     "current_scene_sha256": "ca8a7041f80c30578c6f5c782191a4e7d013dfef21c9e61538ef3c4ba4885a54",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "file-02-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "file-02-lined",
-    "current_static_sha256": "0ae351ba44e2d1665ca2f3eeaab22b0bbc4792a9d9a7871e2f49bd60204826a4",
-    "current_scene_sha256": "fc9714338871bc00d7036047fd6cbc3c4a7e9e543d607aaa040d9a5b94f9b962",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -5578,23 +3394,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "file-06-lined",
-    "comment": "ок, но геометрия не нравится",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "file-06-lined",
-    "current_static_sha256": "44e343e55709b76eb6ac8a80c842e4f906db1f2dd4cb420296b9506aa6a10816",
-    "current_scene_sha256": "e3be93f7ab4886514d0de8f5a8ae5cb3e0cbfa7a611e661fafe7dd4cc540a040",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "file-attachment-01-lined",
     "comment": "ок",
     "preset": "Balanced",
@@ -5620,20 +3419,6 @@
     "canonical": "file-check-01-lined",
     "current_static_sha256": "473f61fefbef8faf02a7e7027dfcabac5aa8306d455cd0a368dd1db6ebceace9",
     "current_scene_sha256": "40786f372169df45d349114c3ecb9a44f2aa8559c55e9e820f06d535b8c5da76",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "file-circle-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "file-circle-lined",
-    "current_static_sha256": "ddd209d745e56279962863f3da88c3c9f2208eaf823f6f437e10b39d967dfa2d",
-    "current_scene_sha256": "30ffa9c26dd90d8b96b1a6b0f9b7db817dcfcdb9a8bbfe5eb9071af443868af7",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -5779,20 +3564,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "film-01-lined",
-    "comment": "ок",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "positive",
-    "tags": [],
-    "collection": "active",
-    "canonical": "film-01-lined",
-    "current_static_sha256": "27173df23a7b9a198cf3d85dbfd21bfac383bd4388b5e61135f6b04df88b1e27",
-    "current_scene_sha256": "5b1c5b1062f5df4ba71611dcaa5bfb5a8eeff0828ae311711001949bf2951536",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "filter-funnel-01-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -5838,71 +3609,6 @@
     "canonical": "filter-lines-up-lined",
     "current_static_sha256": "58c88fc97613742ed484456c31a0aab0163b2f586ec7fc9224510b1562fbbc79",
     "current_scene_sha256": "31ccd9a6c289f4663073cce85a9dcf3bb77ca5b68cbbe6e459bfaf5e5dd15d4f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "fingerprint-01-lined",
-    "comment": "не зациклена",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "loop"
-    ],
-    "collection": "active",
-    "canonical": "fingerprint-01-lined",
-    "current_static_sha256": "b4f1685db3ebeca4f882c61d61ca63037fb71d11d8c65fd4f35ab8f222d842e7",
-    "current_scene_sha256": "7feb017df80c032d8917de2eb285f5673f0ae6dc3a370c50fd482e8305482ab3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "flag-01-lined",
-    "comment": "нет анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "flag-01-lined",
-    "current_static_sha256": "4e5a65e4fc2428548125fbacd6dc3cb2677096be35a1f8e51152aaa097216bd5",
-    "current_scene_sha256": "e48923da5fc252625e2c0b66a4a918135b1a404f4fed454ea177cf23ad246081",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "flag-03-lined",
-    "comment": "нет анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "flag-03-lined",
-    "current_static_sha256": "8170bbef307318d3267f7fdb478679fac8d8a600594934e63ad7a1d24ce785bb",
-    "current_scene_sha256": "57fd6c1395cd58aeb12d20a8ae8a80fa34fef3b0ef469b853e85231059fe9eff",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "flag-04-lined",
-    "comment": "брак в геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "flag-04-lined",
-    "current_static_sha256": "0bcfb7e750eb8defe6a18895047c89c2fbf7447e5d3f0e808271904c80893262",
-    "current_scene_sha256": "0f71ec49435d26275a944b0a5656bab2dbd2815f0eaae2fc1dab6e7dbe0ec2b7",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6196,55 +3902,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "home-01-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "home-01-lined",
-    "current_static_sha256": "cd1d40e35fcdb9d4bdf336ef00d07d82bb151d06de9d684faf8739d399a75348",
-    "current_scene_sha256": "508a93312877c173addf8c4d52305a1f171d03120eabc363f07a2a9bfb303b38",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "home-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "home-02-lined",
-    "current_static_sha256": "b5482f52c53ed3d27f7d575d34941ec615528ee0a80523c167641aff6a23b97f",
-    "current_scene_sha256": "3b8944656629a3cadf01ac2e06fc6e2832da51db034314a98fd3329c196322b8",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "home-04-lined",
-    "comment": "брак в анимации и геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "home-04-lined",
-    "current_static_sha256": "665f345b59eb6aa2888e6255dcf69c9115bfbb69fb9908103251a6700528f9ec",
-    "current_scene_sha256": "42eb60a76943efd1b1d5359147520dbe3880270698bb5ba2faa1010ce94c3b2f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "home-smile-lined",
     "comment": "брак в анимации и геометрии",
     "preset": "Balanced",
@@ -6262,22 +3919,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "hurricane-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "hurricane-02-lined",
-    "current_static_sha256": "f855a5bfc9f28de130c952ba7e3c06d89b65bc05dfa2922fe12726aa71884cf8",
-    "current_scene_sha256": "689fe36b48c64c9d3035dad57d3d68e17a0d4dff6e5c3cc743d90a99d6168493",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "hurricane-01-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6291,22 +3932,6 @@
     "canonical": "hurricane-01-lined",
     "current_static_sha256": "356cca18d6ecd1b625db256c6781888a29b15a7bfbb468b2a6825846f1faee93",
     "current_scene_sha256": "ecf62295acd87152abbc98e6ba6dcef225a56e4547f8d5e8e994e20269fa4e8f",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "hurricane-03-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "hurricane-03-lined",
-    "current_static_sha256": "156e876a9437c1088b28913b1be774b2336e6dc13e1392e5aefc81c4aff3004c",
-    "current_scene_sha256": "b68f66eb2f836a95d699fabe7271994c65d9a10db54702f41154f3b3801261ce",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6339,22 +3964,6 @@
     "canonical": "image-down-lined",
     "current_static_sha256": "386fa13e1f4d762027ebbfa869fd23490a9dbd1e65bb6c35b78bc368febe1ce1",
     "current_scene_sha256": "2a32105bb676814227fda29a7db70b2c793447f6e1dc4eebb65d11b8c12965ab",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "image-indent-left-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "image-indent-left-lined",
-    "current_static_sha256": "183761d6c63872dbbb5124bfa43e6c1fd59d0c54c4e7866f63157f02b9ef9ff5",
-    "current_scene_sha256": "7270eacb2d89e1aed61766d8a5541a3fc98d8f92746a66eef7e748626d5ad735",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6454,54 +4063,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "info-hexagon-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "info-hexagon-lined",
-    "current_static_sha256": "4c930a3b8ebe376a8cd7fcea462d273dc096aa4e9e2aefc880a24ef7b4100f4c",
-    "current_scene_sha256": "4f7be8a560dd0a8d8ead9051b9b44eb8681e3c4979aaa66b10841ff370d13458",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "italic-square-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "italic-square-lined",
-    "current_static_sha256": "1caded47616ad3066976116de01e2790609faa9868b783484482a948f71fb8c9",
-    "current_scene_sha256": "ad2fd69020f363584cbdce9ca2291ea8a6ae2dcc07ee223a5529c5efe3127f90",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "lightbulb-01-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "lightbulb-01-lined",
-    "current_static_sha256": "f7406d5b977e3efde1467630d13dd0ee593ea9410c7e6f2480d01bdcd385a64c",
-    "current_scene_sha256": "1dd05eaa736cc2e47d741451e2bb69bf8342fb0d3765ddbc26b49190dbdb96b1",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "lightbulb-02-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6598,54 +4159,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "old-time-messenger-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "old-time-messenger-lined",
-    "current_static_sha256": "e4923b2655c4062253bc3bfd88f406ba197fd3f452dd232ef56bc4035488a2a3",
-    "current_scene_sha256": "1e6bd87e6462a8970d7d3021d39819b30fa8b687511a598366d6b5d1d020b279",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "pause-circle-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "pause-circle-lined",
-    "current_static_sha256": "e711dd8eae497465e43232290f7486d1a9534c95d55098a15f172f5191e1d02f",
-    "current_scene_sha256": "86ee2650c1aac5ff69a42260c0a1f4e98ce6db46b58b37dbd944e0dd48b87db2",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "pause-square-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "pause-square-lined",
-    "current_static_sha256": "f7501bd3096cb674a37d369c8dfd0bdb13c3ef302c7da8d2bf2f3a941de74c85",
-    "current_scene_sha256": "bc31e3ea1f1f54b4089ea4e19a3eb91b53e0598702d18b6a61f2fa5276d3b5ee",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "phone-call-02-lined",
     "comment": "кайф",
     "preset": "Balanced",
@@ -6676,38 +4189,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "placeholder-lined",
-    "comment": "нет анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "placeholder-lined",
-    "current_static_sha256": "a1ed87891d69e9aadb743742b965cf3687da9a74e2558ac9e86fb15a605e9849",
-    "current_scene_sha256": "913b149c963bab18f8b64bef4ef4a8d3923b55eb56e7e1e2543373584ebe5664",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "play-circle-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "play-circle-lined",
-    "current_static_sha256": "985d0983b1cba076ee85b34d775c2fa560601d11e979d14f9809f715690ef633",
-    "current_scene_sha256": "3c882b20b3da22a6c9799ef06723c624ae99af5cd3ec8a2765f5e760ffd329cc",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "play-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6721,22 +4202,6 @@
     "canonical": "play-lined",
     "current_static_sha256": "6b25bf35be0fe146a7e348bf47b6c407a95bfc74040ac47f96caff4303d2485e",
     "current_scene_sha256": "43aabfa9eb1148969f6c2fe0f4d43c72f2ea4e40206997537b106f4a7b28fed9",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "play-square-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "play-square-lined",
-    "current_static_sha256": "21bea3eabca3866fe972a102be8baf0ebe9c89358e4484365034125a5ea74c80",
-    "current_scene_sha256": "355f606422887ef92aad4dad974ab09432372460c38e968d93a28e5b57000c19",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6774,22 +4239,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "scales-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "scales-02-lined",
-    "current_static_sha256": "bf8f4934a448ee101390b41806620b33d12839fe6c3319da7f1df5e342963ee0",
-    "current_scene_sha256": "cc864e4d024e2847aa81367ca5ec699d9c07b40c71ff3e4354159c808a282448",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "search-md-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6803,39 +4252,6 @@
     "canonical": "search-md-lined",
     "current_static_sha256": "39ffe7b038c2f546aa1fd575eb3a9a78b3baf8362cedb58cfdff96b3878027ab",
     "current_scene_sha256": "f32dc396ffe70450a8e22d295da69cb7629ed61ba6780d20c930aff9c04814e3",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "search-lg-lined",
-    "comment": "брак в геометрии",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "geometry",
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "search-lg-lined",
-    "current_static_sha256": "a1dee500cbe39e6c303c04ee210e969bccbb0cc0da91dc2b898178d09baec538",
-    "current_scene_sha256": "744370d4ec2eb52689c9a06733b593a3848e3c4ad16903d9788f7e809aabcf06",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "settings-03-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "settings-03-lined",
-    "current_static_sha256": "59e7bd9f6c3a01978cc6f106662234f2f337d1ff730c095caa2c91d60cb4ae57",
-    "current_scene_sha256": "0b1a4976aca42a6eeb16d5cc6fa84650b79e14436a986fb587a28e4bbce8576e",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6855,38 +4271,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "share-07-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "share-07-lined",
-    "current_static_sha256": "b0e790aac56f0e8cbe019fd04248cc226a40b65f064d4dfb238691bd51a1481c",
-    "current_scene_sha256": "609c2d23d8ded24f17c1c404874f9abc0a078af5f59abab992470374d845056b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "signal-01-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "signal-01-lined",
-    "current_static_sha256": "e90314d9fcbbf11b503ba1fdc70a6f9084ddd0590923bd4020db43749e7df7c0",
-    "current_scene_sha256": "27f91ac9632fb17a219ba2b4c3f1d1660bc8797bcaa03378cda9c4e50980a0b9",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "signal-02-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6900,22 +4284,6 @@
     "canonical": "signal-02-lined",
     "current_static_sha256": "7b9a1ce03ed0d3ad85b594b6bf2ddb0eb3a11bc8adb5b843062a2152d332be61",
     "current_scene_sha256": "1be2619fe5190d1d5ff1921756b51a657c91c97aeeb2b640ba5cee44e727e2d6",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "signal-03-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "signal-03-lined",
-    "current_static_sha256": "ec9f03106ff017b4209af452b4487757dde68bf2c88224e3f62bc6c8afdb8d2e",
-    "current_scene_sha256": "cf2ac916f1b7ca1b9c757fef3378bdc6078cf0eb2e48b2c18116bc9f390b18cb",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -6952,22 +4320,6 @@
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
-    "icon": "spacing-height-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "spacing-height-02-lined",
-    "current_static_sha256": "642b4177e2224953e32f15d1cb824c24e6afeb444376d19779fb9ed0544aad2a",
-    "current_scene_sha256": "cf1cb5497da1a6cd371accbb329086cebad62b769ad3a88c2e17d442ab139431",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
     "icon": "spacing-width-01-lined",
     "comment": "брак в анимации",
     "preset": "Balanced",
@@ -6981,22 +4333,6 @@
     "canonical": "spacing-width-01-lined",
     "current_static_sha256": "03ba1773eb3151904082e31c5b574e13b1cbea17859b6924edbadfa665c265a7",
     "current_scene_sha256": "98c49b33ba29e421e5632eee927b88a4450dda2f7337dd9f0677eefcd679663b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "stars-02-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "stars-02-lined",
-    "current_static_sha256": "0b50b1d6535964517d7ea39eba557dc79040e7f664bb7bac472dd2aa6993ee58",
-    "current_scene_sha256": "08a5483775a16d22d99ff4afc0d0d36711cd8dfc981069ef4d39a9aad1f3117e",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
@@ -7029,22 +4365,6 @@
     "canonical": "sticker-square-lined",
     "current_static_sha256": "03a4219d69c81cb5c5eb98a8c3d1004850584d9c9fa3512a2231671cfca2d1a7",
     "current_scene_sha256": "3b29d13c39852df9310c093c8903309b3f7c1eb9ba6c125088fc647d0ed4a11b",
-    "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
-  },
-  {
-    "icon": "sticker-circle-lined",
-    "comment": "брак в анимации",
-    "preset": "Balanced",
-    "speed": 1,
-    "strokeWidth": 1.5,
-    "review_status": "revision",
-    "tags": [
-      "motion-review"
-    ],
-    "collection": "active",
-    "canonical": "sticker-circle-lined",
-    "current_static_sha256": "863904cabb21a7d189c4fee67bcce7c7447b75c10b00900296cd445bac18a294",
-    "current_scene_sha256": "a9200de022fa1f4cbfc94aab655d4b6d5ac67615a7ed6820d12914984f241a57",
     "hash_binding": "Captured at import for traceability; supplied receipt has no scene hashes."
   },
   {
