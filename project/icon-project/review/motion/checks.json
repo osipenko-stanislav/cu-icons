@@ -1,0 +1,1429 @@
+{
+  "browser_checks": [
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Smooth",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Balanced",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "database-01-lined",
+      "preset": "Expressive",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 3,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 3,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 4,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 4,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 5,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 5,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 6,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 6,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 7,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 7,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 8,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Smooth",
+      "index": 8,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 3,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 3,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 4,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 4,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 5,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 5,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 6,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 6,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 7,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 7,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 8,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Balanced",
+      "index": 8,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 0,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 0,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 1,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 1,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 2,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 2,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 3,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 3,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 4,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 4,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 5,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 5,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 6,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 6,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 7,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 7,
+      "restoredAfterRedraw": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 8,
+      "fullyErasedAtMidpoint": true,
+      "noFade": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "preset": "Expressive",
+      "index": 8,
+      "restoredAfterRedraw": true
+    }
+  ],
+  "static_equivalence": [
+    {
+      "id": "glasses-02-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "glasses-02-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "database-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "database-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "database-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "database-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    }
+  ],
+  "sampled_frames": 84,
+  "status": "pass",
+  "limitations": [
+    "Chromium only; deterministic frame sampling, not real device timing."
+  ],
+  "archive_check": {
+    "count": 60,
+    "status": "pass"
+  },
+  "localhost_updated": true,
+  "revision": 3
+}

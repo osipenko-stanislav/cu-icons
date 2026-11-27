@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1" stroke="currentColor">
+<g id="idle--motion-idle"><path d="M21 16H3M21 8H3" stroke-linecap="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><path d="M21 16H3" stroke-linecap="round" stroke="currentColor" />
+<path d="M21 8H3" stroke-linecap="round" stroke="currentColor" data-part="0" />
+</g></svg>

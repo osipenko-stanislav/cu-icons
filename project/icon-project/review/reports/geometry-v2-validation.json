@@ -1,0 +1,1425 @@
+{
+  "icon-project/staging/geometry-v2/award-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "circle": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 3,
+      "layers": 3,
+      "transforms": 0,
+      "commands": 19,
+      "radii": {
+        "r": [
+          "8.5"
+        ],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        3.234375,
+        1.1484375,
+        21.2578125,
+        23.015625
+      ],
+      "padding": [
+        3.234375,
+        1.1484375,
+        2.7421875,
+        0.984375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/beaker-02-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 13,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 2,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.9296875,
+        2.7421875,
+        21.0703125,
+        21.2578125
+      ],
+      "padding": [
+        2.9296875,
+        2.7421875,
+        2.9296875,
+        2.7421875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/briefcase-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 16,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt"
+      ],
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.765625,
+        2.2265625,
+        21.7734375,
+        20.15625
+      ],
+      "padding": [
+        2.765625,
+        2.2265625,
+        2.2265625,
+        3.84375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/camera-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1,
+        "circle": 1
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 10,
+      "radii": {
+        "r": [
+          "4"
+        ],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        3.0,
+        3.984375,
+        21.0,
+        20.5078125
+      ],
+      "padding": [
+        3.0,
+        3.984375,
+        3.0,
+        3.4921875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/clock-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "circle": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 3,
+      "radii": {
+        "r": [
+          "10"
+        ],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "padding": [
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/code-02-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 8,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.1484375,
+        4.40625,
+        22.8984375,
+        19.78125
+      ],
+      "padding": [
+        1.1484375,
+        4.40625,
+        1.1015625,
+        4.21875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/database-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 3,
+        "ellipse": 1,
+        "line": 2
+      },
+      "fills": 0,
+      "strokes": 6,
+      "layers": 6,
+      "transforms": 0,
+      "commands": 9,
+      "radii": {
+        "r": [],
+        "rx": [
+          "8.72727"
+        ],
+        "ry": [
+          "2.18182"
+        ]
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt"
+      ],
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.484375,
+        2.2265625,
+        20.953125,
+        21.234375
+      ],
+      "padding": [
+        2.484375,
+        2.2265625,
+        3.046875,
+        2.765625
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/edit-02-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 9,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.484375,
+        2.484375,
+        23.5078125,
+        20.5078125
+      ],
+      "padding": [
+        2.484375,
+        2.484375,
+        0.4921875,
+        3.4921875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/face-smile-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 24,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "padding": [
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/file-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 15,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        4.9921875,
+        2.484375,
+        20.015625,
+        21.515625
+      ],
+      "padding": [
+        4.9921875,
+        2.484375,
+        3.984375,
+        2.484375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/flag-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 7,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        7.5,
+        2.484375,
+        20.5078125,
+        21.515625
+      ],
+      "padding": [
+        7.5,
+        2.484375,
+        3.4921875,
+        2.484375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/glasses-02-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 22,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.484375,
+        4.5,
+        21.515625,
+        19.0078125
+      ],
+      "padding": [
+        2.484375,
+        4.5,
+        2.484375,
+        4.9921875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/graduation-hat-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 12,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        0.984375,
+        3.890625,
+        23.015625,
+        19.734375
+      ],
+      "padding": [
+        0.984375,
+        3.890625,
+        0.984375,
+        4.265625
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/line-chart-up-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 5,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.484375,
+        3.4921875,
+        22.5,
+        19.5
+      ],
+      "padding": [
+        2.484375,
+        3.4921875,
+        1.5,
+        4.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/lock-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 12,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 0,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        4.5,
+        2.484375,
+        19.5,
+        21.515625
+      ],
+      "padding": [
+        4.5,
+        2.484375,
+        4.5,
+        2.484375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/mail-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 8,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        3.0,
+        4.5,
+        21.0,
+        19.5
+      ],
+      "padding": [
+        3.0,
+        4.5,
+        3.0,
+        4.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/medical-cross-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 16,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "padding": [
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/phone-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 9,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        4.9921875,
+        2.484375,
+        19.0078125,
+        21.515625
+      ],
+      "padding": [
+        4.9921875,
+        2.484375,
+        4.9921875,
+        2.484375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/search-md-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 8,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "butt"
+      ],
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        2.484375,
+        2.484375,
+        20.859375,
+        20.859375
+      ],
+      "padding": [
+        2.484375,
+        2.484375,
+        3.140625,
+        3.140625
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/shopping-bag-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 2
+      },
+      "fills": 0,
+      "strokes": 2,
+      "layers": 2,
+      "transforms": 0,
+      "commands": 13,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 1,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        3.0,
+        0.984375,
+        21.0,
+        20.5078125
+      ],
+      "padding": [
+        3.0,
+        0.984375,
+        3.0,
+        3.4921875
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/sun-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 22,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "padding": [
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/trash-02-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 14,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        3.4921875,
+        2.484375,
+        20.5078125,
+        21.515625
+      ],
+      "padding": [
+        3.4921875,
+        2.484375,
+        3.4921875,
+        2.484375
+      ]
+    },
+    "issues": []
+  },
+  "icon-project/staging/geometry-v2/trophy-01-lined.svg": {
+    "facts": {
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ],
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "elements": {
+        "svg": 1,
+        "path": 1
+      },
+      "fills": 0,
+      "strokes": 1,
+      "layers": 1,
+      "transforms": 0,
+      "commands": 21,
+      "radii": {
+        "r": [],
+        "rx": [],
+        "ry": []
+      },
+      "coordinate_precision": 5,
+      "stroke_widths": [
+        1.0
+      ],
+      "caps": [
+        "round"
+      ],
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "fill_rules": [],
+      "colors": [
+        "currentColor"
+      ],
+      "opacities": [
+        1.0
+      ],
+      "bounds": [
+        1.5,
+        2.484375,
+        22.5,
+        21.515625
+      ],
+      "padding": [
+        1.5,
+        2.484375,
+        1.5,
+        2.484375
+      ]
+    },
+    "issues": []
+  }
+}

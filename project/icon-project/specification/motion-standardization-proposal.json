@@ -1,0 +1,23 @@
+{
+  "status": "user-reference-selection-analyzed; existing animation revisions remain planned",
+  "user_constraints": [
+    "Use 3–4 animation classes",
+    "Remain expressive",
+    "Do not interfere with perception",
+    "Motion must fit object logic and metaphor",
+    "Defer individual animation revisions"
+  ],
+  "proposed_classes": [
+    "object-gesture",
+    "mechanism",
+    "signal-propagation",
+    "state-transition"
+  ],
+  "source_feedback": "../review/user-feedback/2026-11-26/source-feedback.json",
+  "plan": "REVIEW-AND-MOTION-PLAN.md",
+  "next_working_catalog": "../result/curated/catalog.json",
+  "archive_aliases": "../archive/semantic-duplicates/aliases.json",
+  "reference_selection": "../references/motion/user-selection-2026-11-27/selection.json",
+  "reference_analysis": "../review/motion/user-selection-2026-11-27/ANALYSIS.md",
+  "preservation_priority": "Keep successful existing scenes; prioritize concrete bugs and duplicates."
+}

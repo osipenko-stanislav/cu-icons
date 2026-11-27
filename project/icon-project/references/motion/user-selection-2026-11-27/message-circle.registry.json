@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "message-circle",
+  "type": "registry:component",
+  "title": "Message Circle (animated)",
+  "description": "Animated message circle icon (hover-replay). Usage: <AnimatedMessageCircle size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "communication"
+  ],
+  "meta": {
+    "keywords": [
+      "circle",
+      "communication",
+      "message",
+      "message-circle"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/message-circle.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/message-circle.tsx",
+      "type": "registry:component",
+      "target": "components/animations/message-circle.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/messageCircle\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Message Circle\" from https://useanimations.com (MIT): https://useanimations.com/icons/message-circle\nexport function AnimatedMessageCircle(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

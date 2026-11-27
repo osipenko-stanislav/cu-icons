@@ -1,0 +1,63 @@
+{
+  "png_sha256": "52dad02650007c92dcef162894cf476e4d1bc481c6ddea8de5387519fcd1235e",
+  "icons": {
+    "gaming-pad-02-lined": "77d7075ac26f6ccf998383c8d7c5ddd277b5b29465d1519f9cbb4c671c9e78f0",
+    "gift-01-lined": "efca291270693cf69c78b5e0e1c206e1473975e48d70c042c1cf04d95c9386ff",
+    "gift-02-lined": "36bd9486749755bfd767e5bd97f9059566f04e84b4748f9df47d5f51525c58cf",
+    "git-branch-01-lined": "f640dca6c644e099fb2cb2e434b379a59e7aa21a6cca36d9e76c512b9c7216d2",
+    "git-branch-02-lined": "62e2e5c79d27426f05b5d6af49e85a85315c8a13b4556e768646e2373d62dd61",
+    "git-commit-lined": "1f3619446bb07a75af00e3a61b7584030809f612a021db05d9bfd6b88d33ca48",
+    "git-merge-lined": "5f4e6c0c33017cc546253153af18eef49326decab6c5e1c1e957b0b2a2d9629a",
+    "git-pull-request-lined": "97cb23129162d746af576b09f9f08648ff34ce058e33f00a22e19022e36a3d5e",
+    "glasses-01-lined": "0c76ada26a4d7355690c1ce15ddbc92de63190ff298e696f2a03b140c06c063e",
+    "glasses-02-lined": "dcb3707001a0ccf310b7e0276237fad1a5d07d1577a256cb9acf3ed3ae4a4700",
+    "globe-01-lined": "5c3a6a82e4cf59ccfb959b078ecda2df939cd13d39a0f78d5b3df2678d961106",
+    "globe-02-lined": "7b2b6ee5fef364eee002ead295ee887ef155596239c8d517a4e442d544fe43ae",
+    "globe-03-lined": "5f892f09fa528cbaa0a2b648a2e7b8b797bafa439411caa9ff2f0e941da5df1b",
+    "globe-04-lined": "00af8ae65acebd635c0c04de2721a9e3067762fad9965494af469359186bb10e",
+    "globe-05-lined": "13c4f251db71f9a1bae6afade6f4c70beea77a71c7673b322c094342b2cd52c4",
+    "globe-06-lined": "b299cae0506c35c6049bd52fe81f6e30e488ab889a9c63af29146cf2ac7251ce",
+    "globe-slated-01-lined": "82770c74cf46743e5805c81f9ca1f161510a8fd92329cf54ae60ed3a32efce55",
+    "globe-slated-02-lined": "98b99b1eced62f3ac874f59b96d81841cd0c89cc3ec4aafbb2653c5ec5dd72aa",
+    "google-chrome-lined": "b9f918213ebc0bafaf889b4b9e34875edd5e55f080b66a603e9f33023d950f3d",
+    "graduation-hat-01-lined": "f4f0ccde83e9650aca4a40a760efa6571d1305ad091c64a98a1d1398d6c33ffa",
+    "graduation-hat-02-lined": "48a693a8939a02ec93940fc408b4b50b6ecadc20c3d68db7c448a047da5c81e8",
+    "grid-01-lined": "758a365a17ae848857f706386385f26a6f70e2863750ab294f988dde171d22ab",
+    "grid-02-lined": "0b894fb0faedf877b874ac743f323128840fa5bb6de220685fd6b6d5f5f57994",
+    "grid-03-lined": "4760ebec49d899bb5a288399f9cbbd38aa2b79da817ff83e4319753875e50d6d",
+    "grid-dots-blank-lined": "4d68d37964a19de0f54f05455a55b4dec856f34ec4e009596203ca74ac61e1a9",
+    "grid-dots-bottom-lined": "da3bd629ba9e7beaab3d37d655045d3b6150f49533881b8e426d716cb43002ad",
+    "grid-dots-horizontal-center-lined": "34b5a3bb63a44403bc4ce0df7b1e5182df4c67dd2e441da0ed2b9062093eeae3",
+    "grid-dots-left-lined": "047ec955e5f498d050444cc00cd0675ecfa68bfe308ec0206cde955759c623e3",
+    "grid-dots-outer-lined": "45c0182115b56eca11de2da3b3b8cbb04caa47aa4ff3fd1c6bd1bf359c9806ea",
+    "grid-dots-right-lined": "4b4b8b21cc614afda1d717f2dd6182eb20518e6f68d412c888a0384dae875d01",
+    "grid-dots-top-lined": "8a93b85e687f026e096cf0a29eed8e8c0e8a92205bfb796ce2f4b3b4c5b3e989",
+    "grid-dots-vertical-center-lined": "0e99d099d12a7ffb842e61d42cd4f1933bed1bc5692670fd6908ae29a4891f59",
+    "hand-lined": "7b41518623653344dc283f6c52778fc999f0e061c11bc46266815db048a039a5",
+    "hard-drive-lined": "0a3d515b9692e2c7d9fe5cd89787dd6ebbe9592cef5a2c1d2ca3d032acd23274",
+    "hash-01-lined": "bd23d00c007f85c828d47eeb993beade6ca7d2f3122f9969e776c5d2b6340f00"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

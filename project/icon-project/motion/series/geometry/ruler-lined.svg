@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M14.5 5.49989L16 6.99989M11.5 8.49989L13 9.99989M8.49996 11.4999L9.99996 12.9999M5.49996 14.4999L6.99996 15.9999M2.56561 17.5656L6.43424 21.4342L6.99993 21.99986L7.56561 21.4342L21.4342 7.56561L21.99986 6.99993L21.4342 6.43424L17.5656 2.56561L16.9999 1.99988L16.4342 2.56561L2.56561 16.4342L1.99988 16.9999L2.56561 17.5656Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><g data-part="0"><path d="M14.5 5.49989L16 6.99989" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M11.5 8.49989L13 9.99989" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M8.49996 11.4999L9.99996 12.9999" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M5.49996 14.4999L6.99996 15.9999" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M2.56561 17.5656L6.43424 21.4342L6.99993 21.99986L7.56561 21.4342L21.4342 7.56561L21.99986 6.99993L21.4342 6.43424L17.5656 2.56561L16.9999 1.99988L16.4342 2.56561L2.56561 16.4342L1.99988 16.9999L2.56561 17.5656Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g></g></svg>

@@ -1,0 +1,63 @@
+{
+  "png_sha256": "8ff6b49e0a889f6d6d64fcdbfd824c416edc51a7cc9f4b7ce048d431b04d0321",
+  "icons": {
+    "menu-03-lined": "a148144bf2eed84b202352f6240c9f0b051577ceb51f1649c04c1b13cd0da8e7",
+    "menu-04-lined": "8b718d383ff21b0b53fff6e9d1e5d13cdeac77565ab1c71a7eb6ab812b64f480",
+    "menu-05-lined": "918a8216ba3431e1ce5482879d0fb79199c265089e41251b9c2fcbf244faf172",
+    "message-alert-circle-lined": "af4bb4291f2dc3623e7222b55ee929302645fe0e72b841a5306dde1276f61747",
+    "message-alert-square-lined": "65fb70fbd746a45346fa19d86f905a3ac45078a006c5dac65ed4418f31e2829c",
+    "message-chat-circle-lined": "0fceec9a57d956b87adc6118740b281d87097fc58ed6a20fa9d41e2d9cac8b5b",
+    "message-chat-square-lined": "940ed0b61b763f8cd874834e33071997df181acf3f8dd568c3ccce18796ea0c6",
+    "message-check-circle-lined": "ed63c09c709182c6eee11dab19acbd5edd50f3b86a3c53a9912eb818f4b4f3d1",
+    "message-check-square-lined": "a9daf4c6342abb64cc312708a175a8b497c3f41b5d6ec8b18286a641b13f7383",
+    "message-circle-01-lined": "0c8b38b6f5aa442692438caceeaffebfbcb8f11d3a0a688ac4ef997cfac88488",
+    "message-circle-02-lined": "cf10be0484344f405b3c3f79d8ab65a0e7a2a4771d2261889ef75a28808e4417",
+    "message-dots-circle-lined": "e2ee86688f647d060e134cb29c96e202eb9d830a1952d7a333b34160804c2c85",
+    "message-dots-square-lined": "2945df775e45a0d0202b843fab35946b6e3a197edb041bdd30978e275652c83f",
+    "message-heart-circle-lined": "be7d952228d71505963f3f8ec8e37845700e07db01581cb3ba7598071b837e89",
+    "message-heart-square-lined": "cb802ff030067c6a4cea3739e945524e98243e5e052b6c5ebbe1da282b3d1a51",
+    "message-notification-circle-lined": "13b0fbf3980451783285ed64cf5ec279f87b0adacac253cb8b4d5f06ec0825fc",
+    "message-notification-square-lined": "128697427b4dd9baf0cb1178bea98a9e22c18c4a8a11150cd576bb14d3ac63ae",
+    "message-plus-circle-lined": "e530a3ded457e5f03d5ac469cf0cd3d6e2d7b03507ea642ceb88a0b386d37fb6",
+    "message-plus-square-lined": "4bcfa8500892e7bba8887da8257767f6cf718c5718eb95c81e58e0457424c3a9",
+    "message-question-circle-lined": "529316559dc66c2e3b2051d211e336e3ea8d521fd8a528b4a6e235ac8c64a401",
+    "message-question-square-lined": "f0b72f8bac0324bed064c18580eaffab744970dad32f5ba62d3c1470f27db680",
+    "message-smile-circle-lined": "f21eb339b4d99c963c178cf546c46e08c9a1ba7dd45c55a4294d9673535425ae",
+    "message-smile-square-lined": "d15c3416017895df6be568f7859a7fd576774e5950832473045a482b74756323",
+    "message-square-02-lined": "076bb54a55fdf12572fabb2a47fa0f85e2cf4894c36f6abdbea142b3b14e3acd",
+    "message-text-circle-01-lined": "948e699155005c4b9fd0ad63fdeafc2a052e4c3b729ef677647e9ca79b8d66e9",
+    "message-text-circle-02-lined": "86359de55129c70fbd4691696bc1da8f7ba73f21ac8dbfa8786003467ab5f257",
+    "message-text-square-02-lined": "5c1929b8033739070117bb4dae2a0116536638343659d4b83a182257917027c3",
+    "message-x-circle-lined": "add90b860e7d5bd5413449ec226cf63822ee38edab839c05f18b67ba738906a6",
+    "message-x-square-lined": "9299f72bb9dfc169e128b0704c9869fb1484e6f27ffe0d6bb652ebff0d0819bb",
+    "microphone-01-lined": "bd81c4a492f4a733e27704ea4ec7c807536e060026e1822a865413fe0783d225",
+    "microphone-02-lined": "5ccb5e6843b325938cc8516b5f67d6557b31bbd239b8a2ef91ab6c49b84f364d",
+    "microphone-off-01-lined": "eda0735694276126fa484fed62e533d41ba0ba5a53408335676daa6f46b08570",
+    "microphone-off-02-lined": "c9906c2cbba006082216eaccdf719728b5028865e0bc13697bf283ca8eb0c9ae",
+    "microscope-lined": "eb14c707f6c3a21da19866d44f8f5a468366943a7b7108b475cefd9dffea8b54",
+    "minimize-01-lined": "b53e8dc6809acf60b7a06bdd935e3b950003e62b8784c9ea77396f6d7f8d7c6e"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

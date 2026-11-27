@@ -1,0 +1,3561 @@
+{
+  "activity-heart-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "activity-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "airplay-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "airpods-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alarm-clock-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alarm-clock-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alarm-clock-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alarm-clock-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alarm-clock-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alert-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alert-hexagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alert-octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alert-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "alert-triangle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-bottom-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-bottom-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-center-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-horizontal-centre-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-horizontal-centre-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-justify-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-left-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-left-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-right-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-right-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-top-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-top-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-vertical-center-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "align-vertical-center-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "anchor-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "annotation-alert-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-check-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-dots-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-heart-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-info-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-plus-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-question-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "annotation-x-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "announcement-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "announcement-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "announcement-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "archive-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-block-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-block-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-block-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-block-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-broken-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-circle-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-down-lined": [
+    "20-unit arrows matching approved left/right pair"
+  ],
+  "arrow-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-narrow-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-square-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrow-up-lined": [
+    "20-unit arrows matching approved left/right pair"
+  ],
+  "arrow-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrows-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrows-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrows-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrows-triangle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "arrows-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "asterisk-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "asterisk-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "at-sign-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "atom-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "atom-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "attachment-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "attachment-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "award-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "award-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "award-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "award-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "award-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "backpack-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bank-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bank-note-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bank-note-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bank-note-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-07-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-08-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-09-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-10-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-11-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-12-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-circle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-circle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-circle-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-chart-square-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bar-line-chart-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-charging-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-charging-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-empty-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-full-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-low-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "battery-mid-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "beaker-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "beaker-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-off-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-off-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-off-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-ringing-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-ringing-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-ringing-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bell-ringing-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bezier-curve-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bezier-curve-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bezier-curve-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bluetooth-connect-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bluetooth-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bluetooth-on-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bluetooth-signal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bold-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bold-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bold-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "book-closed-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "book-open-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bookmark-add-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bookmark-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bookmark-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bookmark-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bookmark-x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "box-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-ellipses-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-slash-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brackets-x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "briefcase-01-lined": [
+    "6 container corner groups adapted; curved TL"
+  ],
+  "briefcase-02-lined": [
+    "6 container corner groups adapted; curved TL"
+  ],
+  "browser-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "brush-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brush-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "brush-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-07-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "building-08-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "bus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "calculator-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "calendar-check-02-lined": [
+    "3 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-date-lined": [
+    "4 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-heart-01-lined": [
+    "4 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-heart-02-lined": [
+    "3 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-minus-01-lined": [
+    "4 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-minus-02-lined": [
+    "3 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-plus-01-lined": [
+    "4 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "calendar-plus-02-lined": [
+    "3 container corner groups adapted; curved BR,TL",
+    "Approved shallow header; plain/date/check variants retained"
+  ],
+  "camera-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "camera-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "camera-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "camera-lens-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "camera-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "camera-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "car-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "car-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "certificate-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "certificate-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chart-breakout-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chart-breakout-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-circle-broken-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-done-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-done-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-heart-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-small-16-lined": [
+    "16-to-24 coordinate conversion; live stroke remains 1"
+  ],
+  "check-small-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-square-broken-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-verified-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-verified-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "check-verified-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-down-double-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-left-double-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-right-double-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-selector-horizontal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-selector-vertical-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-up-double-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chevron-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "chrome-cast-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "circle-cut-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clapperboard-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clipboard-attachment-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-check-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-download-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-minus-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-plus-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clipboard-x-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "clock-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-fast-forward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-refresh-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-rewind-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-snooze-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "clock-stopwatch-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-blank-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-blank-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-lightning-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-moon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-raining-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-raining-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-raining-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-raining-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-raining-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-snowing-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-snowing-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-sun-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-sun-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cloud-sun-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-browser-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-circle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-circle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-circle-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-snippet-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-snippet-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-square-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "code-square-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "codepen-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-hand-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-stacked-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-stacked-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-stacked-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-stacked-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-swap-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "coins-swap-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "colors-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "colors-lined-1": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "columns-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "columns-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "columns-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "command-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "compass-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "compass-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "compass-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "compass-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "container-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "contrast-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "contrast-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "contrast-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "copy-01-lined": [
+    "7 container corner groups adapted; curved TL"
+  ],
+  "copy-02-lined": [
+    "7 container corner groups adapted; curved TL"
+  ],
+  "copy-03-lined": [
+    "7 container corner groups adapted; curved TL"
+  ],
+  "copy-04-lined": [
+    "7 container corner groups adapted; curved TL"
+  ],
+  "copy-05-lined": [
+    "7 container corner groups adapted; curved TL"
+  ],
+  "copy-06-lined": [
+    "5 container corner groups adapted; curved TL"
+  ],
+  "copy-07-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "corner-down-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-down-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-left-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-left-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-right-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-right-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-up-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "corner-up-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cpu-chip-02-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-01-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-02-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-check-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-down-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-download-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-edit-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-minus-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-plus-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-refresh-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-search-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-shield-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-up-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "credit-card-upload-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "credit-card-x-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "crop-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "crop-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cryptocurrency-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cryptocurrency-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cryptocurrency-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cryptocurrency-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cube-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cube-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cube-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cube-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cube-outline-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-bitcoin-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-bitcoin-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-dollar-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-dollar-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-ethereum-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-ethereum-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-euro-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-euro-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-pound-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-pound-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-ruble-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-ruble-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-rupee-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-rupee-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-yen-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "currency-yen-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-box-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-click-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "cursor-click-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "data-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "database-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "database-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "database-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dataflow-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dataflow-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dataflow-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dataflow-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "delete-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "diamond-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "diamond-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-1-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-2-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-3-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-4-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-5-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dice-6-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "disc-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "disc-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "distribute-spacing-horizontal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "distribute-spacing-vertical-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "divide-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "divide-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "divide-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "divider-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dot-single-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dotpoints-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dotpoints-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dots-grid-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dots-horizontal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dots-vertical-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-cloud-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "download-cloud-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "drop-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "droplets-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "droplets-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "droplets-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "dropper-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "eagle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "edit-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "edit-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "edit-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "edit-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "edit-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "equal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "equal-not-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "eraser-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "expand-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "eye-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "eye-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-content-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-frown-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-happy-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-id-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-id-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-neutral-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-sad-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-smile-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "face-wink-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fast-backward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fast-forward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "feather-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "figma-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "file-01-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-04-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-05-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-06-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-07-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-attachment-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-attachment-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-attachment-03-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-attachment-04-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-attachment-05-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-check-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-check-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-check-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-circle-lined": [
+    "40-to-24; tonal circle container converted to live outline circle; document retained",
+    "4 container corner groups adapted; curved BL"
+  ],
+  "file-code-01-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-code-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-download-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-download-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-download-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-heart-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-heart-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-heart-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-lock-01-lined": [
+    "7 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-lock-02-lined": [
+    "7 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-lock-03-lined": [
+    "7 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-minus-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-minus-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-minus-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-plus-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-plus-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-question-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-question-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-question-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-search-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-search-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-search-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-shield-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-shield-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-shield-03-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-x-01-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-x-02-lined": [
+    "3 container corner groups adapted; curved BL",
+    "Document envelope aligned to reference proportions"
+  ],
+  "file-x-03-lined": [
+    "4 container corner groups adapted; curved BL",
+    "Crisp fold with one curved lower corner",
+    "Document envelope aligned to reference proportions"
+  ],
+  "film-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "film-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "film-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "filter-funnel-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "filter-funnel-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "filter-lines-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "filter-lines-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fingerprint-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fingerprint-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fingerprint-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "fingerprint-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flag-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flash-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flash-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flex-align-bottom-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flex-align-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flex-align-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flex-align-top-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flip-backward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "flip-forward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "folder-check-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-closed-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-code-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-download-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-lock-lined": [
+    "8 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-minus-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-plus-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-search-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-shield-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "folder-x-lined": [
+    "4 container corner groups adapted; curved BL,TR"
+  ],
+  "framer-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "gaming-pad-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "gaming-pad-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "gift-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "gift-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "git-branch-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "git-branch-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "git-commit-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "git-merge-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "git-pull-request-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "glasses-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "glasses-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-slated-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "globe-slated-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "google-chrome-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "graduation-hat-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "graduation-hat-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-blank-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-bottom-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-horizontal-center-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-outer-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-top-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "grid-dots-vertical-center-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hand-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hard-drive-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hash-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hash-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heading-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heading-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heading-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "headphones-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "headphones-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-hand-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-hexagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-rounded-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "heart-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hearts-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "help-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "help-hexagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "help-octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "help-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hexagon-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hexagon-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "home-02-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "home-03-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "home-04-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "home-05-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "home-line-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "home-smile-lined": [
+    "Approved pitched roof with source-specific door, circle, smile or eaves"
+  ],
+  "horizontal-bar-chart-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "horizontal-bar-chart-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "horizontal-bar-chart-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hourglass-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hourglass-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hourglass-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hurricane-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hurricane-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "hurricane-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "image-01-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "image-03-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-04-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "image-check-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-down-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-indent-left-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-indent-right-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-left-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-plus-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-right-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-up-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-check-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-down-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-left-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-lined": [
+    "2 container corner groups adapted; curved TL"
+  ],
+  "image-user-plus-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-right-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-up-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-user-x-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "image-x-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "inbox-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "inbox-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "indeterminate-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "indeterminate-small-16-lined": [
+    "16-to-24 coordinate conversion; live stroke remains 1"
+  ],
+  "indeterminate-small-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "infinity-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "info-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "info-hexagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "info-octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "info-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "intersect-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "intersect-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "italic-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "italic-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "italic-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "key-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "key-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "keyboard-01-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "keyboard-02-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "laptop-01-lined": [
+    "5 container corner groups adapted; curved TL"
+  ],
+  "laptop-02-lined": [
+    "6 container corner groups adapted; curved TL"
+  ],
+  "layer-single-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layers-three-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layers-three-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layers-two-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layers-two-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-alt-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-alt-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-alt-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-alt-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-bottom-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-grid-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-grid-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "layout-top-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "left-indent-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "left-indent-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "letter-spacing-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "letter-spacing-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "life-buoy-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "life-buoy-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightbulb-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightbulb-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightbulb-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightbulb-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightbulb-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightning-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lightning-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-down-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-down-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-down-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-down-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-down-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-up-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-up-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-up-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-up-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-chart-up-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "line-height-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-broken-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-broken-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-external-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "link-external-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "list-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "list-numbered-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "loading-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "loading-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "loading-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "loading-tui-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-keyhole-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-keyhole-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-unlocked-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-unlocked-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-unlocked-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "lock-unlocked-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-in-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-in-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-in-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-in-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-out-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-out-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-out-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "log-out-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "luggage-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "luggage-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "luggage-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "magic-wand-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "magic-wand-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mail-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mail-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mail-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mail-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mail-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "map-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "map-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mark-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "marker-pin-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "maximize-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "maximize-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "medical-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "medical-cross-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "medical-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "menu-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "menu-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "menu-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "menu-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "menu-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-alert-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-alert-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-chat-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-chat-square-lined": [
+    "6 container corner groups adapted; curved BR,TR"
+  ],
+  "message-check-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-check-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-circle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-circle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-dots-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-dots-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-heart-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-heart-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-notification-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-notification-square-lined": [
+    "3 container corner groups adapted; curved BR,TR"
+  ],
+  "message-plus-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-plus-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-question-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-question-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-smile-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-smile-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-square-02-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-text-circle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-text-circle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-text-square-02-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "message-x-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "message-x-square-lined": [
+    "4 container corner groups adapted; curved BR,TR"
+  ],
+  "microphone-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "microphone-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "microphone-off-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "microphone-off-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "microscope-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "minimize-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "minimize-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "minus-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "minus-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "modem-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "modem-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "monitor-02-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "monitor-03-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "monitor-04-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "monitor-05-lined": [
+    "6 container corner groups adapted; curved TL"
+  ],
+  "moon-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "moon-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "moon-eclipse-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "moon-star-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "mouse-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "move-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "music-note-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "music-note-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "music-note-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "navigation-pointer-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "navigation-pointer-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "navigation-pointer-off-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "navigation-pointer-off-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "notification-box-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "notification-message-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "notification-text-lined": [
+    "3 container corner groups adapted; curved TL"
+  ],
+  "octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "old-time-messenger-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-search-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "package-x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "paint-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "paint-pour-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "palette-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "paperclip-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "paragraph-spacing-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "paragraph-wrap-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "passcode-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "passcode-lock-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "passport-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pause-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pause-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pause-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pen-tool-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pen-tool-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pen-tool-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pen-tool-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pencil-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pencil-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pencil-line-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pentagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "percent-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "percent-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "percent-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "perspective-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "perspective-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-call-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-call-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-hang-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-incoming-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-incoming-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-outgoing-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-outgoing-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-pause-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "phone-x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pie-chart-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pie-chart-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pie-chart-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pie-chart-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "piggy-bank-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "piggy-bank-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pilcrow-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pilcrow-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pilcrow-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pin-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "pin-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "placeholder-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "plane-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "play-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "play-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "play-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "plus-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "plus-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "podcast-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "power-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "power-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "power-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "presentation-chart-01-lined": [
+    "2 container corner groups adapted; curved TL"
+  ],
+  "presentation-chart-02-lined": [
+    "2 container corner groups adapted; curved TL"
+  ],
+  "presentation-chart-03-lined": [
+    "2 container corner groups adapted; curved TL"
+  ],
+  "printer-lined": [
+    "10 container corner groups adapted; curved TL"
+  ],
+  "puzzle-piece-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "puzzle-piece-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "qr-code-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "qr-code-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "radio-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "receipt-check-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "receipt-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "recording-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "recording-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "recording-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "reflect-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "reflect-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-ccw-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-ccw-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-ccw-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-ccw-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-ccw-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-cw-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-cw-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-cw-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-cw-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "refresh-cw-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "reorder-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "repeat-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "repeat-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "repeat-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "repeat-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "reverse-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "reverse-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "right-indent-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "right-indent-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rocket-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "roller-brush-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "route-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rows-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rows-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rows-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rss-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "rss-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "ruler-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "safe-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sale-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sale-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sale-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sale-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "save-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "save-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "save-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scale-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scale-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scale-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scales-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scales-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scan-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scissors-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scissors-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scissors-cut-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "scissors-cut-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "search-lg-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "search-md-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "search-refraction-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "search-sm-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "send-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "send-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "send-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "server-01-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "server-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "server-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "server-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "server-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "server-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "settings-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "settings-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "settings-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "share-07-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shield-01-lined": [
+    "Approved flat-top shield contour"
+  ],
+  "shield-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shield-03-lined": [
+    "Approved flat-top shield contour"
+  ],
+  "shield-dollar-lined": [
+    "Approved flat-top shield contour"
+  ],
+  "shield-off-lined": [
+    "Flat-top shield with separated slash intersections"
+  ],
+  "shield-plus-lined": [
+    "Approved flat-top shield contour"
+  ],
+  "shield-zap-lined": [
+    "Approved flat-top shield contour"
+  ],
+  "shopping-bag-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shopping-bag-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shopping-bag-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shopping-cart-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shopping-cart-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shopping-cart-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shuffle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "shuffle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "signal-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "signal-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "signal-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "simcard-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "skew-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "skip-back-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "skip-forward-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "slash-circle-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "slash-circle-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "slash-divider-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "slash-octagon-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sliders-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sliders-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sliders-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sliders-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "snowflake-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "snowflake-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "spacing-height-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "spacing-height-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "spacing-width-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "spacing-width-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speaker-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speaker-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speaker-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speedometer-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speedometer-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speedometer-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "speedometer-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stand-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-06-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "star-07-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stars-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stars-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stars-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sticker-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sticker-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stop-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stop-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "stop-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "strikethrough-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "strikethrough-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "strikethrough-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "subscript-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sun-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sun-setting-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sun-setting-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sun-setting-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sunrise-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "sunset-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "switch-horizontal-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "switch-horizontal-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "switch-vertical-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "switch-vertical-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "table-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tablet-01-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "tablet-02-lined": [
+    "6 container corner groups adapted; curved TL"
+  ],
+  "tag-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tag-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tag-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "target-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "target-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "target-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "target-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "target-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "telescope-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "terminal-browser-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "terminal-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "terminal-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "terminal-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "text-input-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thermometer-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thermometer-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thermometer-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thermometer-cold-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thermometer-warm-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thumbs-down-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "thumbs-up-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "ticket-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "ticket-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-01-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-01-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-02-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-02-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-03-left-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "toggle-03-right-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tool-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tool-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "train-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tram-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "transform-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "translate-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "translate-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trash-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trash-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trash-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trend-down-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trend-down-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trend-up-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trend-up-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "triangle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trophy-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "trophy-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "truck-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "truck-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tv-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tv-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "tv-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "type-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "type-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "type-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "type-strikethrough-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "type-strikethrough-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "umbrella-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "umbrella-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "umbrella-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "underline-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "underline-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "underline-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-04-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-cloud-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "upload-cloud-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "usb-flash-drive-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "user-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-03-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-04-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-check-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-check-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "user-down-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-down-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-edit-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-left-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-left-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-minus-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-minus-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-plus-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-plus-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-right-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-right-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "user-up-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-up-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-x-01-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "user-x-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-02-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-03-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-check-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-down-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-edit-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-left-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-minus-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-right-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-up-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "users-x-lined": [
+    "Head radius 3.5 at y7.5, consistent with pilot"
+  ],
+  "variable-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "video-recorder-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "video-recorder-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "virus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "voicemail-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "volume-max-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "volume-min-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "volume-minus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "volume-plus-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "volume-x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wallet-01-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "wallet-02-lined": [
+    "4 container corner groups adapted; curved TL"
+  ],
+  "wallet-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wallet-04-lined": [
+    "8 container corner groups adapted; curved TL"
+  ],
+  "wallet-05-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "watch-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "watch-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "waves-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "webcam-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "webcam-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wifi-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wifi-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wind-01-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wind-02-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "wind-03-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "x-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "x-close-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "x-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "x-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "youtube-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zap-circle-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zap-fast-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zap-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zap-off-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zap-square-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zoom-in-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ],
+  "zoom-out-lined": [
+    "Source geometry compatible; live stroke/palette/caps normalized"
+  ]
+}

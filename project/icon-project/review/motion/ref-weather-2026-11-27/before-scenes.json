@@ -1,0 +1,58 @@
+{
+  "ref-shower": {
+    "id": "ref-shower",
+    "label": "Ref · Shower",
+    "trigger": "hover",
+    "duration": 850,
+    "tracks": [
+      [
+        3,
+        "erase-redraw",
+        1,
+        12,
+        12,
+        0.1,
+        0.95,
+        "mechanism"
+      ]
+    ]
+  },
+  "ref-steam": {
+    "id": "ref-steam",
+    "label": "Ref · Steam",
+    "trigger": "hover",
+    "duration": 850,
+    "tracks": [
+      [
+        3,
+        "y",
+        -0.6,
+        12,
+        12,
+        0.05,
+        0.7,
+        "ripple"
+      ],
+      [
+        4,
+        "y",
+        -0.6,
+        12,
+        12,
+        0.16999999999999998,
+        0.82,
+        "ripple"
+      ],
+      [
+        5,
+        "y",
+        -0.6,
+        12,
+        12,
+        0.29,
+        0.94,
+        "ripple"
+      ]
+    ]
+  }
+}

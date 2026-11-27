@@ -1,0 +1,22 @@
+{
+  "motion_mode": {
+    "value": "animate",
+    "source": "user",
+    "confidence": "high"
+  },
+  "motion_preset": {
+    "value": "balanced",
+    "source": "default",
+    "confidence": "high"
+  },
+  "trigger_policy": {
+    "value": {
+      "default": [
+        "hover",
+        "click-replay"
+      ]
+    },
+    "source": "inferred",
+    "confidence": "medium"
+  }
+}

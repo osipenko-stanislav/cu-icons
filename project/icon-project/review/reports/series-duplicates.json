@@ -1,0 +1,301 @@
+{
+  "method": "Exact paint-independent vector signature and exact alpha raster at 24 px; no exhaustive near-similarity scan",
+  "exact_vector_groups": [
+    [
+      "arrow-circle-down-lined",
+      "download-03-lined"
+    ],
+    [
+      "arrow-circle-up-lined",
+      "upload-03-lined"
+    ],
+    [
+      "arrow-down-right-lined",
+      "trend-down-02-lined"
+    ],
+    [
+      "arrow-up-right-lined",
+      "trend-up-02-lined"
+    ],
+    [
+      "attachment-01-lined",
+      "paperclip-lined"
+    ],
+    [
+      "check-small-16-lined",
+      "check-small-lined"
+    ],
+    [
+      "circle-lined",
+      "placeholder-lined"
+    ],
+    [
+      "cloud-01-lined",
+      "cloud-blank-01-lined"
+    ],
+    [
+      "cloud-03-lined",
+      "cloud-blank-02-lined"
+    ],
+    [
+      "code-01-lined",
+      "code-snippet-01-lined"
+    ],
+    [
+      "code-02-lined",
+      "code-snippet-02-lined"
+    ],
+    [
+      "colors-lined-1",
+      "colors-lined"
+    ],
+    [
+      "container-lined",
+      "cube-01-lined"
+    ],
+    [
+      "dotpoints-01-lined",
+      "list-lined"
+    ],
+    [
+      "expand-01-lined",
+      "maximize-01-lined"
+    ],
+    [
+      "flash-lined",
+      "lightning-01-lined",
+      "zap-lined"
+    ],
+    [
+      "flash-off-lined",
+      "zap-off-lined"
+    ],
+    [
+      "indeterminate-small-16-lined",
+      "indeterminate-small-lined"
+    ],
+    [
+      "link-external-01-lined",
+      "share-04-lined"
+    ],
+    [
+      "link-external-02-lined",
+      "share-03-lined"
+    ],
+    [
+      "settings-03-lined",
+      "sliders-03-lined"
+    ],
+    [
+      "settings-04-lined",
+      "sliders-04-lined"
+    ],
+    [
+      "square-lined",
+      "stop-lined"
+    ]
+  ],
+  "exact_raster_groups": [
+    {
+      "ids": [
+        "arrow-circle-down-lined",
+        "download-03-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "arrow-circle-up-lined",
+        "upload-03-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "arrow-down-right-lined",
+        "trend-down-02-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "arrow-up-right-lined",
+        "trend-up-02-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": false,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "attachment-01-lined",
+        "paperclip-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "check-small-16-lined",
+        "check-small-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": false,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "circle-lined",
+        "placeholder-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "cloud-01-lined",
+        "cloud-blank-01-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "cloud-03-lined",
+        "cloud-blank-02-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "code-01-lined",
+        "code-snippet-01-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "code-02-lined",
+        "code-snippet-02-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "colors-lined-1",
+        "colors-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "container-lined",
+        "cube-01-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "dotpoints-01-lined",
+        "list-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "expand-01-lined",
+        "maximize-01-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "flash-lined",
+        "lightning-01-lined",
+        "zap-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "flash-off-lined",
+        "zap-off-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "indeterminate-small-16-lined",
+        "indeterminate-small-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": false,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "link-external-01-lined",
+        "share-04-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "link-external-02-lined",
+        "share-03-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "percent-03-lined",
+        "sale-01-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "settings-03-lined",
+        "sliders-03-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "settings-04-lined",
+        "sliders-04-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "square-lined",
+        "stop-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    },
+    {
+      "ids": [
+        "star-06-lined",
+        "stars-02-lined"
+      ],
+      "same_source_at_24px_with_normalized_weight": true,
+      "decision": "Retain all source IDs. No files removed."
+    }
+  ]
+}

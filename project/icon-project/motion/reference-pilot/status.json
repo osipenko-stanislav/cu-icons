@@ -1,0 +1,17 @@
+{
+  "scenes": 9,
+  "user_approval": "pending",
+  "reference": "https://useanimations.com/#icons",
+  "browser_checks": 324,
+  "full_initial_final_pose": true,
+  "authored_svg_static_equivalent": true,
+  "new_contour_crossings": 0,
+  "downloaded_pack_valid": true,
+  "choreography": "Earlier reference-inspired proposals; superseded by exact-reference pilot. Book retains original project squeeze.",
+  "book_revision": {
+    "status": "original light squeeze restored by explicit user request",
+    "matches_current_series_scene": true,
+    "duration": 1100,
+    "no_added_pages": true
+  }
+}

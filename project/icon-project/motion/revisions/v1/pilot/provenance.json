@@ -1,0 +1,38 @@
+{
+  "review": "sequential",
+  "pilot_approval": "pending",
+  "scenes": [
+    {
+      "id": "glasses-02-lined",
+      "static_sha256": "03e8ecb9481cd07b9c266df207844b1e8d859f655635b29c89ee9b5342ca411b",
+      "geometry_sha256": "358ac2b1cac499153d16bce42ab9a027649a191958d14dc750bf728dc3804b51",
+      "idea": "Дужки слегка расходятся у шарниров; линзы и переносица неподвижны.",
+      "approval": "pending-motion-pilot",
+      "static_approval": "previously-user-approved"
+    },
+    {
+      "id": "database-01-lined",
+      "static_sha256": "7750ab6c0c843f90f24260c3ef30d9e29c540d6944271c5963cb40ab3b64169d",
+      "geometry_sha256": "522c0bc78568ecf5514907497bbcf0c83fa35c40d7a04548b8652f59b267d2fe",
+      "idea": "Последовательный проход по трём уровням данных; корпус сохраняется.",
+      "approval": "pending-motion-pilot",
+      "static_approval": "previously-user-approved"
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "static_sha256": "149280f5471f607634766319892af4210a0b6cfd011285f91f583d203b5ed23a",
+      "geometry_sha256": "1182d24777cc824155feb5b706bf765b93a0e3d2863e22e136533ee8e3e803e9",
+      "idea": "Шнур качается вокруг точки крепления; шапочка неподвижна.",
+      "approval": "pending-motion-pilot",
+      "static_approval": "previously-user-approved"
+    },
+    {
+      "id": "cpu-chip-01-lined",
+      "static_sha256": "10c285626b3e7fec21cddbafacb5de014cb3185c2593a996d873e3658c5ac44f",
+      "geometry_sha256": "31a496ba205eccbb6ba29cf0a16f06c1fa6a8538834b16e21538426d979d1d85",
+      "idea": "Сигнал идёт от входных контактов к ядру, затем к выходным; внешняя рамка стабильна.",
+      "approval": "pending-motion-pilot",
+      "static_approval": "previously-user-approved"
+    }
+  ]
+}

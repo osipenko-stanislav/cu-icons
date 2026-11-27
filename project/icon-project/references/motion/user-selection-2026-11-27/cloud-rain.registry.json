@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "cloud-rain",
+  "type": "registry:component",
+  "title": "Cloud Rain (animated)",
+  "description": "Animated cloud rain icon (hover-replay). Usage: <AnimatedCloudRain size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "weather"
+  ],
+  "meta": {
+    "keywords": [
+      "cloud",
+      "cloud-rain",
+      "rain",
+      "weather"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/cloud-rain.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/cloud-rain.tsx",
+      "type": "registry:component",
+      "target": "components/animations/cloud-rain.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/cloudRain\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Cloud Rain\" from https://useanimations.com (MIT): https://useanimations.com/icons/cloud-rain\nexport function AnimatedCloudRain(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

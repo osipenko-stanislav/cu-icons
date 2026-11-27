@@ -1,0 +1,245 @@
+{
+  "method": "resvg alpha bounds on enlarged -4 -4 32 32 viewBox at 1024px; bound quantization 0.03125 units",
+  "icons": {
+    "arrow-left-lined": {
+      "sha256": "99085cb1c93783e00b190c2ebd835e6af0570782f0f79d0848113d258dab3bae",
+      "expanded_viewbox_bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "within_canvas": true
+    },
+    "arrow-right-lined": {
+      "sha256": "405e46c369a76a2fb4c7b17322fc5dede491c3a3680a20753140722bd2ac8b84",
+      "expanded_viewbox_bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "within_canvas": true
+    },
+    "bell-01-lined": {
+      "sha256": "0a17d8e1f094ca5ff9d65794dc633c94f859f3fdadf916c77f77da345be5d918",
+      "expanded_viewbox_bounds": [
+        2.5,
+        1.5,
+        21.5,
+        22.53125
+      ],
+      "within_canvas": true
+    },
+    "book-open-01-lined": {
+      "sha256": "2c447f363d1b0faa0f87a6ed030e6fae394346eefb141c8ed1f67aba4427e14c",
+      "expanded_viewbox_bounds": [
+        1.5,
+        3.0,
+        22.5,
+        21.625
+      ],
+      "within_canvas": true
+    },
+    "calendar-check-01-lined": {
+      "sha256": "a51f21da0b01a7bd4af3eaf64a57a1f3773f60a802534d404b9d881a9e445e25",
+      "expanded_viewbox_bounds": [
+        3.0,
+        3.0,
+        21.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "calendar-lined": {
+      "sha256": "07bc33e7967f34f08572fdd315215e0aef67cd23b9e380035c4d51a2f1cefe65",
+      "expanded_viewbox_bounds": [
+        3.0,
+        3.0,
+        21.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "cloud-raining-01-lined": {
+      "sha256": "343c7f5ec9125aeda74e4a92ff09b039c5d56a86a8e268235b89271a6cbb430e",
+      "expanded_viewbox_bounds": [
+        1.03125,
+        0.5,
+        22.96875,
+        22.5
+      ],
+      "within_canvas": true
+    },
+    "cpu-chip-01-lined": {
+      "sha256": "10c285626b3e7fec21cddbafacb5de014cb3185c2593a996d873e3658c5ac44f",
+      "expanded_viewbox_bounds": [
+        1.5,
+        1.5,
+        22.5,
+        22.5
+      ],
+      "within_canvas": true
+    },
+    "credit-card-lock-lined": {
+      "sha256": "47bb7df65add4ce393b5cf52a79885efced459caf94d3adee48994e828e6ce05",
+      "expanded_viewbox_bounds": [
+        2.0,
+        4.5,
+        22.5,
+        22.0
+      ],
+      "within_canvas": true
+    },
+    "file-02-lined": {
+      "sha256": "0ae351ba44e2d1665ca2f3eeaab22b0bbc4792a9d9a7871e2f49bd60204826a4",
+      "expanded_viewbox_bounds": [
+        5.0,
+        2.5,
+        20.0,
+        21.5
+      ],
+      "within_canvas": true
+    },
+    "file-plus-02-lined": {
+      "sha256": "3d556bdca3938d7f90c4c6f586d3eaf3896399d848a081c02ccff5c547fdf240",
+      "expanded_viewbox_bounds": [
+        5.0,
+        2.5,
+        21.5,
+        21.5
+      ],
+      "within_canvas": true
+    },
+    "folder-question-lined": {
+      "sha256": "223e9318a3d22442943d49e11fb5274f385939f18678941ea5d17a739963812b",
+      "expanded_viewbox_bounds": [
+        2.5,
+        3.0,
+        21.5,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "heart-lined": {
+      "sha256": "61d0d03ae7c25cf20892f4485a6088fb4a74ecaf20aca50f4bd9943c0fbc19c1",
+      "expanded_viewbox_bounds": [
+        1.5,
+        2.5,
+        22.5,
+        21.34375
+      ],
+      "within_canvas": true
+    },
+    "home-01-lined": {
+      "sha256": "cd1d40e35fcdb9d4bdf336ef00d07d82bb151d06de9d684faf8739d399a75348",
+      "expanded_viewbox_bounds": [
+        3.5,
+        2.28125,
+        20.5,
+        21.5
+      ],
+      "within_canvas": true
+    },
+    "message-square-01-lined": {
+      "sha256": "2a999426a299a689c969fa759b1856552d9f10e70537ff31e07549cc7c3c53b2",
+      "expanded_viewbox_bounds": [
+        3.0,
+        3.0,
+        21.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "message-text-square-01-lined": {
+      "sha256": "0796932c1a833dd81b7f60f10e7465b014836141822e5c1c8cd46db954deac84",
+      "expanded_viewbox_bounds": [
+        3.0,
+        3.0,
+        21.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "monitor-01-lined": {
+      "sha256": "3279c407f80d77e86c4cd3724c6e27a8714a1e329304466fc8b43f6cdbbdedf0",
+      "expanded_viewbox_bounds": [
+        2.0,
+        3.0,
+        22.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "rocket-01-lined": {
+      "sha256": "5b976cd08e6217e713deacb6ca03af99c887e658e891e39762faf02666cc3b8e",
+      "expanded_viewbox_bounds": [
+        0.53125,
+        4.84375,
+        19.15625,
+        23.46875
+      ],
+      "within_canvas": true
+    },
+    "settings-01-lined": {
+      "sha256": "51273896765a9ff03e6c683e2e196419c64158768b960e1cc159d86ac2c46a50",
+      "expanded_viewbox_bounds": [
+        1.59375,
+        1.59375,
+        22.40625,
+        22.40625
+      ],
+      "within_canvas": true
+    },
+    "shield-tick-lined": {
+      "sha256": "e12c67c71ae315034941670d9186ab7bd82b649a2489f4cfde4dce66bf3254f9",
+      "expanded_viewbox_bounds": [
+        3.5,
+        2.5,
+        20.5,
+        22.0
+      ],
+      "within_canvas": true
+    },
+    "trash-01-lined": {
+      "sha256": "caf4e58101521191857acffd9ad5c41ac0ee7198b4a0d42b2a81754282ad73b9",
+      "expanded_viewbox_bounds": [
+        3.5,
+        2.5,
+        20.5,
+        21.5
+      ],
+      "within_canvas": true
+    },
+    "user-01-lined": {
+      "sha256": "359f9164112e4ecf5e556c96c27b9563194d35eef176647d1ab652399df89967",
+      "expanded_viewbox_bounds": [
+        4.0,
+        3.5,
+        20.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "users-01-lined": {
+      "sha256": "aa551cf2e22b324f9648a59a6c076b9ddfae807d800f2f5ce741fb3d49a73ea5",
+      "expanded_viewbox_bounds": [
+        1.0,
+        3.46875,
+        23.0,
+        21.0
+      ],
+      "within_canvas": true
+    },
+    "users-plus-lined": {
+      "sha256": "288bf036aa0d47d605e3f9a03950e0e3a2af79b71cfd5e116ee702d47c735fe7",
+      "expanded_viewbox_bounds": [
+        1.5,
+        3.46875,
+        23.0,
+        22.5
+      ],
+      "within_canvas": true
+    }
+  }
+}

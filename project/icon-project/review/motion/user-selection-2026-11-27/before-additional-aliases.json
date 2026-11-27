@@ -1,0 +1,2751 @@
+{
+  "aliases": {
+    "align-bottom-02-lined": "align-bottom-01-lined",
+    "align-horizontal-centre-02-lined": "align-horizontal-centre-01-lined",
+    "align-left-02-lined": "align-left-01-lined",
+    "align-right-02-lined": "align-right-01-lined",
+    "align-top-02-lined": "align-top-01-lined",
+    "align-vertical-center-02-lined": "align-vertical-center-01-lined",
+    "announcement-02-lined": "announcement-01-lined",
+    "announcement-03-lined": "announcement-01-lined",
+    "arrow-narrow-down-lined": "arrow-down-lined",
+    "arrow-narrow-down-left-lined": "arrow-down-left-lined",
+    "arrow-narrow-down-right-lined": "arrow-down-right-lined",
+    "arrow-narrow-left-lined": "arrow-left-lined",
+    "arrow-narrow-right-lined": "arrow-right-lined",
+    "arrow-narrow-up-lined": "arrow-up-lined",
+    "arrow-narrow-up-left-lined": "arrow-up-left-lined",
+    "arrow-narrow-up-right-lined": "arrow-up-right-lined",
+    "asterisk-02-lined": "asterisk-01-lined",
+    "attachment-02-lined": "attachment-01-lined",
+    "paperclip-lined": "attachment-01-lined",
+    "bell-02-lined": "bell-01-lined",
+    "bell-03-lined": "bell-01-lined",
+    "bell-04-lined": "bell-01-lined",
+    "bell-off-02-lined": "bell-off-01-lined",
+    "bell-off-03-lined": "bell-off-01-lined",
+    "bell-ringing-02-lined": "bell-ringing-01-lined",
+    "bell-ringing-03-lined": "bell-ringing-01-lined",
+    "bell-ringing-04-lined": "bell-ringing-01-lined",
+    "bold-02-lined": "bold-01-lined",
+    "book-open-02-lined": "book-open-01-lined",
+    "briefcase-02-lined": "briefcase-01-lined",
+    "calendar-check-02-lined": "calendar-check-01-lined",
+    "calendar-heart-02-lined": "calendar-heart-01-lined",
+    "calendar-minus-02-lined": "calendar-minus-01-lined",
+    "calendar-plus-02-lined": "calendar-plus-01-lined",
+    "camera-02-lined": "camera-01-lined",
+    "camera-03-lined": "camera-01-lined",
+    "car-02-lined": "car-01-lined",
+    "check-done-02-lined": "check-done-01-lined",
+    "check-verified-02-lined": "check-verified-01-lined",
+    "check-verified-03-lined": "check-verified-01-lined",
+    "cloud-02-lined": "cloud-01-lined",
+    "cloud-03-lined": "cloud-01-lined",
+    "cloud-blank-02-lined": "cloud-blank-01-lined",
+    "code-circle-02-lined": "code-circle-01-lined",
+    "code-circle-03-lined": "code-circle-01-lined",
+    "code-square-02-lined": "code-square-01-lined",
+    "colors-lined-1": "colors-lined",
+    "copy-02-lined": "copy-01-lined",
+    "copy-03-lined": "copy-01-lined",
+    "copy-04-lined": "copy-01-lined",
+    "copy-05-lined": "copy-01-lined",
+    "copy-06-lined": "copy-01-lined",
+    "copy-07-lined": "copy-01-lined",
+    "cpu-chip-02-lined": "cpu-chip-01-lined",
+    "credit-card-02-lined": "credit-card-01-lined",
+    "crop-02-lined": "crop-01-lined",
+    "cursor-02-lined": "cursor-01-lined",
+    "cursor-03-lined": "cursor-01-lined",
+    "cursor-04-lined": "cursor-01-lined",
+    "cursor-click-02-lined": "cursor-click-01-lined",
+    "database-02-lined": "database-01-lined",
+    "database-03-lined": "database-01-lined",
+    "diamond-02-lined": "diamond-01-lined",
+    "dotpoints-02-lined": "dotpoints-01-lined",
+    "download-02-lined": "download-01-lined",
+    "download-03-lined": "download-01-lined",
+    "download-04-lined": "download-01-lined",
+    "download-cloud-02-lined": "download-cloud-01-lined",
+    "edit-02-lined": "edit-01-lined",
+    "edit-03-lined": "edit-01-lined",
+    "edit-04-lined": "edit-01-lined",
+    "edit-05-lined": "edit-01-lined",
+    "file-attachment-02-lined": "file-attachment-01-lined",
+    "file-attachment-03-lined": "file-attachment-01-lined",
+    "file-attachment-04-lined": "file-attachment-01-lined",
+    "file-attachment-05-lined": "file-attachment-01-lined",
+    "file-check-02-lined": "file-check-01-lined",
+    "file-check-03-lined": "file-check-01-lined",
+    "file-code-02-lined": "file-code-01-lined",
+    "file-download-02-lined": "file-download-01-lined",
+    "file-download-03-lined": "file-download-01-lined",
+    "file-heart-02-lined": "file-heart-01-lined",
+    "file-heart-03-lined": "file-heart-01-lined",
+    "file-lock-02-lined": "file-lock-01-lined",
+    "file-lock-03-lined": "file-lock-01-lined",
+    "file-minus-02-lined": "file-minus-01-lined",
+    "file-minus-03-lined": "file-minus-01-lined",
+    "file-plus-02-lined": "file-plus-01-lined",
+    "file-plus-03-lined": "file-plus-01-lined",
+    "file-question-02-lined": "file-question-01-lined",
+    "file-question-03-lined": "file-question-01-lined",
+    "file-search-02-lined": "file-search-01-lined",
+    "file-search-03-lined": "file-search-01-lined",
+    "file-shield-02-lined": "file-shield-01-lined",
+    "file-shield-03-lined": "file-shield-01-lined",
+    "file-x-02-lined": "file-x-01-lined",
+    "file-x-03-lined": "file-x-01-lined",
+    "film-02-lined": "film-01-lined",
+    "filter-funnel-02-lined": "filter-funnel-01-lined",
+    "fingerprint-02-lined": "fingerprint-01-lined",
+    "fingerprint-03-lined": "fingerprint-01-lined",
+    "fingerprint-04-lined": "fingerprint-01-lined",
+    "gaming-pad-02-lined": "gaming-pad-01-lined",
+    "gift-02-lined": "gift-01-lined",
+    "git-branch-02-lined": "git-branch-01-lined",
+    "glasses-02-lined": "glasses-01-lined",
+    "globe-slated-02-lined": "globe-slated-01-lined",
+    "graduation-hat-02-lined": "graduation-hat-01-lined",
+    "hash-02-lined": "hash-01-lined",
+    "headphones-02-lined": "headphones-01-lined",
+    "hexagon-02-lined": "hexagon-01-lined",
+    "horizontal-bar-chart-02-lined": "horizontal-bar-chart-01-lined",
+    "horizontal-bar-chart-03-lined": "horizontal-bar-chart-01-lined",
+    "hourglass-02-lined": "hourglass-01-lined",
+    "hourglass-03-lined": "hourglass-01-lined",
+    "inbox-02-lined": "inbox-01-lined",
+    "italic-02-lined": "italic-01-lined",
+    "key-02-lined": "key-01-lined",
+    "keyboard-01-lined": "keyboard-02-lined",
+    "laptop-02-lined": "laptop-01-lined",
+    "layers-three-02-lined": "layers-three-01-lined",
+    "layers-two-02-lined": "layers-two-01-lined",
+    "left-indent-02-lined": "left-indent-01-lined",
+    "life-buoy-02-lined": "life-buoy-01-lined",
+    "lightning-02-lined": "lightning-01-lined",
+    "link-04-lined": "link-03-lined",
+    "link-05-lined": "link-03-lined",
+    "link-01-lined": "link-03-lined",
+    "link-02-lined": "link-03-lined",
+    "link-broken-02-lined": "link-broken-01-lined",
+    "link-external-02-lined": "link-external-01-lined",
+    "loading-02-lined": "loading-01-lined",
+    "loading-03-lined": "loading-01-lined",
+    "lock-02-lined": "lock-01-lined",
+    "lock-03-lined": "lock-01-lined",
+    "lock-04-lined": "lock-01-lined",
+    "lock-unlocked-02-lined": "lock-unlocked-01-lined",
+    "lock-unlocked-03-lined": "lock-unlocked-01-lined",
+    "lock-unlocked-04-lined": "lock-unlocked-01-lined",
+    "log-in-03-lined": "log-in-01-lined",
+    "log-in-04-lined": "log-in-01-lined",
+    "log-in-02-lined": "log-in-01-lined",
+    "log-out-02-lined": "log-out-01-lined",
+    "log-out-03-lined": "log-out-01-lined",
+    "log-out-04-lined": "log-out-01-lined",
+    "luggage-02-lined": "luggage-01-lined",
+    "luggage-03-lined": "luggage-01-lined",
+    "magic-wand-02-lined": "magic-wand-01-lined",
+    "mail-01-lined": "mail-03-lined",
+    "mail-02-lined": "mail-03-lined",
+    "mail-05-lined": "mail-04-lined",
+    "maximize-01-lined": "maximize-02-lined",
+    "message-circle-02-lined": "message-circle-01-lined",
+    "message-square-02-lined": "message-square-01-lined",
+    "message-text-circle-02-lined": "message-text-circle-01-lined",
+    "message-text-square-02-lined": "message-text-square-01-lined",
+    "microphone-02-lined": "microphone-01-lined",
+    "microphone-off-02-lined": "microphone-off-01-lined",
+    "minimize-02-lined": "minimize-01-lined",
+    "modem-02-lined": "modem-01-lined",
+    "monitor-02-lined": "monitor-01-lined",
+    "monitor-03-lined": "monitor-01-lined",
+    "monitor-04-lined": "monitor-01-lined",
+    "moon-02-lined": "moon-01-lined",
+    "music-note-02-lined": "music-note-01-lined",
+    "navigation-pointer-02-lined": "navigation-pointer-01-lined",
+    "navigation-pointer-off-02-lined": "navigation-pointer-off-01-lined",
+    "pen-tool-02-lined": "pen-tool-01-lined",
+    "pencil-02-lined": "pencil-01-lined",
+    "percent-02-lined": "percent-01-lined",
+    "percent-03-lined": "percent-01-lined",
+    "phone-02-lined": "phone-01-lined",
+    "phone-call-01-lined": "phone-call-02-lined",
+    "phone-incoming-02-lined": "phone-incoming-01-lined",
+    "phone-outgoing-02-lined": "phone-outgoing-01-lined",
+    "piggy-bank-02-lined": "piggy-bank-01-lined",
+    "pilcrow-02-lined": "pilcrow-01-lined",
+    "pin-02-lined": "pin-01-lined",
+    "power-02-lined": "power-01-lined",
+    "power-03-lined": "power-01-lined",
+    "presentation-chart-02-lined": "presentation-chart-01-lined",
+    "presentation-chart-03-lined": "presentation-chart-01-lined",
+    "puzzle-piece-02-lined": "puzzle-piece-01-lined",
+    "qr-code-02-lined": "qr-code-01-lined",
+    "right-indent-02-lined": "right-indent-01-lined",
+    "rocket-02-lined": "rocket-01-lined",
+    "rss-02-lined": "rss-01-lined",
+    "save-02-lined": "save-01-lined",
+    "save-03-lined": "save-01-lined",
+    "scissors-02-lined": "scissors-01-lined",
+    "scissors-cut-02-lined": "scissors-cut-01-lined",
+    "send-02-lined": "send-01-lined",
+    "send-03-lined": "send-01-lined",
+    "shield-02-lined": "shield-01-lined",
+    "shield-03-lined": "shield-01-lined",
+    "shopping-bag-02-lined": "shopping-bag-01-lined",
+    "shopping-bag-03-lined": "shopping-bag-01-lined",
+    "shopping-cart-03-lined": "shopping-cart-02-lined",
+    "shopping-cart-01-lined": "shopping-cart-02-lined",
+    "shuffle-02-lined": "shuffle-01-lined",
+    "snowflake-02-lined": "snowflake-01-lined",
+    "speaker-02-lined": "speaker-01-lined",
+    "speaker-03-lined": "speaker-01-lined",
+    "strikethrough-02-lined": "strikethrough-01-lined",
+    "tablet-02-lined": "tablet-01-lined",
+    "tag-02-lined": "tag-01-lined",
+    "thermometer-02-lined": "thermometer-01-lined",
+    "thermometer-03-lined": "thermometer-01-lined",
+    "ticket-02-lined": "ticket-01-lined",
+    "translate-02-lined": "translate-01-lined",
+    "trash-02-lined": "trash-01-lined",
+    "trash-03-lined": "trash-01-lined",
+    "trash-04-lined": "trash-01-lined",
+    "trophy-02-lined": "trophy-01-lined",
+    "truck-02-lined": "truck-01-lined",
+    "tv-02-lined": "tv-01-lined",
+    "tv-03-lined": "tv-01-lined",
+    "type-02-lined": "type-01-lined",
+    "type-strikethrough-02-lined": "type-strikethrough-01-lined",
+    "umbrella-02-lined": "umbrella-01-lined",
+    "umbrella-03-lined": "umbrella-01-lined",
+    "underline-02-lined": "underline-01-lined",
+    "upload-02-lined": "upload-01-lined",
+    "upload-03-lined": "upload-01-lined",
+    "upload-04-lined": "upload-01-lined",
+    "upload-cloud-02-lined": "upload-cloud-01-lined",
+    "user-02-lined": "user-01-lined",
+    "user-03-lined": "user-01-lined",
+    "user-04-lined": "user-01-lined",
+    "user-check-02-lined": "user-check-01-lined",
+    "user-down-02-lined": "user-down-01-lined",
+    "user-left-02-lined": "user-left-01-lined",
+    "user-minus-02-lined": "user-minus-01-lined",
+    "user-plus-02-lined": "user-plus-01-lined",
+    "user-right-02-lined": "user-right-01-lined",
+    "user-up-02-lined": "user-up-01-lined",
+    "user-x-02-lined": "user-x-01-lined",
+    "wallet-02-lined": "wallet-01-lined",
+    "wallet-03-lined": "wallet-01-lined",
+    "wallet-04-lined": "wallet-01-lined",
+    "wallet-05-lined": "wallet-01-lined",
+    "webcam-02-lined": "webcam-01-lined"
+  },
+  "groups": [
+    {
+      "meaning_key": "align-bottom",
+      "canonical": "align-bottom-01-lined",
+      "archived": [
+        "align-bottom-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "align-horizontal-centre",
+      "canonical": "align-horizontal-centre-01-lined",
+      "archived": [
+        "align-horizontal-centre-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "align-left",
+      "canonical": "align-left-01-lined",
+      "archived": [
+        "align-left-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "align-right",
+      "canonical": "align-right-01-lined",
+      "archived": [
+        "align-right-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "align-top",
+      "canonical": "align-top-01-lined",
+      "archived": [
+        "align-top-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "align-vertical-center",
+      "canonical": "align-vertical-center-01-lined",
+      "archived": [
+        "align-vertical-center-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "announcement",
+      "canonical": "announcement-01-lined",
+      "archived": [
+        "announcement-02-lined",
+        "announcement-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-down",
+      "canonical": "arrow-down-lined",
+      "archived": [
+        "arrow-narrow-down-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-down-left",
+      "canonical": "arrow-down-left-lined",
+      "archived": [
+        "arrow-narrow-down-left-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-down-right",
+      "canonical": "arrow-down-right-lined",
+      "archived": [
+        "arrow-narrow-down-right-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-left",
+      "canonical": "arrow-left-lined",
+      "archived": [
+        "arrow-narrow-left-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-right",
+      "canonical": "arrow-right-lined",
+      "archived": [
+        "arrow-narrow-right-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-up",
+      "canonical": "arrow-up-lined",
+      "archived": [
+        "arrow-narrow-up-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-up-left",
+      "canonical": "arrow-up-left-lined",
+      "archived": [
+        "arrow-narrow-up-left-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "arrow-up-right",
+      "canonical": "arrow-up-right-lined",
+      "archived": [
+        "arrow-narrow-up-right-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "asterisk",
+      "canonical": "asterisk-01-lined",
+      "archived": [
+        "asterisk-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "attachment",
+      "canonical": "attachment-01-lined",
+      "archived": [
+        "attachment-02-lined",
+        "paperclip-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "bell",
+      "canonical": "bell-01-lined",
+      "archived": [
+        "bell-02-lined",
+        "bell-03-lined",
+        "bell-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "bell-off",
+      "canonical": "bell-off-01-lined",
+      "archived": [
+        "bell-off-02-lined",
+        "bell-off-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "bell-ringing",
+      "canonical": "bell-ringing-01-lined",
+      "archived": [
+        "bell-ringing-02-lined",
+        "bell-ringing-03-lined",
+        "bell-ringing-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "bold",
+      "canonical": "bold-01-lined",
+      "archived": [
+        "bold-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "book-open",
+      "canonical": "book-open-01-lined",
+      "archived": [
+        "book-open-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "briefcase",
+      "canonical": "briefcase-01-lined",
+      "archived": [
+        "briefcase-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "calendar-check",
+      "canonical": "calendar-check-01-lined",
+      "archived": [
+        "calendar-check-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "calendar-heart",
+      "canonical": "calendar-heart-01-lined",
+      "archived": [
+        "calendar-heart-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "calendar-minus",
+      "canonical": "calendar-minus-01-lined",
+      "archived": [
+        "calendar-minus-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "calendar-plus",
+      "canonical": "calendar-plus-01-lined",
+      "archived": [
+        "calendar-plus-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "camera",
+      "canonical": "camera-01-lined",
+      "archived": [
+        "camera-02-lined",
+        "camera-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "car",
+      "canonical": "car-01-lined",
+      "archived": [
+        "car-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "check-done",
+      "canonical": "check-done-01-lined",
+      "archived": [
+        "check-done-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "check-verified",
+      "canonical": "check-verified-01-lined",
+      "archived": [
+        "check-verified-02-lined",
+        "check-verified-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "cloud",
+      "canonical": "cloud-01-lined",
+      "archived": [
+        "cloud-02-lined",
+        "cloud-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "cloud-blank",
+      "canonical": "cloud-blank-01-lined",
+      "archived": [
+        "cloud-blank-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "code-circle",
+      "canonical": "code-circle-01-lined",
+      "archived": [
+        "code-circle-02-lined",
+        "code-circle-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "code-square",
+      "canonical": "code-square-01-lined",
+      "archived": [
+        "code-square-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "colors",
+      "canonical": "colors-lined",
+      "archived": [
+        "colors-lined-1"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "copy",
+      "canonical": "copy-01-lined",
+      "archived": [
+        "copy-02-lined",
+        "copy-03-lined",
+        "copy-04-lined",
+        "copy-05-lined",
+        "copy-06-lined",
+        "copy-07-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "cpu-chip",
+      "canonical": "cpu-chip-01-lined",
+      "archived": [
+        "cpu-chip-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "credit-card",
+      "canonical": "credit-card-01-lined",
+      "archived": [
+        "credit-card-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "crop",
+      "canonical": "crop-01-lined",
+      "archived": [
+        "crop-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "cursor",
+      "canonical": "cursor-01-lined",
+      "archived": [
+        "cursor-02-lined",
+        "cursor-03-lined",
+        "cursor-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "cursor-click",
+      "canonical": "cursor-click-01-lined",
+      "archived": [
+        "cursor-click-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "database",
+      "canonical": "database-01-lined",
+      "archived": [
+        "database-02-lined",
+        "database-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "diamond",
+      "canonical": "diamond-01-lined",
+      "archived": [
+        "diamond-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "dotpoints",
+      "canonical": "dotpoints-01-lined",
+      "archived": [
+        "dotpoints-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "download",
+      "canonical": "download-01-lined",
+      "archived": [
+        "download-02-lined",
+        "download-03-lined",
+        "download-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "download-cloud",
+      "canonical": "download-cloud-01-lined",
+      "archived": [
+        "download-cloud-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "edit",
+      "canonical": "edit-01-lined",
+      "archived": [
+        "edit-02-lined",
+        "edit-03-lined",
+        "edit-04-lined",
+        "edit-05-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-attachment",
+      "canonical": "file-attachment-01-lined",
+      "archived": [
+        "file-attachment-02-lined",
+        "file-attachment-03-lined",
+        "file-attachment-04-lined",
+        "file-attachment-05-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-check",
+      "canonical": "file-check-01-lined",
+      "archived": [
+        "file-check-02-lined",
+        "file-check-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-code",
+      "canonical": "file-code-01-lined",
+      "archived": [
+        "file-code-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-download",
+      "canonical": "file-download-01-lined",
+      "archived": [
+        "file-download-02-lined",
+        "file-download-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-heart",
+      "canonical": "file-heart-01-lined",
+      "archived": [
+        "file-heart-02-lined",
+        "file-heart-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-lock",
+      "canonical": "file-lock-01-lined",
+      "archived": [
+        "file-lock-02-lined",
+        "file-lock-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-minus",
+      "canonical": "file-minus-01-lined",
+      "archived": [
+        "file-minus-02-lined",
+        "file-minus-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-plus",
+      "canonical": "file-plus-01-lined",
+      "archived": [
+        "file-plus-02-lined",
+        "file-plus-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-question",
+      "canonical": "file-question-01-lined",
+      "archived": [
+        "file-question-02-lined",
+        "file-question-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-search",
+      "canonical": "file-search-01-lined",
+      "archived": [
+        "file-search-02-lined",
+        "file-search-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-shield",
+      "canonical": "file-shield-01-lined",
+      "archived": [
+        "file-shield-02-lined",
+        "file-shield-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "file-x",
+      "canonical": "file-x-01-lined",
+      "archived": [
+        "file-x-02-lined",
+        "file-x-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "film",
+      "canonical": "film-01-lined",
+      "archived": [
+        "film-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "filter-funnel",
+      "canonical": "filter-funnel-01-lined",
+      "archived": [
+        "filter-funnel-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "fingerprint",
+      "canonical": "fingerprint-01-lined",
+      "archived": [
+        "fingerprint-02-lined",
+        "fingerprint-03-lined",
+        "fingerprint-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "gaming-pad",
+      "canonical": "gaming-pad-01-lined",
+      "archived": [
+        "gaming-pad-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "gift",
+      "canonical": "gift-01-lined",
+      "archived": [
+        "gift-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "git-branch",
+      "canonical": "git-branch-01-lined",
+      "archived": [
+        "git-branch-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "glasses",
+      "canonical": "glasses-01-lined",
+      "archived": [
+        "glasses-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "globe-slated",
+      "canonical": "globe-slated-01-lined",
+      "archived": [
+        "globe-slated-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "graduation-hat",
+      "canonical": "graduation-hat-01-lined",
+      "archived": [
+        "graduation-hat-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "hash",
+      "canonical": "hash-01-lined",
+      "archived": [
+        "hash-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "headphones",
+      "canonical": "headphones-01-lined",
+      "archived": [
+        "headphones-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "hexagon",
+      "canonical": "hexagon-01-lined",
+      "archived": [
+        "hexagon-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "horizontal-bar-chart",
+      "canonical": "horizontal-bar-chart-01-lined",
+      "archived": [
+        "horizontal-bar-chart-02-lined",
+        "horizontal-bar-chart-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "hourglass",
+      "canonical": "hourglass-01-lined",
+      "archived": [
+        "hourglass-02-lined",
+        "hourglass-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "inbox",
+      "canonical": "inbox-01-lined",
+      "archived": [
+        "inbox-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "italic",
+      "canonical": "italic-01-lined",
+      "archived": [
+        "italic-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "key",
+      "canonical": "key-01-lined",
+      "archived": [
+        "key-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "keyboard",
+      "canonical": "keyboard-02-lined",
+      "archived": [
+        "keyboard-01-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "laptop",
+      "canonical": "laptop-01-lined",
+      "archived": [
+        "laptop-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "layers-three",
+      "canonical": "layers-three-01-lined",
+      "archived": [
+        "layers-three-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "layers-two",
+      "canonical": "layers-two-01-lined",
+      "archived": [
+        "layers-two-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "left-indent",
+      "canonical": "left-indent-01-lined",
+      "archived": [
+        "left-indent-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "life-buoy",
+      "canonical": "life-buoy-01-lined",
+      "archived": [
+        "life-buoy-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "lightning",
+      "canonical": "lightning-01-lined",
+      "archived": [
+        "lightning-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "link",
+      "canonical": "link-03-lined",
+      "archived": [
+        "link-04-lined",
+        "link-05-lined",
+        "link-01-lined",
+        "link-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "link-broken",
+      "canonical": "link-broken-01-lined",
+      "archived": [
+        "link-broken-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "link-external",
+      "canonical": "link-external-01-lined",
+      "archived": [
+        "link-external-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "loading",
+      "canonical": "loading-01-lined",
+      "archived": [
+        "loading-02-lined",
+        "loading-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "lock",
+      "canonical": "lock-01-lined",
+      "archived": [
+        "lock-02-lined",
+        "lock-03-lined",
+        "lock-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "lock-unlocked",
+      "canonical": "lock-unlocked-01-lined",
+      "archived": [
+        "lock-unlocked-02-lined",
+        "lock-unlocked-03-lined",
+        "lock-unlocked-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "log-in",
+      "canonical": "log-in-01-lined",
+      "archived": [
+        "log-in-03-lined",
+        "log-in-04-lined",
+        "log-in-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "log-out",
+      "canonical": "log-out-01-lined",
+      "archived": [
+        "log-out-02-lined",
+        "log-out-03-lined",
+        "log-out-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "luggage",
+      "canonical": "luggage-01-lined",
+      "archived": [
+        "luggage-02-lined",
+        "luggage-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "magic-wand",
+      "canonical": "magic-wand-01-lined",
+      "archived": [
+        "magic-wand-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "mail-closed",
+      "canonical": "mail-03-lined",
+      "archived": [
+        "mail-01-lined",
+        "mail-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "mail-open",
+      "canonical": "mail-04-lined",
+      "archived": [
+        "mail-05-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "maximize",
+      "canonical": "maximize-02-lined",
+      "archived": [
+        "maximize-01-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "message-circle",
+      "canonical": "message-circle-01-lined",
+      "archived": [
+        "message-circle-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "message-square",
+      "canonical": "message-square-01-lined",
+      "archived": [
+        "message-square-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "message-text-circle",
+      "canonical": "message-text-circle-01-lined",
+      "archived": [
+        "message-text-circle-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "message-text-square",
+      "canonical": "message-text-square-01-lined",
+      "archived": [
+        "message-text-square-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "microphone",
+      "canonical": "microphone-01-lined",
+      "archived": [
+        "microphone-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "microphone-off",
+      "canonical": "microphone-off-01-lined",
+      "archived": [
+        "microphone-off-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "minimize",
+      "canonical": "minimize-01-lined",
+      "archived": [
+        "minimize-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "modem",
+      "canonical": "modem-01-lined",
+      "archived": [
+        "modem-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "monitor",
+      "canonical": "monitor-01-lined",
+      "archived": [
+        "monitor-02-lined",
+        "monitor-03-lined",
+        "monitor-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "moon",
+      "canonical": "moon-01-lined",
+      "archived": [
+        "moon-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "music-note",
+      "canonical": "music-note-01-lined",
+      "archived": [
+        "music-note-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "navigation-pointer",
+      "canonical": "navigation-pointer-01-lined",
+      "archived": [
+        "navigation-pointer-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "navigation-pointer-off",
+      "canonical": "navigation-pointer-off-01-lined",
+      "archived": [
+        "navigation-pointer-off-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "pen-tool",
+      "canonical": "pen-tool-01-lined",
+      "archived": [
+        "pen-tool-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "pencil",
+      "canonical": "pencil-01-lined",
+      "archived": [
+        "pencil-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "percent",
+      "canonical": "percent-01-lined",
+      "archived": [
+        "percent-02-lined",
+        "percent-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "phone",
+      "canonical": "phone-01-lined",
+      "archived": [
+        "phone-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "phone-call",
+      "canonical": "phone-call-02-lined",
+      "archived": [
+        "phone-call-01-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "phone-incoming",
+      "canonical": "phone-incoming-01-lined",
+      "archived": [
+        "phone-incoming-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "phone-outgoing",
+      "canonical": "phone-outgoing-01-lined",
+      "archived": [
+        "phone-outgoing-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "piggy-bank",
+      "canonical": "piggy-bank-01-lined",
+      "archived": [
+        "piggy-bank-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "pilcrow",
+      "canonical": "pilcrow-01-lined",
+      "archived": [
+        "pilcrow-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "pin",
+      "canonical": "pin-01-lined",
+      "archived": [
+        "pin-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "power",
+      "canonical": "power-01-lined",
+      "archived": [
+        "power-02-lined",
+        "power-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "presentation-chart",
+      "canonical": "presentation-chart-01-lined",
+      "archived": [
+        "presentation-chart-02-lined",
+        "presentation-chart-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "puzzle-piece",
+      "canonical": "puzzle-piece-01-lined",
+      "archived": [
+        "puzzle-piece-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "qr-code",
+      "canonical": "qr-code-01-lined",
+      "archived": [
+        "qr-code-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "right-indent",
+      "canonical": "right-indent-01-lined",
+      "archived": [
+        "right-indent-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "rocket",
+      "canonical": "rocket-01-lined",
+      "archived": [
+        "rocket-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "rss",
+      "canonical": "rss-01-lined",
+      "archived": [
+        "rss-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "save",
+      "canonical": "save-01-lined",
+      "archived": [
+        "save-02-lined",
+        "save-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "scissors",
+      "canonical": "scissors-01-lined",
+      "archived": [
+        "scissors-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "scissors-cut",
+      "canonical": "scissors-cut-01-lined",
+      "archived": [
+        "scissors-cut-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "send",
+      "canonical": "send-01-lined",
+      "archived": [
+        "send-02-lined",
+        "send-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "shield",
+      "canonical": "shield-01-lined",
+      "archived": [
+        "shield-02-lined",
+        "shield-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "shopping-bag",
+      "canonical": "shopping-bag-01-lined",
+      "archived": [
+        "shopping-bag-02-lined",
+        "shopping-bag-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "shopping-cart",
+      "canonical": "shopping-cart-02-lined",
+      "archived": [
+        "shopping-cart-03-lined",
+        "shopping-cart-01-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "shuffle",
+      "canonical": "shuffle-01-lined",
+      "archived": [
+        "shuffle-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "snowflake",
+      "canonical": "snowflake-01-lined",
+      "archived": [
+        "snowflake-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "speaker",
+      "canonical": "speaker-01-lined",
+      "archived": [
+        "speaker-02-lined",
+        "speaker-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "strikethrough",
+      "canonical": "strikethrough-01-lined",
+      "archived": [
+        "strikethrough-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "tablet",
+      "canonical": "tablet-01-lined",
+      "archived": [
+        "tablet-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "tag",
+      "canonical": "tag-01-lined",
+      "archived": [
+        "tag-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "thermometer",
+      "canonical": "thermometer-01-lined",
+      "archived": [
+        "thermometer-02-lined",
+        "thermometer-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "ticket",
+      "canonical": "ticket-01-lined",
+      "archived": [
+        "ticket-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "translate",
+      "canonical": "translate-01-lined",
+      "archived": [
+        "translate-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "trash",
+      "canonical": "trash-01-lined",
+      "archived": [
+        "trash-02-lined",
+        "trash-03-lined",
+        "trash-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "trophy",
+      "canonical": "trophy-01-lined",
+      "archived": [
+        "trophy-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "truck",
+      "canonical": "truck-01-lined",
+      "archived": [
+        "truck-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "tv",
+      "canonical": "tv-01-lined",
+      "archived": [
+        "tv-02-lined",
+        "tv-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "type",
+      "canonical": "type-01-lined",
+      "archived": [
+        "type-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "type-strikethrough",
+      "canonical": "type-strikethrough-01-lined",
+      "archived": [
+        "type-strikethrough-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "umbrella",
+      "canonical": "umbrella-01-lined",
+      "archived": [
+        "umbrella-02-lined",
+        "umbrella-03-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "underline",
+      "canonical": "underline-01-lined",
+      "archived": [
+        "underline-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "upload",
+      "canonical": "upload-01-lined",
+      "archived": [
+        "upload-02-lined",
+        "upload-03-lined",
+        "upload-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "upload-cloud",
+      "canonical": "upload-cloud-01-lined",
+      "archived": [
+        "upload-cloud-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user",
+      "canonical": "user-01-lined",
+      "archived": [
+        "user-02-lined",
+        "user-03-lined",
+        "user-04-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-check",
+      "canonical": "user-check-01-lined",
+      "archived": [
+        "user-check-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-down",
+      "canonical": "user-down-01-lined",
+      "archived": [
+        "user-down-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-left",
+      "canonical": "user-left-01-lined",
+      "archived": [
+        "user-left-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-minus",
+      "canonical": "user-minus-01-lined",
+      "archived": [
+        "user-minus-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-plus",
+      "canonical": "user-plus-01-lined",
+      "archived": [
+        "user-plus-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-right",
+      "canonical": "user-right-01-lined",
+      "archived": [
+        "user-right-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-up",
+      "canonical": "user-up-01-lined",
+      "archived": [
+        "user-up-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "user-x",
+      "canonical": "user-x-01-lined",
+      "archived": [
+        "user-x-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "wallet",
+      "canonical": "wallet-01-lined",
+      "archived": [
+        "wallet-02-lined",
+        "wallet-03-lined",
+        "wallet-04-lined",
+        "wallet-05-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    },
+    {
+      "meaning_key": "webcam",
+      "canonical": "webcam-01-lined",
+      "archived": [
+        "webcam-02-lined"
+      ],
+      "basis": "Same named action/metaphor and modifier; stylistic variants or explicit synonyms. Numeric content/count groups excluded.",
+      "canonical_selection": "Prefer a pure positive user review; then an unreviewed candidate over a reported defect; use existing approval/name only to break ties. This is a reversible working selection."
+    }
+  ],
+  "active_ids": [
+    "activity-heart-lined",
+    "activity-lined",
+    "airplay-lined",
+    "airpods-lined",
+    "alarm-clock-check-lined",
+    "alarm-clock-lined",
+    "alarm-clock-minus-lined",
+    "alarm-clock-off-lined",
+    "alarm-clock-plus-lined",
+    "alert-circle-lined",
+    "alert-hexagon-lined",
+    "alert-octagon-lined",
+    "alert-square-lined",
+    "alert-triangle-lined",
+    "align-bottom-01-lined",
+    "align-center-lined",
+    "align-horizontal-centre-01-lined",
+    "align-justify-lined",
+    "align-left-01-lined",
+    "align-left-lined",
+    "align-right-01-lined",
+    "align-right-lined",
+    "align-top-01-lined",
+    "align-vertical-center-01-lined",
+    "anchor-lined",
+    "annotation-alert-lined",
+    "annotation-check-lined",
+    "annotation-dots-lined",
+    "annotation-heart-lined",
+    "annotation-info-lined",
+    "annotation-lined",
+    "annotation-plus-lined",
+    "annotation-question-lined",
+    "annotation-x-lined",
+    "announcement-01-lined",
+    "archive-lined",
+    "arrow-block-down-lined",
+    "arrow-block-left-lined",
+    "arrow-block-right-lined",
+    "arrow-block-up-lined",
+    "arrow-circle-broken-down-left-lined",
+    "arrow-circle-broken-down-lined",
+    "arrow-circle-broken-down-right-lined",
+    "arrow-circle-broken-left-lined",
+    "arrow-circle-broken-right-lined",
+    "arrow-circle-broken-up-left-lined",
+    "arrow-circle-broken-up-lined",
+    "arrow-circle-broken-up-right-lined",
+    "arrow-circle-down-left-lined",
+    "arrow-circle-down-lined",
+    "arrow-circle-down-right-lined",
+    "arrow-circle-left-lined",
+    "arrow-circle-right-lined",
+    "arrow-circle-up-left-lined",
+    "arrow-circle-up-lined",
+    "arrow-circle-up-right-lined",
+    "arrow-down-left-lined",
+    "arrow-down-lined",
+    "arrow-down-right-lined",
+    "arrow-left-lined",
+    "arrow-right-lined",
+    "arrow-square-down-left-lined",
+    "arrow-square-down-lined",
+    "arrow-square-down-right-lined",
+    "arrow-square-left-lined",
+    "arrow-square-right-lined",
+    "arrow-square-up-left-lined",
+    "arrow-square-up-lined",
+    "arrow-square-up-right-lined",
+    "arrow-up-left-lined",
+    "arrow-up-lined",
+    "arrow-up-right-lined",
+    "arrows-down-lined",
+    "arrows-left-lined",
+    "arrows-right-lined",
+    "arrows-triangle-lined",
+    "arrows-up-lined",
+    "asterisk-01-lined",
+    "at-sign-lined",
+    "atom-01-lined",
+    "atom-02-lined",
+    "attachment-01-lined",
+    "award-01-lined",
+    "award-02-lined",
+    "award-03-lined",
+    "award-04-lined",
+    "award-05-lined",
+    "backpack-lined",
+    "bank-lined",
+    "bank-note-01-lined",
+    "bank-note-02-lined",
+    "bank-note-03-lined",
+    "bar-chart-01-lined",
+    "bar-chart-02-lined",
+    "bar-chart-03-lined",
+    "bar-chart-04-lined",
+    "bar-chart-05-lined",
+    "bar-chart-06-lined",
+    "bar-chart-07-lined",
+    "bar-chart-08-lined",
+    "bar-chart-09-lined",
+    "bar-chart-10-lined",
+    "bar-chart-11-lined",
+    "bar-chart-12-lined",
+    "bar-chart-circle-01-lined",
+    "bar-chart-circle-02-lined",
+    "bar-chart-circle-03-lined",
+    "bar-chart-square-01-lined",
+    "bar-chart-square-02-lined",
+    "bar-chart-square-03-lined",
+    "bar-chart-square-down-lined",
+    "bar-chart-square-minus-lined",
+    "bar-chart-square-plus-lined",
+    "bar-chart-square-up-lined",
+    "bar-line-chart-lined",
+    "battery-charging-01-lined",
+    "battery-charging-02-lined",
+    "battery-empty-lined",
+    "battery-full-lined",
+    "battery-low-lined",
+    "battery-mid-lined",
+    "beaker-01-lined",
+    "beaker-02-lined",
+    "bell-01-lined",
+    "bell-minus-lined",
+    "bell-off-01-lined",
+    "bell-plus-lined",
+    "bell-ringing-01-lined",
+    "bezier-curve-01-lined",
+    "bezier-curve-02-lined",
+    "bezier-curve-03-lined",
+    "bluetooth-connect-lined",
+    "bluetooth-off-lined",
+    "bluetooth-on-lined",
+    "bluetooth-signal-lined",
+    "bold-01-lined",
+    "bold-square-lined",
+    "book-closed-lined",
+    "book-open-01-lined",
+    "bookmark-add-lined",
+    "bookmark-check-lined",
+    "bookmark-lined",
+    "bookmark-minus-lined",
+    "bookmark-x-lined",
+    "box-lined",
+    "brackets-check-lined",
+    "brackets-ellipses-lined",
+    "brackets-lined",
+    "brackets-minus-lined",
+    "brackets-plus-lined",
+    "brackets-slash-lined",
+    "brackets-x-lined",
+    "briefcase-01-lined",
+    "browser-lined",
+    "brush-01-lined",
+    "brush-02-lined",
+    "brush-03-lined",
+    "building-01-lined",
+    "building-02-lined",
+    "building-03-lined",
+    "building-04-lined",
+    "building-05-lined",
+    "building-06-lined",
+    "building-07-lined",
+    "building-08-lined",
+    "bus-lined",
+    "calculator-lined",
+    "calendar-check-01-lined",
+    "calendar-date-lined",
+    "calendar-heart-01-lined",
+    "calendar-lined",
+    "calendar-minus-01-lined",
+    "calendar-plus-01-lined",
+    "camera-01-lined",
+    "camera-lens-lined",
+    "camera-off-lined",
+    "camera-plus-lined",
+    "car-01-lined",
+    "certificate-01-lined",
+    "certificate-02-lined",
+    "chart-breakout-circle-lined",
+    "chart-breakout-square-lined",
+    "check-circle-broken-lined",
+    "check-circle-lined",
+    "check-done-01-lined",
+    "check-heart-lined",
+    "check-lined",
+    "check-small-16-lined",
+    "check-small-lined",
+    "check-square-broken-lined",
+    "check-square-lined",
+    "check-verified-01-lined",
+    "chevron-down-double-lined",
+    "chevron-down-lined",
+    "chevron-left-double-lined",
+    "chevron-left-lined",
+    "chevron-right-double-lined",
+    "chevron-right-lined",
+    "chevron-selector-horizontal-lined",
+    "chevron-selector-vertical-lined",
+    "chevron-up-double-lined",
+    "chevron-up-lined",
+    "chrome-cast-lined",
+    "circle-cut-lined",
+    "circle-lined",
+    "clapperboard-lined",
+    "clipboard-attachment-lined",
+    "clipboard-check-lined",
+    "clipboard-download-lined",
+    "clipboard-lined",
+    "clipboard-minus-lined",
+    "clipboard-plus-lined",
+    "clipboard-x-lined",
+    "clock-check-lined",
+    "clock-fast-forward-lined",
+    "clock-lined",
+    "clock-plus-lined",
+    "clock-refresh-lined",
+    "clock-rewind-lined",
+    "clock-snooze-lined",
+    "clock-stopwatch-lined",
+    "cloud-01-lined",
+    "cloud-blank-01-lined",
+    "cloud-lightning-lined",
+    "cloud-moon-lined",
+    "cloud-off-lined",
+    "cloud-raining-01-lined",
+    "cloud-raining-02-lined",
+    "cloud-raining-03-lined",
+    "cloud-raining-04-lined",
+    "cloud-raining-05-lined",
+    "cloud-raining-06-lined",
+    "cloud-snowing-01-lined",
+    "cloud-snowing-02-lined",
+    "cloud-sun-01-lined",
+    "cloud-sun-02-lined",
+    "cloud-sun-03-lined",
+    "code-01-lined",
+    "code-02-lined",
+    "code-browser-lined",
+    "code-circle-01-lined",
+    "code-snippet-01-lined",
+    "code-snippet-02-lined",
+    "code-square-01-lined",
+    "codepen-lined",
+    "coins-01-lined",
+    "coins-02-lined",
+    "coins-03-lined",
+    "coins-04-lined",
+    "coins-hand-lined",
+    "coins-stacked-01-lined",
+    "coins-stacked-02-lined",
+    "coins-stacked-03-lined",
+    "coins-stacked-04-lined",
+    "coins-swap-01-lined",
+    "coins-swap-02-lined",
+    "colors-lined",
+    "columns-01-lined",
+    "columns-02-lined",
+    "columns-03-lined",
+    "command-lined",
+    "compass-01-lined",
+    "compass-02-lined",
+    "compass-03-lined",
+    "compass-lined",
+    "container-lined",
+    "contrast-01-lined",
+    "contrast-02-lined",
+    "contrast-03-lined",
+    "copy-01-lined",
+    "corner-down-left-lined",
+    "corner-down-right-lined",
+    "corner-left-down-lined",
+    "corner-left-up-lined",
+    "corner-right-down-lined",
+    "corner-right-up-lined",
+    "corner-up-left-lined",
+    "corner-up-right-lined",
+    "cpu-chip-01-lined",
+    "credit-card-01-lined",
+    "credit-card-check-lined",
+    "credit-card-down-lined",
+    "credit-card-download-lined",
+    "credit-card-edit-lined",
+    "credit-card-lock-lined",
+    "credit-card-minus-lined",
+    "credit-card-plus-lined",
+    "credit-card-refresh-lined",
+    "credit-card-search-lined",
+    "credit-card-shield-lined",
+    "credit-card-up-lined",
+    "credit-card-upload-lined",
+    "credit-card-x-lined",
+    "crop-01-lined",
+    "cryptocurrency-01-lined",
+    "cryptocurrency-02-lined",
+    "cryptocurrency-03-lined",
+    "cryptocurrency-04-lined",
+    "cube-01-lined",
+    "cube-02-lined",
+    "cube-03-lined",
+    "cube-04-lined",
+    "cube-outline-lined",
+    "currency-bitcoin-circle-lined",
+    "currency-bitcoin-lined",
+    "currency-dollar-circle-lined",
+    "currency-dollar-lined",
+    "currency-ethereum-circle-lined",
+    "currency-ethereum-lined",
+    "currency-euro-circle-lined",
+    "currency-euro-lined",
+    "currency-pound-circle-lined",
+    "currency-pound-lined",
+    "currency-ruble-circle-lined",
+    "currency-ruble-lined",
+    "currency-rupee-circle-lined",
+    "currency-rupee-lined",
+    "currency-yen-circle-lined",
+    "currency-yen-lined",
+    "cursor-01-lined",
+    "cursor-box-lined",
+    "cursor-click-01-lined",
+    "data-lined",
+    "database-01-lined",
+    "dataflow-01-lined",
+    "dataflow-02-lined",
+    "dataflow-03-lined",
+    "dataflow-04-lined",
+    "delete-lined",
+    "diamond-01-lined",
+    "dice-1-lined",
+    "dice-2-lined",
+    "dice-3-lined",
+    "dice-4-lined",
+    "dice-5-lined",
+    "dice-6-lined",
+    "disc-01-lined",
+    "disc-02-lined",
+    "distribute-spacing-horizontal-lined",
+    "distribute-spacing-vertical-lined",
+    "divide-01-lined",
+    "divide-02-lined",
+    "divide-03-lined",
+    "divider-lined",
+    "dot-single-lined",
+    "dotpoints-01-lined",
+    "dots-grid-lined",
+    "dots-horizontal-lined",
+    "dots-vertical-lined",
+    "download-01-lined",
+    "download-cloud-01-lined",
+    "drop-lined",
+    "droplets-01-lined",
+    "droplets-02-lined",
+    "droplets-03-lined",
+    "dropper-lined",
+    "eagle-lined",
+    "edit-01-lined",
+    "equal-lined",
+    "equal-not-lined",
+    "eraser-lined",
+    "expand-01-lined",
+    "expand-02-lined",
+    "expand-03-lined",
+    "expand-04-lined",
+    "expand-05-lined",
+    "expand-06-lined",
+    "eye-lined",
+    "eye-off-lined",
+    "face-content-lined",
+    "face-frown-lined",
+    "face-happy-lined",
+    "face-id-lined",
+    "face-id-square-lined",
+    "face-neutral-lined",
+    "face-sad-lined",
+    "face-smile-lined",
+    "face-wink-lined",
+    "fast-backward-lined",
+    "fast-forward-lined",
+    "feather-lined",
+    "figma-lined",
+    "file-01-lined",
+    "file-02-lined",
+    "file-03-lined",
+    "file-04-lined",
+    "file-05-lined",
+    "file-06-lined",
+    "file-07-lined",
+    "file-attachment-01-lined",
+    "file-check-01-lined",
+    "file-circle-lined",
+    "file-code-01-lined",
+    "file-download-01-lined",
+    "file-heart-01-lined",
+    "file-lock-01-lined",
+    "file-minus-01-lined",
+    "file-plus-01-lined",
+    "file-question-01-lined",
+    "file-search-01-lined",
+    "file-shield-01-lined",
+    "file-x-01-lined",
+    "film-01-lined",
+    "film-03-lined",
+    "filter-funnel-01-lined",
+    "filter-lines-down-lined",
+    "filter-lines-up-lined",
+    "fingerprint-01-lined",
+    "flag-01-lined",
+    "flag-02-lined",
+    "flag-03-lined",
+    "flag-04-lined",
+    "flag-05-lined",
+    "flag-06-lined",
+    "flash-lined",
+    "flash-off-lined",
+    "flex-align-bottom-lined",
+    "flex-align-left-lined",
+    "flex-align-right-lined",
+    "flex-align-top-lined",
+    "flip-backward-lined",
+    "flip-forward-lined",
+    "folder-check-lined",
+    "folder-closed-lined",
+    "folder-code-lined",
+    "folder-download-lined",
+    "folder-lined",
+    "folder-lock-lined",
+    "folder-minus-lined",
+    "folder-plus-lined",
+    "folder-question-lined",
+    "folder-search-lined",
+    "folder-shield-lined",
+    "folder-x-lined",
+    "framer-lined",
+    "gaming-pad-01-lined",
+    "gift-01-lined",
+    "git-branch-01-lined",
+    "git-commit-lined",
+    "git-merge-lined",
+    "git-pull-request-lined",
+    "glasses-01-lined",
+    "globe-01-lined",
+    "globe-02-lined",
+    "globe-03-lined",
+    "globe-04-lined",
+    "globe-05-lined",
+    "globe-06-lined",
+    "globe-slated-01-lined",
+    "google-chrome-lined",
+    "graduation-hat-01-lined",
+    "grid-01-lined",
+    "grid-02-lined",
+    "grid-03-lined",
+    "grid-dots-blank-lined",
+    "grid-dots-bottom-lined",
+    "grid-dots-horizontal-center-lined",
+    "grid-dots-left-lined",
+    "grid-dots-outer-lined",
+    "grid-dots-right-lined",
+    "grid-dots-top-lined",
+    "grid-dots-vertical-center-lined",
+    "hand-lined",
+    "hard-drive-lined",
+    "hash-01-lined",
+    "heading-01-lined",
+    "heading-02-lined",
+    "heading-square-lined",
+    "headphones-01-lined",
+    "heart-circle-lined",
+    "heart-hand-lined",
+    "heart-hexagon-lined",
+    "heart-lined",
+    "heart-octagon-lined",
+    "heart-rounded-lined",
+    "heart-square-lined",
+    "hearts-lined",
+    "help-circle-lined",
+    "help-hexagon-lined",
+    "help-octagon-lined",
+    "help-square-lined",
+    "hexagon-01-lined",
+    "home-01-lined",
+    "home-02-lined",
+    "home-03-lined",
+    "home-04-lined",
+    "home-05-lined",
+    "home-line-lined",
+    "home-smile-lined",
+    "horizontal-bar-chart-01-lined",
+    "hourglass-01-lined",
+    "hurricane-01-lined",
+    "hurricane-02-lined",
+    "hurricane-03-lined",
+    "image-01-lined",
+    "image-02-lined",
+    "image-03-lined",
+    "image-04-lined",
+    "image-05-lined",
+    "image-check-lined",
+    "image-down-lined",
+    "image-indent-left-lined",
+    "image-indent-right-lined",
+    "image-left-lined",
+    "image-plus-lined",
+    "image-right-lined",
+    "image-up-lined",
+    "image-user-check-lined",
+    "image-user-down-lined",
+    "image-user-left-lined",
+    "image-user-lined",
+    "image-user-plus-lined",
+    "image-user-right-lined",
+    "image-user-up-lined",
+    "image-user-x-lined",
+    "image-x-lined",
+    "inbox-01-lined",
+    "indeterminate-lined",
+    "indeterminate-small-16-lined",
+    "indeterminate-small-lined",
+    "infinity-lined",
+    "info-circle-lined",
+    "info-hexagon-lined",
+    "info-octagon-lined",
+    "info-square-lined",
+    "intersect-circle-lined",
+    "intersect-square-lined",
+    "italic-01-lined",
+    "italic-square-lined",
+    "key-01-lined",
+    "keyboard-02-lined",
+    "laptop-01-lined",
+    "layer-single-lined",
+    "layers-three-01-lined",
+    "layers-two-01-lined",
+    "layout-alt-01-lined",
+    "layout-alt-02-lined",
+    "layout-alt-03-lined",
+    "layout-alt-04-lined",
+    "layout-bottom-lined",
+    "layout-grid-01-lined",
+    "layout-grid-02-lined",
+    "layout-left-lined",
+    "layout-right-lined",
+    "layout-top-lined",
+    "left-indent-01-lined",
+    "letter-spacing-01-lined",
+    "letter-spacing-02-lined",
+    "life-buoy-01-lined",
+    "lightbulb-01-lined",
+    "lightbulb-02-lined",
+    "lightbulb-03-lined",
+    "lightbulb-04-lined",
+    "lightbulb-05-lined",
+    "lightning-01-lined",
+    "line-chart-down-01-lined",
+    "line-chart-down-02-lined",
+    "line-chart-down-03-lined",
+    "line-chart-down-04-lined",
+    "line-chart-down-05-lined",
+    "line-chart-up-01-lined",
+    "line-chart-up-02-lined",
+    "line-chart-up-03-lined",
+    "line-chart-up-04-lined",
+    "line-chart-up-05-lined",
+    "line-height-lined",
+    "link-03-lined",
+    "link-broken-01-lined",
+    "link-external-01-lined",
+    "list-lined",
+    "list-numbered-lined",
+    "loading-01-lined",
+    "loading-tui-lined",
+    "lock-01-lined",
+    "lock-keyhole-circle-lined",
+    "lock-keyhole-square-lined",
+    "lock-unlocked-01-lined",
+    "log-in-01-lined",
+    "log-out-01-lined",
+    "luggage-01-lined",
+    "magic-wand-01-lined",
+    "mail-03-lined",
+    "mail-04-lined",
+    "map-01-lined",
+    "map-02-lined",
+    "mark-lined",
+    "marker-pin-01-lined",
+    "marker-pin-02-lined",
+    "marker-pin-03-lined",
+    "marker-pin-04-lined",
+    "marker-pin-05-lined",
+    "marker-pin-06-lined",
+    "maximize-02-lined",
+    "medical-circle-lined",
+    "medical-cross-lined",
+    "medical-square-lined",
+    "menu-01-lined",
+    "menu-02-lined",
+    "menu-03-lined",
+    "menu-04-lined",
+    "menu-05-lined",
+    "message-alert-circle-lined",
+    "message-alert-square-lined",
+    "message-chat-circle-lined",
+    "message-chat-square-lined",
+    "message-check-circle-lined",
+    "message-check-square-lined",
+    "message-circle-01-lined",
+    "message-dots-circle-lined",
+    "message-dots-square-lined",
+    "message-heart-circle-lined",
+    "message-heart-square-lined",
+    "message-notification-circle-lined",
+    "message-notification-square-lined",
+    "message-plus-circle-lined",
+    "message-plus-square-lined",
+    "message-question-circle-lined",
+    "message-question-square-lined",
+    "message-smile-circle-lined",
+    "message-smile-square-lined",
+    "message-square-01-lined",
+    "message-text-circle-01-lined",
+    "message-text-square-01-lined",
+    "message-x-circle-lined",
+    "message-x-square-lined",
+    "microphone-01-lined",
+    "microphone-off-01-lined",
+    "microscope-lined",
+    "minimize-01-lined",
+    "minus-circle-lined",
+    "minus-lined",
+    "minus-square-lined",
+    "modem-01-lined",
+    "monitor-01-lined",
+    "monitor-05-lined",
+    "moon-01-lined",
+    "moon-eclipse-lined",
+    "moon-star-lined",
+    "mouse-lined",
+    "move-lined",
+    "music-note-01-lined",
+    "music-note-plus-lined",
+    "navigation-pointer-01-lined",
+    "navigation-pointer-off-01-lined",
+    "notification-box-lined",
+    "notification-message-lined",
+    "notification-text-lined",
+    "octagon-lined",
+    "old-time-messenger-lined",
+    "package-check-lined",
+    "package-lined",
+    "package-minus-lined",
+    "package-plus-lined",
+    "package-search-lined",
+    "package-x-lined",
+    "paint-lined",
+    "paint-pour-lined",
+    "palette-lined",
+    "paragraph-spacing-lined",
+    "paragraph-wrap-lined",
+    "passcode-lined",
+    "passcode-lock-lined",
+    "passport-lined",
+    "pause-circle-lined",
+    "pause-lined",
+    "pause-square-lined",
+    "pen-tool-01-lined",
+    "pen-tool-minus-lined",
+    "pen-tool-plus-lined",
+    "pencil-01-lined",
+    "pencil-line-lined",
+    "pentagon-lined",
+    "percent-01-lined",
+    "perspective-01-lined",
+    "perspective-02-lined",
+    "phone-01-lined",
+    "phone-call-02-lined",
+    "phone-hang-up-lined",
+    "phone-incoming-01-lined",
+    "phone-lined",
+    "phone-outgoing-01-lined",
+    "phone-pause-lined",
+    "phone-plus-lined",
+    "phone-x-lined",
+    "pie-chart-01-lined",
+    "pie-chart-02-lined",
+    "pie-chart-03-lined",
+    "pie-chart-04-lined",
+    "piggy-bank-01-lined",
+    "pilcrow-01-lined",
+    "pilcrow-square-lined",
+    "pin-01-lined",
+    "placeholder-lined",
+    "plane-lined",
+    "play-circle-lined",
+    "play-lined",
+    "play-square-lined",
+    "plus-circle-lined",
+    "plus-lined",
+    "plus-square-lined",
+    "podcast-lined",
+    "power-01-lined",
+    "presentation-chart-01-lined",
+    "printer-lined",
+    "puzzle-piece-01-lined",
+    "qr-code-01-lined",
+    "radio-lined",
+    "receipt-check-lined",
+    "receipt-lined",
+    "recording-01-lined",
+    "recording-02-lined",
+    "recording-03-lined",
+    "reflect-01-lined",
+    "reflect-02-lined",
+    "refresh-ccw-01-lined",
+    "refresh-ccw-02-lined",
+    "refresh-ccw-03-lined",
+    "refresh-ccw-04-lined",
+    "refresh-ccw-05-lined",
+    "refresh-cw-01-lined",
+    "refresh-cw-02-lined",
+    "refresh-cw-03-lined",
+    "refresh-cw-04-lined",
+    "refresh-cw-05-lined",
+    "reorder-lined",
+    "repeat-01-lined",
+    "repeat-02-lined",
+    "repeat-03-lined",
+    "repeat-04-lined",
+    "reverse-left-lined",
+    "reverse-right-lined",
+    "right-indent-01-lined",
+    "rocket-01-lined",
+    "roller-brush-lined",
+    "route-lined",
+    "rows-01-lined",
+    "rows-02-lined",
+    "rows-03-lined",
+    "rss-01-lined",
+    "ruler-lined",
+    "safe-lined",
+    "sale-01-lined",
+    "sale-02-lined",
+    "sale-03-lined",
+    "sale-04-lined",
+    "save-01-lined",
+    "scale-01-lined",
+    "scale-02-lined",
+    "scale-03-lined",
+    "scales-01-lined",
+    "scales-02-lined",
+    "scan-lined",
+    "scissors-01-lined",
+    "scissors-cut-01-lined",
+    "search-lg-lined",
+    "search-md-lined",
+    "search-refraction-lined",
+    "search-sm-lined",
+    "send-01-lined",
+    "server-01-lined",
+    "server-02-lined",
+    "server-03-lined",
+    "server-04-lined",
+    "server-05-lined",
+    "server-06-lined",
+    "settings-01-lined",
+    "settings-02-lined",
+    "settings-03-lined",
+    "settings-04-lined",
+    "share-01-lined",
+    "share-02-lined",
+    "share-03-lined",
+    "share-04-lined",
+    "share-05-lined",
+    "share-06-lined",
+    "share-07-lined",
+    "shield-01-lined",
+    "shield-dollar-lined",
+    "shield-off-lined",
+    "shield-plus-lined",
+    "shield-tick-lined",
+    "shield-zap-lined",
+    "shopping-bag-01-lined",
+    "shopping-cart-02-lined",
+    "shuffle-01-lined",
+    "signal-01-lined",
+    "signal-02-lined",
+    "signal-03-lined",
+    "simcard-lined",
+    "skew-lined",
+    "skip-back-lined",
+    "skip-forward-lined",
+    "slash-circle-01-lined",
+    "slash-circle-02-lined",
+    "slash-divider-lined",
+    "slash-octagon-lined",
+    "sliders-01-lined",
+    "sliders-02-lined",
+    "sliders-03-lined",
+    "sliders-04-lined",
+    "snowflake-01-lined",
+    "spacing-height-01-lined",
+    "spacing-height-02-lined",
+    "spacing-width-01-lined",
+    "spacing-width-02-lined",
+    "speaker-01-lined",
+    "speedometer-01-lined",
+    "speedometer-02-lined",
+    "speedometer-03-lined",
+    "speedometer-04-lined",
+    "square-lined",
+    "stand-lined",
+    "star-01-lined",
+    "star-02-lined",
+    "star-03-lined",
+    "star-04-lined",
+    "star-05-lined",
+    "star-06-lined",
+    "star-07-lined",
+    "stars-01-lined",
+    "stars-02-lined",
+    "stars-03-lined",
+    "sticker-circle-lined",
+    "sticker-square-lined",
+    "stop-circle-lined",
+    "stop-lined",
+    "stop-square-lined",
+    "strikethrough-01-lined",
+    "strikethrough-square-lined",
+    "subscript-lined",
+    "sun-lined",
+    "sun-setting-01-lined",
+    "sun-setting-02-lined",
+    "sun-setting-03-lined",
+    "sunrise-lined",
+    "sunset-lined",
+    "switch-horizontal-01-lined",
+    "switch-horizontal-02-lined",
+    "switch-vertical-01-lined",
+    "switch-vertical-02-lined",
+    "table-lined",
+    "tablet-01-lined",
+    "tag-01-lined",
+    "tag-03-lined",
+    "target-01-lined",
+    "target-02-lined",
+    "target-03-lined",
+    "target-04-lined",
+    "target-05-lined",
+    "telescope-lined",
+    "terminal-browser-lined",
+    "terminal-circle-lined",
+    "terminal-lined",
+    "terminal-square-lined",
+    "text-input-lined",
+    "thermometer-01-lined",
+    "thermometer-cold-lined",
+    "thermometer-warm-lined",
+    "thumbs-down-lined",
+    "thumbs-up-lined",
+    "ticket-01-lined",
+    "toggle-01-left-lined",
+    "toggle-01-right-lined",
+    "toggle-02-left-lined",
+    "toggle-02-right-lined",
+    "toggle-03-left-lined",
+    "toggle-03-right-lined",
+    "tool-01-lined",
+    "tool-02-lined",
+    "train-lined",
+    "tram-lined",
+    "transform-lined",
+    "translate-01-lined",
+    "trash-01-lined",
+    "trend-down-01-lined",
+    "trend-down-02-lined",
+    "trend-up-01-lined",
+    "trend-up-02-lined",
+    "triangle-lined",
+    "trophy-01-lined",
+    "truck-01-lined",
+    "tv-01-lined",
+    "type-01-lined",
+    "type-square-lined",
+    "type-strikethrough-01-lined",
+    "umbrella-01-lined",
+    "underline-01-lined",
+    "underline-square-lined",
+    "upload-01-lined",
+    "upload-cloud-01-lined",
+    "usb-flash-drive-lined",
+    "user-01-lined",
+    "user-check-01-lined",
+    "user-circle-lined",
+    "user-down-01-lined",
+    "user-edit-lined",
+    "user-left-01-lined",
+    "user-minus-01-lined",
+    "user-plus-01-lined",
+    "user-right-01-lined",
+    "user-square-lined",
+    "user-up-01-lined",
+    "user-x-01-lined",
+    "users-01-lined",
+    "users-02-lined",
+    "users-03-lined",
+    "users-check-lined",
+    "users-down-lined",
+    "users-edit-lined",
+    "users-left-lined",
+    "users-minus-lined",
+    "users-plus-lined",
+    "users-right-lined",
+    "users-up-lined",
+    "users-x-lined",
+    "variable-lined",
+    "video-recorder-lined",
+    "video-recorder-off-lined",
+    "virus-lined",
+    "voicemail-lined",
+    "volume-max-lined",
+    "volume-min-lined",
+    "volume-minus-lined",
+    "volume-plus-lined",
+    "volume-x-lined",
+    "wallet-01-lined",
+    "watch-circle-lined",
+    "watch-square-lined",
+    "waves-lined",
+    "webcam-01-lined",
+    "wifi-lined",
+    "wifi-off-lined",
+    "wind-01-lined",
+    "wind-02-lined",
+    "wind-03-lined",
+    "x-circle-lined",
+    "x-close-lined",
+    "x-lined",
+    "x-square-lined",
+    "youtube-lined",
+    "zap-circle-lined",
+    "zap-fast-lined",
+    "zap-lined",
+    "zap-off-lined",
+    "zap-square-lined",
+    "zoom-in-lined",
+    "zoom-out-lined"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "approve_pilot": false,
+  "decisions": [
+    {
+      "id": "code-02-lined",
+      "sha256": "aab7807d3196d894b1264608af7d4440d0bb0a3c0c64ab203559de898c22a711",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "search-md-lined",
+      "sha256": "39ffe7b038c2f546aa1fd575eb3a9a78b3baf8362cedb58cfdff96b3878027ab",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "sun-lined",
+      "sha256": "97978fc50bcad75db54e01de82d3b0e9fae126252c3b428886feb91327344192",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "glasses-02-lined",
+      "sha256": "03e8ecb9481cd07b9c266df207844b1e8d859f655635b29c89ee9b5342ca411b",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "briefcase-01-lined",
+      "sha256": "bb7091a13cca148bbc1393335677f0ccae6fd6229e5eeab8c9e3719b85269e93",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "trash-02-lined",
+      "sha256": "bf0f47860a8e5517228483cc2d87da26140e30977178ec5ce1eb7e100a89ac8b",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "flag-01-lined",
+      "sha256": "4e5a65e4fc2428548125fbacd6dc3cb2677096be35a1f8e51152aaa097216bd5",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "trophy-01-lined",
+      "sha256": "e8f769a3b8ad5815cc9e110a900d24cd50a43c6ad12a5e993be1ccde2a30919d",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "award-01-lined",
+      "sha256": "0f87645e1bc6f768e356c75616a2796d0b811d7cfb3015b02d9540130e26b414",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "edit-02-lined",
+      "sha256": "88b3a93f7ecccdadadcb47f841b70662ad1a94368ce36ac2784ee4cd3277fed6",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "sha256": "149280f5471f607634766319892af4210a0b6cfd011285f91f583d203b5ed23a",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "line-chart-up-01-lined",
+      "sha256": "ddd016988f3b3a44892ed69ec06421a13dc30f15623033527e39731c4e1225b3",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "face-smile-lined",
+      "sha256": "8f21c5df8a6b1c53ec8ad1892953e26fc0077b0368fad8e1324edc118eb84b61",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "database-01-lined",
+      "sha256": "7750ab6c0c843f90f24260c3ef30d9e29c540d6944271c5963cb40ab3b64169d",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "clock-lined",
+      "sha256": "09c40bc2ae55836aa57a448c01a2f8d8db2a5d2fb852d171903262a9cedcfe3c",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "medical-cross-lined",
+      "sha256": "1669a681d659a00f994307b85c267ebcdff3e2f516e5ec20ba3a63842bf36f19",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "file-01-lined",
+      "sha256": "3266ea71473d50af8efc453315e52d04ac3a4306088ebc97521f79ed41776f5c",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "beaker-02-lined",
+      "sha256": "d4a0a4596ea69ffccd6aa87d8d7c7c77a80565ef2a58790a6dd0e024c7841b9d",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "mail-01-lined",
+      "sha256": "414ed89f1b63843fb19aa44c0683e1e518f596a7e3498981c6553e431b3db66d",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "camera-01-lined",
+      "sha256": "fa69df40da6d2f3cf0fe4a4a3f4bbeee0c13edabbdbfb32ccb0a792ed66b561b",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "lock-01-lined",
+      "sha256": "cdb0d38305f238d59b529b8b7a76ad25136208c759e0aa4a77a493f03cc88398",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "phone-01-lined",
+      "sha256": "5959a9d89d4401e83d2c68e33a6d410be970d4512e4883534e0ea8efd142960b",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    },
+    {
+      "id": "shopping-bag-01-lined",
+      "sha256": "2b7695120060d416c1c2b21dd57b4d368216c562245652213607ce3657028242",
+      "decision": "Approved",
+      "comment": "User approved the shown v2 reference-form direction and started full production: «ок, можно запускать полный процесс». Existing original pilot remains locked."
+    }
+  ]
+}

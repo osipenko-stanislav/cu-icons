@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "menu-v2",
+  "type": "registry:component",
+  "title": "Menu V2 (animated)",
+  "description": "Animated menu v2 icon (click-toggle). Usage: <AnimatedMenuV2 size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "navigation"
+  ],
+  "meta": {
+    "keywords": [
+      "close",
+      "hamburger",
+      "menu",
+      "navigation"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/menu-v2.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/menu-v2.tsx",
+      "type": "registry:component",
+      "target": "components/animations/menu-v2.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/menu2\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Menu V2\" from https://useanimations.com (MIT): https://useanimations.com/icons/menu-v2\nexport function AnimatedMenuV2(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

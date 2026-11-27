@@ -1,0 +1,715 @@
+{
+  "references": 108,
+  "clusters": {
+    "arrow-left,arrow-link,arrow-right,chat,check,copy,download,edit-01,edit-02,filter,flag,grow,heart,hide,iron,log-out-03,marker-pin-01,marker-pin-04,medical,minus,moon-02-lined,pin,play-circle,play-square-lined,sale,sun-lined,trash,trophy,walk": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "award,desktop,shine": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "bed,bell,chervon-down,chervon-up,code,loading,math,menu,steam,x-close": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "bio,users": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-academic-lined,brand-chart-lined,brand-doc-lined,brand-message-lined,brand-shield-lined,brand-smile-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-award1-lined,brand-device-desktop-lined,brand-shine-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-biotech-lined,brand-chip-lined,brand-question-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-briefcase-lined,brand-home-lined,brand-molecule-lined,brand-network-lined,brand-rocket-lined,brand-way-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-code-lined,brand-glasses-lined,brand-math-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-users2-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "calendar": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "cap-academic,marketeq-wallet-money,reward,shield,teacher": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "case,cross-brand-2,cross-brand,data,home,profile,rocket,search,way": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "chair,clock,closet,doc,file,fridge,glasses,shower": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "chip": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "coworking,microwave,mode,wifi": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "dot": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "dots,message": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "evenodd"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "error,info": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "laundry": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "minus-round": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "museum": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0,
+        10.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "success": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        0.909091,
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "users-plus": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "square"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    }
+  },
+  "style_conflicts": true,
+  "report": "/Users/st.osipenko/Desktop/vscode/новые иконки /icon-project/review/reports/style-analysis.json"
+}

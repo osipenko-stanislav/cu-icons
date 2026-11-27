@@ -1,0 +1,40 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "microphone-v2",
+  "type": "registry:component",
+  "title": "Microphone V2 (animated)",
+  "description": "Animated microphone v2 icon (click-toggle). Usage: <AnimatedMicrophoneV2 size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "media"
+  ],
+  "meta": {
+    "keywords": [
+      "audio",
+      "media",
+      "mic",
+      "mic-off",
+      "microphone",
+      "mute",
+      "record"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/microphone-v2.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/microphone-v2.tsx",
+      "type": "registry:component",
+      "target": "components/animations/microphone-v2.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/microphone2\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Microphone V2\" from https://useanimations.com (MIT): https://useanimations.com/icons/microphone-v2\nexport function AnimatedMicrophoneV2(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

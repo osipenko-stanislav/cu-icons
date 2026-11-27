@@ -1,0 +1,57 @@
+{
+  "source": "user",
+  "instruction": "Лоадер странно работает, его можно поправить и погнали исправлять все",
+  "scope": "Proceed with all 1189 icons using approved exact-reference direction; revise loader to coherent continuous motion; preserve book squeeze",
+  "approved_pilot_scenes": [
+    {
+      "id": "settings-01-lined",
+      "scene_sha256": "811f949a1c895a181ef3f59e4a1658cc704a5fb00b6a302e86e9c5b47178a24b"
+    },
+    {
+      "id": "file-02-lined",
+      "scene_sha256": "fc9714338871bc00d7036047fd6cbc3c4a7e9e543d607aaa040d9a5b94f9b962"
+    },
+    {
+      "id": "globe-01-lined",
+      "scene_sha256": "7358f11b1e19f854375c1170ff562cfa28a46652535d5fae545d64e036af0712"
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "scene_sha256": "1531b9d2ba6820cf4adddec4b08d8034dae9debf3191348660b71fb74f77974f"
+    },
+    {
+      "id": "heart-lined",
+      "scene_sha256": "0ed5e2e18cd240e679b5b58298a0542f784c7c8c017fbd180b19b6c2b7ab7b62"
+    },
+    {
+      "id": "star-01-lined",
+      "scene_sha256": "19743a0eb46f4c7a8a61986f4eefea1e2a54f8bdaf49e1b93204b0d29c64dcad"
+    },
+    {
+      "id": "wifi-lined",
+      "scene_sha256": "519301f9702595296d8792b0b78b742f9d2b62ea0177195cbd115013a04e7977"
+    },
+    {
+      "id": "trash-01-lined",
+      "scene_sha256": "1b9b5a56048261e1f7cbd23f75ff0983b38acccdab414edebd26b275a70a851c"
+    },
+    {
+      "id": "arrow-right-lined",
+      "scene_sha256": "fb71a972696746b6f23c89aca912bf887aa233e0e470a429075b07742abc779f"
+    },
+    {
+      "id": "arrow-left-lined",
+      "scene_sha256": "061cb29e96130bef0e0f77ba473778343956d04e709611e2b3101819a8be132c"
+    },
+    {
+      "id": "menu-01-lined",
+      "scene_sha256": "4e3539cc15f2cd286c97b2cd393c37a3c2241c32567d6a0029738160d2f8e682"
+    },
+    {
+      "id": "toggle-03-left-lined",
+      "scene_sha256": "4fb117ad0341773f080db867df7d15c037102f8c6c1d0c2f501a5d57480aaf2e"
+    }
+  ],
+  "loader": "explicitly reopened for repair",
+  "status": "production-authorized"
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "reduced": false,
+    "checks": [
+      {
+        "name": "Click starts forward toggle",
+        "pass": true
+      },
+      {
+        "name": "Toggle retains filled endpoint",
+        "pass": true
+      },
+      {
+        "name": "Second click reverses toggle",
+        "pass": true
+      },
+      {
+        "name": "Toggle returns to outline",
+        "pass": true
+      },
+      {
+        "name": "Hover reverses without a pose jump",
+        "pass": true
+      },
+      {
+        "name": "Hover returns to initial pose",
+        "pass": true
+      },
+      {
+        "name": "Hover loop starts",
+        "pass": true
+      },
+      {
+        "name": "Hover loop finishes current cycle",
+        "pass": true
+      },
+      {
+        "name": "Hover loop rests at first frame",
+        "pass": true
+      },
+      {
+        "name": "Click-only ignores hover",
+        "pass": true
+      },
+      {
+        "name": "Click-only follows click",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.15",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.33",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.5",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.67",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.85",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 1",
+        "pass": true
+      },
+      {
+        "name": "Stroke stays fixed when icon size changes",
+        "pass": true
+      }
+    ]
+  },
+  {
+    "reduced": true,
+    "checks": [
+      {
+        "name": "Reduced motion toggle jumps to filled state",
+        "pass": true
+      },
+      {
+        "name": "Reduced motion toggle returns instantly",
+        "pass": true
+      },
+      {
+        "name": "Reduced motion suppresses hover motion",
+        "pass": true
+      },
+      {
+        "name": "Reduced motion suppresses loops",
+        "pass": true
+      },
+      {
+        "name": "Click-only ignores hover",
+        "pass": true
+      },
+      {
+        "name": "Click-only follows click",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.15",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.33",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.5",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.67",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 0.85",
+        "pass": true
+      },
+      {
+        "name": "Arrow head and stem share transform at 1",
+        "pass": true
+      },
+      {
+        "name": "Stroke stays fixed when icon size changes",
+        "pass": true
+      }
+    ]
+  }
+]

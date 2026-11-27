@@ -1,0 +1,38 @@
+{
+  "png_sha256": "8a78baadcd34667077f007fe5e0a5d4f16b60229ae2655919ef3da57724a6602",
+  "icons": {
+    "x-lined": "6b1a065f974d2b7602594a5f1b46b343c87c48d0b9550a7a963b0e994959d089",
+    "x-square-lined": "86f7665e77e14fd48afdc3c1eee1a24ed051f51d2eeb48004d9a747ca328a398",
+    "youtube-lined": "b56b9a8681b9f28c55c2da7fdef260986bfeb3c304443cde9cd0650a9bbe46fc",
+    "zap-circle-lined": "ac84f951b147d4405634f03fcb63ab6ff70e3fc899185605387ba646252cd034",
+    "zap-fast-lined": "d887db13fdd0b95a2d68b1d2c570fba82c76ddfccf19a1ff3ba17a2f2566f613",
+    "zap-lined": "6cc49ee179123db3d0cd0e3139e561bf33a05fe3415e32d24f66470a054533fa",
+    "zap-off-lined": "3906d6367e1d8ab05738f5ded247f1a1d4fad08cd2464e0d030253961d42972e",
+    "zap-square-lined": "7a51ee601cbb327e548af4b60b56d0aa16924bd4752b04052b6c11ff27184ed9",
+    "zoom-in-lined": "f6bd87be01c6e435a8d57a3353426b1d2c544e68154ce27281c39ca6e63b8af0",
+    "zoom-out-lined": "d5d1828fcd54fcc1f1ea818ba8583990fb5a303bc1f0bc868b7004bc8bde7a80"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1" stroke="currentColor">
+<clipPath id="mask0_1652_1329">
+<path d="M21 12C21 12 18 17 12 17C6 17 3 12 3 12C3 12 6 7 12 7C18 7 21 12 21 12Z" fill="currentColor" />
+</clipPath>
+<g clip-path="url(#mask0_1652_1329)">
+<circle cx="12" cy="12" r="2.5" stroke="currentColor" />
+</g>
+<path d="M21 12C21 12 18 17 12 17C6 17 3 12 3 12C3 12 6 7 12 7C18 7 21 12 21 12Z" stroke-linejoin="round" stroke="currentColor" />
+</svg>

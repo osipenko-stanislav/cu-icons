@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "alert-circle",
+    "url": "https://useanimations.com/icons/alert-circle.json",
+    "sha256": "44c61ede9d21bc71dfdf0283985549898cff767e83f619375ee6553fcb5781b2",
+    "bytes": 2490,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "alert-octagon",
+    "url": "https://useanimations.com/icons/alert-octagon.json",
+    "sha256": "d99fd15f137fa2f865865236526f66ad449fac330a777a9cdc281d66dbce31df",
+    "bytes": 2647,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "alert-triangle",
+    "url": "https://useanimations.com/icons/alert-triangle.json",
+    "sha256": "69add5450e7f62ce65bb12859addd1d84c7da27eef472d79e09d99ed8581cfa9",
+    "bytes": 3325,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "error",
+    "url": "https://useanimations.com/icons/error.json",
+    "sha256": "cad7a014071fe8197f37fac78c16d416779569df0ac82e04ce1a663aef266303",
+    "bytes": 1134,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "x-octagon",
+    "url": "https://useanimations.com/icons/x-octagon.json",
+    "sha256": "286c991e4d48cb50e6629425acb47e41a288e43f4556e19f08153ec4fa28d79f",
+    "bytes": 2419,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "notification",
+    "url": "https://useanimations.com/icons/notification.json",
+    "sha256": "d3ded55782dbbbb983119fd3c701663389290bbdcdd94b7ed2db562b92244fa5",
+    "bytes": 2193,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "notification-v2",
+    "url": "https://useanimations.com/icons/notification-v2.json",
+    "sha256": "a8a588a6828f925defb168062dc85734efe17dab03d8fba3e242c3f11b8fd2b6",
+    "bytes": 3709,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "notification-v3",
+    "url": "https://useanimations.com/icons/notification-v3.json",
+    "sha256": "717ee23dad68bcc3b141e4725407b49b9e4f1ce1382a5c253e2f92035a706f18",
+    "bytes": 3887,
+    "fps": 29.9700012207031,
+    "duration_ms": 2002.0020020020036,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "notification-v4",
+    "url": "https://useanimations.com/icons/notification-v4.json",
+    "sha256": "d474166e0ca11aaea57b703f072fc7cd71dd474ac3fd3ad886447c2273099e03",
+    "bytes": 2522,
+    "fps": 29.9700012207031,
+    "duration_ms": 2002.0020020020036,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-down-circle",
+    "url": "https://useanimations.com/icons/arrow-down-circle.json",
+    "sha256": "ff70f3c41c967b3ad682292dc312f25f28c1350aef8f7d074f5aa87d3ebce582",
+    "bytes": 2547,
+    "fps": 30,
+    "duration_ms": 2500.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-down-left",
+    "url": "https://useanimations.com/icons/arrow-down-left.json",
+    "sha256": "9660d06459622ab6c1a6b8378ecbca83e638ea9f224b99bd6de4d522cd09fda3",
+    "bytes": 1221,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-down-right",
+    "url": "https://useanimations.com/icons/arrow-down-right.json",
+    "sha256": "611d24640cd9f7760f27f6bb197045d080210988c98d5bcb547ef8527d4c83d6",
+    "bytes": 1223,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-left",
+    "url": "https://useanimations.com/icons/arrow-left.json",
+    "sha256": "7b1fa3037df3280b1285f0256703e3773d3ee1371505892e4954006a304e998b",
+    "bytes": 1212,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-left-circle",
+    "url": "https://useanimations.com/icons/arrow-left-circle.json",
+    "sha256": "4d40b6c8bafee7b51871c4e08a17accbbb5e2f18195f040dda42d48f48e7a843",
+    "bytes": 2545,
+    "fps": 30,
+    "duration_ms": 2500.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-right",
+    "url": "https://useanimations.com/icons/arrow-right.json",
+    "sha256": "69fee19fd66bf4f4939d7e4dbc1e593495ba3f37c77f49462c31a8da69557c74",
+    "bytes": 1214,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-right-circle",
+    "url": "https://useanimations.com/icons/arrow-right-circle.json",
+    "sha256": "5e7bd77984e11c7dbc5522e7740991775202ea209f7e4ee5414fac645438c927",
+    "bytes": 2548,
+    "fps": 30,
+    "duration_ms": 2500.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-up-circle",
+    "url": "https://useanimations.com/icons/arrow-up-circle.json",
+    "sha256": "0b40cab51843a485da499bc695fb338fc9e8bc1444df106964bef7ea6cd5ce19",
+    "bytes": 2544,
+    "fps": 30,
+    "duration_ms": 2500.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-up-left",
+    "url": "https://useanimations.com/icons/arrow-up-left.json",
+    "sha256": "af3b8f19e1b88cfd65dec7473fc5070d586d52ed6e685b5b6b9876c3abf70d3f",
+    "bytes": 1218,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-up-right",
+    "url": "https://useanimations.com/icons/arrow-up-right.json",
+    "sha256": "ca424b2a14c2996b475643df61b348d8228b15cb5bc1068075a6fa6b81680dca",
+    "bytes": 1220,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "menu",
+    "url": "https://useanimations.com/icons/menu.json",
+    "sha256": "ab82b1cc8724f84da9d27c8dd103b90da65c943ccb65be51b2cea8863eb386fd",
+    "bytes": 2805,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevron-down",
+    "url": "https://useanimations.com/icons/chevron-down.json",
+    "sha256": "e4484d86588f75d9faedc58cbd21bd7acff27e1ac166b8c3c8d564349d643f4f",
+    "bytes": 1092,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevron-up",
+    "url": "https://useanimations.com/icons/chevron-up.json",
+    "sha256": "f4fd7fb551b349b8100865e04fe2f5ad63a2e8b27c3fd75a4135a9dedd771a3f",
+    "bytes": 1091,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevrons-down",
+    "url": "https://useanimations.com/icons/chevrons-down.json",
+    "sha256": "c99ecb8f64b36d2805db4b39d11a9cbea1aa20c109d4885189db23b978af4528",
+    "bytes": 2086,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevrons-left",
+    "url": "https://useanimations.com/icons/chevrons-left.json",
+    "sha256": "bc82e43b490dd12039bd185b814f6f235c6e3c5d5313f1b9a66402cbd7bcc824",
+    "bytes": 2087,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevrons-right",
+    "url": "https://useanimations.com/icons/chevrons-right.json",
+    "sha256": "7acc618988d5405b1bb9113187c6bc08f3c5873aa8b46a4acba3cbe75d60ea91",
+    "bytes": 2087,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevrons-up",
+    "url": "https://useanimations.com/icons/chevrons-up.json",
+    "sha256": "dd27192b07c0c673f8a985518b4e47951fdaec1c82378b2ac6692a3ab217870a",
+    "bytes": 2085,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-down-left",
+    "url": "https://useanimations.com/icons/corner-down-left.json",
+    "sha256": "8109da7c324cb36434bac99af53c06d27fc311791f0c3a930540320f91ef7e59",
+    "bytes": 1243,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-down-right",
+    "url": "https://useanimations.com/icons/corner-down-right.json",
+    "sha256": "fcf7e75461997ba59e836c58c9bed264e1be86ffb178fba14bc4ef9e29051b14",
+    "bytes": 1246,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-left-down",
+    "url": "https://useanimations.com/icons/corner-left-down.json",
+    "sha256": "f5d01a1ac19d35de3e37a509a58a6ff9c9f7e8681d696c3a9e4d96b3717a16da",
+    "bytes": 1243,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-left-up",
+    "url": "https://useanimations.com/icons/corner-left-up.json",
+    "sha256": "e821a44fdd444f8e95e9667b7aeec826a3736ec03c885c93b1566339bb0bbeec",
+    "bytes": 1239,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-right-down",
+    "url": "https://useanimations.com/icons/corner-right-down.json",
+    "sha256": "f863f747c84626f8e6fde688dfc80af558e4c4fe5bb208980696e84c801b3aa0",
+    "bytes": 1246,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-right-up",
+    "url": "https://useanimations.com/icons/corner-right-up.json",
+    "sha256": "1c83a7c72405239e5790f38ba380967b6177e63ab70d6331bc2da7994189dd58",
+    "bytes": 1242,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-up-left",
+    "url": "https://useanimations.com/icons/corner-up-left.json",
+    "sha256": "9e50d1143e8ff604f7fe9adacd6cd67a0efba618e5e1e8ff4b58eec2a7f9e7f5",
+    "bytes": 1239,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "corner-up-right",
+    "url": "https://useanimations.com/icons/corner-up-right.json",
+    "sha256": "6360ebb9281747620c6af15948c69d2aae49a47c40c649610d99aca70eeb83a6",
+    "bytes": 1242,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "external-link",
+    "url": "https://useanimations.com/icons/external-link.json",
+    "sha256": "f9f792b28059f4eb84cbcaade6786cbd2e7958673c4c5649c99b0f56b8a66564",
+    "bytes": 1905,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "log-in",
+    "url": "https://useanimations.com/icons/log-in.json",
+    "sha256": "f49a0af13dbda6369522c8d5ce86370af36f667509780d5286e7d6ed14601a11",
+    "bytes": 1852,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "log-out",
+    "url": "https://useanimations.com/icons/log-out.json",
+    "sha256": "0a965443df6d1abad7b3e98684b554e2a4d4f565c41e3755323e57d58a425c85",
+    "bytes": 1849,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "menu-v2",
+    "url": "https://useanimations.com/icons/menu-v2.json",
+    "sha256": "f75be298b8680cb66c2ead69c9c6dba6101af629a4b2ac5a942c20572638e9b5",
+    "bytes": 2294,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "menu-v3",
+    "url": "https://useanimations.com/icons/menu-v3.json",
+    "sha256": "991f0a7ae02d2b187a6d49fab65b3239b906eca8bc9f836e2b3a6c3d22d7aad3",
+    "bytes": 2716,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "menu-v4",
+    "url": "https://useanimations.com/icons/menu-v4.json",
+    "sha256": "dc159c137d0092bb0a84cdd0b5d5b8e9ee7ce56743bc3371431dab5c8cee5f69",
+    "bytes": 2391,
+    "fps": 30,
+    "duration_ms": 700.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "more-horizontal",
+    "url": "https://useanimations.com/icons/more-horizontal.json",
+    "sha256": "8c7ee8f346308c4b93005c14e984f0544d3990a3091b58d417832a006e2d5e9a",
+    "bytes": 2937,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "more-vertical",
+    "url": "https://useanimations.com/icons/more-vertical.json",
+    "sha256": "530832975e4815df5aabe090af086d84ef968cef80eb90da203fca93b9236165",
+    "bytes": 2680,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "sidebar",
+    "url": "https://useanimations.com/icons/sidebar.json",
+    "sha256": "9ff6731f20536439e4c665efbb9443cb29fedbcb7c47e950e294d763ac56370d",
+    "bytes": 1789,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "award",
+    "url": "https://useanimations.com/icons/award.json",
+    "sha256": "2589871cad162a3d558480e2042b7fb9a2de43e8e3574d94ec11660b861b0365",
+    "bytes": 2743,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "bookmark",
+    "url": "https://useanimations.com/icons/bookmark.json",
+    "sha256": "e921698ec1da05393f70d0a09e2b5c2fe6539bf5b929a1cf696cb3bc45239528",
+    "bytes": 1886,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "calendar",
+    "url": "https://useanimations.com/icons/calendar.json",
+    "sha256": "efc0a075571d96d7a7af218193e29445c9326e85a815713e5a61863b32619d00",
+    "bytes": 3244,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "check",
+    "url": "https://useanimations.com/icons/check.json",
+    "sha256": "3599dd9ea8da6e54fdb655a0932809f342d83e2744e7e1bd70f1c85bfbbde4a6",
+    "bytes": 2247,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "check-circle",
+    "url": "https://useanimations.com/icons/check-circle.json",
+    "sha256": "be3f0a05435e8c5a586ce2dd346c2a046fcacdfd5eaa89ebf3e0aa201545ca8c",
+    "bytes": 2355,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "checkmark",
+    "url": "https://useanimations.com/icons/checkmark.json",
+    "sha256": "785f9a805f1ba9c949850bc5ebc2637e0882f9a81fdf3b41c9dc74760fd4526e",
+    "bytes": 981,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevron-left",
+    "url": "https://useanimations.com/icons/chevron-left.json",
+    "sha256": "2a0c3d7438da9ac9a4a77dd8d8da37de7c35035de3ab093b57dbbf5fe1f1f3dc",
+    "bytes": 2419,
+    "fps": 29.9700012207031,
+    "duration_ms": 1001.0010010010035,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "chevron-right",
+    "url": "https://useanimations.com/icons/chevron-right.json",
+    "sha256": "5005287f94c0032619eb9faf7e2764c502d62e728ac89216dc2e3944042d6530",
+    "bytes": 2689,
+    "fps": 29.9700012207031,
+    "duration_ms": 1001.0010010010035,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "delete",
+    "url": "https://useanimations.com/icons/delete.json",
+    "sha256": "554b7d7c8aacef72ca0bd7ce73753c0035ac3e5101cb15a4c9bb375ea04f3dda",
+    "bytes": 2885,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "download",
+    "url": "https://useanimations.com/icons/download.json",
+    "sha256": "84ec5378485b944a52281730288db9cb7128fe5609f5d12add4772498cf3006c",
+    "bytes": 6884,
+    "fps": 30,
+    "duration_ms": 4000.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "download-cloud",
+    "url": "https://useanimations.com/icons/download-cloud.json",
+    "sha256": "382211a12f807bd2fc2b6f784da89059a46b2b52e69a294f1cdecd793b66d0fb",
+    "bytes": 2202,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "download-v2",
+    "url": "https://useanimations.com/icons/download-v2.json",
+    "sha256": "89a2845f9332915e87ec288d71972c20872289e08e9c95d3bc2ce44cacaa0b58",
+    "bytes": 2070,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "edit",
+    "url": "https://useanimations.com/icons/edit.json",
+    "sha256": "617d28659f2d2b1629f79c1e2b5b9d9bd1008bee1153d24a115e11d96da74d5d",
+    "bytes": 2354,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "edit-2",
+    "url": "https://useanimations.com/icons/edit-2.json",
+    "sha256": "605a8428ddf1d9ce5b2662fb2888dd92922da4ae32c9ef507e957f178c372079",
+    "bytes": 1643,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "edit-3",
+    "url": "https://useanimations.com/icons/edit-3.json",
+    "sha256": "fe4830c5543e6cef82e03f49ef70df142d1b650f874693119e56336fa43c5a84",
+    "bytes": 2629,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "explore",
+    "url": "https://useanimations.com/icons/explore.json",
+    "sha256": "6d07a26b709bc5444c63518ea98b335f94d31331645ab12f1a8280a51090d5ff",
+    "bytes": 1399,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "filter",
+    "url": "https://useanimations.com/icons/filter.json",
+    "sha256": "ce15ad442156856445d35c0d8a08fd59b98981195f8aa68d3624f1f647a350cb",
+    "bytes": 13875,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "flag",
+    "url": "https://useanimations.com/icons/flag.json",
+    "sha256": "9c55cdcc3576e961e2df84e55e8b706db3cd66bf86923d4c522ba53a7862a7b3",
+    "bytes": 2334,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "folder",
+    "url": "https://useanimations.com/icons/folder.json",
+    "sha256": "a291934185e56305f602f7d13da0e80333adb1ea855a9dab1f869f2a8c071225",
+    "bytes": 2132,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "heart",
+    "url": "https://useanimations.com/icons/heart.json",
+    "sha256": "8f3ea1c015bc07c147f3eeb775fd246013cdfd53681f4e33e6b87209d80265c2",
+    "bytes": 2421,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "heart-v2",
+    "url": "https://useanimations.com/icons/heart-v2.json",
+    "sha256": "4fe44814272e5289b16c2c83bb3563f27e8960a0f2e50b3a49f6555b79b5328c",
+    "bytes": 1524,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "help",
+    "url": "https://useanimations.com/icons/help.json",
+    "sha256": "76fedc3941b8b1b2046925283de8b1af8260442f95399eabd20d7be575e3dad8",
+    "bytes": 2621,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "home",
+    "url": "https://useanimations.com/icons/home.json",
+    "sha256": "c113c61dc8d77d41faca5714bba40452bd67c19ee1ff8408c42365fe895198f1",
+    "bytes": 1850,
+    "fps": 60,
+    "duration_ms": 516.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "info",
+    "url": "https://useanimations.com/icons/info.json",
+    "sha256": "c405080f9ce5c7935ee01b4b57dfcd78d446917a9723588a7b8bfed219b7be74",
+    "bytes": 2489,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "key",
+    "url": "https://useanimations.com/icons/key.json",
+    "sha256": "7259f70f4f4efc33b44f0a6a0774f97ef839dceaef9fba95c177c1ee4ce19d88",
+    "bytes": 1616,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "link",
+    "url": "https://useanimations.com/icons/link.json",
+    "sha256": "bf3115a7fb421e8a6a6073ac1d76fdb2aab7418627b956fce295cb901a72f4e1",
+    "bytes": 2478,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "link-2",
+    "url": "https://useanimations.com/icons/link-2.json",
+    "sha256": "ee2bc78c5b8343ff45d8c4fe8c187bb6d5b2e29c23533fb5f133d801e2e5780f",
+    "bytes": 2757,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "lock",
+    "url": "https://useanimations.com/icons/lock.json",
+    "sha256": "83ceee9f6a3efe301226f92371529194a3c7620863ddbf140e4f86f7d801eeff",
+    "bytes": 1668,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "maximize-minimize",
+    "url": "https://useanimations.com/icons/maximize-minimize.json",
+    "sha256": "a6e28e813ef1e509ae911898e170b8c4cc7a29bca45068a63a7cac4eab2cccb9",
+    "bytes": 2922,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "maximize-minimize-v2",
+    "url": "https://useanimations.com/icons/maximize-minimize-v2.json",
+    "sha256": "5f348703983db94ab6e42a8a0f36137a55ef2d0d987bf5e8215d27afaf269f23",
+    "bytes": 3146,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "maximize-2",
+    "url": "https://useanimations.com/icons/maximize-2.json",
+    "sha256": "3f24ccbf12ca5cbdcc0630e1d52d27166e3c67d7e58b0525b414a5c2dd79aa04",
+    "bytes": 2297,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "minimize-2",
+    "url": "https://useanimations.com/icons/minimize-2.json",
+    "sha256": "5e6276e6e132ff60ee039eeef0a901fe7117a0aacb3e9fe80f477df59c25d8f4",
+    "bytes": 2301,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "minus",
+    "url": "https://useanimations.com/icons/minus.json",
+    "sha256": "4969a0e6626e4e8dafe2626f9ab60502a1e0be069f1a66a0f5363f67771c8d7d",
+    "bytes": 1163,
+    "fps": 30,
+    "duration_ms": 1066.6666666666667,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "minus-circle",
+    "url": "https://useanimations.com/icons/minus-circle.json",
+    "sha256": "bb6dbf54f640b4f8f2e32e70e6b5a5d60e1460a43f07b4e57235b00e00bb7217",
+    "bytes": 2123,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "minus-square",
+    "url": "https://useanimations.com/icons/minus-square.json",
+    "sha256": "f6ab61187db001b32a281be844e705fc8722bc52a506b63c17b2b878ee5bcbb1",
+    "bytes": 2197,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "plus-circle",
+    "url": "https://useanimations.com/icons/plus-circle.json",
+    "sha256": "58e9d3c5c86c37c180a047f563978336a41481192b7915b3a30213597de0ac97",
+    "bytes": 2361,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "plus-square",
+    "url": "https://useanimations.com/icons/plus-square.json",
+    "sha256": "306babcf98f10edf23cae54cac59bd032e826b9f40026f86825d994c3c3304f3",
+    "bytes": 2435,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "plus-to-x",
+    "url": "https://useanimations.com/icons/plus-to-x.json",
+    "sha256": "d758e613acf2344f6e2fb040c90de96b03de302930fa6e3366cc9afce8575ee1",
+    "bytes": 1267,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "power",
+    "url": "https://useanimations.com/icons/power.json",
+    "sha256": "8c9069fd28d459a4625c5c84c62d62896fc281e33c34f82afb7ee42de8fda02c",
+    "bytes": 2478,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "refresh",
+    "url": "https://useanimations.com/icons/refresh.json",
+    "sha256": "d45036f9c9af5ce0f1070300170bc505af3ee1eadcf85879b4bac83e1f7c066e",
+    "bytes": 1458,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "refresh-ccw",
+    "url": "https://useanimations.com/icons/refresh-ccw.json",
+    "sha256": "5f172683e08ab6d81f34b47c5a31017f12ec718e2d73645414c809d9845422fe",
+    "bytes": 1405,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "refresh-v2",
+    "url": "https://useanimations.com/icons/refresh-v2.json",
+    "sha256": "2ee0051d6769e0c41ac690a6abad7ea11600f46b6a0234bb1161510043f7b8ae",
+    "bytes": 1403,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "rotate-ccw",
+    "url": "https://useanimations.com/icons/rotate-ccw.json",
+    "sha256": "b0204abd9a2ced781c3bbe2d657ced2cab447be6eac73645e457364d9244260b",
+    "bytes": 1183,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "rotate-cw",
+    "url": "https://useanimations.com/icons/rotate-cw.json",
+    "sha256": "454acc31e64ec6f6302b6ade104f698c81f55eb4283a22fe94fe80a24023637a",
+    "bytes": 1183,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "save",
+    "url": "https://useanimations.com/icons/save.json",
+    "sha256": "7cb2904076ef95797c3cc8c8f771fbaeb4318d391a4febd818de9f3c63923110",
+    "bytes": 2902,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "search-to-x",
+    "url": "https://useanimations.com/icons/search-to-x.json",
+    "sha256": "de5a5c24bd652571b707e447c95a39a83123701ffb1b351ea0411109f820a718",
+    "bytes": 3185,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "settings",
+    "url": "https://useanimations.com/icons/settings.json",
+    "sha256": "379db9d7b1788b1c6977fc40e1d06db6a0426f5ec8018659fb42940a7ab41ae1",
+    "bytes": 3534,
+    "fps": 30,
+    "duration_ms": 1666.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "settings-v2",
+    "url": "https://useanimations.com/icons/settings-v2.json",
+    "sha256": "f78c80408031f6eceee4b13a7dbc382efe75f885180fc1b026d7811be0a78ad9",
+    "bytes": 5640,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "shield",
+    "url": "https://useanimations.com/icons/shield.json",
+    "sha256": "61bc52b76cef4209712d03474deacf3326fca1cdb22f926f89d3e3238144903e",
+    "bytes": 1153,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "shield-off",
+    "url": "https://useanimations.com/icons/shield-off.json",
+    "sha256": "12e5ec5f2ea729415946571c223a829c5a1ea46062c34daeee139670c9b7ea02",
+    "bytes": 1559,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "slash",
+    "url": "https://useanimations.com/icons/slash.json",
+    "sha256": "cb97ee6433b14947ae535749bb6d9461d5630c73c461c76860ca076223a9f730",
+    "bytes": 2154,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "star",
+    "url": "https://useanimations.com/icons/star.json",
+    "sha256": "fa18d30e9cb1525d5b6fd6603898189493c1fb0441adda4abe6d188c67d09e86",
+    "bytes": 2050,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "thumb-up",
+    "url": "https://useanimations.com/icons/thumb-up.json",
+    "sha256": "60110c935c0d47398bb743fb2295cee84def398075fbeeb7cb4219092b05bc00",
+    "bytes": 6883,
+    "fps": 30,
+    "duration_ms": 733.3333333333333,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "thumbs-down",
+    "url": "https://useanimations.com/icons/thumbs-down.json",
+    "sha256": "f59ca5eff008f16706d3cee65ad51072a7c321e32c2eb5d302aea38c68bdc5db",
+    "bytes": 1707,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "trash",
+    "url": "https://useanimations.com/icons/trash.json",
+    "sha256": "bedefb923aa09d132321be0544f07897394bbc48121c19e3912ec555e8be8d82",
+    "bytes": 2181,
+    "fps": 30,
+    "duration_ms": 166.66666666666666,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "trash-v2",
+    "url": "https://useanimations.com/icons/trash-v2.json",
+    "sha256": "306fe28c80185489ee81cde55401edbddfe3d14e4ed19752aac45b7028e27e5e",
+    "bytes": 3148,
+    "fps": 30,
+    "duration_ms": 166.66666666666666,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "upload",
+    "url": "https://useanimations.com/icons/upload.json",
+    "sha256": "364bce21e26ec75b5c52a529ac683e6dfdcf2d78d94ff7120afe128a9885b670",
+    "bytes": 2060,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "upload-cloud",
+    "url": "https://useanimations.com/icons/upload-cloud.json",
+    "sha256": "3e8c354acfff28d0eaeb556e2a3923a942037a9f2081afc922ba9ecee938163f",
+    "bytes": 2309,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "visibility",
+    "url": "https://useanimations.com/icons/visibility.json",
+    "sha256": "ac302af71c970ad3309a76db02e12b92731b6afcc7c1c0ddc2d9d665ce0a669f",
+    "bytes": 2581,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "visibility-v2",
+    "url": "https://useanimations.com/icons/visibility-v2.json",
+    "sha256": "4e47a974f2fa34391d8b3d2a01839c133f4ef3b3dc18e0bab49be936f121d2e4",
+    "bytes": 2707,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "visibility-v3",
+    "url": "https://useanimations.com/icons/visibility-v3.json",
+    "sha256": "c23ee68976a78a2ae80d49bfc6ff5c7215cebac77d3938c1c4e57392104c780f",
+    "bytes": 5877,
+    "fps": 29.9700012207031,
+    "duration_ms": 567.2339005672345,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "x-square",
+    "url": "https://useanimations.com/icons/x-square.json",
+    "sha256": "87ea3210de884c291fc0922b6d800ff573239bae0f2965bbf3c241b17ad01bfa",
+    "bytes": 2430,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "zoom-in",
+    "url": "https://useanimations.com/icons/zoom-in.json",
+    "sha256": "317ce608989f06f9a19705fa4b679ed3bf15e7d8b9ca9ca8f066c46ba8d758a7",
+    "bytes": 4054,
+    "fps": 29.9700012207031,
+    "duration_ms": 1001.0010010010035,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "zoom-out",
+    "url": "https://useanimations.com/icons/zoom-out.json",
+    "sha256": "9d4aecca9b6ed815a05afdcda9ab801ef57dee9eb42f317c360bce51a5ec3652",
+    "bytes": 2968,
+    "fps": 29.9700012207031,
+    "duration_ms": 1001.0010010010035,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "archive",
+    "url": "https://useanimations.com/icons/archive.json",
+    "sha256": "81395d87a3063d4797b982e6d049fe6c687bcd5eb7267f7948cf4e29f1f6147d",
+    "bytes": 3971,
+    "fps": 30,
+    "duration_ms": 166.66666666666666,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "book",
+    "url": "https://useanimations.com/icons/book.json",
+    "sha256": "58b5625abd8b988161ad031b591209a09a9dea7fb24aeee66697d49bcc12c4ee",
+    "bytes": 1727,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "book-open",
+    "url": "https://useanimations.com/icons/book-open.json",
+    "sha256": "90c72d59731b24248870f45c8012d855ec33dbf52d7640cc77f0c33e85c61a9c",
+    "bytes": 3382,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "clipboard",
+    "url": "https://useanimations.com/icons/clipboard.json",
+    "sha256": "db6319879e5537a4c1ce579f67171f60feeed2ea5b11a36fb4ce3e1ec43ed827",
+    "bytes": 2191,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "copy",
+    "url": "https://useanimations.com/icons/copy.json",
+    "sha256": "1dde3dad5dc90d8bef24e2dda4e0d703bfbf9b88245e2bac23800154b15ca73b",
+    "bytes": 1910,
+    "fps": 30,
+    "duration_ms": 166.66666666666666,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "file",
+    "url": "https://useanimations.com/icons/file.json",
+    "sha256": "b6a09f9fdd967f17d6f858f7158c69616900535a9fb94b41544106d48c14356f",
+    "bytes": 1751,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "file-minus",
+    "url": "https://useanimations.com/icons/file-minus.json",
+    "sha256": "845b21d4c1582c810ca6edab4dfde6b9437bff729fa1e8cdbfd054a8f033faae",
+    "bytes": 2306,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "file-plus",
+    "url": "https://useanimations.com/icons/file-plus.json",
+    "sha256": "cac823bf3270aee113ef006e3ba1b183b61a1af4558294beed3b3a2b048fb556",
+    "bytes": 2545,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "file-text",
+    "url": "https://useanimations.com/icons/file-text.json",
+    "sha256": "0e6d3617adf7136258197e28724b53fcf61deb9badd142dcc7beba7f18d31958",
+    "bytes": 4441,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "folder-minus",
+    "url": "https://useanimations.com/icons/folder-minus.json",
+    "sha256": "a8cbb59278492ea17b6c88eb49c1d3d0e3535a2160cc492a2529449a9b3ad111",
+    "bytes": 2238,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "folder-plus",
+    "url": "https://useanimations.com/icons/folder-plus.json",
+    "sha256": "6535419da3fc70cf447918b86c6308d32b6e9386b4a08108a8641b610050c8f6",
+    "bytes": 2477,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "image",
+    "url": "https://useanimations.com/icons/image.json",
+    "sha256": "e9ae85fa5e5de8813ab6ee67d8e355d222008130747e4a3a1c47aac6504f6ff1",
+    "bytes": 2889,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "inbox",
+    "url": "https://useanimations.com/icons/inbox.json",
+    "sha256": "a2998f6e73eadd26a9d71b7f63d094f173df76ff7ff94920b6d99ea4b0358adc",
+    "bytes": 2155,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "mail",
+    "url": "https://useanimations.com/icons/mail.json",
+    "sha256": "821336f1d603744acee10aa65d7ebc2a532cfa33135d2d587885ac033d2f60a7",
+    "bytes": 4351,
+    "fps": 30,
+    "duration_ms": 666.6666666666666,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "paperclip",
+    "url": "https://useanimations.com/icons/paperclip.json",
+    "sha256": "fecb7057dd640210ea24ed92ac648de9f37345eea5a12b582e824a88385483e4",
+    "bytes": 1371,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "share",
+    "url": "https://useanimations.com/icons/share.json",
+    "sha256": "de81f47a7f948b48011298efe6e84bd9e02e14ca9944dd6ef72a8c862ba51ff0",
+    "bytes": 7209,
+    "fps": 30,
+    "duration_ms": 2500.0,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "user",
+    "url": "https://useanimations.com/icons/user.json",
+    "sha256": "e8a110b9b43e99921c82011406a33638352bda4fab19b443a823e1931eb0c297",
+    "bytes": 2113,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "user-check",
+    "url": "https://useanimations.com/icons/user-check.json",
+    "sha256": "c25bb1f17af105494adcfd754c9965e3c5606dc40f4ccc6b7b3d771960dbf87c",
+    "bytes": 3417,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "user-minus",
+    "url": "https://useanimations.com/icons/user-minus.json",
+    "sha256": "dc8f0a7eefe5ca7fa10bd734a58ad75cca989ec6d40760cdc12ba0cc69e79cc1",
+    "bytes": 2370,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "user-plus",
+    "url": "https://useanimations.com/icons/user-plus.json",
+    "sha256": "54f4eab7f387e11ee210795ae17a3d1797c261109942efbf46c7531162a5882d",
+    "bytes": 2940,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "user-x",
+    "url": "https://useanimations.com/icons/user-x.json",
+    "sha256": "7488c4945751356b51daa69572393fb3d9b5bf9cb07a042a173753f4076dde1a",
+    "bytes": 2966,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "users",
+    "url": "https://useanimations.com/icons/users.json",
+    "sha256": "4a0435d3a99467e551fe5ec0902eb7211d35ebaedcd466645f7ac116395f9ea5",
+    "bytes": 4265,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "check-box",
+    "url": "https://useanimations.com/icons/check-box.json",
+    "sha256": "8d2ce658a995215129625fcf08983c69b002378a227f96ad9ce41219d56cc227",
+    "bytes": 1862,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "radio-button",
+    "url": "https://useanimations.com/icons/radio-button.json",
+    "sha256": "5ef628f67def59004675d72c11c9c3fcd8b48ab790b4f6a808dd258c87ec08ad",
+    "bytes": 1878,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "toggle",
+    "url": "https://useanimations.com/icons/toggle.json",
+    "sha256": "c40ed1001cafb57eec6238fa609113bf27049646831bf5bb19fbd35322d114bd",
+    "bytes": 1382,
+    "fps": 30,
+    "duration_ms": 500.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "airplay",
+    "url": "https://useanimations.com/icons/airplay.json",
+    "sha256": "2e8c9b7fc2d62461934c97c5ec2300fc286b0725de9b3ee39d21738c839c6c0d",
+    "bytes": 2674,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "aperture",
+    "url": "https://useanimations.com/icons/aperture.json",
+    "sha256": "74ecca7939d29173ef45b45aa605f0f0be8bea6f51c54d7032aea1eb0e0e15ca",
+    "bytes": 2065,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "camera",
+    "url": "https://useanimations.com/icons/camera.json",
+    "sha256": "b642b79dce3bb7cc8d63e78188b70837c6158a8df77ca0fe7fb9f8cba29f6cc0",
+    "bytes": 2261,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "camera-off",
+    "url": "https://useanimations.com/icons/camera-off.json",
+    "sha256": "b20af2270be0e49f1c23c6a3a6baa11eae8bf5083f27bfe988ba18cb66d967bd",
+    "bytes": 1878,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "cast",
+    "url": "https://useanimations.com/icons/cast.json",
+    "sha256": "53610ade95c0bca0b89c2451722f1f159df6ab9f71fdefbc6584b20a611d88ca",
+    "bytes": 3928,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "disc",
+    "url": "https://useanimations.com/icons/disc.json",
+    "sha256": "3d3b567e0ce291758566580512ed900a48641c2a9fc4439f43ee7d2c386be252",
+    "bytes": 2213,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "fast-forward",
+    "url": "https://useanimations.com/icons/fast-forward.json",
+    "sha256": "5869a2d39a7ab3eb55097071b3cd54362afb2c1bed60f436c43871c1028f1c99",
+    "bytes": 2087,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "film",
+    "url": "https://useanimations.com/icons/film.json",
+    "sha256": "44769d4788a79468066ff9b866ca6b790ad1f97bf0af412099517eba274253fe",
+    "bytes": 2213,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "headphones",
+    "url": "https://useanimations.com/icons/headphones.json",
+    "sha256": "26323794dc284b1b707e83bbbeecc92911493b5d4214cbe57173afa857e9e244",
+    "bytes": 1971,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "mic-off",
+    "url": "https://useanimations.com/icons/mic-off.json",
+    "sha256": "6fa934dc53fd15834ba45e67ab2e416edee955ae370a4df7805b1edc4290d755",
+    "bytes": 1963,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "microphone",
+    "url": "https://useanimations.com/icons/microphone.json",
+    "sha256": "7f12e9577a39e11aecc1d521d77bfe78dfd60b5b1175f69f86ab1f1442fdcfc0",
+    "bytes": 3442,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "microphone-v2",
+    "url": "https://useanimations.com/icons/microphone-v2.json",
+    "sha256": "a4f92ab5e99c86b0339d3955ed07a196578a7769c891c61d9a8073cad8399543",
+    "bytes": 3565,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "music",
+    "url": "https://useanimations.com/icons/music.json",
+    "sha256": "0c947102e0e54d0cb349a76cda887d83ea779eb721a711b4ec4cdb3124905eda",
+    "bytes": 2033,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "play-pause",
+    "url": "https://useanimations.com/icons/play-pause.json",
+    "sha256": "ddde1d0a2f2213c324135debfb888ccea9f9cbf8b2d18f3a7b60b9cbf4556669",
+    "bytes": 1595,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "play-pause-circle",
+    "url": "https://useanimations.com/icons/play-pause-circle.json",
+    "sha256": "dcd0220bc6fcfb7471e56f77b85c93761e7949316b6bcf83c7189bf2080071ef",
+    "bytes": 2071,
+    "fps": 30,
+    "duration_ms": 266.6666666666667,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "radio",
+    "url": "https://useanimations.com/icons/radio.json",
+    "sha256": "645caca6ea24924075155b18c25ded49e34eccc008e4b000968a722b747fefd8",
+    "bytes": 3631,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "repeat",
+    "url": "https://useanimations.com/icons/repeat.json",
+    "sha256": "e11d62fa73b9a1000436a4fc890cb36eb22de69b1d0c9dcf603936cfed5efbcd",
+    "bytes": 1310,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "rewind",
+    "url": "https://useanimations.com/icons/rewind.json",
+    "sha256": "f80a1f12a2f6ca70af4d957824ec6b44c13dbaf122a3ce4f35c5d57dfb895b72",
+    "bytes": 2082,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "shuffle",
+    "url": "https://useanimations.com/icons/shuffle.json",
+    "sha256": "ba4d26198269fc3577f4dfad4ecb960b4bb075ef6b9a61d35812f0a15bfca5f9",
+    "bytes": 2377,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "skip-back",
+    "url": "https://useanimations.com/icons/skip-back.json",
+    "sha256": "0192539e19420bfd049e2ea2dc28fb04e04873f6e1c1d09abc8b5e94be6f66da",
+    "bytes": 6076,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "skip-forward",
+    "url": "https://useanimations.com/icons/skip-forward.json",
+    "sha256": "c02af6f76ae70e891672c3ac67ad0d7b9d6ec85d0f78f7a4096b01cf8ed4ae0a",
+    "bytes": 6075,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "speaker",
+    "url": "https://useanimations.com/icons/speaker.json",
+    "sha256": "003e888cba4e12b8a4f7fd3e70b2718553d4b433b1c7edd3673585a30ca84133",
+    "bytes": 2762,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "stop-circle",
+    "url": "https://useanimations.com/icons/stop-circle.json",
+    "sha256": "8a6e988aa19b7626a1481232c688d295216b4710d380050f73b8fcb0e7fddccf",
+    "bytes": 2179,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "tv",
+    "url": "https://useanimations.com/icons/tv.json",
+    "sha256": "15429adfa2b4e87e9f6c5e123e6baa7d6962ff4e79f4710d099ed4055441930a",
+    "bytes": 2072,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "video",
+    "url": "https://useanimations.com/icons/video.json",
+    "sha256": "8d1912e792db428e6d8a9f79b29b3889989ee6ec80ca79a7bf67ca5f5664f2e6",
+    "bytes": 2659,
+    "fps": 30,
+    "duration_ms": 533.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "video-off",
+    "url": "https://useanimations.com/icons/video-off.json",
+    "sha256": "ede4b4d3da7bdd7fd0f956de9bd49f1342f88f71a9b14f45498dae2772e7bbb9",
+    "bytes": 1748,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "video-v2",
+    "url": "https://useanimations.com/icons/video-v2.json",
+    "sha256": "81df3c4151963357ca408f3eeaf88d0bd105645f956164e814c23291a4941e6f",
+    "bytes": 2778,
+    "fps": 30,
+    "duration_ms": 533.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "volume",
+    "url": "https://useanimations.com/icons/volume.json",
+    "sha256": "fd0e90d819ba72502476e85be21ca1a3353520b3dcdf83689cc930bef3a16e35",
+    "bytes": 4264,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "align-center",
+    "url": "https://useanimations.com/icons/align-center.json",
+    "sha256": "6bc9ed6031239e683113015c18a07851e5bc5c3f4ef15d6ba83660892396a0a9",
+    "bytes": 4385,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "align-justify",
+    "url": "https://useanimations.com/icons/align-justify.json",
+    "sha256": "f8e50046ebb6dc52900fc945f73a30586d334bcdfba6af476cc864959ac6b033",
+    "bytes": 4378,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "align-left",
+    "url": "https://useanimations.com/icons/align-left.json",
+    "sha256": "57150a49fcc062d7d72ebe710de133defaa1fdaf9157c253a5edd9b3ed9520be",
+    "bytes": 4375,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "align-right",
+    "url": "https://useanimations.com/icons/align-right.json",
+    "sha256": "e6d2d3d252de356a46247d49035c43e1d9b8d916a5e24749611946b4de6fa167",
+    "bytes": 4376,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "bold",
+    "url": "https://useanimations.com/icons/bold.json",
+    "sha256": "6e6d8cbb9c1f11c0813df7686be724481ea6f12282c2e3b676c3784f530c9277",
+    "bytes": 1320,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "hash",
+    "url": "https://useanimations.com/icons/hash.json",
+    "sha256": "7e5e3b42f8e66d8ad051c7f411f2fa464788efeb9619ffeba151fd2f0b05a03b",
+    "bytes": 1645,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "italic",
+    "url": "https://useanimations.com/icons/italic.json",
+    "sha256": "b1ce7d46e88672fec0e42076444fcc2d82495c5d34955f7849f013669f1ad30f",
+    "bytes": 3131,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "list",
+    "url": "https://useanimations.com/icons/list.json",
+    "sha256": "ed850488f494ec35bc05763b32ac144fe760aeca890cac328d477d1366cf1479",
+    "bytes": 5934,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "type",
+    "url": "https://useanimations.com/icons/type.json",
+    "sha256": "04e724f69bd5000258d3c6586f0378efc9998da8bcca32230e7ff0561a5853d4",
+    "bytes": 1703,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "underline",
+    "url": "https://useanimations.com/icons/underline.json",
+    "sha256": "dec1d8108ffdcb59635f1fa83ac75d5f5718b1a45707329a68c1711e1a455168",
+    "bytes": 2030,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "at-sign",
+    "url": "https://useanimations.com/icons/at-sign.json",
+    "sha256": "b5c87585ada490100f8b08f90ada069fc8edbf089da971d8a71c827cb1f9ffac",
+    "bytes": 2381,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "message-circle",
+    "url": "https://useanimations.com/icons/message-circle.json",
+    "sha256": "7927863d6845a7b57fee6801d071c606ff0668950017b91a4d73894ca7622d8f",
+    "bytes": 1681,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "message-square",
+    "url": "https://useanimations.com/icons/message-square.json",
+    "sha256": "adfb82d90ec8fe80e2c27197c45acb936000e64e3ef51796147e3594cc6d9bf0",
+    "bytes": 1502,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone",
+    "url": "https://useanimations.com/icons/phone.json",
+    "sha256": "42285d5fecccfc5fefe9416ee2766cfd83249757d30ba8af60f419bc4369ae0b",
+    "bytes": 2136,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-call",
+    "url": "https://useanimations.com/icons/phone-call.json",
+    "sha256": "03e6073d60845521e7feab4a24527af5026fabf0e19873cb5010c6a4d34b3dbd",
+    "bytes": 4387,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-forwarded",
+    "url": "https://useanimations.com/icons/phone-forwarded.json",
+    "sha256": "d52116214f7f407a99c67e6eafd5611dfdff61b3448825628d185838b3ffbd37",
+    "bytes": 2769,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-incoming",
+    "url": "https://useanimations.com/icons/phone-incoming.json",
+    "sha256": "ff468f84348016fe9fd135b088fda5fada9f1e4529d3d04a257a8673bc9d50b9",
+    "bytes": 2768,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-missed",
+    "url": "https://useanimations.com/icons/phone-missed.json",
+    "sha256": "4d8eaa4360b24e3455797be5147ea8ab0c61d4ae790c7199eb2471562aaa6b65",
+    "bytes": 2980,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-off",
+    "url": "https://useanimations.com/icons/phone-off.json",
+    "sha256": "309d1cc055ce1c1f1100c4ade3fd2410d558b8442ba88d05293d71693b858b41",
+    "bytes": 2132,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "phone-outgoing",
+    "url": "https://useanimations.com/icons/phone-outgoing.json",
+    "sha256": "6e163c619b2d8d8e02b618a95c99fcd98092c7db366a521b015a16d32d5de53b",
+    "bytes": 2768,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "rss",
+    "url": "https://useanimations.com/icons/rss.json",
+    "sha256": "a69dceb6f2a6ef08e541b600528877feeddc609970c8147ae0324b73056f4fb7",
+    "bytes": 3259,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "send",
+    "url": "https://useanimations.com/icons/send.json",
+    "sha256": "ff452b940c5576200505c3a6e28a2329ac760b06eff54b7bc827516214fa4a18",
+    "bytes": 1230,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "voicemail",
+    "url": "https://useanimations.com/icons/voicemail.json",
+    "sha256": "6adcc509ad3792ee86bd1bc8e780dc7637a2fb7cea4b935ca7f745f07bb63766",
+    "bytes": 2989,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "battery",
+    "url": "https://useanimations.com/icons/battery.json",
+    "sha256": "c36eebd9ac28f4f3a8961a2636bce4a2a205c06596c2071fcf69b95d981718d1",
+    "bytes": 4960,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "battery-charging",
+    "url": "https://useanimations.com/icons/battery-charging.json",
+    "sha256": "dbc7afe4e5e3490bd91449368181c3052d671a48bdc761da98d8652305d520d4",
+    "bytes": 2620,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "bluetooth",
+    "url": "https://useanimations.com/icons/bluetooth.json",
+    "sha256": "4a0635167d86ba39340f1a356defb85ddeb4acbc85dc34f584a52d93cb4771ce",
+    "bytes": 1175,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "cpu",
+    "url": "https://useanimations.com/icons/cpu.json",
+    "sha256": "08ac31d2c7a526f5e45ac077bcf954b137b6ce32477db20786990c53426f7b50",
+    "bytes": 5341,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "hard-drive",
+    "url": "https://useanimations.com/icons/hard-drive.json",
+    "sha256": "7bb4dbbc566b1e9ba2289e094a063fdd6fa08dfdb16d843c7edf4666c7128957",
+    "bytes": 2873,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "monitor",
+    "url": "https://useanimations.com/icons/monitor.json",
+    "sha256": "76af0c69dc45bc68a071dd55efcecb733564b02ba61e1d91327dfd38a248c7a0",
+    "bytes": 2128,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "printer",
+    "url": "https://useanimations.com/icons/printer.json",
+    "sha256": "0bb466270bf5feb291386ce1c4bc5de23f45f76a26d7a8f932869f9ccd8aafee",
+    "bytes": 2527,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "smartphone",
+    "url": "https://useanimations.com/icons/smartphone.json",
+    "sha256": "fbb05b4be0c422a23dcdba3bcc1507d82bdd3af21fc536bd96e2725edadb2713",
+    "bytes": 1756,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "tablet",
+    "url": "https://useanimations.com/icons/tablet.json",
+    "sha256": "4149121354a17ae5a9935f5e7f5debb497a66f3090ae12c5c09f1766871da234",
+    "bytes": 1199,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "watch",
+    "url": "https://useanimations.com/icons/watch.json",
+    "sha256": "fd17735eba31ba6b47a465ce8958ebc8d5b73384e7b95ec78cc8f04d1c18ad84",
+    "bytes": 2029,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "wifi",
+    "url": "https://useanimations.com/icons/wifi.json",
+    "sha256": "f576b0fcdebd55bed69e17b0c59c82cebedeb5ff8a4d2690224e87100e0f22ca",
+    "bytes": 4365,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "wifi-off",
+    "url": "https://useanimations.com/icons/wifi-off.json",
+    "sha256": "08b9dc7ca30a8a52f7621e7e2a03df794975a4363bb8290b35ac98f6235f9511",
+    "bytes": 1860,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud",
+    "url": "https://useanimations.com/icons/cloud.json",
+    "sha256": "1a9ccfb160e44fba3c78611cc81feab0cc35a05f015fbbc084c09c1669164c46",
+    "bytes": 1277,
+    "fps": 30,
+    "duration_ms": 1600.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud-drizzle",
+    "url": "https://useanimations.com/icons/cloud-drizzle.json",
+    "sha256": "be9ed347801ad0fc328d56799e4b2bb866296df922d692b038cec4b070bcdda0",
+    "bytes": 7358,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud-lightning",
+    "url": "https://useanimations.com/icons/cloud-lightning.json",
+    "sha256": "8159927843b11b264565215a41fceb016ee7f786984fd76b4042d75d10c63880",
+    "bytes": 2425,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud-off",
+    "url": "https://useanimations.com/icons/cloud-off.json",
+    "sha256": "7c57b2778c3c2adb3a2f3048f3e4193931cd5a04735b140190c40d6de5f0b881",
+    "bytes": 1669,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud-rain",
+    "url": "https://useanimations.com/icons/cloud-rain.json",
+    "sha256": "08183cc33ea3f219fd018f05e8a303592541758e83a3c32f82ce7d0c72bb9735",
+    "bytes": 3839,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "cloud-snow",
+    "url": "https://useanimations.com/icons/cloud-snow.json",
+    "sha256": "e2be87d05be68715a2935f371be7d197dbd5f22cbc461d252acbd5b6080d0921",
+    "bytes": 7377,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "droplet",
+    "url": "https://useanimations.com/icons/droplet.json",
+    "sha256": "cd155dae6f75d873f974a30f0e7080a36564a61e78f7160bf00b7c6a73f49b13",
+    "bytes": 1646,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "moon",
+    "url": "https://useanimations.com/icons/moon.json",
+    "sha256": "5c3787c32c45e5c04b3a5fd5ac4338e648d81b2f119b500744301836a5e9e1a8",
+    "bytes": 1520,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "sun",
+    "url": "https://useanimations.com/icons/sun.json",
+    "sha256": "5ad464eb5790118f4c2998eab4d33b871cac095947a5ea40c18b5dbe2ddebda1",
+    "bytes": 2671,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "sunrise",
+    "url": "https://useanimations.com/icons/sunrise.json",
+    "sha256": "e4e7e6f3967be16796226ccd23d6742f131478dec4d1d3f9b26a4e6cc7100491",
+    "bytes": 3185,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "sunset",
+    "url": "https://useanimations.com/icons/sunset.json",
+    "sha256": "0e87a4e1f011cd859c4d9664fe4be87219f7ac4a6cecbbadfa4f17f6fc2cc37b",
+    "bytes": 3184,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "thermometer",
+    "url": "https://useanimations.com/icons/thermometer.json",
+    "sha256": "0f739ed2e59423a856f19c72a263b73e0e50393b05099014a95681a9b5a8ccfe",
+    "bytes": 1706,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "umbrella",
+    "url": "https://useanimations.com/icons/umbrella.json",
+    "sha256": "4c12c95f3e97472cb8f13071215ca9807ca51a95c61b400232bc47aeca0ed6e1",
+    "bytes": 1753,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "wind",
+    "url": "https://useanimations.com/icons/wind.json",
+    "sha256": "bb2cfa083fec387909345bfc0dde885ea3d389819403fb7f54f5e6be1e081678",
+    "bytes": 3442,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "zap",
+    "url": "https://useanimations.com/icons/zap.json",
+    "sha256": "9009229c61d2e7532d94540fd871b6972971ce09d21464c3bac3d0ffc37c17d8",
+    "bytes": 1624,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "zap-off",
+    "url": "https://useanimations.com/icons/zap-off.json",
+    "sha256": "c5a6e0e6af3cbe303dd306458638b8cdf2f861f57d8fae8e55ae785aa5c68a45",
+    "bytes": 1559,
+    "fps": 30,
+    "duration_ms": 833.3333333333334,
+    "interaction": "click-toggle",
+    "status": "downloaded"
+  },
+  {
+    "id": "anchor",
+    "url": "https://useanimations.com/icons/anchor.json",
+    "sha256": "5e5c80f31b459d98608e431eae202da62b6bf7cdc3ba954c1a4909aad15ac2fc",
+    "bytes": 1362,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "crosshair",
+    "url": "https://useanimations.com/icons/crosshair.json",
+    "sha256": "0757668caf2592f6767351ac11487659e4bc634e7e3f099f8e19462819af0dbb",
+    "bytes": 1576,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "globe",
+    "url": "https://useanimations.com/icons/globe.json",
+    "sha256": "d0ce2f725e49a9744caaa10f6378f8fe4c552579843faad16beded34440a8a82",
+    "bytes": 1912,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "life-buoy",
+    "url": "https://useanimations.com/icons/life-buoy.json",
+    "sha256": "37344a27f6e82fba8d3d9c1406e04000923e53faed6ac0b2c4068e0f5f0dc857",
+    "bytes": 2092,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "map",
+    "url": "https://useanimations.com/icons/map.json",
+    "sha256": "b82efeef7b616fe4f3e5d46e0dfd6c4cc00f621d72d064de23d21df79335197e",
+    "bytes": 1382,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "map-pin",
+    "url": "https://useanimations.com/icons/map-pin.json",
+    "sha256": "84c09ced558f6c38282525a6081850160c86a48e3721c455f885273d2b0957f8",
+    "bytes": 2012,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "navigation",
+    "url": "https://useanimations.com/icons/navigation.json",
+    "sha256": "6b2c84bf45024b3701c1df24daabd0e2c879d74b80aeed979e107000bf5fcaff",
+    "bytes": 1141,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "navigation-2",
+    "url": "https://useanimations.com/icons/navigation-2.json",
+    "sha256": "fc7749c46285f08541c53da63fdb948ffc788cb714a93da5c12fc9f3c7856b9a",
+    "bytes": 1061,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "target",
+    "url": "https://useanimations.com/icons/target.json",
+    "sha256": "e82ab3627a53b43fee4050cf56ed2c1678612aa65dfb5562e2882dfd5fa4ba2f",
+    "bytes": 3266,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "box",
+    "url": "https://useanimations.com/icons/box.json",
+    "sha256": "029a339d06ad95ec02775e9fac2c86a95ccbfb0e95f4ca2e84625cc196cd6dfa",
+    "bytes": 2336,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "briefcase",
+    "url": "https://useanimations.com/icons/briefcase.json",
+    "sha256": "7feb259e386b4fb143f9c2be6b9f68b3c7ab18adc505b8f6469dc931e4f69ff0",
+    "bytes": 2127,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "credit-card",
+    "url": "https://useanimations.com/icons/credit-card.json",
+    "sha256": "b49dde6905f97345caf4bdebd7997de6a6679ebf9ebc6c9256fd72fc1cffe7f9",
+    "bytes": 1888,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "dollar-sign",
+    "url": "https://useanimations.com/icons/dollar-sign.json",
+    "sha256": "5fa5de9d7ff20b39103b5a4799cb2af274c8d45d22f9d4d641ceaf0e62fdf09f",
+    "bytes": 1347,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "gift",
+    "url": "https://useanimations.com/icons/gift.json",
+    "sha256": "71f1622f57022eeb6e77141cf4493c6538466b8d52b0e91a7d5ece698960b8aa",
+    "bytes": 3272,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "package",
+    "url": "https://useanimations.com/icons/package.json",
+    "sha256": "1768af35c517ad24bb612e9a57d87151c529538e3ed3aa4ae74e93e0e0093c90",
+    "bytes": 2445,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "percent",
+    "url": "https://useanimations.com/icons/percent.json",
+    "sha256": "b4f5a51d7616dc558b07989a627681f7e93de9dae7ac2c3d2fabae3f48c2815f",
+    "bytes": 1243,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "shopping-bag",
+    "url": "https://useanimations.com/icons/shopping-bag.json",
+    "sha256": "82bf2e404503ab2044b0d9f1f48946ee2a120474d5dfca17ec9861d3e62b47c7",
+    "bytes": 2150,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "shopping-cart",
+    "url": "https://useanimations.com/icons/shopping-cart.json",
+    "sha256": "f309bc38d123d8d0cdbabe49950e022dd2746de943a82619b7c4227629e489fb",
+    "bytes": 1860,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "tag",
+    "url": "https://useanimations.com/icons/tag.json",
+    "sha256": "8ed8497e74147458d05d7d9ba91a1a42310d5df79740e00ff8f0df363b1ab6fc",
+    "bytes": 1306,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "truck",
+    "url": "https://useanimations.com/icons/truck.json",
+    "sha256": "0037677f53671de110ea2436e21ccc17ff4a5b6cd51ba00d5c56efbcb7608978",
+    "bytes": 1799,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "bar-chart",
+    "url": "https://useanimations.com/icons/bar-chart.json",
+    "sha256": "84d17f68efaa1e613dc315d0e31b587af9702dc2ace8c6970245121dd366ad40",
+    "bytes": 3368,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "bar-chart-2",
+    "url": "https://useanimations.com/icons/bar-chart-2.json",
+    "sha256": "215360e5547068caf88b28e331704086a027b353ce98850f60f29cfb2767778f",
+    "bytes": 3370,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "pie-chart",
+    "url": "https://useanimations.com/icons/pie-chart.json",
+    "sha256": "00b83686b74cdd60d70bbd3fe419b0f4ebdc24fc66e6d0d527a2c5d12e059935",
+    "bytes": 1792,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "trending-down",
+    "url": "https://useanimations.com/icons/trending-down.json",
+    "sha256": "3efe419cac7f32ab1ec87f8985b26508f4cb539c60180f5ed26ae450a7611485",
+    "bytes": 1944,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "trending-up",
+    "url": "https://useanimations.com/icons/trending-up.json",
+    "sha256": "ce40119a6b06dd7f92c634b49f85ecafb15841dca2ed788c87f6ca08274f7738",
+    "bytes": 1940,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "code",
+    "url": "https://useanimations.com/icons/code.json",
+    "sha256": "e1b9637dbf3039698be8aab77393971a391ff088745ff9358b75a7bcb782be61",
+    "bytes": 2080,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "command",
+    "url": "https://useanimations.com/icons/command.json",
+    "sha256": "79da1a07f56a0dec15e9b8ca97b13c6461dfc47ecda91cda3f967e762136fee9",
+    "bytes": 1259,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "database",
+    "url": "https://useanimations.com/icons/database.json",
+    "sha256": "4dc94d330d79a182f6815a2c8db47eaa12c2b0bdacff46311df174a8474cd58f",
+    "bytes": 2884,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "git-branch",
+    "url": "https://useanimations.com/icons/git-branch.json",
+    "sha256": "a06b8a66879e855d53b242950e4dfc6d402b15f3e75cc90eb25ad81401a56190",
+    "bytes": 3864,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "git-commit",
+    "url": "https://useanimations.com/icons/git-commit.json",
+    "sha256": "07f957f3fa2f7be0e72ab1ea3f3ec059d4720861dabd24ecd4bf4d6620ec2c92",
+    "bytes": 3138,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "git-merge",
+    "url": "https://useanimations.com/icons/git-merge.json",
+    "sha256": "b3d81a5a1fef889e82d3ade96e7e2c4e43668b3e1a88669b282ec39348059fb2",
+    "bytes": 3230,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "git-pull-request",
+    "url": "https://useanimations.com/icons/git-pull-request.json",
+    "sha256": "e06f3f7e772b69efa1455fa21f84e6b87166b0329d5de379914afc5ccf66ebee",
+    "bytes": 3910,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "server",
+    "url": "https://useanimations.com/icons/server.json",
+    "sha256": "2e36fbc857da2d313001cce997222916f568440c64dd0afb54057521a8b7e9bb",
+    "bytes": 3733,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "terminal",
+    "url": "https://useanimations.com/icons/terminal.json",
+    "sha256": "efbd5d1d270626d12db9b69c4868cd97227b926bc4560e88acc085bcddac7863",
+    "bytes": 1769,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "columns",
+    "url": "https://useanimations.com/icons/columns.json",
+    "sha256": "0411acd8a3e758fa2285d81c971590c9dd5242e5f0e7cad850f28adb3fe64908",
+    "bytes": 1796,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "crop",
+    "url": "https://useanimations.com/icons/crop.json",
+    "sha256": "8d77cc7366bcbe85d4eb35696024d2a5189860b941e9462941eaee6eda93d298",
+    "bytes": 2157,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "grid",
+    "url": "https://useanimations.com/icons/grid.json",
+    "sha256": "1d94230e37a9e7a64e4b343a494987787482f71d9babbcb7434c17000e029d58",
+    "bytes": 4203,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "layers",
+    "url": "https://useanimations.com/icons/layers.json",
+    "sha256": "4beabc90778bfc321572f261b0330f425c6e4c37416ae2648ab621216c6dec56",
+    "bytes": 3100,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "layout",
+    "url": "https://useanimations.com/icons/layout.json",
+    "sha256": "1137a619e163d6d3b5389dde421768b5a4065703e85a20ee06c1bb61ab4b488b",
+    "bytes": 2751,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "mouse-pointer",
+    "url": "https://useanimations.com/icons/mouse-pointer.json",
+    "sha256": "2fed802793c04384cddb0f5828bd081c351a192d14528132c8224e4076ad5147",
+    "bytes": 1443,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "move",
+    "url": "https://useanimations.com/icons/move.json",
+    "sha256": "959e54d0da714a1dfc80fbcf0fcaa56c96211ea5ab2acdcff8e4e35ee2798201",
+    "bytes": 7309,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "pen-tool",
+    "url": "https://useanimations.com/icons/pen-tool.json",
+    "sha256": "213eb0084c701cbf7522688c7a97f5ed4a3fee9bc482917cfab908ca1d7d6804",
+    "bytes": 1490,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "scissors",
+    "url": "https://useanimations.com/icons/scissors.json",
+    "sha256": "bd0af8e17b2dc318e40859053c9252c395fbbacf62f67f5c49fd25eaae3a74c4",
+    "bytes": 2372,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "click-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "table",
+    "url": "https://useanimations.com/icons/table.json",
+    "sha256": "82c7e1a5424e7d5cc69bfcf606263ecb5120f669bb88b841b1f1714efe4277dc",
+    "bytes": 2775,
+    "fps": 30,
+    "duration_ms": 1266.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "circle",
+    "url": "https://useanimations.com/icons/circle.json",
+    "sha256": "711f03f6a6a275ad9164edc42d2ab69f52a3203465b3e29db396c9a62e3c944c",
+    "bytes": 1152,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "divide",
+    "url": "https://useanimations.com/icons/divide.json",
+    "sha256": "d3cbd61c8d5229a4e2220d129f97ed1099b7762df7b391dc4f2c8d8bf688fcfc",
+    "bytes": 3073,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "divide-circle",
+    "url": "https://useanimations.com/icons/divide-circle.json",
+    "sha256": "74dcabb509b0440b22a0c8855a425ce7c4ad9c79fd9531dc9bafed96ff8bff67",
+    "bytes": 3577,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "divide-square",
+    "url": "https://useanimations.com/icons/divide-square.json",
+    "sha256": "552ebf231232ff4b40979b09edf358fe12d674aed369b7330ab70c78e0b26fb1",
+    "bytes": 3651,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "hexagon",
+    "url": "https://useanimations.com/icons/hexagon.json",
+    "sha256": "40e5673538c1d34d448a32661b6781705acf41958e38ebb140613ff2e3265af1",
+    "bytes": 1207,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "octagon",
+    "url": "https://useanimations.com/icons/octagon.json",
+    "sha256": "b9774ba2d12e4e03701080229ab4132e78e65f6cf5ec3fdeb134b0d7d808b787",
+    "bytes": 1025,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "square",
+    "url": "https://useanimations.com/icons/square.json",
+    "sha256": "55f7cd9dd36875d25591a930a2f2f207a455f4cc313c57ac68bf7cdae1c0b5d9",
+    "bytes": 1034,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "triangle",
+    "url": "https://useanimations.com/icons/triangle.json",
+    "sha256": "facb7b0ccdf24ddf9723ba994b58f077ce8ef8af84db9b66db35c0ff6ffe17f0",
+    "bytes": 1358,
+    "fps": 30,
+    "duration_ms": 1133.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "infinity",
+    "url": "https://useanimations.com/icons/infinity.json",
+    "sha256": "cb3a59328e8b2e74ff49be10030ca39e4318d16463bb818b2a36a5d0257e7c5e",
+    "bytes": 2126,
+    "fps": 30,
+    "duration_ms": 4000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "loading",
+    "url": "https://useanimations.com/icons/loading.json",
+    "sha256": "25f016f046497a8ad3d1301987938fc4c27561c5cbf56ce2386aa13dfa706443",
+    "bytes": 4349,
+    "fps": 30,
+    "duration_ms": 5000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "loading-v2",
+    "url": "https://useanimations.com/icons/loading-v2.json",
+    "sha256": "5343e9ccfb0dc681057f571cc48881a5fcff228b5d1899f52fe44d3f6a732a45",
+    "bytes": 12152,
+    "fps": 30,
+    "duration_ms": 1533.3333333333335,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "loading-v3",
+    "url": "https://useanimations.com/icons/loading-v3.json",
+    "sha256": "48ec8c80cb7ceac672321f80f1402610565b1005bba0888b774caa044dd1253a",
+    "bytes": 3328,
+    "fps": 24.0010070800781,
+    "duration_ms": 1999.9166701387476,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "loading-v4",
+    "url": "https://useanimations.com/icons/loading-v4.json",
+    "sha256": "956b31f62ff1f460a64cd324885da4b826ab01c8d26d40dffa10327d01e8c577",
+    "bytes": 7425,
+    "fps": 25,
+    "duration_ms": 2880.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "behance",
+    "url": "https://useanimations.com/icons/behance.json",
+    "sha256": "903dab6dc0e7cf5c8b2b943980d976ceddb84a75cef56d409cdd9e582fd09cff",
+    "bytes": 2693,
+    "fps": 30,
+    "duration_ms": 1500.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "chrome",
+    "url": "https://useanimations.com/icons/chrome.json",
+    "sha256": "7feff577910931cfd967182f20d123b95a0c7b4a270d06ed03577ff769a95798",
+    "bytes": 1918,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "codepen",
+    "url": "https://useanimations.com/icons/codepen.json",
+    "sha256": "c7e2f29d9d8c7177d845b02fb8867fbd9a53dcd8aa4a1d4e442d97cf31ac6e04",
+    "bytes": 4476,
+    "fps": 30,
+    "duration_ms": 1666.6666666666667,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "codesandbox",
+    "url": "https://useanimations.com/icons/codesandbox.json",
+    "sha256": "c53f930f1cfb09127cfe25e8d7a27c2b883eff9aecc6f2d3deef0eb779162a1b",
+    "bytes": 2725,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "discord",
+    "url": "https://useanimations.com/icons/discord.json",
+    "sha256": "bd8421c41690fa06eb85c13a3199e9c97c5b526a0973846b072e535d27d396e2",
+    "bytes": 3976,
+    "fps": 30,
+    "duration_ms": 1600.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "dribbble",
+    "url": "https://useanimations.com/icons/dribbble.json",
+    "sha256": "dfcd7513cb2b034755eb1b9182eeecc9067c9b4548db6c2c30382edc3c12bb79",
+    "bytes": 8785,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "facebook",
+    "url": "https://useanimations.com/icons/facebook.json",
+    "sha256": "319910942a6cae6ab1dd6b3f78fec36bbe6e3a1836962f0e3cb484746577deb9",
+    "bytes": 1347,
+    "fps": 30,
+    "duration_ms": 2000.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "figma",
+    "url": "https://useanimations.com/icons/figma.json",
+    "sha256": "87e80d63a2965859e108855e0735bb3fec7b963788029c4f8f7df1ad7a3a6d4b",
+    "bytes": 5451,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "framer",
+    "url": "https://useanimations.com/icons/framer.json",
+    "sha256": "5bd5e1d44e6d0c63d2ffcfdf79af481af14a2c446dbef2dae2fe8a6fbbc212c3",
+    "bytes": 2092,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "github",
+    "url": "https://useanimations.com/icons/github.json",
+    "sha256": "04960b6404353219a3a0ad33c48c667483425f3b591ec92de20d9774a2b903ac",
+    "bytes": 3258,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "gitlab",
+    "url": "https://useanimations.com/icons/gitlab.json",
+    "sha256": "500bb7786e1e81ece75ba470b3fe7551f259b5e2290f54e6d8147e507901131b",
+    "bytes": 1861,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "instagram",
+    "url": "https://useanimations.com/icons/instagram.json",
+    "sha256": "552e0843230c2f6581aecb10cd39b0da160c9f955e13a19b51b4260fc45f6ec9",
+    "bytes": 5647,
+    "fps": 30,
+    "duration_ms": 333.3333333333333,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "linkedin",
+    "url": "https://useanimations.com/icons/linkedin.json",
+    "sha256": "dd7b315f78d5c09137941dccef894b68708b3ac28570169f0ca56df7b828f7f7",
+    "bytes": 2425,
+    "fps": 30,
+    "duration_ms": 433.33333333333337,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "pocket",
+    "url": "https://useanimations.com/icons/pocket.json",
+    "sha256": "f550d18d4a45a8a5bf90f296c051cb17f26bbb9254223d44fc33e917cec8a1ce",
+    "bytes": 1882,
+    "fps": 30,
+    "duration_ms": 1000.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "slack",
+    "url": "https://useanimations.com/icons/slack.json",
+    "sha256": "45ae0051bdb29158541caae94a902ef89c0a3d34c8106c7f7573ffc7bbad6985",
+    "bytes": 2373,
+    "fps": 30,
+    "duration_ms": 1200.0,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "telegram",
+    "url": "https://useanimations.com/icons/telegram.json",
+    "sha256": "ab926a060811bbbef1c10ba8d98be0cf736e5a17c25bac2be2773749f1895bef",
+    "bytes": 1177,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "trello",
+    "url": "https://useanimations.com/icons/trello.json",
+    "sha256": "bd280e96ad27053e6690b78e9fcb2440739c578e42babc732383b90dd269865d",
+    "bytes": 3038,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "twitch",
+    "url": "https://useanimations.com/icons/twitch.json",
+    "sha256": "9a84af024332f103366c4adf260f678b96d8a25cf55fa8c915cdc4687fb06e70",
+    "bytes": 2261,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "twitter",
+    "url": "https://useanimations.com/icons/twitter.json",
+    "sha256": "6160fb2b9681d18b7c3ff06297e9bdca824a7408e397a82117ab3e8f7a3906f0",
+    "bytes": 8664,
+    "fps": 30,
+    "duration_ms": 4000.0,
+    "interaction": "hover-loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "twitter-x",
+    "url": "https://useanimations.com/icons/twitter-x.json",
+    "sha256": "6a5b6cf856d7d8f3477e89a11b13b2b4549c5d27887a03492e77e88421f9fb0e",
+    "bytes": 3653,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "youtube",
+    "url": "https://useanimations.com/icons/youtube.json",
+    "sha256": "32e5d6f7c3ac79b9dadf1730c3011626a1ee22222e93dd65387d3cf4aad61eb3",
+    "bytes": 8227,
+    "fps": 30.0003051757812,
+    "duration_ms": 1000.0,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "youtube-v2",
+    "url": "https://useanimations.com/icons/youtube-v2.json",
+    "sha256": "ac29de5ffa24d9e9cbe1570f03b7e2480efe439826dd5679abe934bd2ae33b86",
+    "bytes": 14827,
+    "fps": 30.0003051757812,
+    "duration_ms": 1000.0,
+    "interaction": "hover",
+    "status": "downloaded"
+  },
+  {
+    "id": "activity",
+    "url": "https://useanimations.com/icons/activity.json",
+    "sha256": "11ed110df4ab1cb434a526725884129a10914536d09e701feed129fd263f719e",
+    "bytes": 1759,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-down",
+    "url": "https://useanimations.com/icons/arrow-down.json",
+    "sha256": "b69d7dc994bd64e28d58e1a4ebe5bc0bb865cf742d54526b202ca6b692cf3289",
+    "bytes": 1692,
+    "fps": 60,
+    "duration_ms": 3000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "arrow-up",
+    "url": "https://useanimations.com/icons/arrow-up.json",
+    "sha256": "d3973aedbeb0796dd014d73056337cea0ecfe24d6918bda63446752aa2a455fb",
+    "bytes": 1692,
+    "fps": 60,
+    "duration_ms": 3000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "clock",
+    "url": "https://useanimations.com/icons/clock.json",
+    "sha256": "b0517da59418526349ecdcf27f4b5b3b62c643e5a053e5b61c1ab3523db54819",
+    "bytes": 2315,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "coffee",
+    "url": "https://useanimations.com/icons/coffee.json",
+    "sha256": "4c483e672a2182fedf5b339ce9fc4d415e0fc4e9167752e01d9186b2b7263a6b",
+    "bytes": 4172,
+    "fps": 30,
+    "duration_ms": 1466.6666666666665,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "frown",
+    "url": "https://useanimations.com/icons/frown.json",
+    "sha256": "216edab5ddc268b02ed757412f267a262ce324136a5203c34c0bcd0f3310c909",
+    "bytes": 4948,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "meh",
+    "url": "https://useanimations.com/icons/meh.json",
+    "sha256": "ce0e560a60e8b1f4df29dec57d6e15c0cce72f16c1fce4070224122fe8eda3c9",
+    "bytes": 3953,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "scroll-down",
+    "url": "https://useanimations.com/icons/scroll-down.json",
+    "sha256": "ef2682b630128130708f62b2085e7ac188d271ca94541d0064f8a68afa65a8c0",
+    "bytes": 1801,
+    "fps": 30,
+    "duration_ms": 3000.0,
+    "interaction": "loop",
+    "status": "downloaded"
+  },
+  {
+    "id": "smile",
+    "url": "https://useanimations.com/icons/smile.json",
+    "sha256": "abf44ecf416066ee07783e78d99da7fbad9ae1d3632a68414c9546f52501c350",
+    "bytes": 3603,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  },
+  {
+    "id": "tool",
+    "url": "https://useanimations.com/icons/tool.json",
+    "sha256": "e535835a4605c0310e6ba890188181c9ed9cb2e0e7ce2b852cb85c7d15578bb5",
+    "bytes": 1404,
+    "fps": 30,
+    "duration_ms": 1333.3333333333333,
+    "interaction": "hover-replay",
+    "status": "downloaded"
+  }
+]

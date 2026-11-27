@@ -1,0 +1,63 @@
+{
+  "png_sha256": "80704a07ae253f9db2105035389644b01dadf71601c33d18664513f7fc90aa73",
+  "icons": {
+    "toggle-01-left-lined": "f7f796192919717517be609f66a0a3d3ca2b14817dc725353d9a189dc8ae9969",
+    "toggle-01-right-lined": "3a11b8ccba959d6dbb22e13a4075437246bf3c5f752f7ff8492d7beb197dbeb2",
+    "toggle-02-left-lined": "be0189c66e7bf30319176073519927e5697e1e037d7cdf1d06fff074148b6a05",
+    "toggle-02-right-lined": "503870c4ef0a494ff68bf41de2e2e2aba841190315055d840eed31951211803e",
+    "toggle-03-left-lined": "65e4dd143498f5053c35713bdcc5a3263175a54f335b48c0ac16f340c0346d06",
+    "toggle-03-right-lined": "d29588033779b9e52eb9f0d3fdcd39c4d28ec07cbdc57ac9ce309ce4950f5407",
+    "tool-01-lined": "1c4ee91cf429ed36c73392a37205f01c4d03b8c30bd73d57cda1222d4ee6caf6",
+    "tool-02-lined": "00a24ae9a5b37cd91bb65734c83946901b3d30b914f4e67370b35be852ad69e7",
+    "train-lined": "2664c8de84093fb24e9065d36415d69f27a0eeb5e78c1738009acef1ed5748c7",
+    "tram-lined": "0773911c2ab7e53ba64b1866d2a30e780e5e63f7b4ad4d68af7f8e1773e536a2",
+    "transform-lined": "6151f010ccae2f5342529d18e88367cf1b4f388b2c6e7ac3520593b5212e3630",
+    "translate-01-lined": "4545be53ae4f9f55c34ad49b9b9dfa4d7891afde76c61b1a5c65870e64a71fc1",
+    "translate-02-lined": "37139fefe33aa60fffe5c264d66c39cf80ac0b0ac7dfda02a313f1476c41e28b",
+    "trash-02-lined": "bf0f47860a8e5517228483cc2d87da26140e30977178ec5ce1eb7e100a89ac8b",
+    "trash-03-lined": "b37b6b555b1c84b482a84a3cba0ce54a8be44ccc94d86333f5f54d9b79c75d8b",
+    "trash-04-lined": "58eedd883f4f576a4d23e72816d190ba0241d1cfe4b97e87e247c6582f8c5b6e",
+    "trend-down-01-lined": "8e5c220c7713d98facb72d326dc6cba2318627505a4e2f52e6460a360b54f5a5",
+    "trend-down-02-lined": "8e5c220c7713d98facb72d326dc6cba2318627505a4e2f52e6460a360b54f5a5",
+    "trend-up-01-lined": "d79c6e80f76cfecc3d817fd5b7401d82d025b153d0abf1cc3814238b81b4f370",
+    "trend-up-02-lined": "d79c6e80f76cfecc3d817fd5b7401d82d025b153d0abf1cc3814238b81b4f370",
+    "triangle-lined": "9a16140fdeb4f43ff96e08a7672f517f9066b52392f725060bd998860cf1ac1d",
+    "trophy-01-lined": "e8f769a3b8ad5815cc9e110a900d24cd50a43c6ad12a5e993be1ccde2a30919d",
+    "trophy-02-lined": "9c9b42f56c4d0518eef4516a5b56ebd54d49ed9b317034ec5892781b5c68d4de",
+    "truck-01-lined": "561636635b4488d64323d9879e44eecdf2f001f6aa233941c36c65e34d01705d",
+    "truck-02-lined": "5e29657eb4e0a98e73c7b2495599b004c5acf7d7b5e5add948010527c6e0844f",
+    "tv-01-lined": "4e7ceadbd06cef443aa487a84943442b6967264b502ad96b2b675256d2365355",
+    "tv-02-lined": "62a4d32c50c09689d85a28413387bbd816f671ca1a707cbbb6e5e03ee7d22060",
+    "tv-03-lined": "61c047446a433b11f7ff6eb492c306b7d800e1467db7766af0b67e7f39921bbe",
+    "type-01-lined": "632206c3c619d6eb8ab87a7ad60f1732f69c1d388fbd8f28622634348a9186a0",
+    "type-02-lined": "de7127cd4fdb1c36fff45b615b81866d26e71807b24420cfa1046041afdfe457",
+    "type-square-lined": "e824f9fefb47e4460780ebcdf4d7a25488d255083f32a155eadf38a8f205868e",
+    "type-strikethrough-01-lined": "56d0f97bd0610b992d74f9ded813971c932411bf4fe48bfb730ca0232d3563c9",
+    "type-strikethrough-02-lined": "373cde89486753d119a2f50efcd6d1e5754a35c5fbaef3d2fe03b31600383f1a",
+    "umbrella-01-lined": "680b169bca436ac267343f745c80c8a74db8c1d48bcfcbd90e4e0506bdd523ff",
+    "umbrella-02-lined": "1a3b506f2868faa47277fc11bcb08b96419076cf2625388a3e27d95ed3181a89"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

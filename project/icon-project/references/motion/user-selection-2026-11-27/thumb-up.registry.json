@@ -1,0 +1,39 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "thumb-up",
+  "type": "registry:component",
+  "title": "Thumb up (animated)",
+  "description": "Animated thumb up icon (click-toggle). Usage: <AnimatedThumbUp size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "action"
+  ],
+  "meta": {
+    "keywords": [
+      "action",
+      "like",
+      "thumb",
+      "thumb-up",
+      "up",
+      "upvote"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/thumb-up.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/thumb-up.tsx",
+      "type": "registry:component",
+      "target": "components/animations/thumb-up.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/thumbUp\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Thumb up\" from https://useanimations.com (MIT): https://useanimations.com/icons/thumb-up\nexport function AnimatedThumbUp(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

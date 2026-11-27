@@ -1,0 +1,15 @@
+{
+  "pilot_count": 24,
+  "total_count": 1189,
+  "remaining": 1165,
+  "user_approved": false,
+  "visual_review": "sequential, 16/24/64 px, light and dark; compared with all original reference sheets",
+  "technical_errors": {},
+  "renderer": "Project-local resvg adapter; enlarged-viewBox clipping check passed 24/24",
+  "scope": "Only pilot produced. Original ref/work remain unchanged.",
+  "source_canvases": {
+    "indeterminate-small-16-lined.svg": "0 0 16 16",
+    "file-circle-lined.svg": "0 0 40 40",
+    "check-small-16-lined.svg": "0 0 16 16"
+  }
+}

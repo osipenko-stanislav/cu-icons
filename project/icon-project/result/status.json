@@ -1,0 +1,21 @@
+{
+  "total": 1208,
+  "user_approved": 47,
+  "agent_reviewed": 1142,
+  "unprocessed": 0,
+  "geometry_changes_with_neutral_stroke": 772,
+  "exact_alias_groups_at_24px": 128,
+  "original_filenames_preserved": true,
+  "originals_unchanged": true,
+  "canvas": [
+    24,
+    24
+  ],
+  "visual_review": "Sequential, all batches at 16/24/48px in light/dark; revised details rechecked. No independent critic.",
+  "approval_scope": "47 concrete shown SVGs approved by the user; 1142 series SVGs ready for final user review.",
+  "release_status": "complete-review-set; final user approval remains separate",
+  "reference_imported": 19,
+  "base_work_catalog_total": 1189,
+  "active_curated": 902,
+  "archived_semantic_alternatives": 306
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "users-02-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-032/users-02-lined.svg"
+  },
+  {
+    "id": "users-03-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-032/users-03-lined.svg"
+  },
+  {
+    "id": "users-check-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-check-lined.svg"
+  },
+  {
+    "id": "users-down-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-down-lined.svg"
+  },
+  {
+    "id": "users-left-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-left-lined.svg"
+  },
+  {
+    "id": "users-minus-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-minus-lined.svg"
+  },
+  {
+    "id": "users-right-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-right-lined.svg"
+  },
+  {
+    "id": "users-up-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-up-lined.svg"
+  },
+  {
+    "id": "users-x-lined",
+    "problem": "Rear head remained larger than normalized front head.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use the rear-head arc already approved in users-01 pilot.",
+    "file": "icon-project/staging/batch-033/users-x-lined.svg"
+  },
+  {
+    "id": "users-edit-lined",
+    "problem": "Rear partial head retained the larger source radius.",
+    "criterion": "geometry",
+    "reference": "brand-users2-lined",
+    "severity": "major",
+    "recommendation": "Use a 3.5-unit arc and preserve its break beside the edit modifier.",
+    "file": "icon-project/staging/batch-033/users-edit-lined.svg"
+  }
+]

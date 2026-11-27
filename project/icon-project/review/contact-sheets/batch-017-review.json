@@ -1,0 +1,63 @@
+{
+  "png_sha256": "20ec8ffd73e936b366394fdbd1ea9c5aeaa1dbaac6259faed48b6a4ffe80d819",
+  "icons": {
+    "hash-02-lined": "470e784a1b707b9ae4b734b810b09064cf9efcd360e20be07bfc06cdacba5e6a",
+    "heading-01-lined": "4640ce13c709f45972b969e8228f0db8a800503cd5b5f4e98c2bb43e5f944bd6",
+    "heading-02-lined": "512b6ea097e8f45ebf2bf622b159a67e0cfe0a483ab61ae50b853f65bea60290",
+    "heading-square-lined": "86dd12ab38f3971cc0e1e967073c9a6fdbef1d8b6d35574535a35dff24d4101d",
+    "headphones-01-lined": "5145d84aeda3bed8d75c1e69a23f9dca2e40fd745552905397c8b2b9f94daa66",
+    "headphones-02-lined": "0b6fd06987ed9d5c320e42897c5e07f3841fdeb8c6e001d6bdcae808e0546360",
+    "heart-circle-lined": "415a6091f5d84c81df1887d50532a1d2aeed0ddef9856c11b06cddde9ad4ed93",
+    "heart-hand-lined": "081e4acb06433be81e62f15050a7ac5b1055f43da91b50d4c82adcf9ed3b91f9",
+    "heart-hexagon-lined": "221e468a3cf2578108c8b2b3bcca4f69c744ad2a14d3e90260519dca6ac91436",
+    "heart-octagon-lined": "72fc3e989a8a764983ddfe4e7e62b61c934dcd897f2619819e04a9ad68eb5948",
+    "heart-rounded-lined": "c31ac046af940e8b4cde41186e7ebd4878389c2fca6862a154fef481da3c03d8",
+    "heart-square-lined": "71e53a90b46f59de38af7d0f291fd3098ba34b111173729e724c35c9819a912b",
+    "hearts-lined": "c1c749b7df46d09c57cfe3681a3439d5774cd04fe261a6d8fccf01ba882248d3",
+    "help-circle-lined": "356863b26725aef39021972d2221d9566898c311263a8ef4de88b1384d98f2ba",
+    "help-hexagon-lined": "fc62b926cef0c67130b7c3332fdd31ac98921e1397c49ede73643a12e66b0b4a",
+    "help-octagon-lined": "51b735d05e33e1140a418b7fe5a7ad7903340760ec0b4c7d774142ff395ca71e",
+    "help-square-lined": "8f5d53a793620307b7cb1f624253f81eef426606d48029559a383e82fa09baf3",
+    "hexagon-01-lined": "669161c8d1267c670509df0994118fdf44b3ef892cf1563b658bfb01765fb886",
+    "hexagon-02-lined": "156a5a8b8957a1bb1718cc26032b8c04768aabbff082d3e5cf2c37e011b640d8",
+    "home-02-lined": "916c23c3b90ac4986835b67eb4fc33a44292598b9fbe85a3ce61b034a03b089b",
+    "home-03-lined": "0fa5b8c94c9c7d4e610e7b03b610a4df0f04a0e7fd40f95e2842b2462de641a8",
+    "home-04-lined": "f7551fc7d1fe1b93ca7b13a9d6f480c49a657e79b294dbcb124770a561a1472c",
+    "home-05-lined": "be9ef644db5b04f95372326a2ec6b4503fbc7bf0b8c4be5babb4329001964e7e",
+    "home-line-lined": "cf5304b52b3b682664c619e0d2fb5b0eec7b47cad4cbb88ff4031ade03b941c0",
+    "home-smile-lined": "a85d0c5c2e4fb276e4c12a74556b91593f6a53a72b3799d50648e16de58e3e93",
+    "horizontal-bar-chart-01-lined": "ef47690265ff6ac59649f0444abc8414ca8b1501d2935f7a13560bcd5f538452",
+    "horizontal-bar-chart-02-lined": "9ade485cc470e7a2a1e3a299ed2b58dde0a6d88ecb64100414861b317b9ea46e",
+    "horizontal-bar-chart-03-lined": "910349ef6b37dc76e3059e3e624a3a3d3d1972362d55c74cfb06c412765a8df7",
+    "hourglass-01-lined": "898736ce2bcef22bcdcf251303588a2d146cf9c80e312c66ac9e64c29d70feea",
+    "hourglass-02-lined": "4992be56107075ad9e0da82995e40fe44f104c09cdb417e8e623bd6be12ea13d",
+    "hourglass-03-lined": "7a3f34081d0d47e97af4a6c9281be881c3cc853ac35120c5ec44a086d783d9c5",
+    "hurricane-01-lined": "356cca18d6ecd1b625db256c6781888a29b15a7bfbb468b2a6825846f1faee93",
+    "hurricane-02-lined": "f855a5bfc9f28de130c952ba7e3c06d89b65bc05dfa2922fe12726aa71884cf8",
+    "hurricane-03-lined": "156e876a9437c1088b28913b1be774b2336e6dc13e1392e5aefc81c4aff3004c",
+    "image-01-lined": "09c72ac2825d3883567a943059e0b27dfb6c99f9950ebe00a56bb4b28a809be9"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

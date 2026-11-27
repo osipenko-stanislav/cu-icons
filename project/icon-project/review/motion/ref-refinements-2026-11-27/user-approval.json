@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-27",
+  "source": "user",
+  "instruction": "Ок, переноси их в общий пак и давай дополируем анимацию оставшихся иконок",
+  "scope": "Integrate the six refined ref animations; continue polishing remaining icons, preserving successful scenes.",
+  "scenes": [
+    {
+      "id": "ref-bed",
+      "sha256": "d863c8239e8ec08374c4b8a47d055cf95df16c282f4c0c6b52a9ca33c2343681"
+    },
+    {
+      "id": "ref-bio",
+      "sha256": "5b32a81ce899263beb2a1da792e934c54e58cbb3abd63af269e8f556e92281c6"
+    },
+    {
+      "id": "ref-brand-network",
+      "sha256": "abfeb2aff1de109cb203d28b059d0360c9b7b1c31fb1a263ac058dc2d2527126"
+    },
+    {
+      "id": "ref-kitchen",
+      "sha256": "dbb8e40add3dfda500d5afa6b3b6bd360d04c3462f84ca79d67088fd542aba52"
+    },
+    {
+      "id": "ref-shower",
+      "sha256": "59daee6b856e4bc23443bb5243404853697ca79801d9b92d79ed33fd43e5b1bd"
+    },
+    {
+      "id": "ref-steam",
+      "sha256": "159335a4a1127bf8ca628da18810651c204ece556bf743831c743ac8b190c79e"
+    }
+  ]
+}

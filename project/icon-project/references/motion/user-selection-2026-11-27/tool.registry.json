@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "tool",
+  "type": "registry:component",
+  "title": "Tool (animated)",
+  "description": "Animated tool icon (hover-replay). Usage: <AnimatedTool size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "other"
+  ],
+  "meta": {
+    "keywords": [
+      "other",
+      "tool"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/tool.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/tool.tsx",
+      "type": "registry:component",
+      "target": "components/animations/tool.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/tool\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Tool\" from https://useanimations.com (MIT): https://useanimations.com/icons/tool\nexport function AnimatedTool(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

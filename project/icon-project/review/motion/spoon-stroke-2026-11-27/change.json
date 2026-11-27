@@ -1,0 +1,34 @@
+{
+  "icon": "ref-kitchen",
+  "cause": "Inner clipping mask cuts away outer half of ellipse stroke; explicit width 2 is an authoring workaround.",
+  "fix": "Remove only the bowl mask and let the live ellipse inherit the common stroke width.",
+  "curve_geometry_unchanged": true,
+  "original_ref_unchanged": true,
+  "files": [
+    {
+      "path": "icon-project/result/svg/ref-kitchen.svg",
+      "before_sha256": "8a42a062c0fe84650e165d8379e1fffb5a52e3afa07004d42e38fa038485b556",
+      "after_sha256": "3fa81eeb48f23a230b63530ac995b7d5b57f5a98c0b3af023b8cde09e5b584ef"
+    },
+    {
+      "path": "icon-project/result/curated/svg/ref-kitchen.svg",
+      "before_sha256": "8a42a062c0fe84650e165d8379e1fffb5a52e3afa07004d42e38fa038485b556",
+      "after_sha256": "3fa81eeb48f23a230b63530ac995b7d5b57f5a98c0b3af023b8cde09e5b584ef"
+    },
+    {
+      "path": "icon-project/motion/reference-series/svg/ref-kitchen.svg",
+      "before_sha256": "8a42a062c0fe84650e165d8379e1fffb5a52e3afa07004d42e38fa038485b556",
+      "after_sha256": "3fa81eeb48f23a230b63530ac995b7d5b57f5a98c0b3af023b8cde09e5b584ef"
+    },
+    {
+      "path": "icon-project/result/curated/geometry/ref-kitchen.svg",
+      "before_sha256": "e924a3ea3e0f83a5605b856b5f8203588b07387c544ca9e9f57472857b769cc0",
+      "after_sha256": "69361a196901605c30ad0da807e1f898899b46e4c3a40d969d3a64a70923a5ae"
+    },
+    {
+      "path": "icon-project/motion/reference-series/geometry/ref-kitchen.svg",
+      "before_sha256": "e924a3ea3e0f83a5605b856b5f8203588b07387c544ca9e9f57472857b769cc0",
+      "after_sha256": "69361a196901605c30ad0da807e1f898899b46e4c3a40d969d3a64a70923a5ae"
+    }
+  ]
+}

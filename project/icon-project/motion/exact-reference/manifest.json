@@ -1,0 +1,132 @@
+[
+  {
+    "id": "settings-01-lined",
+    "reference": "settings",
+    "interaction": "hover",
+    "duration": 1666.6666666666667,
+    "static_svg_sha256": "51273896765a9ff03e6c683e2e196419c64158768b960e1cc159d86ac2c46a50",
+    "motion_source_sha256": "379db9d7b1788b1c6977fc40e1d06db6a0426f5ec8018659fb42940a7ab41ae1",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "file-02-lined",
+    "reference": "file",
+    "interaction": "hover-replay",
+    "duration": 1133.3333333333333,
+    "static_svg_sha256": "0ae351ba44e2d1665ca2f3eeaab22b0bbc4792a9d9a7871e2f49bd60204826a4",
+    "motion_source_sha256": "b6a09f9fdd967f17d6f858f7158c69616900535a9fb94b41544106d48c14356f",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "globe-01-lined",
+    "reference": "globe",
+    "interaction": "hover-loop",
+    "duration": 1333.3333333333333,
+    "static_svg_sha256": "5c3a6a82e4cf59ccfb959b078ecda2df939cd13d39a0f78d5b3df2678d961106",
+    "motion_source_sha256": "d0ce2f725e49a9744caaa10f6378f8fe4c552579843faad16beded34440a8a82",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "bar-chart-01-lined",
+    "reference": "bar-chart",
+    "interaction": "hover-replay",
+    "duration": 1333.3333333333333,
+    "static_svg_sha256": "17f636f525387219d76ffd4bf4146f1d9e15e453ab90d7d9cfe5061431af2497",
+    "motion_source_sha256": "84d17f68efaa1e613dc315d0e31b587af9702dc2ace8c6970245121dd366ad40",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "heart-lined",
+    "reference": "heart",
+    "interaction": "click-toggle",
+    "duration": 333.3333333333333,
+    "static_svg_sha256": "61d0d03ae7c25cf20892f4485a6088fb4a74ecaf20aca50f4bd9943c0fbc19c1",
+    "motion_source_sha256": "8f3ea1c015bc07c147f3eeb775fd246013cdfd53681f4e33e6b87209d80265c2",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "star-01-lined",
+    "reference": "star",
+    "interaction": "click-toggle",
+    "duration": 333.3333333333333,
+    "static_svg_sha256": "83ef0bac3dd29ea2bac9c4c3e8150c8275a580b341b130ba8290e0990e14f5a9",
+    "motion_source_sha256": "fa18d30e9cb1525d5b6fd6603898189493c1fb0441adda4abe6d188c67d09e86",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "wifi-lined",
+    "reference": "wifi",
+    "interaction": "hover-replay",
+    "duration": 1333.3333333333333,
+    "static_svg_sha256": "fa6384b7b158a9e3310da05e1df25c8be94835559421a41ba3cd3a10d4dee616",
+    "motion_source_sha256": "f576b0fcdebd55bed69e17b0c59c82cebedeb5ff8a4d2690224e87100e0f22ca",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "trash-01-lined",
+    "reference": "trash",
+    "interaction": "hover",
+    "duration": 166.66666666666666,
+    "static_svg_sha256": "caf4e58101521191857acffd9ad5c41ac0ee7198b4a0d42b2a81754282ad73b9",
+    "motion_source_sha256": "bedefb923aa09d132321be0544f07897394bbc48121c19e3912ec555e8be8d82",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "arrow-right-lined",
+    "reference": "arrow-right",
+    "interaction": "hover-replay",
+    "duration": 1200.0,
+    "static_svg_sha256": "405e46c369a76a2fb4c7b17322fc5dede491c3a3680a20753140722bd2ac8b84",
+    "motion_source_sha256": "69fee19fd66bf4f4939d7e4dbc1e593495ba3f37c77f49462c31a8da69557c74",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "arrow-left-lined",
+    "reference": "arrow-left",
+    "interaction": "hover-replay",
+    "duration": 1200.0,
+    "static_svg_sha256": "99085cb1c93783e00b190c2ebd835e6af0570782f0f79d0848113d258dab3bae",
+    "motion_source_sha256": "7b1fa3037df3280b1285f0256703e3773d3ee1371505892e4954006a304e998b",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "menu-01-lined",
+    "reference": "menu-v2",
+    "interaction": "click-toggle",
+    "duration": 2000.0,
+    "static_svg_sha256": "0d202325e3e5fd871b7a887601dc922053563793db1de0178b6e3ab0b5ac8c49",
+    "motion_source_sha256": "f75be298b8680cb66c2ead69c9c6dba6101af629a4b2ac5a942c20572638e9b5",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "toggle-03-left-lined",
+    "reference": "toggle",
+    "interaction": "click-toggle",
+    "duration": 500.0,
+    "static_svg_sha256": "65e4dd143498f5053c35713bdcc5a3263175a54f335b48c0ac16f340c0346d06",
+    "motion_source_sha256": "c40ed1001cafb57eec6238fa609113bf27049646831bf5bb19fbd35322d114bd",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  },
+  {
+    "id": "loading-01-lined",
+    "reference": "loading-v3",
+    "interaction": "loop",
+    "duration": 2000.0,
+    "static_svg_sha256": "f91b9d311696076e41e275bebe55a477e62210dcb3cfa9f58aac2481b82d8beb",
+    "motion_source_sha256": "48ec8c80cb7ceac672321f80f1402610565b1005bba0888b774caa044dd1253a",
+    "mapping": "Explicit visual-part correspondence; upstream artwork removed",
+    "status": "pilot-pending-review"
+  }
+]

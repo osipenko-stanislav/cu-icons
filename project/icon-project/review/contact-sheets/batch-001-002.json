@@ -1,0 +1,27 @@
+{
+  "png_sha256": "42ded6a3f045fb6d0950e116fff139e4de18231775b0ad3e15b5d34eb88f15cc",
+  "icons": {
+    "align-left-01-lined": "3765d637232864913a4e86f66c618c11ae06e20ab14d4a862e34b7c0237b0669",
+    "align-left-02-lined": "9d13ad2502c9c47c3126f572bbf851e0a87bfc96e22def3df01999786208311e",
+    "align-left-lined": "ef3c19b74cb1d791e301664719e30512aabb298b3f48b787fa43e866466a8bbe",
+    "align-right-01-lined": "c0b3fa6397ab381820194ac7afea9d3cf509179fd0bf75537f8baf98c70435f8",
+    "align-right-02-lined": "842bfceb214344df8dca2da574c27a6af4afe3d119d5fa35905e567dae6814db",
+    "align-right-lined": "17f5d444f81ca3b6e65cd734643dcd6802334d8c57f8a04a57968885fad4f9c4",
+    "align-top-01-lined": "7aa9092634b57a0d5e6bcd1f7b110a73ec9bfe7784a16075a1c8bdb8a21a12bf",
+    "align-top-02-lined": "7eb4bbef47187b4b85f4eb68c1d64a95195585d35fdcdb1b421d7442dde04fd0",
+    "align-vertical-center-01-lined": "bc56cf5f63c93e3617581f78c286beb0c48087f4ae618eec99ad0069c034d9f4",
+    "align-vertical-center-02-lined": "111738929428e66b9f4247b925d231be3b0d6319aa6f57f486fccc4163055116",
+    "anchor-lined": "43b3f9a24cbcc2519265848b520c97a7fc8172f449dfda5de39dd8c019b807f8",
+    "annotation-alert-lined": "1c55714bf94daee7874b679565a52226123fb17ebe4642c6b9cffd6c34c48a26",
+    "annotation-check-lined": "50901031488bf156dda4a5c75688a0a483fec72d85c03063a861cc8585b6edb5",
+    "annotation-dots-lined": "ea140a043651dd55f77125f7e6a2d87b698682a5f9bbdf4b4716fbb100168c59",
+    "annotation-heart-lined": "81f729ab5089c88bf74b9b1347cd6c8e7f6bf7fdc9fef3e21f7871a718877a4e"
+  },
+  "references": [],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "dark": false
+}

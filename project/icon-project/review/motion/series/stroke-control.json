@@ -1,0 +1,98 @@
+[
+  {
+    "stroke": 1,
+    "size": 16,
+    "measuredThickness": 1,
+    "constantWidth": true
+  },
+  {
+    "stroke": 1,
+    "size": 24,
+    "measuredThickness": 1,
+    "constantWidth": true
+  },
+  {
+    "stroke": 1,
+    "size": 32,
+    "measuredThickness": 1,
+    "constantWidth": true
+  },
+  {
+    "stroke": 1,
+    "size": 48,
+    "measuredThickness": 1,
+    "constantWidth": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 16,
+    "measuredThickness": 2.5019607843137255,
+    "constantWidth": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 24,
+    "measuredThickness": 2.5019607843137255,
+    "constantWidth": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 32,
+    "measuredThickness": 2.5019607843137255,
+    "constantWidth": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 48,
+    "measuredThickness": 2.5019607843137255,
+    "constantWidth": true
+  },
+  {
+    "stroke": 1,
+    "size": 16,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 1,
+    "size": 24,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 1,
+    "size": 32,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 1,
+    "size": 48,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 16,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 24,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 32,
+    "midpointFullyErased": true,
+    "restored": true
+  },
+  {
+    "stroke": 2.5,
+    "size": 48,
+    "midpointFullyErased": true,
+    "restored": true
+  }
+]

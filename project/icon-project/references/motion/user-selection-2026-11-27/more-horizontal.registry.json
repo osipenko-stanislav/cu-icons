@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "more-horizontal",
+  "type": "registry:component",
+  "title": "More Horizontal (animated)",
+  "description": "Animated more horizontal icon (loop). Usage: <AnimatedMoreHorizontal size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "navigation"
+  ],
+  "meta": {
+    "keywords": [
+      "horizontal",
+      "more",
+      "more-horizontal",
+      "navigation"
+    ],
+    "interaction": "loop",
+    "interactionDescription": "Plays continuously; stays on the static first frame when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/more-horizontal.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/more-horizontal.tsx",
+      "type": "registry:component",
+      "target": "components/animations/more-horizontal.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/moreHorizontal\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"More Horizontal\" from https://useanimations.com (MIT): https://useanimations.com/icons/more-horizontal\nexport function AnimatedMoreHorizontal(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"loop\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

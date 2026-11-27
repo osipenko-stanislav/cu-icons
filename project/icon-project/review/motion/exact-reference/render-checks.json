@@ -1,0 +1,106 @@
+[
+  {
+    "id": "settings-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 50,
+    "sourceFrames": 50,
+    "paths": 3
+  },
+  {
+    "id": "file-02-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 34,
+    "sourceFrames": 34,
+    "paths": 6
+  },
+  {
+    "id": "globe-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 40,
+    "sourceFrames": 40,
+    "paths": 8
+  },
+  {
+    "id": "bar-chart-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 40,
+    "sourceFrames": 40,
+    "paths": 4
+  },
+  {
+    "id": "heart-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 10,
+    "sourceFrames": 10,
+    "paths": 3
+  },
+  {
+    "id": "star-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 10,
+    "sourceFrames": 10,
+    "paths": 3
+  },
+  {
+    "id": "wifi-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 40,
+    "sourceFrames": 40,
+    "paths": 5
+  },
+  {
+    "id": "trash-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 5,
+    "sourceFrames": 5,
+    "paths": 6
+  },
+  {
+    "id": "arrow-right-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 36,
+    "sourceFrames": 36,
+    "paths": 3
+  },
+  {
+    "id": "arrow-left-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 36,
+    "sourceFrames": 36,
+    "paths": 3
+  },
+  {
+    "id": "menu-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 60,
+    "sourceFrames": 60,
+    "paths": 4
+  },
+  {
+    "id": "toggle-03-left-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 15,
+    "sourceFrames": 15,
+    "paths": 3
+  },
+  {
+    "id": "loading-01-lined",
+    "loaded": true,
+    "sourceLoaded": true,
+    "frames": 48,
+    "sourceFrames": 48,
+    "paths": 5
+  }
+]

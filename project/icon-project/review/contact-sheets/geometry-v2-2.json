@@ -1,0 +1,26 @@
+{
+  "png_sha256": "069759913277b7ed793694d2abc2ba9d4d9e4c0e620203da884e69655fcfe7ad",
+  "icons": {
+    "face-smile-lined": "8f21c5df8a6b1c53ec8ad1892953e26fc0077b0368fad8e1324edc118eb84b61",
+    "database-01-lined": "7750ab6c0c843f90f24260c3ef30d9e29c540d6944271c5963cb40ab3b64169d",
+    "clock-lined": "09c40bc2ae55836aa57a448c01a2f8d8db2a5d2fb852d171903262a9cedcfe3c",
+    "medical-cross-lined": "1669a681d659a00f994307b85c267ebcdff3e2f516e5ec20ba3a63842bf36f19",
+    "file-01-lined": "3266ea71473d50af8efc453315e52d04ac3a4306088ebc97521f79ed41776f5c",
+    "beaker-02-lined": "d4a0a4596ea69ffccd6aa87d8d7c7c77a80565ef2a58790a6dd0e024c7841b9d",
+    "mail-01-lined": "414ed89f1b63843fb19aa44c0683e1e518f596a7e3498981c6553e431b3db66d",
+    "camera-01-lined": "fa69df40da6d2f3cf0fe4a4a3f4bbeee0c13edabbdbfb32ccb0a792ed66b561b",
+    "lock-01-lined": "cdb0d38305f238d59b529b8b7a76ad25136208c759e0aa4a77a493f03cc88398",
+    "phone-01-lined": "5959a9d89d4401e83d2c68e33a6d410be970d4512e4883534e0ea8efd142960b",
+    "shopping-bag-01-lined": "2b7695120060d416c1c2b21dd57b4d368216c562245652213607ce3657028242"
+  },
+  "sizes": [
+    24,
+    48
+  ],
+  "comparison": [
+    "work / original",
+    "ref / geometry anchor",
+    "v1 / rejected approach",
+    "v2 / reference form"
+  ]
+}

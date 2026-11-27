@@ -1,0 +1,333 @@
+{
+  "date": "2026-11-27",
+  "unique_references": 32,
+  "class_occurrences": 34,
+  "sources_verified": 32,
+  "frames": 441,
+  "browser_errors": [],
+  "analysis": [
+    {
+      "reference": "inbox",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "inbox-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "inbox",
+      "recommendation": "Сохранить короткий отклик лотка. Проверить, что кромка и корпус остаются связанными; не добавлять новое исчезновение контура."
+    },
+    {
+      "reference": "file",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "file-02-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "file",
+      "recommendation": "Оставить жест документа. Рамка и внутренние линии должны иметь одну систему координат и двигаться согласованно."
+    },
+    {
+      "reference": "file-text",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "file-02-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "file",
+      "recommendation": "Для документа с текстом выделить строки: последовательный отклик текста внутри устойчивого листа. Сейчас этот пример сопоставлен с file-02, использующим движение file."
+    },
+    {
+      "reference": "phone-call",
+      "classes": [
+        "object-gesture",
+        "signal-propagation"
+      ],
+      "project_id": "phone-call-02-lined",
+      "registry_interaction": "click-replay",
+      "current_source": "phone-call",
+      "recommendation": "Сохранить покачивание трубки и фазность волн. Вариант phone-call-02 отмечен пользователем положительно."
+    },
+    {
+      "reference": "message-circle",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "message-circle-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "message-circle",
+      "recommendation": "Сохранить короткую реакцию сообщения, но не превращать нашу прямоугольную рамку и хвост в независимые деформируемые фрагменты."
+    },
+    {
+      "reference": "battery-charging",
+      "classes": [
+        "object-gesture",
+        "mechanism"
+      ],
+      "project_id": "battery-charging-02-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "battery-charging",
+      "recommendation": "Вариант battery-charging-02 сохранить. У battery-charging-01 исправить правую линию и разделение индикатора/корпуса согласно замечанию."
+    },
+    {
+      "reference": "cloud-rain",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "cloud-raining-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "cloud-rain",
+      "recommendation": "Корпус облака остаётся читаемым, работа сосредоточена на осадках. Сохранить последовательность и проверить направление и возврат капель."
+    },
+    {
+      "reference": "sun",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "sun-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "sun",
+      "recommendation": "Сохранить отклик лучей относительно устойчивого диска. Не переносить вращение солнца на произвольные метафоры."
+    },
+    {
+      "reference": "gift",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "gift-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "gift",
+      "recommendation": "Разделить собственную геометрию на коробку, крышку и бант. Крышка с бантом движутся вместе; на кадрах текущая коробка наклоняется вместо ясного открытия крышки."
+    },
+    {
+      "reference": "scissors",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": "scissors-01-lined",
+      "registry_interaction": "click-replay",
+      "current_source": "scissors",
+      "recommendation": "Сохранить раскрытие вокруг общего шарнира. Проверить одну точку вращения лезвий и колец и отсутствие разрывов."
+    },
+    {
+      "reference": "coffee",
+      "classes": [
+        "object-gesture"
+      ],
+      "project_id": null,
+      "registry_interaction": "hover-replay",
+      "current_source": null,
+      "recommendation": "Оставить как референс направленного пара. Прямой иконки coffee в исходном активном наборе нет; новая ref-plates — посуда, не автоматически переименовывается в coffee."
+    },
+    {
+      "reference": "tool",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "tool-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "tool",
+      "recommendation": "Сохранить короткий жест инструмента. Выбрать осмысленную опору; не превращать его в бесконечно вращающийся декор."
+    },
+    {
+      "reference": "hard-drive",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "hard-drive-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "hard-drive",
+      "recommendation": "Сохранить корпус и работу индикатора; этот текущий пример получил оценку «кайф»."
+    },
+    {
+      "reference": "smartphone",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "phone-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "phone",
+      "recommendation": "Оставить согласованную вибрацию устройства. Внутренние элементы движутся вместе с корпусом; не создавать отдельное ложное состояние экрана."
+    },
+    {
+      "reference": "video-v2",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "video-recorder-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "video-v2",
+      "recommendation": "Сохранить два состояния камеры и локальный слэш. Пользовательская приписка оборвана: направление включения/выключения уточнить перед изменением состояния по умолчанию. Геометрию video-recorder-off разобрать по замечанию."
+    },
+    {
+      "reference": "settings-v2",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "settings-03-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "settings",
+      "recommendation": "Это ползунки. Сопоставлять с settings-03/04 и sliders, а не заменять шестерню settings-01. Ползунки движутся по своей оси; направляющие остаются опорой. Текущее gear-поведение у settings-03 не подходит."
+    },
+    {
+      "reference": "folder",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "folder-lined",
+      "registry_interaction": "hover",
+      "current_source": "folder",
+      "recommendation": "Сохранить удачное открытие папки: пользователь отметил его особо. Исправлять только конкретные дефекты вложенных значков, включая выход вопроса за границу."
+    },
+    {
+      "reference": "calendar",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "calendar-lined",
+      "registry_interaction": "hover",
+      "current_source": "calendar",
+      "recommendation": "Сохранить характер раскрытия календаря. Шапка, лист и внешняя рамка должны быть назначены явно; не двигать случайный фрагмент."
+    },
+    {
+      "reference": "notification-v4",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "bell-01-lined",
+      "registry_interaction": "loop",
+      "current_source": "notification-v4",
+      "recommendation": "Покачивание звонящего колокола. Не считать выявленные пользователем разрывы и геометрию допустимой артикуляцией. Перед вращением разобрать корпус/язычок и проверить все швы."
+    },
+    {
+      "reference": "more-horizontal",
+      "classes": [
+        "mechanism"
+      ],
+      "project_id": "dots-horizontal-lined",
+      "registry_interaction": "loop",
+      "current_source": "more-horizontal",
+      "recommendation": "Сохранить короткую волну точек с фазами. Небольшая выразительная последовательность вместо одновременного прыжка всех точек."
+    },
+    {
+      "reference": "wifi",
+      "classes": [
+        "signal-propagation"
+      ],
+      "project_id": "wifi-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "wifi",
+      "recommendation": "Сохранить удачную последовательность дуг и ядра. Проверить читаемость на 16/24 px и повторный запуск без наложения циклов."
+    },
+    {
+      "reference": "rss",
+      "classes": [
+        "signal-propagation"
+      ],
+      "project_id": "rss-01-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "rss",
+      "recommendation": "Волна от точки к внешней дуге; сохранить порядок и направление. Не менять число дуг из-за удобства переноса."
+    },
+    {
+      "reference": "shuffle",
+      "classes": [
+        "signal-propagation"
+      ],
+      "project_id": "shuffle-01-lined",
+      "registry_interaction": "click-replay",
+      "current_source": "shuffle",
+      "recommendation": "Сохранить направленный проход по веткам маршрута. Наконечники и линии связаны; независимые перемещения не должны ломать стрелки."
+    },
+    {
+      "reference": "menu-v2",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "menu-01-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "menu-v2",
+      "recommendation": "Сохранить menu ↔ close как пару состояний. Оба направления, крайние позы и состояние кнопки должны быть согласованы."
+    },
+    {
+      "reference": "arrow-left",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "arrow-left-lined",
+      "registry_interaction": "hover-replay",
+      "current_source": "arrow-left",
+      "recommendation": "У референса hover-replay, а не два состояния. Сохранить направленный проход стрелки; рамки соседних вариантов неподвижны и работают как маски. Не превращать стрелку в toggle."
+    },
+    {
+      "reference": "notification-v2",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "bell-off-01-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "notification-v4",
+      "recommendation": "Это переход bell ↔ bell-off. Текущий bell-off использует notification-v4 и уже имеет слэш в начальной позе: требуется отдельный переход, а не покачивание перечёркнутого колокола."
+    },
+    {
+      "reference": "microphone-v2",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "microphone-01-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "microphone",
+      "recommendation": "Сохранить переход микрофон ↔ mute и направленное появление слэша. Слэш отдельный слой, не меняющий конструкцию микрофона."
+    },
+    {
+      "reference": "volume",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "volume-max-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "volume",
+      "recommendation": "На кадрах текущий вариант теряет финальный mute-слэш. Восстановить второе состояние на нашей геометрии и проверить обратный переход."
+    },
+    {
+      "reference": "heart",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "heart-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "heart",
+      "recommendation": "Сохранить текущий удачный переход контура в заполнение; крайние состояния остаются связанными со значением selected."
+    },
+    {
+      "reference": "thumb-up",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "thumbs-up-lined",
+      "registry_interaction": "click-toggle",
+      "current_source": "thumb-up",
+      "recommendation": "Сохранить жест, но восстановить видимое итоговое состояние: у референса появляется заполнение, у текущего варианта крайняя поза остаётся контурной."
+    },
+    {
+      "reference": "user-plus",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "user-plus-01-lined",
+      "registry_interaction": "hover",
+      "current_source": "user-plus",
+      "recommendation": "Hover-переход, не click-toggle. Сверить расположение значка и перенос фазы с пользовательским замечанием о браке; не обозначать декоративной анимацией завершение реального добавления пользователя."
+    },
+    {
+      "reference": "user-x",
+      "classes": [
+        "state-transition"
+      ],
+      "project_id": "user-x-01-lined",
+      "registry_interaction": "hover",
+      "current_source": "user-x",
+      "recommendation": "Hover-переход с акцентом на значке. Проверить положение знака, промежуточную прозрачность и читаемое исходное состояние; не менять режим на click-toggle автоматически."
+    }
+  ],
+  "current_animation_changes_applied": false
+}

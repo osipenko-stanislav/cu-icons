@@ -1,0 +1,57 @@
+{
+  "version": "cu-ref-1.0",
+  "draft": false,
+  "default_geometry": "outline",
+  "profiles": {},
+  "exceptions": {
+    "folder-question-lined": {
+      "reason": "Question dot is a small filled accent; principal contours remain live strokes.",
+      "rules": {
+        "allow_outline_fills": true
+      }
+    }
+  },
+  "target_sizes": [
+    16,
+    24,
+    32
+  ],
+  "rules": {
+    "viewbox": [
+      0,
+      0,
+      24,
+      24
+    ],
+    "canvas": [
+      "24",
+      "24"
+    ],
+    "stroke_widths": [
+      1
+    ],
+    "caps": [
+      "round",
+      "butt"
+    ],
+    "joins": [
+      "round",
+      "miter"
+    ],
+    "colors": [
+      "currentColor"
+    ],
+    "current_color": true,
+    "transforms": true,
+    "work_area": [
+      0.5,
+      0.5,
+      23.5,
+      23.5
+    ],
+    "max_precision": 5,
+    "opacities": [
+      1
+    ]
+  }
+}

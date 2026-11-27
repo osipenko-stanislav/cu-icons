@@ -1,0 +1,129 @@
+{
+  "counts": {
+    "icons": 1189,
+    "contacts": 2582,
+    "presetRuns": 993
+  },
+  "findings": [
+    {
+      "id": "trash-01-lined",
+      "broken": [
+        {
+          "i": 2,
+          "j": 1,
+          "end": 1,
+          "baseline": 0,
+          "maxGap": 2.1900825105632324,
+          "preset": "Balanced",
+          "time": 0.5,
+          "point": [
+            19,
+            6
+          ],
+          "sourcePath": "M5 6 6.5 21H17.5L19 6",
+          "targetPath": "M4 6H20"
+        }
+      ],
+      "contacts": [
+        {
+          "source": "[\"path\",\"M5 6 6.5 21H17.5L19 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M4 6H20\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            5,
+            6
+          ],
+          "baseline": 0
+        },
+        {
+          "source": "[\"path\",\"M5 6 6.5 21H17.5L19 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M4 6H20\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            19,
+            6
+          ],
+          "baseline": 0
+        }
+      ]
+    },
+    {
+      "id": "trash-03-lined",
+      "broken": [
+        {
+          "i": 2,
+          "j": 1,
+          "end": 0,
+          "baseline": 0,
+          "maxGap": 2.190082510563233,
+          "preset": "Balanced",
+          "time": 0.5,
+          "point": [
+            19,
+            6
+          ],
+          "sourcePath": "M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6",
+          "targetPath": "M3 6H21"
+        }
+      ],
+      "contacts": [
+        {
+          "source": "[\"path\",\"M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M3 6H21\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            19,
+            6
+          ],
+          "baseline": 0
+        },
+        {
+          "source": "[\"path\",\"M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M3 6H21\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            5,
+            6
+          ],
+          "baseline": 0
+        }
+      ]
+    },
+    {
+      "id": "trash-04-lined",
+      "broken": [
+        {
+          "i": 2,
+          "j": 1,
+          "end": 0,
+          "baseline": 0,
+          "maxGap": 2.190082510563233,
+          "preset": "Balanced",
+          "time": 0.5,
+          "point": [
+            19,
+            6
+          ],
+          "sourcePath": "M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6",
+          "targetPath": "M3 6H21"
+        }
+      ],
+      "contacts": [
+        {
+          "source": "[\"path\",\"M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M3 6H21\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            19,
+            6
+          ],
+          "baseline": 0
+        },
+        {
+          "source": "[\"path\",\"M19 6L18.2987 16.5193C18.1935 18.0975 18.1409 18.8867 17.8 19.485C17.4999 20.0118 17.0472 20.4353 16.5017 20.6997C15.882 21 15.0911 21 13.5093 21H10.4907C8.90891 21 8.11803 21 7.49834 20.6997C6.95276 20.4353 6.50009 20.0118 6.19998 19.485C5.85911 18.8867 5.8065 18.0975 5.70129 16.5193L5 6\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "target": "[\"path\",\"M3 6H21\",null,null,null,null,null,null,null,null,null,null,null,null,null,null]",
+          "point": [
+            5,
+            6
+          ],
+          "baseline": 0
+        }
+      ]
+    }
+  ]
+}

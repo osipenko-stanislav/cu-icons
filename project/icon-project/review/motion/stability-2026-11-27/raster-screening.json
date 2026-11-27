@@ -1,0 +1,482 @@
+[
+  {
+    "id": "alarm-clock-minus-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.871
+  },
+  {
+    "id": "alarm-clock-minus-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 2.239
+  },
+  {
+    "id": "alarm-clock-minus-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 3.847
+  },
+  {
+    "id": "alarm-clock-minus-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 3.933
+  },
+  {
+    "id": "alert-triangle-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 0.851
+  },
+  {
+    "id": "alert-triangle-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 1.733
+  },
+  {
+    "id": "alert-triangle-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.38
+  },
+  {
+    "id": "alert-triangle-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 4.149
+  },
+  {
+    "id": "announcement-01-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 0.737
+  },
+  {
+    "id": "announcement-01-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 3.835
+  },
+  {
+    "id": "announcement-01-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.427
+  },
+  {
+    "id": "announcement-01-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 9.463
+  },
+  {
+    "id": "cloud-raining-04-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.082
+  },
+  {
+    "id": "cloud-raining-04-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 4.271
+  },
+  {
+    "id": "cloud-raining-04-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.882
+  },
+  {
+    "id": "cloud-raining-04-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 7.118
+  },
+  {
+    "id": "cloud-snowing-01-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.761
+  },
+  {
+    "id": "cloud-snowing-01-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 2.38
+  },
+  {
+    "id": "cloud-snowing-01-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 3.427
+  },
+  {
+    "id": "cloud-snowing-01-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 4.765
+  },
+  {
+    "id": "indeterminate-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.416
+  },
+  {
+    "id": "indeterminate-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 2.208
+  },
+  {
+    "id": "indeterminate-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 2.667
+  },
+  {
+    "id": "indeterminate-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 4.675
+  },
+  {
+    "id": "indeterminate-small-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.169
+  },
+  {
+    "id": "indeterminate-small-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 2.173
+  },
+  {
+    "id": "indeterminate-small-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 2.039
+  },
+  {
+    "id": "indeterminate-small-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 3.537
+  },
+  {
+    "id": "info-circle-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.098
+  },
+  {
+    "id": "info-circle-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 1.984
+  },
+  {
+    "id": "info-circle-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 2.341
+  },
+  {
+    "id": "info-circle-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 5.941
+  },
+  {
+    "id": "info-hexagon-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 0.847
+  },
+  {
+    "id": "info-hexagon-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 1.592
+  },
+  {
+    "id": "info-hexagon-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.239
+  },
+  {
+    "id": "info-hexagon-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 4.18
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.29
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 22.549
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 2.31
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 69.784
+  },
+  {
+    "id": "ref-bed",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.737
+  },
+  {
+    "id": "ref-bed",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 3.451
+  },
+  {
+    "id": "ref-bed",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 7.341
+  },
+  {
+    "id": "ref-bed",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 11.98
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 8.208
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 21.184
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 25.424
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 61.784
+  },
+  {
+    "id": "ref-laundry",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 0.282
+  },
+  {
+    "id": "ref-laundry",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 20.973
+  },
+  {
+    "id": "ref-laundry",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 2.067
+  },
+  {
+    "id": "ref-laundry",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 49.184
+  },
+  {
+    "id": "ref-microwave",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.0
+  },
+  {
+    "id": "ref-microwave",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 9.176
+  },
+  {
+    "id": "ref-microwave",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 4.494
+  },
+  {
+    "id": "ref-microwave",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 40.733
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 1.38
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 2.129
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 7.443
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 13.486
+  },
+  {
+    "id": "pause-circle-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 15.278
+  },
+  {
+    "id": "pause-circle-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 8.263
+  },
+  {
+    "id": "pause-circle-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 39.718
+  },
+  {
+    "id": "pause-circle-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 20.973
+  },
+  {
+    "id": "pause-square-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 15.278
+  },
+  {
+    "id": "pause-square-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 8.263
+  },
+  {
+    "id": "pause-square-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 39.718
+  },
+  {
+    "id": "pause-square-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 20.973
+  },
+  {
+    "id": "play-circle-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 12.271
+  },
+  {
+    "id": "play-circle-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 8.224
+  },
+  {
+    "id": "play-circle-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 34.71
+  },
+  {
+    "id": "play-circle-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 20.922
+  },
+  {
+    "id": "play-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 30.745
+  },
+  {
+    "id": "play-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 30.361
+  },
+  {
+    "id": "play-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 70.494
+  },
+  {
+    "id": "play-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 71.184
+  },
+  {
+    "id": "play-square-lined",
+    "size": 16,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 12.271
+  },
+  {
+    "id": "play-square-lined",
+    "size": 16,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 8.224
+  },
+  {
+    "id": "play-square-lined",
+    "size": 32,
+    "revision": "before",
+    "max_changed_pixel_equivalents": 34.71
+  },
+  {
+    "id": "play-square-lined",
+    "size": 32,
+    "revision": "after",
+    "max_changed_pixel_equivalents": 20.922
+  }
+]

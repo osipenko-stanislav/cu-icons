@@ -1,0 +1,166 @@
+{
+  "user_policy": "Reference form first, icon meaning preserved. Direct reuse of user-supplied reference forms explicitly authorized in chat.",
+  "samples": [
+    {
+      "id": "code-02-lined",
+      "reference": "brand-code-lined",
+      "reason": "Shorter angled brackets and slanted central slash follow the actual reference angles and spans.",
+      "previous_path": "production/generated/code-02-lined/0458e4815739fe5747a955d8d1340606a0f3c16ee0d210035da93793c6fa14f1.svg",
+      "previous_sha256": "0458e4815739fe5747a955d8d1340606a0f3c16ee0d210035da93793c6fa14f1"
+    },
+    {
+      "id": "search-md-lined",
+      "reference": "search",
+      "reason": "Reference lens is centred at 10.5/10.5 with radius 7.5 and a longer handle.",
+      "previous_path": "production/generated/search-md-lined/23439b30b0cea530b159204a1de097a34c664b6e49136203118c4b63181a0270.svg",
+      "previous_sha256": "23439b30b0cea530b159204a1de097a34c664b6e49136203118c4b63181a0270"
+    },
+    {
+      "id": "sun-lined",
+      "reference": "sun-lined",
+      "reason": "Central disc radius grows from 5 to 6; reference disc-to-ray gaps retained.",
+      "previous_path": "production/generated/sun-lined/d05507c81c560bb09eaf491e08ead97de8cb5c5cf64b0138772b013c74ae275e.svg",
+      "previous_sha256": "d05507c81c560bb09eaf491e08ead97de8cb5c5cf64b0138772b013c74ae275e"
+    },
+    {
+      "id": "glasses-02-lined",
+      "reference": "brand-glasses-lined",
+      "reason": "Diagonal temples, smaller/lower lenses and a narrow arched bridge replace near-vertical temples.",
+      "previous_path": "production/generated/glasses-02-lined/dcb3707001a0ccf310b7e0276237fad1a5d07d1577a256cb9acf3ed3ae4a4700.svg",
+      "previous_sha256": "dcb3707001a0ccf310b7e0276237fad1a5d07d1577a256cb9acf3ed3ae4a4700"
+    },
+    {
+      "id": "briefcase-01-lined",
+      "reference": "brand-briefcase-lined",
+      "reason": "Reference handle, horizontal seam and opposing curved corners replace source rounded rectangle.",
+      "previous_path": "production/generated/briefcase-01-lined/522e6a8be8ed7534705d534b5df8635d0e1173858f9bd2400326eea93cfb92db.svg",
+      "previous_sha256": "522e6a8be8ed7534705d534b5df8635d0e1173858f9bd2400326eea93cfb92db"
+    },
+    {
+      "id": "trash-02-lined",
+      "reference": "trash",
+      "reason": "Tapered straight-sided body, narrow cap and low handle replace the U-shaped source bin.",
+      "previous_path": "production/generated/trash-02-lined/dd15b486792b4a2c8d1a177bd861171313a3188c131f1f940a70c3e9460aba1d.svg",
+      "previous_sha256": "dd15b486792b4a2c8d1a177bd861171313a3188c131f1f940a70c3e9460aba1d"
+    },
+    {
+      "id": "flag-01-lined",
+      "reference": "flag",
+      "reason": "Triangular pennant and pole at x8 replace the wavy rectangular flag, per explicit reference-priority decision.",
+      "previous_path": "production/generated/flag-01-lined/aa6b8efffaf80ad280fe2b54e31dada7869c3c631ca0988212ff2a169eeee366.svg",
+      "previous_sha256": "aa6b8efffaf80ad280fe2b54e31dada7869c3c631ca0988212ff2a169eeee366"
+    },
+    {
+      "id": "trophy-01-lined",
+      "reference": "trophy",
+      "reason": "Reference bowl proportions, separate side strokes and straight stem replace handles and heavy pedestal.",
+      "previous_path": "production/generated/trophy-01-lined/d2473ceac6c1e9d7d1d15d16f514a6e47e237c7f1d86ad6092d414d99372ebe9.svg",
+      "previous_sha256": "d2473ceac6c1e9d7d1d15d16f514a6e47e237c7f1d86ad6092d414d99372ebe9"
+    },
+    {
+      "id": "award-01-lined",
+      "reference": "reward",
+      "reason": "Reference medallion with the CU four-point star and a continuous ribbon base.",
+      "previous_path": "production/generated/award-01-lined/35917d982384c5b07ad1b8649a09f577f117d3d335ca302e93e6b580ae79ca72.svg",
+      "previous_sha256": "35917d982384c5b07ad1b8649a09f577f117d3d335ca302e93e6b580ae79ca72"
+    },
+    {
+      "id": "edit-02-lined",
+      "reference": "edit-02",
+      "reason": "Reference shallow pencil angle, asymmetric tip and long barrel replace the 45-degree pencil.",
+      "previous_path": "production/generated/edit-02-lined/36ce20fb84b70294cf94aa3b1c2144e7e9f3a72fd62c1da9b82064dd79a68e94.svg",
+      "previous_sha256": "36ce20fb84b70294cf94aa3b1c2144e7e9f3a72fd62c1da9b82064dd79a68e94"
+    },
+    {
+      "id": "graduation-hat-01-lined",
+      "reference": "brand-academic-lined",
+      "reason": "Reference diamond, wider crown and separate left tassel replace source cap construction.",
+      "previous_path": "production/generated/graduation-hat-01-lined/f4f0ccde83e9650aca4a40a760efa6571d1305ad091c64a98a1d1398d6c33ffa.svg",
+      "previous_sha256": "f4f0ccde83e9650aca4a40a760efa6571d1305ad091c64a98a1d1398d6c33ffa"
+    },
+    {
+      "id": "line-chart-up-01-lined",
+      "reference": "brand-chart-lined",
+      "reason": "Reference zigzag rhythm and long final climb replace source softened plot and axes.",
+      "previous_path": "production/generated/line-chart-up-01-lined/0ddc7dc590ba7fb89cfe395018813ec63104e99fb1bbf50c695632ea2ef4cf46.svg",
+      "previous_sha256": "0ddc7dc590ba7fb89cfe395018813ec63104e99fb1bbf50c695632ea2ef4cf46"
+    },
+    {
+      "id": "face-smile-lined",
+      "reference": "brand-smile-lined",
+      "reason": "Reference compact shallow mouth and eye placement replace large U-shaped smile.",
+      "previous_path": "production/generated/face-smile-lined/35c9066c4d569bf72ef74da11c36c62adbf73fd752afa455074af8e3cb6d24dd.svg",
+      "previous_sha256": "35c9066c4d569bf72ef74da11c36c62adbf73fd752afa455074af8e3cb6d24dd"
+    },
+    {
+      "id": "database-01-lined",
+      "reference": "data",
+      "reason": "Reference cylinder proportions, shallow ellipses and horizontal band rhythm replace stock cylinder.",
+      "previous_path": "production/generated/database-01-lined/9c4b6993469456875fe8d642b5974b0898b176fc3126cf00fd325df9b23dd9c9.svg",
+      "previous_sha256": "9c4b6993469456875fe8d642b5974b0898b176fc3126cf00fd325df9b23dd9c9"
+    },
+    {
+      "id": "clock-lined",
+      "reference": "clock",
+      "reason": "Reference offset hand pivot, hand lengths and steeper short hand.",
+      "previous_path": "production/generated/clock-lined/b80beb41aaf5249919cb729aba26eafdbb6a511aeb0558fc6736b9205a2329e4.svg",
+      "previous_sha256": "b80beb41aaf5249919cb729aba26eafdbb6a511aeb0558fc6736b9205a2329e4"
+    },
+    {
+      "id": "medical-cross-lined",
+      "reference": "medical",
+      "reason": "Reference cross has deliberate straight and curved corners instead of uniform rounded corners.",
+      "previous_path": "production/generated/medical-cross-lined/f16a790b9262f4eb4d7455332ece9f0dba477ebe42d6accd05bc4ead0ad71343.svg",
+      "previous_sha256": "f16a790b9262f4eb4d7455332ece9f0dba477ebe42d6accd05bc4ead0ad71343"
+    },
+    {
+      "id": "file-01-lined",
+      "reference": "brand-doc-lined",
+      "reason": "Reference folded corner, one rounded lower corner and two text strokes replace blank all-round rectangle.",
+      "previous_path": "production/generated/file-01-lined/7ee25ab7fdb840370e93129a8fbf3cfc25d4616f71c868704c72205444fe7e02.svg",
+      "previous_sha256": "7ee25ab7fdb840370e93129a8fbf3cfc25d4616f71c868704c72205444fe7e02"
+    },
+    {
+      "id": "beaker-02-lined",
+      "reference": "brand-biotech-lined",
+      "reason": "Reference straight neck, slanted shoulders, rounded base and organic liquid boundary replace stepped vessel and thick stopper.",
+      "previous_path": "production/generated/beaker-02-lined/c6365aab83d4ec1b868860c90d9cd46fa0e7e57259700d7e235e2ac6f4311768.svg",
+      "previous_sha256": "c6365aab83d4ec1b868860c90d9cd46fa0e7e57259700d7e235e2ac6f4311768"
+    },
+    {
+      "id": "mail-01-lined",
+      "reference": "message",
+      "reason": "Reference asymmetric message contour applied to an envelope; flap remains recognizable.",
+      "previous_path": "production/generated/mail-01-lined/689d02ca0f06f94eadfb812590e519d46817bfaebd20d330ccef42fd3d98ba35.svg",
+      "previous_sha256": "689d02ca0f06f94eadfb812590e519d46817bfaebd20d330ccef42fd3d98ba35"
+    },
+    {
+      "id": "camera-01-lined",
+      "reference": "brand-chip-lined",
+      "reason": "Reference square/curved corner contrast applied to the camera body; angular stepped shoulders and a larger clear lens.",
+      "previous_path": "production/generated/camera-01-lined/b988d7dbbf717f005831cea6bb46a3bab167575a5ba3a05fc300a99208d950db.svg",
+      "previous_sha256": "b988d7dbbf717f005831cea6bb46a3bab167575a5ba3a05fc300a99208d950db"
+    },
+    {
+      "id": "lock-01-lined",
+      "reference": "brand-home-lined",
+      "reason": "Straight base and a single curved body corner follow the architectural reference; the shackle is an explicit semicircle.",
+      "previous_path": "production/generated/lock-01-lined/361154d2160f2374d7576c08a976089985b016fc420e93afa8de30ab22ba71d2.svg",
+      "previous_sha256": "361154d2160f2374d7576c08a976089985b016fc420e93afa8de30ab22ba71d2"
+    },
+    {
+      "id": "phone-01-lined",
+      "reference": "calendar",
+      "reason": "Reference opposing rounded corners and half-unit frame, replacing four rounded corners.",
+      "previous_path": "production/generated/phone-01-lined/9080e40833bdcb4f7d45a4041c4481031f467117a046daf7889f1315e8661353.svg",
+      "previous_sha256": "9080e40833bdcb4f7d45a4041c4481031f467117a046daf7889f1315e8661353"
+    },
+    {
+      "id": "shopping-bag-01-lined",
+      "reference": "brand-briefcase-lined",
+      "reason": "Reference bag proportions and handle with asymmetric corners; the source smile remains as its modifier.",
+      "previous_path": "production/generated/shopping-bag-01-lined/0beec29f748c545dde46bc9cedfb62e5e38b23985dbe0b6bf3e11d6bbedcde49.svg",
+      "previous_sha256": "0beec29f748c545dde46bc9cedfb62e5e38b23985dbe0b6bf3e11d6bbedcde49"
+    }
+  ]
+}

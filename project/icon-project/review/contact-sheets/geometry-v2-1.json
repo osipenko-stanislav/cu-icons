@@ -1,0 +1,27 @@
+{
+  "png_sha256": "a12db731313bbd25f5a846fa07065b6e57e78d9af314670b560bc6cf6cbdce33",
+  "icons": {
+    "code-02-lined": "aab7807d3196d894b1264608af7d4440d0bb0a3c0c64ab203559de898c22a711",
+    "search-md-lined": "39ffe7b038c2f546aa1fd575eb3a9a78b3baf8362cedb58cfdff96b3878027ab",
+    "sun-lined": "97978fc50bcad75db54e01de82d3b0e9fae126252c3b428886feb91327344192",
+    "glasses-02-lined": "03e8ecb9481cd07b9c266df207844b1e8d859f655635b29c89ee9b5342ca411b",
+    "briefcase-01-lined": "bb7091a13cca148bbc1393335677f0ccae6fd6229e5eeab8c9e3719b85269e93",
+    "trash-02-lined": "bf0f47860a8e5517228483cc2d87da26140e30977178ec5ce1eb7e100a89ac8b",
+    "flag-01-lined": "4e5a65e4fc2428548125fbacd6dc3cb2677096be35a1f8e51152aaa097216bd5",
+    "trophy-01-lined": "e8f769a3b8ad5815cc9e110a900d24cd50a43c6ad12a5e993be1ccde2a30919d",
+    "award-01-lined": "0f87645e1bc6f768e356c75616a2796d0b811d7cfb3015b02d9540130e26b414",
+    "edit-02-lined": "88b3a93f7ecccdadadcb47f841b70662ad1a94368ce36ac2784ee4cd3277fed6",
+    "graduation-hat-01-lined": "149280f5471f607634766319892af4210a0b6cfd011285f91f583d203b5ed23a",
+    "line-chart-up-01-lined": "ddd016988f3b3a44892ed69ec06421a13dc30f15623033527e39731c4e1225b3"
+  },
+  "sizes": [
+    24,
+    48
+  ],
+  "comparison": [
+    "work / original",
+    "ref / geometry anchor",
+    "v1 / rejected approach",
+    "v2 / reference form"
+  ]
+}

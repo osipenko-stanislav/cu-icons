@@ -1,0 +1,122 @@
+[
+  {
+    "id": "alarm-clock-minus-lined",
+    "description": "Readable minus-sign emphasis within the stationary clock.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "e4f79b9f47d355c2a730ecbb904f8f22d1f3a25044a409d4156263dd93989749",
+    "after_sha256": "3ef490fd54ac1d07ecc2c8b4e2f8ccb6a5bd8c15758c61ccf847e706816ad50d"
+  },
+  {
+    "id": "alert-triangle-lined",
+    "description": "Stable enclosing shape; explanatory glyph rises and returns as one assembly.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "2129d32e2c8ed631d1fb3c6647db60ab7b30aa31b61002cfe5045fbccc93b4f9",
+    "after_sha256": "04f00cc39a9fbbaa158c00807ddad1ec85a5a968e6c4442bf44a4d42afeff13d"
+  },
+  {
+    "id": "announcement-01-lined",
+    "description": "Sound mark travels outward; loudspeaker remains stable.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "e3e10cfb67de18efa8dfbcb1d7d30cc59ff50f64d32eab5c98968e6e76e76db7",
+    "after_sha256": "8954926c802de3d72716b532fc1d6b233c0a6532167fc9c16dd54fd75ef87ad5"
+  },
+  {
+    "id": "cloud-raining-04-lined",
+    "description": "Independent falling precipitation beneath a stationary cloud; reset only while invisible.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "2555972de34bce2619377e6c6bbec1ba3b11af38c848ea35e4af41b2b1d1ee86",
+    "after_sha256": "2e4df4d1cefd0842c5b921f6e41cf128e2ede943564b37be286b070e12144502"
+  },
+  {
+    "id": "cloud-snowing-01-lined",
+    "description": "Independent falling precipitation beneath a stationary cloud; reset only while invisible.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "ef04ddad2b032b8083da954fc25865eed7fce647fd6c0761a155f5968ca00e5b",
+    "after_sha256": "e55703532491cf23cbd7731cbda079d71f305ff5b2f9519ffa75a37f32dd5bc8"
+  },
+  {
+    "id": "indeterminate-lined",
+    "description": "One clear horizontal expansion and return, preserving the minus symbol.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "1cb45a4cb3b52a5b4dbdcf5c4dc73092348c3e82b859f3ff1a18d09501e27ebe",
+    "after_sha256": "4b48d42562a96d7988406761eecb6be063205aa69a6b64b1f274e13ad6f4435c"
+  },
+  {
+    "id": "indeterminate-small-lined",
+    "description": "One clear horizontal expansion and return, preserving the minus symbol.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "74982ae998c13c3b3cab4d280cda22f97c69dbb8b54b806da5c2cfb8829197a2",
+    "after_sha256": "13238f76d3711d8e9cb97a2df0229630f7cda34892c0d748e85bc881f54edaa3"
+  },
+  {
+    "id": "info-circle-lined",
+    "description": "Stable enclosing shape; explanatory glyph rises and returns as one assembly.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "c9465c274b01a6fcf3c6880b23d6ea483e2459d5184ff781721a05db10038205",
+    "after_sha256": "b1564f2b8e7024bf0b5d155aa366dbe28c76c66065d93b67d32c03466abf31cd"
+  },
+  {
+    "id": "info-hexagon-lined",
+    "description": "Stable enclosing shape; explanatory glyph rises and returns as one assembly.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "574189a4ea5a4bc42ef937e4d6f6306689299009d5cd64a8dda4c8072ea73d06",
+    "after_sha256": "9a8f6de01c86232efef13c1c372e008cad2beccf4b17eacd6f1b21debcd83ea5"
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "description": "Connected bulb assembly leans and returns around its base; no detached small details.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "4a3358f76bbeb8fdb611bfa748784a15f5138727112c4f8fe19c8e19878660a7",
+    "after_sha256": "e91a06b450dac51da4ae542e467ec6e0a42bfd3e71f8faa54284d9ee81de241f"
+  },
+  {
+    "id": "ref-bed",
+    "description": "Double the existing continuous mattress compression; preserve fixed attachment points and posts.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "d863c8239e8ec08374c4b8a47d055cf95df16c282f4c0c6b52a9ca33c2343681",
+    "after_sha256": "9f0ec8c30663011d20b550852b9144fb7c97e5c364d23108cb9d42dd292ca4fe"
+  },
+  {
+    "id": "ref-kitchen",
+    "description": "Fork descends 1.5 units, spoon rises 1.2; joined parts share displacement.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "dbb8e40add3dfda500d5afa6b3b6bd360d04c3462f84ca79d67088fd542aba52",
+    "after_sha256": "1817bd8b832ca1d0da6c903f3305e1ab74d3109764c62570a2a092ba047f4ed0"
+  },
+  {
+    "id": "ref-laundry",
+    "description": "Door opens around its left hinge and closes; washing-machine case stays fixed.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "aa700d84dfca1bf5402fb89b8301242a3305d69138b56aae2da71673640d86be",
+    "after_sha256": "99e8e4b9863f7d7eac8ea12296d99495b5faab8b5fa871bf7427a1129b479681"
+  },
+  {
+    "id": "ref-microwave",
+    "description": "Heating chamber lights up and dims inside its existing window; case and controls remain stable.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "d5dce2b4fd01772763005f95580f0ed06590a38eccbf722742225e8dc0746e0f",
+    "after_sha256": "4740319a10dceda28ed2beaeec4e41a75f1f5be1201b3d410a29eb337006b6ca"
+  },
+  {
+    "id": "ref-brand-network",
+    "description": "Larger moving signal and node fills within the original rings; graph geometry and phases unchanged.",
+    "one_animation_for_all_sizes": true,
+    "status": "agent-reviewed-user-review-pending",
+    "before_sha256": "abfeb2aff1de109cb203d28b059d0360c9b7b1c31fb1a263ac058dc2d2527126",
+    "after_sha256": "8aee8bc709af8c7f93bf590dfc30dbb3889173235b3d73b2d64d301eba38477e"
+  }
+]

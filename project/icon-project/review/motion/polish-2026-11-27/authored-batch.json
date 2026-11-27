@@ -1,0 +1,1710 @@
+[
+  {
+    "id": "reorder-lined",
+    "description": "Restored the actual earlier scene and motion geometry requested by the user.",
+    "user_comment": "Старая внимация была лучше, верни",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "263a108fad2b3908dcb22f8997f322144816f0484665c90084e5893776ffa0e2"
+  },
+  {
+    "id": "activity-heart-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "dac8b18a02d1f3c3110867ab1d9c561b0fc6c3da4c516c389a788af25de01a17"
+  },
+  {
+    "id": "activity-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "12bcc65046b26f87052647b7b83373154db3db212abedc74dfcacb656e8b9181"
+  },
+  {
+    "id": "alarm-clock-check-lined",
+    "description": "Alarm body remains legible; only the status sign is accented.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e9416c00ef8af22cbde612ff909af6eec15f1c1d2ae6b89b45308e5dc081c5f5"
+  },
+  {
+    "id": "alarm-clock-minus-lined",
+    "description": "Alarm body remains legible; only the status sign is accented.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e4f79b9f47d355c2a730ecbb904f8f22d1f3a25044a409d4156263dd93989749"
+  },
+  {
+    "id": "alarm-clock-off-lined",
+    "description": "Alarm body remains legible; only the status sign is accented.",
+    "user_comment": "Брак в анимации и геометрии иконки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "914fa4fe89523dd2f302e66b8f3ccd450249d70ff1f443bfc456816ea2f05506"
+  },
+  {
+    "id": "alarm-clock-plus-lined",
+    "description": "Alarm body remains legible; only the status sign is accented.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4cb05ef93284f9a6fb3dec7f76557472c17c4421003a6f5e98db1e065480ba39"
+  },
+  {
+    "id": "alert-triangle-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "Брак в анимации, треугольник нужно больше",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2129d32e2c8ed631d1fb3c6647db60ab7b30aa31b61002cfe5045fbccc93b4f9"
+  },
+  {
+    "id": "align-horizontal-centre-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "Нужна динамика, а не строук",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e85a98009a86be538e2ebd2fa8ccd1a999de0c21ac0b492b5ff51850faaf229d"
+  },
+  {
+    "id": "align-left-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "Нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e98268c7af0c92be68abaa1fba691eaf47859d78ad7d6cd0cd169f329ad3085b"
+  },
+  {
+    "id": "align-right-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "Нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d01978bebff3949baadff3fa1b6f33fc5c40e7a4ead6ff9dfce4a84d0a445a87"
+  },
+  {
+    "id": "align-top-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "Нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "59157f24319df98b5b86031b5fb75fb75a5c6aa6993bb334f320817294ce1271"
+  },
+  {
+    "id": "align-vertical-center-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "Нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "86ed36dc02464bcd8264f850f3fb69179fdcfdb9bf5659ee9d9c5897768eaee8"
+  },
+  {
+    "id": "announcement-01-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "Нужна другая анимация",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e3e10cfb67de18efa8dfbcb1d7d30cc59ff50f64d32eab5c98968e6e76e76db7"
+  },
+  {
+    "id": "archive-lined",
+    "description": "Front plane opens together with its badge, so question/code signs stay inside it.",
+    "user_comment": "Брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6b0347f854af749de2594da664faae9fec267675431a7850f3475c0370309404"
+  },
+  {
+    "id": "arrow-block-down-lined",
+    "description": "Short directional gesture; all arrow segments remain joined.",
+    "user_comment": "Нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6adf7432ed66388c4e859e485e7ae6dc0d7fbe367e82fb78db309d852ff3dace"
+  },
+  {
+    "id": "arrow-block-up-lined",
+    "description": "Short directional gesture; all arrow segments remain joined.",
+    "user_comment": "нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b9ac812cd0f4c9abab2ffd563b80518c5f09724cb5cc0b3177a7cae08dfd16c2"
+  },
+  {
+    "id": "arrow-circle-broken-down-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "897769b7f2d8d226105fcce20c283642f720fa4468f6bcd18ffa075d1fdf9c7e"
+  },
+  {
+    "id": "arrow-circle-broken-down-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "27d940a5180bed3799598caf40b4b85e2ec13169a2e1d51c6b774536044f9a50"
+  },
+  {
+    "id": "arrow-circle-broken-down-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "0934c7fa2deafc5910e83ae92376cba7b991c919bd2e650567711b4c28d36992"
+  },
+  {
+    "id": "arrow-circle-broken-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "11eb8092530a76028f39b3f63e153acbafc83bcea3edcdaca32b0be3b6e3f7f9"
+  },
+  {
+    "id": "arrow-circle-broken-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2830f50623af313b65eeeb2aa3dc5fcf6e28f34c6863c3d75c3176d8be612785"
+  },
+  {
+    "id": "arrow-circle-broken-up-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d480d57c082d88fbd4c10b6d7b1763583251b6694d3cc005ac9913eb898ce548"
+  },
+  {
+    "id": "arrow-circle-broken-up-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1e7f18a63d14f859f3cfa8a159bf0fce2eee46506d0bbdaed857f18ba89cbe9d"
+  },
+  {
+    "id": "arrow-circle-broken-up-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "52ce5baf9d63d47692bf64a173d332758d18a435538246adae013d76c1b789e0"
+  },
+  {
+    "id": "arrow-circle-down-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b528a2a850e24c94a1309ae15d937dce1d9dd0a43538ddb6da20ec9309a00034"
+  },
+  {
+    "id": "arrow-circle-down-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e55faa9a25a26683fc926bba95916a684d5b2e1715354f77a83bc50ebb1a4be1"
+  },
+  {
+    "id": "arrow-circle-down-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "419c47cadbf7a75a90b5f772d32e08bd132465549cc072596fb273f13de14eee"
+  },
+  {
+    "id": "arrow-circle-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e6d9130bfbb19b66d5a87fd83ae7c7b7688da3e7ed253924d08d791d294dd9c8"
+  },
+  {
+    "id": "arrow-circle-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5571e65a73d0f3ed1bf87a1a7901dd243dd15f061fdbcc8e7fc68ca9bade88bf"
+  },
+  {
+    "id": "arrow-circle-up-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "66d56b6bd786400a28872fcd02a305ae2af879d0d3c229ff75e49805ceaa2b0c"
+  },
+  {
+    "id": "arrow-circle-up-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "666a8a688863324264a0f294d1784c870245d5cfef3180651d67d950931024b9"
+  },
+  {
+    "id": "arrow-circle-up-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4b564a33364daae0d0de913d77fc04cc24a75ce66811a8407e9252e2b82a5865"
+  },
+  {
+    "id": "arrow-down-lined",
+    "description": "Short directional gesture; all arrow segments remain joined.",
+    "user_comment": "нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "bc99da20e6c81b23d2f97dc0bdc410d46cec28cc64047a8140c66887ee1b29cf"
+  },
+  {
+    "id": "arrow-square-down-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "cedd9416e6e03059b456cf132bae93562e85c5b5bc0f1a5a3c4ac99cd460a80e"
+  },
+  {
+    "id": "arrow-square-down-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "dd633228246442312e4dffc65f5faf226839e70aa263ea19a9063b68833c1da5"
+  },
+  {
+    "id": "arrow-square-down-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "28ddd41ff49586f2fc08fac34a42a4fd71b2bfa0b0d35eddc7e11e1f0f772ea2"
+  },
+  {
+    "id": "arrow-square-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "55e71af01ec2f889be40116a203c67e2cf72f0f7e78322e20f7b974a7a7d3379"
+  },
+  {
+    "id": "arrow-square-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2f147da69aaea6933bdf1c5ca2fbd6d31c1b7145f73274efd18bdc7d338c456c"
+  },
+  {
+    "id": "arrow-square-up-left-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "213b79d86b8a86c679924b812daf709b9180a0386d18b3b00f7b63167b3e1121"
+  },
+  {
+    "id": "arrow-square-up-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9c859bf94bee34e872364e9369e61bcc0706dc8af5d9ae6a09f3a16bcfa5e594"
+  },
+  {
+    "id": "arrow-square-up-right-lined",
+    "description": "Only the arrow moves in its direction; own frame is fixed and masks the passage.",
+    "user_comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4cc34e3a61f875aa78dc6ccf4667a26f04b4ff509efda365d32a5e7c1c67b83b"
+  },
+  {
+    "id": "arrow-up-lined",
+    "description": "Short directional gesture; all arrow segments remain joined.",
+    "user_comment": "нужна динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "72f3f60b93fc7be01a2446c229ebfd9d92158bf1ae008185d9e41f54efc064dc"
+  },
+  {
+    "id": "arrows-down-lined",
+    "description": "Related arrows move in their indicated direction with distinct phases.",
+    "user_comment": "брак анимации, стрелки дожны двигаться вверх и вниз но по-разному",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "52478eb2aa132fdf770a53daebdbd9346d4aed390a326051e4c2326cc438f23e"
+  },
+  {
+    "id": "arrows-left-lined",
+    "description": "Related arrows move in their indicated direction with distinct phases.",
+    "user_comment": "брак анимации, стрелки дожлны двигаться влево и вправо но по-разному",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "99d2f0051fa3e594d6c363f9a2534d91c9d40eaef1cd415038d00f51480bf301"
+  },
+  {
+    "id": "arrows-right-lined",
+    "description": "Related arrows move in their indicated direction with distinct phases.",
+    "user_comment": "брак анимации, стрелки дожлны двигаться влево и вправо но по-разному",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6fc00d4b3199e66681eeeabc2115a0cf04c2e44a6043fb46daa390fcff74a649"
+  },
+  {
+    "id": "arrows-triangle-lined",
+    "description": "User-requested stroke treatment on the editable original paths.",
+    "user_comment": "брак в анимации, прошлая со строуком была лучше",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8bb467e1c60cf5a2fe20d341ae953437cdd6a411effef2828636e3f69ce9de55"
+  },
+  {
+    "id": "arrows-up-lined",
+    "description": "Related arrows move in their indicated direction with distinct phases.",
+    "user_comment": "брак анимации, стрелки дожлны двигаться вверх и вниз но по-разному",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "136f1c74fce5138cc52bf667db4ddf479d1b6a033fcf0172585123e42ea64331"
+  },
+  {
+    "id": "atom-01-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак геометрии и анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6820ee8a0ad583642362ebe21283a2cc1c8a5d255487c0aad09f953cae547339"
+  },
+  {
+    "id": "atom-02-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак геометрии и анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6ed2d746b60f4a89400c1d0e812094d6e697215f39bbae56f132046c311eb120"
+  },
+  {
+    "id": "award-01-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "брак анимации, в последнем кадре круг наезжает на хвост",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "dd60541ed752452c4bec57681f038b56a27fa6b24d8297c571eebd9da26cb2d9"
+  },
+  {
+    "id": "bar-line-chart-lined",
+    "description": "Chart axes and linked trend stay fixed; bars respond from their shared baseline.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6c259bea72a728c71ebb001742db074e3910a58b7bf6e5949a9d5a020122ea2e"
+  },
+  {
+    "id": "battery-charging-01-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "брак анимации, линия справа не работает",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "7e82d19c285e3e9db51d87ad76190d7d7b8079ada2ba5e36b1d9c9f33760b854"
+  },
+  {
+    "id": "bell-01-lined",
+    "description": "Bell and clapper form one coherent swinging assembly; modifiers remain separate and readable.",
+    "user_comment": "брак анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f13dacc9995215c4cecbfcab12740908714f4e4dab59c947afbfefbfbc37ab6d"
+  },
+  {
+    "id": "bell-minus-lined",
+    "description": "Bell and clapper form one coherent swinging assembly; modifiers remain separate and readable.",
+    "user_comment": "брак анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "11bb3439f921dc39156954a3c74bffe08055ed77bfa9a8751da17d5afcca94c1"
+  },
+  {
+    "id": "bell-off-01-lined",
+    "description": "Bell off/on is an explicit reversible state transition on the existing bell artwork.",
+    "user_comment": "брак анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1a881408c6f68fb9ff49690518ff0874c61475083f891065ac153194517dcc4f"
+  },
+  {
+    "id": "bell-plus-lined",
+    "description": "Bell and clapper form one coherent swinging assembly; modifiers remain separate and readable.",
+    "user_comment": "брак анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "88b11656833c9b8ae3195eaf6bf226388407f65cd42102f23a297f4d50b769b8"
+  },
+  {
+    "id": "bell-ringing-01-lined",
+    "description": "Bell and clapper form one coherent swinging assembly; modifiers remain separate and readable.",
+    "user_comment": "брак анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d862a61dcd625859b72c99a6e548143b7753a632d756c83edf801239e8778c65"
+  },
+  {
+    "id": "bezier-curve-01-lined",
+    "description": "User-requested stroke treatment on the editable original paths.",
+    "user_comment": "лучше строук",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "7894f7436138ee2baba409ee25deccb737038612ece394d0954cdca3c1e8e2b1"
+  },
+  {
+    "id": "bezier-curve-02-lined",
+    "description": "User-requested stroke treatment on the editable original paths.",
+    "user_comment": "лучше строук",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b76845b89e9f159363b10caecb82092c8b82bef7cefb6ccc95a9f717c32061e8"
+  },
+  {
+    "id": "bezier-curve-03-lined",
+    "description": "User-requested stroke treatment on the editable original paths.",
+    "user_comment": "лучше строук",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2e48288f9fcc0b9eb0995e495d302d04a7cfab73b32681212d427a3c550b8347"
+  },
+  {
+    "id": "book-open-01-lined",
+    "description": "Slightly stronger approved squeeze; no new or turning pages.",
+    "user_comment": "можно динамичнее",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "3027f882e215689552888f106e7277d42e776506d45d5fefbea89dba53265b84"
+  },
+  {
+    "id": "bookmark-add-lined",
+    "description": "Bookmark state changes on its own silhouette; action badge fades coherently without distorting the contour.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e3c32cba299c0e62c73a9a9e9a75e0ef1dbb49e711954f6a9e26ccdea7d0da3a"
+  },
+  {
+    "id": "bookmark-check-lined",
+    "description": "Bookmark state changes on its own silhouette; action badge fades coherently without distorting the contour.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "cca4a6e26029878e652bb1d98f41f4ebf5dc9cacfcad9fd9342aa408c454a440"
+  },
+  {
+    "id": "bookmark-minus-lined",
+    "description": "Bookmark state changes on its own silhouette; action badge fades coherently without distorting the contour.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e645c140374b850f4fdf44a63d333fdca9ba85487e6e0cf8609bc8ada8415728"
+  },
+  {
+    "id": "bookmark-x-lined",
+    "description": "Bookmark state changes on its own silhouette; action badge fades coherently without distorting the contour.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1d22039579dacb1a3b3043dec1b4ee29042840d8a937619900f2e63c2f9a1315"
+  },
+  {
+    "id": "brackets-check-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4edfc35dd5fb7fafb54cee9eac5a9c08e0837e7ab2ec95cda61488d942d4ae9e"
+  },
+  {
+    "id": "brackets-ellipses-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e12bf1b58bc9f8dbf240fc7a8285fb185fec5d7ca15b8bbdd164ff423851fc02"
+  },
+  {
+    "id": "brackets-minus-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f333f42c592b9ac3a7221e93f210638d1df5074af60962c20e7c819c537ce4df"
+  },
+  {
+    "id": "brackets-plus-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "370630bdc28720ded2879bf839e2600c40900dce5eb79367d2e7c1e0f1622e28"
+  },
+  {
+    "id": "brackets-slash-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "78e6a525a5ddeb19662efa7372bffc2c732847b0d187c5abb4eba46731494f54"
+  },
+  {
+    "id": "brackets-x-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "0c13d4f2f177dbbd38bd5119ddd8efa2feb12213f86b3e7667cbab1c98eecb16"
+  },
+  {
+    "id": "brush-02-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "65f8865c59e9a8de17675d9a962c3d2ee2b560397f57c3a289fba940b1fa9a0d"
+  },
+  {
+    "id": "brush-03-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "39822649dde0336403d30ddb70d60a9888d36a828dcd84d042eb5cf54be6167a"
+  },
+  {
+    "id": "bus-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6487a20e78c0b4833688d4ce87e8ae24cd8a77b8ce26a104dec157e1858bc4c6"
+  },
+  {
+    "id": "camera-off-lined",
+    "description": "Two explicit on/off states on own artwork; the slash is a state sign, not a drifting construction fragment.",
+    "user_comment": "брак в анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ef65b40a626b71751c86017d8430d703aad7e02f29e864517fab4cedbd6131b4"
+  },
+  {
+    "id": "car-01-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "c9eaf518f310a808b9d1fe019d491740e834643dbdd3e5534b0d240cf6e011f0"
+  },
+  {
+    "id": "check-verified-01-lined",
+    "description": "Check reacts first, followed by the requested final star-badge emphasis.",
+    "user_comment": "ок, но в конце можно анимировать отдельно приближение звезды, как в других подобных примерах",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ae4063ab3aba74cfda65f771a5b1dd11a6ecececfc678e2ca0fa45c17fcebd07"
+  },
+  {
+    "id": "chevron-left-lined",
+    "description": "Single legible directional gesture; selector halves separate along their axis.",
+    "user_comment": "перегруденная анимация",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "43fec4f7e9297392008e27a431835ae88f6b4583352fabd0fd48642c0db834f9"
+  },
+  {
+    "id": "chevron-right-lined",
+    "description": "Single legible directional gesture; selector halves separate along their axis.",
+    "user_comment": "перегруженная анимация",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "03d4ad5cb95fd052b9c07be0257ab88081538a65e43486d9f4f7f4cada894683"
+  },
+  {
+    "id": "chevron-selector-horizontal-lined",
+    "description": "Single legible directional gesture; selector halves separate along their axis.",
+    "user_comment": "лучше разводить стрелки в стороны",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f19d93daaf44a89c331d12e5ff603c2ea5e5be28db17f8c521b77fa4cb115807"
+  },
+  {
+    "id": "chevron-selector-vertical-lined",
+    "description": "Single legible directional gesture; selector halves separate along their axis.",
+    "user_comment": "лучше разводить стрелки ввех и вниз",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "dfc07a990f0906bb0c606d4a3ab1721f88e3712d7e09458571bc71381f708dfb"
+  },
+  {
+    "id": "clipboard-attachment-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "773cb0602234e5e33beb66dfb6e553f9eb05d17c479deb6ddb6f0587db6039fc"
+  },
+  {
+    "id": "clipboard-check-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e9d2fbb695a2e9d6dd06bedc02725902a9a2f5d32a383eb63b94b3002fec8a7e"
+  },
+  {
+    "id": "clipboard-download-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "82d3638df90e388ec87dfc2fe4e9e2cc0c244bd95bab94092da8712a343d4368"
+  },
+  {
+    "id": "clipboard-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии и анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8a3b6801a06f83513721b3bcb34718b610b514c04d277ff85352557902362685"
+  },
+  {
+    "id": "clipboard-minus-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e0cb10dc9cb2dc744e0814b4f9fd813758cc6713604b2979823f103015928b40"
+  },
+  {
+    "id": "clipboard-plus-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "45f8b1088f566b238a325be1b1b300d2df06b11530d282331ad11a22bf10d984"
+  },
+  {
+    "id": "clipboard-x-lined",
+    "description": "Clip/body seam repaired; content gives a small coherent reaction without bending the board.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "56276b1b647b1bfdfc4e62d531348497add1dd4dfacf559d138b2a18a05cd7b9"
+  },
+  {
+    "id": "clock-fast-forward-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6a90a408982c852ff4ed2d7c7c864b4fcb4ed6ed2aad4306bce025e2d3e886c4"
+  },
+  {
+    "id": "clock-refresh-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5c556ec96e2407adaf23a6bf30d4d992bd2446d6e61bb1ae60ae7f781093fd96"
+  },
+  {
+    "id": "clock-rewind-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "10492cd934cd73445d16a133c8d328add99503ad6709fb5a946c9057d18e27b0"
+  },
+  {
+    "id": "clock-snooze-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "381f528d5d1a745da1d0d4806873a04f1a4dea6be45178ca6569564fe2f77b94"
+  },
+  {
+    "id": "clock-stopwatch-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9485b6ec478dc51b02b0000470f82ec79b8d16aedd10ed2177224137d8d851da"
+  },
+  {
+    "id": "cloud-lightning-lined",
+    "description": "Keep the positively reviewed motion, rebuilt on the repaired geometry.",
+    "user_comment": "ок, но в геометрии облака хоется сделать промежуток над молнией",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "348b69bb3bd03183e1f1f50fec1e0f7d84bb1e3836ec6c55285d58fd277b7cde"
+  },
+  {
+    "id": "cloud-moon-lined",
+    "description": "Keep restored weather details connected in a short cloud-drift response.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "387c98cb96117e5a0bf19e119dda39a675a2ae31863489ff2339d8fe650c9e94"
+  },
+  {
+    "id": "cloud-sun-01-lined",
+    "description": "Keep restored weather details connected in a short cloud-drift response.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "81dc74a87c59724a9dcddd630547cdc0b6c51b3359685bb3ea01fa41c9defa14"
+  },
+  {
+    "id": "code-02-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b1afa90e3d0b9eaa173f5056d7577137104fa2b653bfc670131c4be912c865ce"
+  },
+  {
+    "id": "code-browser-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "63f3a3f607341d57e52c01b5b4c7f39ed691c096b7167fd7fbedfbbf4ff8dcb8"
+  },
+  {
+    "id": "code-circle-01-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "856d8e872acc1d13460f8a5cf902faa79708eafbf458cdbd0fc99a95fc39bd59"
+  },
+  {
+    "id": "code-square-01-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "fa7a8e47d733f0c4732dd8c9489d555c2bb47448da92d4ed4bba606698e4be25"
+  },
+  {
+    "id": "codepen-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "13180ec4c1c01726bc58eb78363d9bd4fb535626cd24e3c44cbed3261fc6f348"
+  },
+  {
+    "id": "coins-stacked-01-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "3baf5a9e136e8aaaa68f3470348b1ad8940a6165a14b64a9032b031e15269eb5"
+  },
+  {
+    "id": "coins-stacked-02-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "fa24b3eebbd22a949ef193dd0742d83be81e33ec0e203f7e032328c17870ea50"
+  },
+  {
+    "id": "coins-stacked-04-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5460f016dffeeb202682ad818f39b25e53409eb05b0349764f3a4497f2e89717"
+  },
+  {
+    "id": "coins-swap-01-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "a537a934c24cd888ca9bac5da856990ac4895962f93ecd51433008bcafa193aa"
+  },
+  {
+    "id": "coins-swap-02-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "528b0d0fb4e8d1f0ced51d167fb16ae8896525754aa5d12d0061df2e7cf32ac6"
+  },
+  {
+    "id": "colors-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "анимация не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2ac08ea173152efadea2e55ea45d12b45a0c666a83c36fc7e310b2ca6a9c36fe"
+  },
+  {
+    "id": "compass-01-lined",
+    "description": "Compass needle reacts around its center; dial remains anchored.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "a6304437d4e17359c8cbe74fa076671e1043d4f5ca7f7a635b3489272fc8880f"
+  },
+  {
+    "id": "compass-02-lined",
+    "description": "Compass needle reacts around its center; dial remains anchored.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "405deaa95696c968093d69ad594b06d3ee8ccd5d01f61347d6fb656640407626"
+  },
+  {
+    "id": "compass-03-lined",
+    "description": "Compass needle reacts around its center; dial remains anchored.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b2b0bc05e655d8626cd0e5f3587e832f56588c69246a4a1ec1a12088b6132108"
+  },
+  {
+    "id": "compass-lined",
+    "description": "Restored the actual earlier scene and motion geometry requested by the user.",
+    "user_comment": "старая анимация была лучше",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "92ef3eb1b64a21c52595266c037afd152f2eb5c710280cff9cca52fc07603b0d"
+  },
+  {
+    "id": "contrast-01-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "анимация не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4386e2a051643a9c7c0a79e0e2cc4268db13e4d69f2cc23a56b51bf527afafcf"
+  },
+  {
+    "id": "contrast-02-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "анимация не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "3fd400871d83959ae331cf572560b85954c30d34d1b0f0d35d17a0bf09fb00d2"
+  },
+  {
+    "id": "contrast-03-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "анимация не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "c7dd9624375c653bbe585e6bdedcf2efe956c0d4babfe7c2865e1fe8a73e9b74"
+  },
+  {
+    "id": "cpu-chip-01-lined",
+    "description": "Processor core pulses inside a stable chip body; pins never detach.",
+    "user_comment": "анимация не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1bd91c03ba8465ab2edaaee395d583058568d3cfea96c61e214119ddef906980"
+  },
+  {
+    "id": "credit-card-check-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d7aed4dac17892737f221bc0f19ad49d2200ede08e2a55a3b63855ee35b19f26"
+  },
+  {
+    "id": "credit-card-down-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8489312fb2a699a7680c98ce115938bb6868d9928927af5074cc2f83d4e38455"
+  },
+  {
+    "id": "credit-card-download-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ab192db8101d98266cea674634050f3eb6a999b3ca4ee903fd18cde11bd1dccc"
+  },
+  {
+    "id": "credit-card-edit-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "647569ac2312d64fe2de2f8146d33882883adca968944b7158161ba567767d8a"
+  },
+  {
+    "id": "credit-card-lock-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5fa917c063d07c23317044dc069ac5f67fc88adc80e74e7471f1507544208e68"
+  },
+  {
+    "id": "credit-card-minus-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "04737895c86de1a54a1db44b976b8876af6013deca12f31b7cbeaf86d47a8207"
+  },
+  {
+    "id": "credit-card-plus-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8854f709f3822947fb8359f47eb936d8e434a659825cf1fcffad82fd11f949a3"
+  },
+  {
+    "id": "credit-card-refresh-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "брак в геометрии\nанимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "472d537388073e22182c08d43500ebd0e8da41fdb9c31542440aeeccf55528bc"
+  },
+  {
+    "id": "credit-card-search-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "3ae43372fa0ca10c55fd9181965f15bd1881a50275f04a39c0c32d5682c3d6d7"
+  },
+  {
+    "id": "credit-card-shield-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ac6af3a9ee2e5d4dfaea6413e833d89e532809d79633a0ec7be5a12be667945c"
+  },
+  {
+    "id": "credit-card-up-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e161baa4083864b9bb0a65c8f33fc9ba2435b06ff6d61ab78a0e6440ecaceeb0"
+  },
+  {
+    "id": "credit-card-upload-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "609f221caeaa2d471def7f37bd5f0915e72168191ed326948e34e20cc60125df"
+  },
+  {
+    "id": "credit-card-x-lined",
+    "description": "Card stays fixed; only its explanatory badge reacts.",
+    "user_comment": "анимируй сам объект пояснения, а не двигай карту",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "0b7c29db7bb2bdebb903ced1302bcd8d2e0f7ca62011393e72ce15c745613977"
+  },
+  {
+    "id": "cryptocurrency-03-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2297559a02cb2fab0c77d8b6a7d5c6888bdb272ac06e4896f8a30c28547a6479"
+  },
+  {
+    "id": "cryptocurrency-04-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9216b1d8627cce722045a9a94a95fe19552467d552e52f02f531b36bf8ab1069"
+  },
+  {
+    "id": "cursor-box-lined",
+    "description": "Only the cursor moves; its box remains fixed.",
+    "user_comment": "анимируй только курсов",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e525127dbf30dc6e8d69ab26de2b756ed944e792d1f8dc390122b61e2d1d51cb"
+  },
+  {
+    "id": "data-lined",
+    "description": "Sequential detail response; container/large envelope stays intact and every original element remains represented.",
+    "user_comment": "не подходит",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "0646a165c13b076c5bc3387ed491873aaa77bf0dbcfee87241fb6163ab301257"
+  },
+  {
+    "id": "database-01-lined",
+    "description": "Sequential detail response; container/large envelope stays intact and every original element remains represented.",
+    "user_comment": "ок, но 2 3 и 4 линии надо анимировать не одновременно",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "710607ac6a028e6ba5772c828f339a49efa16c2322f70f5ff964c766e366d5e5"
+  },
+  {
+    "id": "dataflow-01-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "cd135c49ab86ae29c093ce9a82af4a03280cb05d79c4e32a616b7628f0f1c960"
+  },
+  {
+    "id": "dataflow-02-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e988a5232ff668a302104aa47757f6c5d75c240037c1383695cf6eb83cc6c851"
+  },
+  {
+    "id": "dataflow-03-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "54ae31353171654eb588c2c7a0eba0b257e959038af4a8b255a2d54fcb0f4ae9"
+  },
+  {
+    "id": "dataflow-04-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b97cab825e58b119978eda0bedeb329dacae06310ab7779726033d348fd4e9c1"
+  },
+  {
+    "id": "delete-lined",
+    "description": "A local delete-sign response inside the stable backspace frame; no false deletion state.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1aada9eaef1554914060b743b596c0f26cef74f0e42236c5c0efc46c037ccd39"
+  },
+  {
+    "id": "diamond-01-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "анимация не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9f84672f274a360f0dda3039a544331c8fd69a8c219f6bc30a1560c7f5abd80c"
+  },
+  {
+    "id": "dice-1-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8b75d0d0180b1e3a9b8da4f843129e5bb6c164240bb8dc0218c186284e4c835d"
+  },
+  {
+    "id": "dice-2-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9500df4976c0d908cb7e6d399daa0e65a7930cf55498c8196f524e4ccb6ccbf8"
+  },
+  {
+    "id": "dice-3-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4bf3aaf4900198239309b58b72f61bf49aeb2da7e1c4a1143e83b843dc4de91a"
+  },
+  {
+    "id": "dice-4-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "409326ba10e63cd1db4d32eb03e3c896ce43c88f6acb0d2797b91031298e2e34"
+  },
+  {
+    "id": "dice-5-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8c4b69608bacc740f9fc0d9dc609d73e583495b5db4a4429a42351de6e6792c5"
+  },
+  {
+    "id": "dice-6-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8cd3df7b3ac05f5c69b1529b9c32fb122d87aeb6793b1a477730f23933bfc958"
+  },
+  {
+    "id": "disc-02-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1b26135a588b702871c8581fb8447ded60c3a7211a416d02dd11754cbadacf8d"
+  },
+  {
+    "id": "distribute-spacing-horizontal-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "ок, но лучше динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "73946fe0b346ca151db139e203b15cbfeb7ef3edd701c23d68b421262ca2e207"
+  },
+  {
+    "id": "distribute-spacing-vertical-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "ок, но лучше динамика",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4df01a350b694ce45af86c176e6a480c953653b88f0cb6241731a0602d07aab8"
+  },
+  {
+    "id": "divider-lined",
+    "description": "Sequential detail response; container/large envelope stays intact and every original element remains represented.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "a4ae1044318235ad5851422a3a8cc83269c749b9956984d25c6901c83238e58a"
+  },
+  {
+    "id": "dots-vertical-lined",
+    "description": "Sequential detail response; container/large envelope stays intact and every original element remains represented.",
+    "user_comment": "лучше в стороны как горизонтальных",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "54be870f581b2206695fdf14bce2b90d3b6505ee3cfdda3ace143f4ecc3b177b"
+  },
+  {
+    "id": "download-01-lined",
+    "description": "Download arrow moves downward; tray stays anchored without implying successful network completion.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e0f7c2370a52c2de450ff1dfe51e2fb766f37a3463434507ceadc7b741313e8b"
+  },
+  {
+    "id": "droplets-01-lined",
+    "description": "Sequential detail response; container/large envelope stays intact and every original element remains represented.",
+    "user_comment": "лучше не одновременно",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f546e58d3a14844572366f396bf514caeffeacbb3c8ddc45220d4b46d32080b5"
+  },
+  {
+    "id": "eagle-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "38af0d06f5a9acd299ac4c30d80cd759ffd230c846caf34d8586a037f88c3b31"
+  },
+  {
+    "id": "eraser-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9c62c8ea8dc0983b7dd53205a3991feeb606ed0af8ef0b43894dbdff444417d5"
+  },
+  {
+    "id": "expand-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "52952ddb86220d07558b343f80bed5b0c673d1c365aa74b79850caf96ce954b0"
+  },
+  {
+    "id": "expand-02-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "257f03cac077ccb0b10a77e617f9f4768af2efe139c9822f5a532cca50486cb2"
+  },
+  {
+    "id": "expand-03-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "195a4e22dfad409e638885fd3830bad9a5459ec845cde22948e54c8728fd07aa"
+  },
+  {
+    "id": "expand-04-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "da34bd4ee594a0812c40a32c23f82d72c500602ea2ed8820457ce768bb42b765"
+  },
+  {
+    "id": "expand-05-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5ebeabc2c24d02b9fcba026dc883bec6ef773c5802270b571742d9ceb9d2545b"
+  },
+  {
+    "id": "expand-06-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9b0a4f4dadbccfbc8059f8c2ca7cfe8ecb5ad974a9aa0e9cbaeff23816f8f725"
+  },
+  {
+    "id": "eye-lined",
+    "description": "Two explicit on/off states on own artwork; the slash is a state sign, not a drifting construction fragment.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6015262dc2d0c25d14de30c5a0f8293be592dbc4ff10f8081b5664f89d36ba06"
+  },
+  {
+    "id": "eye-off-lined",
+    "description": "Two explicit on/off states on own artwork; the slash is a state sign, not a drifting construction fragment.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6c411b86474d425ee27f522842a2f3ece81894560ed29eddfac2f1a366cb0adc"
+  },
+  {
+    "id": "file-06-lined",
+    "description": "Keep the positively reviewed motion, rebuilt on the repaired geometry.",
+    "user_comment": "ок, но геометрия не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5762c6f2a8e16780908d1fd5308443a915a3d613b0078015fb5c0c4ab6f99f6b"
+  },
+  {
+    "id": "file-plus-01-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2d472eec6d8fb2b5a9c1a5a8afee9c3cffe18b30f33398fe7d0022d1b06cb4b3"
+  },
+  {
+    "id": "filter-funnel-01-lined",
+    "description": "Round knobs move along fixed guides; subtractive masks keep the track out of their interiors.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b5c590176b00c0a9c06769615c3cd5b69bb5173766a1750a3154d650755c3656"
+  },
+  {
+    "id": "filter-lines-down-lined",
+    "description": "Filter lines respond in sequence without collapsing the frame or changing line count.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f32f2bb9bf584f8cc1e05016aafd5ce7eb0a4b3ce8f4bbc997400e2b4db687e5"
+  },
+  {
+    "id": "filter-lines-up-lined",
+    "description": "Filter lines respond in sequence without collapsing the frame or changing line count.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "37e682546829829e98accffee7583f15ec1fb0851306a8e2c29d155a94164fa9"
+  },
+  {
+    "id": "fingerprint-01-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "не зациклена",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "880c4d8e3b2c48b456fa6e987b4426842af18b77c58e9d96ea72c0efbd57ae3d"
+  },
+  {
+    "id": "flag-01-lined",
+    "description": "Pole stays fixed; cloth reacts continuously with its attachment edge anchored.",
+    "user_comment": "нет анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "31a97acd5d6035600e0af3d939b5be20e830531e4f71f0b26ddf6606957b0621"
+  },
+  {
+    "id": "flag-03-lined",
+    "description": "Pole stays fixed; cloth reacts continuously with its attachment edge anchored.",
+    "user_comment": "нет анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2494f1ee1eece0539dd36ed682db29ef4908b91b7bfbfbb53ebd1a6069336067"
+  },
+  {
+    "id": "flag-04-lined",
+    "description": "Pole stays fixed; cloth reacts continuously with its attachment edge anchored.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d82502de712e0ae143c245f17e4bb901e20a128f20a85985cc43e5253a07567e"
+  },
+  {
+    "id": "flag-06-lined",
+    "description": "Pole stays fixed; cloth reacts continuously with its attachment edge anchored.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f39ae013498c894b274056e240c79161c2a83468473a2bd34c7daa9a56cb2a1e"
+  },
+  {
+    "id": "folder-code-lined",
+    "description": "Front plane opens together with its badge, so question/code signs stay inside it.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "18b7bd377b48878ff6b39d327cb8f867e982d3ae935351db86bbbb4b98435d62"
+  },
+  {
+    "id": "folder-plus-lined",
+    "description": "Front plane opens together with its badge, so question/code signs stay inside it.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5df119c44f3212f43c26512084a2a8b753d48b9a88de727bbc0ca8af522706f0"
+  },
+  {
+    "id": "folder-question-lined",
+    "description": "Front plane opens together with its badge, so question/code signs stay inside it.",
+    "user_comment": "вопрос в открытом состоянии не влезает",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e9ce5879a6c776e7af96f347db48dc1079877e03b094cac61d74013da0ee05f2"
+  },
+  {
+    "id": "git-branch-01-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "40e87926bc7aec698df0376853461a9f30789137c8593e93c982eba475ce1118"
+  },
+  {
+    "id": "grid-03-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "норм, но центарльный объект не двигай",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "324b35bb893d890fde3812bcba8f8b2989dd72369fec6ab090e02993de36028e"
+  },
+  {
+    "id": "grid-dots-blank-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "плохо",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "70da38a695d99b845c2ad8e368cc17cf670ada453f2408de33ccb2b30ba71b61"
+  },
+  {
+    "id": "grid-dots-bottom-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "плохо",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1d796f3cff7883ccf0dfb98fe26edab904a1541617a39e193ebc17b33e9159c9"
+  },
+  {
+    "id": "grid-dots-horizontal-center-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "плохо",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1e29ca4d737b1e48cbdd5d933f7577be165547685b62afddbdfdc7132ff2e523"
+  },
+  {
+    "id": "hand-lined",
+    "description": "Coherent greeting around the wrist; fingers never morph independently.",
+    "user_comment": "хорошо, но брак по геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "960fe8b31b68389f013dc17e4ecf690a33ebfb07df42b5391335d15ffe30ab21"
+  },
+  {
+    "id": "hearts-lined",
+    "description": "Fill transition uses the original closed silhouettes and preserves the number of symbols.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8ba6f24d02b8ea9b97abbeecc24caf83702cfd3849c1e93943714e474c92322d"
+  },
+  {
+    "id": "home-01-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b4e8868e6ac1ad30f8a0b8b44d01b1266c3c53e608b4370c8a2592e11e9e4b4b"
+  },
+  {
+    "id": "home-02-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d71415d47aa34d69f56456004fde8e7f3489530e2d70c2b9bc67a3ebc809cca2"
+  },
+  {
+    "id": "home-04-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e3cc50599d5e13355ab0226e1f94e321bbfcc3a417cf41426132852097abbdf3"
+  },
+  {
+    "id": "home-smile-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в анимации и геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "845d7e67630740a5290b38f98db590b8acd2c8784ec9ab40aabccb2259be644c"
+  },
+  {
+    "id": "hurricane-01-lined",
+    "description": "Wind bands respond in phases while the vertical funnel stays legible.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6567bdc0e804122e395f2ef91c17b0e5bdba69df4a511431f369d54601fea4f5"
+  },
+  {
+    "id": "hurricane-02-lined",
+    "description": "One coherent rotational response; pips, internal symbols and joined contours stay attached.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e590e6398a976b715571b8cbc174f7a1e641fced03526b5707b6b2b33844233f"
+  },
+  {
+    "id": "hurricane-03-lined",
+    "description": "Wind bands respond in phases while the vertical funnel stays legible.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "cb8e5dd2b528d40bf33454fbe28b7537d3b6036965ff2914865e7b134b20679d"
+  },
+  {
+    "id": "image-check-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "08d4cacfa9612e9cdfbdfeba04d8cce1b761b070c963c5c4206096e2f819575d"
+  },
+  {
+    "id": "image-down-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b9831f560373125f2e54adce3fd9eaa44b164446fde0b0703e5f5393c101c54f"
+  },
+  {
+    "id": "image-indent-left-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "887bfb7d9fcae1438aabd39aec68e7ca9b612da57bff8beb11464ed27ef9b724"
+  },
+  {
+    "id": "image-left-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "85bfd5b3477013189362f7c623e3a8ce6b600616859c1d921e81b632a4513bdf"
+  },
+  {
+    "id": "image-plus-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4b33fd6b6e61e40e46d31ec79e57b61bfa473aa45992cf4c3d313e148e199f34"
+  },
+  {
+    "id": "image-right-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "a50e8d56e686dea51b325316d98ee7d51c3fed83523ebe1a1938f27b88f55855"
+  },
+  {
+    "id": "image-user-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "801fb82ac08fd7a68c7f7b4f966494962b905fd82ea6e327699dbe7bf3a35f92"
+  },
+  {
+    "id": "image-user-plus-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2bd0058db3dab4529cc2f9d537d728568553f9cd394acf9be35d28b890b28da4"
+  },
+  {
+    "id": "info-circle-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "c9465c274b01a6fcf3c6880b23d6ea483e2459d5184ff781721a05db10038205"
+  },
+  {
+    "id": "info-hexagon-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "574189a4ea5a4bc42ef937e4d6f6306689299009d5cd64a8dda4c8072ea73d06"
+  },
+  {
+    "id": "italic-square-lined",
+    "description": "Frame/main object remains anchored where present; meaningful interior detail receives one restrained accent.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "603cae32908a55996400b5a8a3657d03bcbaf995ac7af54fe73a0b5403a428a4"
+  },
+  {
+    "id": "lightbulb-01-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "4a3358f76bbeb8fdb611bfa748784a15f5138727112c4f8fe19c8e19878660a7"
+  },
+  {
+    "id": "lightbulb-02-lined",
+    "description": "Emphasize the meaningful internal detail; preserve stable frame and modifier count.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9a857de7850b56c4994c5a7c9c68b8cd0f79134d19d485c2fcd1763341919c16"
+  },
+  {
+    "id": "line-chart-down-02-lined",
+    "description": "Restore chart axes; the trend line reacts without losing its graph context.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "fe67746f0092b2ae88fae0290831838331e6cc6cc03be94762e473249e8d5ee5"
+  },
+  {
+    "id": "line-chart-up-02-lined",
+    "description": "Restore chart axes; the trend line reacts without losing its graph context.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5442338c49e49c321b9fc5b706688a639eaaeae3a6c67bb16b5e45873fc3a480"
+  },
+  {
+    "id": "medical-cross-lined",
+    "description": "Coherent complete rotation forms a seamless hover cycle; artwork never deforms fragment by fragment.",
+    "user_comment": "не зацикленно",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e3c4f08f24ce7e85198cebf203ad5d07be414e788505233e77f9480627912f55"
+  },
+  {
+    "id": "menu-03-lined",
+    "description": "Menu bars form a coherent close symbol; reverse playback restores the menu.",
+    "user_comment": "плохо",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "303770accf2696fb9b72a83480dfd4893482adf802d21b686c845596880eb771"
+  },
+  {
+    "id": "old-time-messenger-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "eb66c8d1730df117735e1593c056617d2ac2e1b160741e1bda89565af0eac34a"
+  },
+  {
+    "id": "pause-circle-lined",
+    "description": "Actual play/pause pair; the frame is fixed and both glyphs stay readable through the transition.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9b819473f1ae056ee95052ebe7ceba5b1fac0ac06954dbe1df445b09601d8563"
+  },
+  {
+    "id": "pause-square-lined",
+    "description": "Actual play/pause pair; the frame is fixed and both glyphs stay readable through the transition.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5fd15b1043758458a61249f2722f15db0c30f1a97b23e50ce0ec6359c4c2949e"
+  },
+  {
+    "id": "pie-chart-04-lined",
+    "description": "Interior sectors react around the center while the outer chart stays fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "b85e26e001762326c38a12e48f8cdba7e1130ce3279bc9c3f295b6119e8c6268"
+  },
+  {
+    "id": "placeholder-lined",
+    "description": "Visible restrained response replaces the imperceptible default motion.",
+    "user_comment": "нет анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "edc73a65b5ee132ef0b876bf06845d6dba57ee17d621c21bcc1c65a3d2b70c70"
+  },
+  {
+    "id": "play-circle-lined",
+    "description": "Actual play/pause pair; the frame is fixed and both glyphs stay readable through the transition.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e66da1fe7d19f99c553b22873c7c6df66c0f45df1985406d422bc9433a2f1786"
+  },
+  {
+    "id": "play-lined",
+    "description": "Actual play/pause pair; the frame is fixed and both glyphs stay readable through the transition.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ee9a093b5e050de29e03f8d90d1cffbd7830ec2a3d0f8daaae05d2ef4969cc0f"
+  },
+  {
+    "id": "play-square-lined",
+    "description": "Actual play/pause pair; the frame is fixed and both glyphs stay readable through the transition.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "ae1dc389b72d782b9aef6385272fb4a7fb7c43e325b5efdbc7165a72198b9764"
+  },
+  {
+    "id": "recording-01-lined",
+    "description": "Waveform bars pulse in offset phases while retaining the original bar count.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "1a90d1df6175be30a2da5e6665f75590d432eaff8a6230d34392b9a82263bb95"
+  },
+  {
+    "id": "recording-02-lined",
+    "description": "Waveform bars pulse in offset phases while retaining the original bar count.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "c66f18412296bd7344f9f19bbba81a35024ec5061e5b97d7f5bf1a4675dfbf1c"
+  },
+  {
+    "id": "scales-02-lined",
+    "description": "Balance pans move oppositely with a shared deformation that preserves every junction.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "85ef676c6b4455205ec2bf1b16db0cfdcb171e2414b9bb4f1710a687ca6ef34b"
+  },
+  {
+    "id": "search-lg-lined",
+    "description": "Lens and handle react as one connected assembly; restore the intended large lens geometry.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "d61d8d52dd45e759aef4d77d414067f23fff0b61dd2f988e029c42bdc978eb1f"
+  },
+  {
+    "id": "search-md-lined",
+    "description": "Lens and handle react as one connected assembly; restore the intended large lens geometry.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9f451e7c21301cfed3d1efe462d426e43473bfcb324ca7c22efd61a47c7838ad"
+  },
+  {
+    "id": "settings-03-lined",
+    "description": "Round knobs move along fixed guides; subtractive masks keep the track out of their interiors.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "75381ff88005392dddefc095b0abacbba037137cb9dba8a8c7ffb859cc1635b5"
+  },
+  {
+    "id": "settings-04-lined",
+    "description": "Round knobs move along fixed guides; subtractive masks keep the track out of their interiors.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "c54503d4b8686c99cbf2e84b0a5c35d90f10b2beb10e0d3cbaa35304a915a6f8"
+  },
+  {
+    "id": "share-07-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "25b9382a7108d4d743edd3c344dcbca644f0edb12268c6dc18abfd3b8bdafdf6"
+  },
+  {
+    "id": "signal-01-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "f10ff1e0aa37d80894bafed82926b327f4ffab7c7522f21e4e6e25f45928516b"
+  },
+  {
+    "id": "signal-02-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e37887059cda02aa53d3cf0c6650fe14b09ced2908a8fd30a807a2ede9c100b3"
+  },
+  {
+    "id": "signal-03-lined",
+    "description": "Signal progresses through the existing parts with phases; graph topology and symbol count remain fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "730f5a8f9b10a9b4c563e16c8660b96dfcb96b7ba9b58f847f5a79eafab7fef1"
+  },
+  {
+    "id": "snowflake-01-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в анимации и геомерии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "395adf1448e490aa0ab1936c032638e743642cf00231a349bf5d2e5a155f2512"
+  },
+  {
+    "id": "spacing-height-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "9bc951141648592bdb6f1e6c0d0bd6b229ef1d4102033f10b6ac578924fada0d"
+  },
+  {
+    "id": "spacing-height-02-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "5a449514b19f5c2fe7612c0dcbf93612ba9bfbbdc185b9d9a7f3a3c71e5f6079"
+  },
+  {
+    "id": "spacing-width-01-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "a49409ccca272e0cf47df8162d2c3fba3ab43724f219afd771f0a9d47146a2ed"
+  },
+  {
+    "id": "star-06-lined",
+    "description": "Fill transition uses the original closed silhouettes and preserves the number of symbols.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "33652329b2ddb2d2e367a9c1f50d52518e516692996162ab9f65331194dfcf1c"
+  },
+  {
+    "id": "stars-02-lined",
+    "description": "Fill transition uses the original closed silhouettes and preserves the number of symbols.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "7ec7226ce754afae474ce1f5a42a4b8e7199e1da47b5d634ae7f800e4f109190"
+  },
+  {
+    "id": "sticker-circle-lined",
+    "description": "A local peel hint bends the own corner continuously, rather than morphing into an unrelated bookmark.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "85bf8860b844c011799cb7706d217d8414333250bd2a890e586f66be106c7806"
+  },
+  {
+    "id": "sticker-square-lined",
+    "description": "A local peel hint bends the own corner continuously, rather than morphing into an unrelated bookmark.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6a8065751e23817a2ffd45b520345ce9b96235c6077c80ee3c28703ffe60a586"
+  },
+  {
+    "id": "sun-setting-02-lined",
+    "description": "Sun moves behind the stationary horizon with its rays; the horizon masks the movement.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "2483eaae278ded4d19537918e7da43572b25b7cc552329190e6150ddbc309d52"
+  },
+  {
+    "id": "sun-setting-03-lined",
+    "description": "Sun moves behind the stationary horizon with its rays; the horizon masks the movement.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6688b5c919e42967175e2e982e28d34d8d32d745daa043e6e043c4bd92b82c9b"
+  },
+  {
+    "id": "switch-vertical-02-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "e43f0eab086c6488231dea49e9f5872a91ccf48c8b57f1be910f63d00acaccf7"
+  },
+  {
+    "id": "train-lined",
+    "description": "Short movement consistent with a tool stroke or travel; all construction parts stay together.",
+    "user_comment": "не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6bf5a3fabcf11a0431a44330cbd6683e53950cf18a6f421136f9cb487b806257"
+  },
+  {
+    "id": "transform-lined",
+    "description": "Parts move along the operation axis; enclosing frames stay anchored.",
+    "user_comment": "не нравится",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6ac578106ed48bf2a43961486f1cfea6c97b3e61f4b44dc5870f612795b3bece"
+  },
+  {
+    "id": "user-plus-01-lined",
+    "description": "Hover focuses the action badge while retaining user context; no false success state.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "de51babd178d5898441e4af1fbfa0c13e65f08008910a177f0b12134f496e99f"
+  },
+  {
+    "id": "video-recorder-off-lined",
+    "description": "Two explicit on/off states on own artwork; the slash is a state sign, not a drifting construction fragment.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "8de63a262df1fc84597bf04dd45691bd711859b1b6dad427c0ff8efedb4c9c7f"
+  },
+  {
+    "id": "virus-lined",
+    "description": "Coherent response on the preserved source assembly; remove fragment-wise distortion.",
+    "user_comment": "брак в геометрии",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "7100fdb41309a7121e56b7dce05a922a764584efb0f49d085ceca8ab67ef923d"
+  },
+  {
+    "id": "watch-circle-lined",
+    "description": "Hands rotate around their dial center; dial, straps and status modifiers stay fixed.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "873b222f3a3145471818732b52c7897b20af696a87f537bf84ec75c04bc83395"
+  },
+  {
+    "id": "zoom-in-lined",
+    "description": "One controlled semantic response without unrelated morphing or fragmentation.",
+    "user_comment": "брак в анимации",
+    "status": "agent-reviewed-user-review-pending",
+    "scene_sha256": "6a8810605224503323e99c8f2a6a17d674e0a68c4a8f4b9a67a8d5a648cf1915"
+  }
+]

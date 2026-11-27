@@ -1,0 +1,229 @@
+{
+  "checks": [
+    {
+      "size": 24,
+      "dark": false,
+      "width": 0.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.22745098039215686
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 0.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.4627450980392157
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 1,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.4235294117647059
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 1,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.8627450980392157
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 1.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.7568627450980392
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 1.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 1.4941176470588236
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 3,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 1.4980392156862745
+    },
+    {
+      "size": 24,
+      "dark": false,
+      "width": 3,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 2.988235294117647
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 0.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.22745098039215686
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 0.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.4627450980392157
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 1,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.4235294117647059
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 1,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.8627450980392157
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 1.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.7568627450980392
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 1.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 1.4941176470588236
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 3,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 1.4980392156862745
+    },
+    {
+      "size": 24,
+      "dark": true,
+      "width": 3,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 2.988235294117647
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 0.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.27450980392156865
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 0.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.49411764705882355
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 1,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.5568627450980392
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 1,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.996078431372549
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 1.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.8
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 1.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 1.5019607843137255
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 3,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 1.5450980392156861
+    },
+    {
+      "size": 48,
+      "dark": false,
+      "width": 3,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 3
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 0.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.27450980392156865
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 0.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.49411764705882355
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 1,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.5568627450980392
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 1,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 0.996078431372549
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 1.5,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 0.8
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 1.5,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 1.5019607843137255
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 3,
+      "revision": "before",
+      "leftBowlStrokeCoverage": 1.5450980392156861
+    },
+    {
+      "size": 48,
+      "dark": true,
+      "width": 3,
+      "revision": "after",
+      "leftBowlStrokeCoverage": 3
+    }
+  ],
+  "passed": true
+}

@@ -1,0 +1,63 @@
+{
+  "png_sha256": "bfc80807b87c007e3323757faf5622adaf916e2f633448f1c0b88790c8a77092",
+  "icons": {
+    "file-check-01-lined": "473f61fefbef8faf02a7e7027dfcabac5aa8306d455cd0a368dd1db6ebceace9",
+    "file-check-02-lined": "473f61fefbef8faf02a7e7027dfcabac5aa8306d455cd0a368dd1db6ebceace9",
+    "file-check-03-lined": "473f61fefbef8faf02a7e7027dfcabac5aa8306d455cd0a368dd1db6ebceace9",
+    "file-circle-lined": "ddd209d745e56279962863f3da88c3c9f2208eaf823f6f437e10b39d967dfa2d",
+    "file-code-01-lined": "6c26f49600fd71467db14fa6f12ca7d15b8dc750bf014fa9e49758359208cf37",
+    "file-code-02-lined": "6c26f49600fd71467db14fa6f12ca7d15b8dc750bf014fa9e49758359208cf37",
+    "file-download-01-lined": "408cc629d9d68162e50d2939ae2cb1411344529fde84693120ca6408a6e92627",
+    "file-download-02-lined": "408cc629d9d68162e50d2939ae2cb1411344529fde84693120ca6408a6e92627",
+    "file-download-03-lined": "408cc629d9d68162e50d2939ae2cb1411344529fde84693120ca6408a6e92627",
+    "file-heart-01-lined": "449dd2f06749c307cc3d16e694a49db10c30b6130bbef2621f7fc92f57f1a607",
+    "file-heart-02-lined": "449dd2f06749c307cc3d16e694a49db10c30b6130bbef2621f7fc92f57f1a607",
+    "file-heart-03-lined": "449dd2f06749c307cc3d16e694a49db10c30b6130bbef2621f7fc92f57f1a607",
+    "file-lock-01-lined": "e955c5356a467bfe078c51eb277be67423560346372d10289eccdaa21b8663be",
+    "file-lock-02-lined": "e955c5356a467bfe078c51eb277be67423560346372d10289eccdaa21b8663be",
+    "file-lock-03-lined": "e955c5356a467bfe078c51eb277be67423560346372d10289eccdaa21b8663be",
+    "file-minus-01-lined": "48e42c4d3e69738affa8758c38538c6c2e32448352721880bed8477b983bcf7c",
+    "file-minus-02-lined": "48e42c4d3e69738affa8758c38538c6c2e32448352721880bed8477b983bcf7c",
+    "file-minus-03-lined": "48e42c4d3e69738affa8758c38538c6c2e32448352721880bed8477b983bcf7c",
+    "file-plus-01-lined": "eba4c13f3f80757d29dfbcdef4dc81be036341da27db91a75bcab91d2ee4336f",
+    "file-plus-03-lined": "eba4c13f3f80757d29dfbcdef4dc81be036341da27db91a75bcab91d2ee4336f",
+    "file-question-01-lined": "f7a439e55c8f4e963373cf13d1db5e2eb741c4883c8c655cca95ad1ebc682ef0",
+    "file-question-02-lined": "f7a439e55c8f4e963373cf13d1db5e2eb741c4883c8c655cca95ad1ebc682ef0",
+    "file-question-03-lined": "f7a439e55c8f4e963373cf13d1db5e2eb741c4883c8c655cca95ad1ebc682ef0",
+    "file-search-01-lined": "a0ea3d953ca5ede3801af92a10a9eea94665bd1b1d6e12eb9ad6f90320bef8c6",
+    "file-search-02-lined": "a0ea3d953ca5ede3801af92a10a9eea94665bd1b1d6e12eb9ad6f90320bef8c6",
+    "file-search-03-lined": "a0ea3d953ca5ede3801af92a10a9eea94665bd1b1d6e12eb9ad6f90320bef8c6",
+    "file-shield-01-lined": "78925dd172e7b47ec1c52146140d531e369c409052d3c9ff03f9b2f7bbbd19d9",
+    "file-shield-02-lined": "78925dd172e7b47ec1c52146140d531e369c409052d3c9ff03f9b2f7bbbd19d9",
+    "file-shield-03-lined": "78925dd172e7b47ec1c52146140d531e369c409052d3c9ff03f9b2f7bbbd19d9",
+    "file-x-01-lined": "7ab9f91e0e890d03b70d2713ee1334a1f095a0767d03d9af5df2873e41a6f79c",
+    "file-x-02-lined": "7ab9f91e0e890d03b70d2713ee1334a1f095a0767d03d9af5df2873e41a6f79c",
+    "file-x-03-lined": "7ab9f91e0e890d03b70d2713ee1334a1f095a0767d03d9af5df2873e41a6f79c",
+    "film-01-lined": "27173df23a7b9a198cf3d85dbfd21bfac383bd4388b5e61135f6b04df88b1e27",
+    "film-02-lined": "099479717c646c7512a093d140d93b64fb71ee26696b351a0dea915d53e112c9",
+    "film-03-lined": "b7292cc31c9e296306358c0f4e67d6a64aac6da2185c7ff8c62326dda65c4e89"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

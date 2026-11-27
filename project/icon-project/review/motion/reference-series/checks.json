@@ -1,0 +1,193 @@
+{
+  "scenes": 1189,
+  "runtime_errors": [],
+  "empty_scenes": [],
+  "static_motion_scenes": [],
+  "reference_frames": 8302,
+  "preserved_legacy_books": [
+    "book-closed-lined",
+    "book-open-01-lined",
+    "book-open-02-lined"
+  ],
+  "revised_scenes": [
+    "arrows-left-lined",
+    "arrows-right-lined",
+    "bar-chart-square-down-lined",
+    "bar-chart-square-minus-lined",
+    "bar-chart-square-plus-lined",
+    "bar-chart-square-up-lined",
+    "cpu-chip-01-lined",
+    "cpu-chip-02-lined",
+    "eagle-lined",
+    "figma-lined",
+    "globe-04-lined",
+    "globe-05-lined",
+    "globe-06-lined",
+    "globe-slated-02-lined",
+    "hand-lined",
+    "italic-01-lined",
+    "italic-02-lined",
+    "layers-three-02-lined",
+    "magic-wand-01-lined",
+    "move-lined",
+    "presentation-chart-01-lined",
+    "presentation-chart-02-lined",
+    "presentation-chart-03-lined",
+    "scales-01-lined",
+    "server-05-lined",
+    "server-06-lined",
+    "settings-03-lined",
+    "thumbs-up-lined",
+    "watch-square-lined"
+  ],
+  "static_hashes_unchanged": true,
+  "approved_pilot_unchanged": true,
+  "visual_review": {
+    "method": "Sequential agent review of all 12 sheets; corrected scenes re-rendered and reviewed. No independent critic.",
+    "sampled_times": [
+      0,
+      0.15,
+      0.33,
+      0.5,
+      0.67,
+      0.85,
+      1
+    ],
+    "preset": "Balanced",
+    "displayed_sheet_frames": [
+      0,
+      0.15,
+      0.5,
+      0.85,
+      1
+    ],
+    "limitations": [
+      "Chromium only; no Safari or Firefox check.",
+      "Sheets reconstruct path paint and do not reproduce every SVG mask, clip or dash effect. Gallery screenshot and existing exact-player behavior checks are separate evidence.",
+      "Sparse deterministic frames do not replace real-time timing review on devices."
+    ]
+  },
+  "contact_findings": [
+    {
+      "id": "bell-01-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-02-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-03-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-04-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-minus-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-off-01-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-off-02-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-off-03-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-plus-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-ringing-01-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-ringing-02-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-ringing-03-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "bell-ringing-04-lined",
+      "review": [
+        "Independent clapper swing; sampled separation reviewed against the articulated bell motion."
+      ]
+    },
+    {
+      "id": "gift-02-lined",
+      "review": [
+        "Gift bow lifts from the box during the reaction."
+      ]
+    },
+    {
+      "id": "globe-04-lined",
+      "review": [
+        "Geographic interior compresses independently from fixed sphere and support; edge contacts need not remain attached."
+      ]
+    },
+    {
+      "id": "globe-05-lined",
+      "review": [
+        "Geographic interior compresses independently from fixed sphere and support; edge contacts need not remain attached."
+      ]
+    },
+    {
+      "id": "globe-06-lined",
+      "review": [
+        "Geographic interior compresses independently from fixed sphere and support; edge contacts need not remain attached."
+      ]
+    },
+    {
+      "id": "globe-slated-02-lined",
+      "review": [
+        "Geographic interior compresses independently from fixed sphere and support; edge contacts need not remain attached."
+      ]
+    },
+    {
+      "id": "magic-wand-01-lined",
+      "review": [
+        "Sparkle state scales/fills separately from the wand."
+      ]
+    },
+    {
+      "id": "trash-01-lined",
+      "review": [
+        "Approved pilot: lid opens independently from bin body."
+      ]
+    }
+  ],
+  "release_status": "agent-reviewed; final user approval pending"
+}

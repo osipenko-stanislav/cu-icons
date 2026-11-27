@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "gift",
+  "type": "registry:component",
+  "title": "Gift (animated)",
+  "description": "Animated gift icon (hover-replay). Usage: <AnimatedGift size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "commerce"
+  ],
+  "meta": {
+    "keywords": [
+      "commerce",
+      "gift"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/gift.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/gift.tsx",
+      "type": "registry:component",
+      "target": "components/animations/gift.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/gift\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Gift\" from https://useanimations.com (MIT): https://useanimations.com/icons/gift\nexport function AnimatedGift(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

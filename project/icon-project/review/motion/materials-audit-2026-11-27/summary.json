@@ -1,0 +1,43 @@
+{
+  "active_scenes": 902,
+  "sample_phases": [
+    0,
+    0.13,
+    0.25,
+    0.37,
+    0.5,
+    0.61,
+    0.75,
+    0.83,
+    1
+  ],
+  "browser_errors": [],
+  "color_regressions": [
+    "battery-full-lined",
+    "battery-low-lined",
+    "battery-mid-lined",
+    "chart-breakout-circle-lined",
+    "chart-breakout-square-lined",
+    "chrome-cast-lined",
+    "hard-drive-lined",
+    "line-height-lined",
+    "modem-01-lined",
+    "phone-call-02-lined",
+    "podcast-lined",
+    "rss-01-lined",
+    "server-01-lined",
+    "server-02-lined",
+    "server-03-lined",
+    "server-04-lined",
+    "server-06-lined",
+    "terminal-browser-lined",
+    "terminal-circle-lined",
+    "terminal-lined",
+    "terminal-square-lined",
+    "wifi-lined"
+  ],
+  "no_sampled_raster_motion_at_48": [],
+  "one_animation_for_all_sizes": true,
+  "production_modified": false,
+  "scope": "Sequential diagnostic review; no claim that every interaction or intermediate frame is defect-free."
+}

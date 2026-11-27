@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "folder",
+  "type": "registry:component",
+  "title": "Folder (animated)",
+  "description": "Animated folder icon (hover). Usage: <AnimatedFolder size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "action"
+  ],
+  "meta": {
+    "keywords": [
+      "action",
+      "folder"
+    ],
+    "interaction": "hover",
+    "interactionDescription": "Plays forward on mouseenter and backward on mouseleave.",
+    "lottie": "https://useanimations.com/icons/folder.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/folder.tsx",
+      "type": "registry:component",
+      "target": "components/animations/folder.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/folder\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Folder\" from https://useanimations.com (MIT): https://useanimations.com/icons/folder\nexport function AnimatedFolder(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "changed_scenes": [
+    "alarm-clock-minus-lined",
+    "alert-triangle-lined",
+    "announcement-01-lined",
+    "cloud-raining-04-lined",
+    "cloud-snowing-01-lined",
+    "indeterminate-lined",
+    "indeterminate-small-lined",
+    "info-circle-lined",
+    "info-hexagon-lined",
+    "lightbulb-01-lined",
+    "pause-circle-lined",
+    "pause-square-lined",
+    "play-circle-lined",
+    "play-lined",
+    "play-square-lined",
+    "ref-bed",
+    "ref-kitchen",
+    "ref-laundry",
+    "ref-microwave",
+    "ref-brand-network"
+  ],
+  "other_882_scene_tracks_and_durations_unchanged": true,
+  "all_902_static_and_motion_svg_unchanged": true,
+  "one_animation_for_all_sizes": true
+}

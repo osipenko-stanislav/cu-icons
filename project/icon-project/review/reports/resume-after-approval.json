@@ -1,0 +1,104 @@
+{
+  "counts": {
+    "Pending": 1165,
+    "Approved": 24
+  },
+  "pilot_approved_for_current_style": true,
+  "workflow": {
+    "next_step": "continue-static",
+    "decisions": {
+      "scenario": {
+        "value": "restyle",
+        "source": "user",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "brief": {
+        "value": "Restyle all supplied work icons using ref as style basis; preserve source semantics and editable SVG.",
+        "source": "user",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "reference_choice": {
+        "value": "provided",
+        "source": "user",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "direction": {
+        "value": "Thin monochrome linework, selective asymmetric corners, simplified geometric contours.",
+        "source": "reference",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "geometry": {
+        "value": "outline",
+        "source": "reference",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "target_sizes": {
+        "value": [
+          16,
+          24,
+          32
+        ],
+        "source": "inferred",
+        "confidence": "medium",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      },
+      "motion_mode": {
+        "value": "static",
+        "source": "default",
+        "confidence": "high",
+        "updated_at": "2026-11-26T10:57:33+00:00"
+      }
+    },
+    "sources_confirmed": false,
+    "static_pilot_approved": true,
+    "motion_mode": "static"
+  },
+  "queue": [
+    {
+      "id": "batch-001",
+      "icons": {
+        "activity-heart-lined": "Pending",
+        "activity-lined": "Pending",
+        "airplay-lined": "Pending",
+        "airpods-lined": "Pending",
+        "alarm-clock-check-lined": "Pending",
+        "alarm-clock-lined": "Pending",
+        "alarm-clock-minus-lined": "Pending",
+        "alarm-clock-off-lined": "Pending",
+        "alarm-clock-plus-lined": "Pending",
+        "alert-circle-lined": "Pending",
+        "alert-hexagon-lined": "Pending",
+        "alert-octagon-lined": "Pending",
+        "alert-square-lined": "Pending",
+        "alert-triangle-lined": "Pending",
+        "align-bottom-01-lined": "Pending",
+        "align-bottom-02-lined": "Pending",
+        "align-center-lined": "Pending",
+        "align-horizontal-centre-01-lined": "Pending",
+        "align-horizontal-centre-02-lined": "Pending",
+        "align-justify-lined": "Pending",
+        "align-left-01-lined": "Pending",
+        "align-left-02-lined": "Pending",
+        "align-left-lined": "Pending",
+        "align-right-01-lined": "Pending",
+        "align-right-02-lined": "Pending",
+        "align-right-lined": "Pending",
+        "align-top-01-lined": "Pending",
+        "align-top-02-lined": "Pending",
+        "align-vertical-center-01-lined": "Pending",
+        "align-vertical-center-02-lined": "Pending",
+        "anchor-lined": "Pending",
+        "annotation-alert-lined": "Pending",
+        "annotation-check-lined": "Pending",
+        "annotation-dots-lined": "Pending",
+        "annotation-heart-lined": "Pending"
+      }
+    }
+  ],
+  "attention": []
+}

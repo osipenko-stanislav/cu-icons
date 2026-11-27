@@ -1,0 +1,51 @@
+{
+  "browser_checks": [
+    {
+      "sceneCount": true,
+      "renderedCards": true,
+      "refFilter": true
+    },
+    {
+      "triggerExplained": true
+    },
+    {
+      "id": "wifi-lined",
+      "theme": "light",
+      "inheritsTheme": true
+    },
+    {
+      "id": "wifi-lined",
+      "theme": "dark",
+      "inheritsTheme": true
+    },
+    {
+      "id": "ref-plates",
+      "theme": "light",
+      "inheritsTheme": true
+    },
+    {
+      "id": "ref-plates",
+      "theme": "dark",
+      "inheritsTheme": true
+    }
+  ],
+  "exports": [
+    {
+      "icon": "ref-plates",
+      "scenes": 1,
+      "bytes": 108408,
+      "zip_integrity": "pass",
+      "settings_and_names": "pass",
+      "svg_parse": "pass"
+    },
+    {
+      "icon": "pack",
+      "scenes": 902,
+      "bytes": 2779088,
+      "zip_integrity": "pass",
+      "settings_and_names": "pass",
+      "svg_parse": "pass"
+    }
+  ],
+  "errors": []
+}

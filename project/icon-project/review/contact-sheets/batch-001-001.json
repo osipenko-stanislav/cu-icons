@@ -1,0 +1,32 @@
+{
+  "png_sha256": "b771ebe46c418135b7072d98c2851aedac2a7ecd546bf6cbf6cfbfb5f6c514dd",
+  "icons": {
+    "activity-heart-lined": "abaee5ef38d328b901b671bbc9db34b40397f1b1ade7f8ad912ddc9a1e4ef5bc",
+    "activity-lined": "b6e501762de58522d3b6637aa0aebd794d73ae43a7083e48757c09de908df5a5",
+    "airplay-lined": "534f56c3376b5c98ba738c13e666598a28b320ad51de0ee01d11a56d42a29ac2",
+    "airpods-lined": "4ffac020f26dab201b384bc093724f7c7c08ef9138dcf87114c69c3c39e72701",
+    "alarm-clock-check-lined": "ae4d4dfa764d920d5a14a8c40730ca2b55f85c4de61fa3ce5589aafaf921d769",
+    "alarm-clock-lined": "f35a305c5740ffdf57f0c44828a7025559a2bd9446bd364473c93c16ce180065",
+    "alarm-clock-minus-lined": "89857f3c89c402c2f93987fc07fb055d4a28c614798ebbcc960101e0d98ce5db",
+    "alarm-clock-off-lined": "64247751686061869c59d889215316a295d73172c41dfc81a59affe6320af611",
+    "alarm-clock-plus-lined": "8e1ebe5d39649d6ab31bc4ec98b2eef7d0713ae1e6f6bda00df3cf0f85d7a7a2",
+    "alert-circle-lined": "cf94f20db58431e730e77e241820d707793ff3498b5bea1a2f321e4025ee0b2f",
+    "alert-hexagon-lined": "41411a81eca676a5f9c21254c78ac7a933ab52297f6f6e4ac4f3e8c6c51ee524",
+    "alert-octagon-lined": "75d70ab0c9a2d6e6393d5718796cc8ea0887a28563e80f53ae21966c4eb9a96e",
+    "alert-square-lined": "47a94135b75d7845a1e4c5030ea4ab2979737c217d3014099b2e31bf2dcbe29f",
+    "alert-triangle-lined": "10fd0263afccb4cacb77547c8d5e2b9db1fe871bc1a38436e30c49ec357656bf",
+    "align-bottom-01-lined": "70129688f519ce3f88e70613f6ae63eff6b119a85bbe051e3e3fecb999621dee",
+    "align-bottom-02-lined": "8094d0fbcfc469bba72ed046a7aa4d3526dabd99d66bafc6a50dfa407b06d072",
+    "align-center-lined": "2fc98232131024554787ac8d13615c7239aec807f6fc25032611a93f5536e940",
+    "align-horizontal-centre-01-lined": "e2596bc42389346edb68df1b938e53ce1bac22a962dd9ab6a03059b5a14ec864",
+    "align-horizontal-centre-02-lined": "4e85fc1d3b38033fe4efd20953eec50d365549cd41dcadae438333466cd9e81c",
+    "align-justify-lined": "d6b50ce9ef0c2247a0f6ea9b83d2c0830639911319517902388c49793dae557a"
+  },
+  "references": [],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "dark": false
+}

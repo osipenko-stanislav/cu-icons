@@ -1,0 +1,36 @@
+{
+  "scene_count": 902,
+  "checks": 16853,
+  "failures": [],
+  "errors": [],
+  "color_failures": [],
+  "themes": [
+    "dark ink",
+    "light ink",
+    "accent blue"
+  ],
+  "phases": [
+    0,
+    0.13,
+    0.25,
+    0.37,
+    0.5,
+    0.61,
+    0.75,
+    0.83,
+    1
+  ],
+  "presets": [
+    "Smooth",
+    "Balanced",
+    "Expressive"
+  ],
+  "one_animation_for_all_sizes": true,
+  "native_checks": 225,
+  "reduced_preference_checks": 126,
+  "export_runtime_checks": 30,
+  "changed_motion_scenes": 20,
+  "active_native_scenes": 15,
+  "active_lottie_scenes": 887,
+  "total_behavior_checks": 17234
+}

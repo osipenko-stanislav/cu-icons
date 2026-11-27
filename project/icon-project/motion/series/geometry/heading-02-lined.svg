@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M6 4V20M18 4V20M9.5 4V20M11.5 4H4M18 12H9.5M11.5 20H4M20 20H16M20 4H16" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><path d="M6 4V20" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M18 4V20" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="0" />
+<path d="M9.5 4V20" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="1" />
+<path d="M11.5 4H4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="2" />
+<path d="M18 12H9.5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="3" />
+<path d="M11.5 20H4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="4" />
+<path d="M20 20H16" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="5" />
+<path d="M20 4H16" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="6" />
+</g></svg>

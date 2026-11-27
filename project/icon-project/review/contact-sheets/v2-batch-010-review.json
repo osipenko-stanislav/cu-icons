@@ -1,0 +1,63 @@
+{
+  "png_sha256": "80dc4354d3afef926020b151e66fd76c2acac2d5c46d00583bfbf040edeae094",
+  "icons": {
+    "corner-down-left-lined": "843557f48b67dbac136e36e36fdf4e113219d4bf076953da15b90b14d8cd8284",
+    "corner-down-right-lined": "de61ef90dfc499bd62f41042815f9a2b27a5282e00016782baca3fc48e79563d",
+    "corner-left-down-lined": "e13f030fe2d14e3307320e1f1991ea8cf270785fc4ac23f6620d36c727f85a06",
+    "corner-left-up-lined": "ee63e7fd7df400c707ad36bd7014f438db94485c94c716ebf61df86c96a7052f",
+    "corner-right-down-lined": "808975ece2dbe2c7355fb1a133fc3f207d77780383a29953f0f41b4e03abeb4b",
+    "corner-right-up-lined": "e523b8aa328259abaac3c9a02b9f82186dd2e014e8efb5ab36e2c446a8f41000",
+    "corner-up-left-lined": "99941c749cad3d29a76847050efb5e99919b6cbe95cf7ee71418f558723d06c4",
+    "corner-up-right-lined": "4dc7a88c2ad75f44037eb3abc96658abd91e024d8d7cdbfcef9438bdf122767d",
+    "cpu-chip-02-lined": "2a0b48813c158011def56dc27f0baee68b105d6c941b2988d4e9e16ce34679e9",
+    "credit-card-01-lined": "c5f4deae8c731f1a2198fbde8482470c3040b80370260e1276aaf61c6019a071",
+    "credit-card-02-lined": "ab6f9b332fe50df75561e30b77c902e84acb6992d65220fa30dffac496076cd6",
+    "credit-card-check-lined": "2e1a48733af4679892d1e4f5e9f54fb5c1510fa183c9d59c453399b2e1fcd85f",
+    "credit-card-down-lined": "3080b2ad2a1c042e52c60a77918b6d104998aaaadf88ffe545bb6057ba850aee",
+    "credit-card-download-lined": "a7d6320ed168165ac6f498c7894599a01dc903a9e98e047d5cae3c8b3c1bbf14",
+    "credit-card-edit-lined": "e52d30f6f40eff656eda32626150185c2d7097bc6b233ca1788b229d3309164a",
+    "credit-card-minus-lined": "5f7690d495d002be98d5d11a0ee9e94e069ac0a12a4436aa40b0f9f6d4b8e94d",
+    "credit-card-plus-lined": "1aad7f59406e75b189f5b1fb76e8226c01da44250b57615ddc6c5d73dd3f201e",
+    "credit-card-refresh-lined": "3b3f7caabd6fb9e6f57632df930c70d234f6b002d2d2d1df9f51a2e9a4a0b569",
+    "credit-card-search-lined": "b078713d6970798130d340be269091ce47ed98b4d4ee179586cacfcf5038a7b8",
+    "credit-card-shield-lined": "88d0559480fe112b7aa0709094a7c43830398cf57f3852da045772d9975807b2",
+    "credit-card-up-lined": "b8ffa5b794b1a8d6079ed722dc0644ef6b0b19911dfe1774ca1cee561178cdea",
+    "credit-card-upload-lined": "a81a7761bc2a204cdd38242f3b174a6455e92b6731101adc3bfbaef8d07326ce",
+    "credit-card-x-lined": "443a245123f9cd2b2cc828571b22e02f339f4729a402046505433a1f7e6d0a3f",
+    "crop-01-lined": "4ea072b9da558854d879d27d35558e87e2f45a99a8b3152f7dfd5b80dd27b8c4",
+    "crop-02-lined": "740907c485df99bfd4227588f7ca3b8b255b451986ae83966ddb0f5cbb0880c5",
+    "cryptocurrency-01-lined": "67396cabd1a3dd047856f22f1c7e726e68718b998629f799f9ad9f77a7f35d10",
+    "cryptocurrency-02-lined": "eb20f3e9d63c74d182af9ca84a795a3b82f8db8bcbc6339291d1ecf1eeb57392",
+    "cryptocurrency-03-lined": "de087ad361532bd6b2feb1f7b9b898c4557d8dcb0cd02c9f903c27b15f232917",
+    "cryptocurrency-04-lined": "f312b73c48ac1f3a0eb9d19e9135fa0197012ae947a38bdea5f5e3758b07d640",
+    "cube-01-lined": "5d67d698d1c4029d73ff20369d1b2bdfb0c81c7b52280b586fac17b84767b06a",
+    "cube-02-lined": "3874060589b1e70772385053afbc5b250035653c68d20ccc030981a2c89943cf",
+    "cube-03-lined": "65f3e95d9f82dbf589f37a2c527d732de36b615f86ce57c9e85167b4151ecdd9",
+    "cube-04-lined": "c87cf037405b5380c2c877c74d6b31be1c41bb9bf99ba18a511a0f0c86e5537c",
+    "cube-outline-lined": "4a88422360cd35d3bc84f87a7c50219fa408c185c234e6d32958b7bbbd05567f",
+    "currency-bitcoin-circle-lined": "33983451fb3952188d4cdab0dc146104400ce0939fe166d7a53a81f11ac2c12c"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

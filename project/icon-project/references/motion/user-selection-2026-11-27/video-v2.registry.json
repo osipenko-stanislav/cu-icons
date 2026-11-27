@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "video-v2",
+  "type": "registry:component",
+  "title": "Video V2 (animated)",
+  "description": "Animated video v2 icon (click-toggle). Usage: <AnimatedVideoV2 size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "media"
+  ],
+  "meta": {
+    "keywords": [
+      "camera",
+      "media",
+      "video",
+      "video call",
+      "video-off"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/video-v2.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/video-v2.tsx",
+      "type": "registry:component",
+      "target": "components/animations/video-v2.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/video2\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Video V2\" from https://useanimations.com (MIT): https://useanimations.com/icons/video-v2\nexport function AnimatedVideoV2(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

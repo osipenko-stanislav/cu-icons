@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M18 7V5.2L18 2L14.8 2H9.2L9 2A3 3 0 0 0 6 5L6 5.2V7M6 18L2 18L2 14V11.8L2 10A3 3 0 0 1 5 7L6.8 7H17.2L22 7L22 11.8V14L22 18L18 18M15 10.5H18M8.0 14.0H18.0V20.0A2.0 2.0 0 0 1 16.0 22.0H6.0V16.0A2.0 2.0 0 0 1 8.0 14.0Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><g><path d="M18 7V5.2L18 2L14.8 2H9.2L9 2A3 3 0 0 0 6 5L6 5.2V7" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M6 18L2 18L2 14V11.8L2 10A3 3 0 0 1 5 7L6.8 7H17.2L22 7L22 11.8V14L22 18L18 18" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M8.0 14.0H18.0V20.0A2.0 2.0 0 0 1 16.0 22.0H6.0V16.0A2.0 2.0 0 0 1 8.0 14.0Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><path d="M15 10.5H18" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="0" />
+</g></svg>

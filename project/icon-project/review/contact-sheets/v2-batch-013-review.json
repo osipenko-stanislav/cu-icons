@@ -1,0 +1,63 @@
+{
+  "png_sha256": "421c0c8a8c7a469f37d55da333b72a4616d10823e7dde26478024a36321c2b67",
+  "icons": {
+    "equal-lined": "a1666e1cddf32d8c77c1424297206bd626944208f63b8775752b911f356732f0",
+    "equal-not-lined": "1a3fb7331975a7fe7dbaa29c9066ce8374b05359a28b401bdc13732ef330217c",
+    "eraser-lined": "1ed67aa3282ee685f2e72f9279a420730bd8c338ef79b12a802a71460aca07dd",
+    "expand-01-lined": "86335e65983c2afec5c3f5ea73b90da65fe94e51c6322f2253004502b422cab3",
+    "expand-02-lined": "ca7daa0f9615184e0d2d512b927796b1f8e64e96ebfebcf96f1c0df45cf928a2",
+    "expand-03-lined": "2d2c722bb0cc6f5f6c6f881e133d3500ca0c1421ad358a578fcb9dda7aae7002",
+    "expand-04-lined": "b00e6155ca01afa51e89b79881bfe6d6f6f10ad7353bef0203011d605da1dba0",
+    "expand-05-lined": "60ca7c13225fd8fa2ad49b804ed65f0f563a66c20142d9f510061bc87e9d637b",
+    "expand-06-lined": "a69579f98b44d25f7d8699ee9b9b204addf5fcace2cd68a95362a2d6204af66c",
+    "eye-lined": "41a0adf9427faae06c99222ab22cb381fc236e6138820d9db751da557336fdd5",
+    "eye-off-lined": "8821bf044ab70e856e54fb3b7732cf7c32cf74f52556d2f1f8f80fd88789cc89",
+    "face-content-lined": "c348ff0ed5aef5afcd5af7c89128e73bbebe630519d1c4ebe349a59ec6d63db4",
+    "face-frown-lined": "282d73cf0b98d39b80f373639a8c622b3d9334bd1ac60a1df00deab308710dc3",
+    "face-happy-lined": "fc2459554e949b9b781c5988594394b24bf7e2f9e988f1473acf7b53aa2e3a84",
+    "face-id-lined": "aa736abace7fc63a414f5712413b24771a367f3c6d7e16c3b2a3d3cbfae3c595",
+    "face-id-square-lined": "6bedd7b15be7334316d5dda22bf2ee584a7489274339fde98863d491861088e5",
+    "face-neutral-lined": "573e946125d7246fa21ca675acfcf7b5ee8a8b5ddae2d148cfae0d4c04234a85",
+    "face-sad-lined": "7fe7a47855fcf5ff3b1b1491c42e6304e92c62851c5b2818c077c73d554556aa",
+    "face-smile-lined": "8f21c5df8a6b1c53ec8ad1892953e26fc0077b0368fad8e1324edc118eb84b61",
+    "face-wink-lined": "26a7e1c98847dfd4ab447d040ff9886e52c515d4b3fc910fa444d5b4016bff6f",
+    "fast-backward-lined": "cd2795c1bf9533590643f9106a2504bf621a4a28e376e3475c93fb70a15b250f",
+    "fast-forward-lined": "97504a83d06a40c832530e7cfe0f15228dcc84ebf05715df55e62b36854e9894",
+    "feather-lined": "6104c4155580da10206baddf57d27c70129793276e988be29f6827fbc9369f72",
+    "figma-lined": "e5bac12f7c1d3b04c8507a7ccee412d4d0ed18605ac0cf75d48955e7c28ca44d",
+    "file-01-lined": "3266ea71473d50af8efc453315e52d04ac3a4306088ebc97521f79ed41776f5c",
+    "file-03-lined": "2727eb13cfd1391c8913c7df14dd99463a26782bd86d19de12aeb55d17f48d17",
+    "file-04-lined": "5f1714e2cd246db611b142f5516292a4434d53a0d7ea069fbb215cd4b4735ed3",
+    "file-05-lined": "5f1714e2cd246db611b142f5516292a4434d53a0d7ea069fbb215cd4b4735ed3",
+    "file-06-lined": "44e343e55709b76eb6ac8a80c842e4f906db1f2dd4cb420296b9506aa6a10816",
+    "file-07-lined": "2727eb13cfd1391c8913c7df14dd99463a26782bd86d19de12aeb55d17f48d17",
+    "file-attachment-01-lined": "30f7cb98d3273d9b20b9c452d8ad0c6b72f713b804926d51607b8040ddcb479e",
+    "file-attachment-02-lined": "30f7cb98d3273d9b20b9c452d8ad0c6b72f713b804926d51607b8040ddcb479e",
+    "file-attachment-03-lined": "30f7cb98d3273d9b20b9c452d8ad0c6b72f713b804926d51607b8040ddcb479e",
+    "file-attachment-04-lined": "66ba65344711f1e17846f8fa245e567d9e6246785138f01cc7a5ff21ac047cd3",
+    "file-attachment-05-lined": "66ba65344711f1e17846f8fa245e567d9e6246785138f01cc7a5ff21ac047cd3"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

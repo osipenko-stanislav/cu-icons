@@ -1,0 +1,63 @@
+{
+  "png_sha256": "45a0fbeddf3b83e9132f4393bb0b21ced72ea47a03f2dad57d75ab01c0fbb5c7",
+  "icons": {
+    "currency-bitcoin-lined": "b3abf9fc7d2114bdfc7422c2f98f92d7bb3620b95bfb1c577cd414159514bea2",
+    "currency-dollar-circle-lined": "77ca011338ffd4e31b22dc7939423491f918024b46ff074b61b43af34d97c039",
+    "currency-dollar-lined": "830a69957f2ecf5dab88ca12d868b550bc811557297dd280656cc096807cafa1",
+    "currency-ethereum-circle-lined": "a55e68132158925b46109b74818d92189e66b9c05185e0d49ee0919a61d12ef2",
+    "currency-ethereum-lined": "7a9e04b5730de70c313d30f22922859269400cc585c7b8b45aad8ba591ae56a9",
+    "currency-euro-circle-lined": "744069c6e5aaad36c57d3593179524ec97dcd4ceb5ca3d453c43905ca5acd8c5",
+    "currency-euro-lined": "712eb503249071b79a72698c239652a8640347b7520c0d4f83959806a1c78d90",
+    "currency-pound-circle-lined": "162f31d1f9b6747abb6981b72895d2f91769773a6a419094030e0aab7a4f724a",
+    "currency-pound-lined": "47522549bcdb6526da5fa6bd9315278679087cda07ab53b916e84c2d66e0446c",
+    "currency-ruble-circle-lined": "d6e025f7dfbc3db2f8617f06b697120279d0892e0286f4d58e12fcfbb3d873eb",
+    "currency-ruble-lined": "11db9167a87b83bb5ed9bfc3902b8ad864fe4443140caf7578f362e9381faf91",
+    "currency-rupee-circle-lined": "3d5ae09119ee004178b63e2c88fc33fca837c9e34c3a996113d90e1191b7f760",
+    "currency-rupee-lined": "1b57492dd8d3ab2e3c414aac0332256c5988c959b18bf6f08cadab315cd6f826",
+    "currency-yen-circle-lined": "5023fdcff6d8b37a255a683263dfc64d8333f5f595debad55d3728f04f56074e",
+    "currency-yen-lined": "dc76fde748b1a6add52e6579a381dc404c76233142502d414b55d2204240fe59",
+    "cursor-01-lined": "3607100363949ae7b0d86e95bb506d49d79af7ee3e23fd82b7f9ba281b2243a1",
+    "cursor-02-lined": "198f3f9390e7adf4996f165c5536d10d098acdac56fc2c04c2ceb920fe13fd66",
+    "cursor-03-lined": "61ac843b7d10c2fe4fabba93e4768c2db718c39fc09c4d2ef9f52853b6a92a86",
+    "cursor-04-lined": "98c8de346ea6f86850c9d3e6e9d41c80cc2cab2a936b3502c820ee7f25a025c0",
+    "cursor-box-lined": "f5f8a966e1e1fa3dcd7c8ff4840089c678368c895d45092669a1497abc7b7058",
+    "cursor-click-01-lined": "d06b53d034c2fa7eff92f72cc8941005d65387d459be02947955b54050f72d67",
+    "cursor-click-02-lined": "4a5c48d3ff75a45171d5df0eddf9ec8284f0ada7d332ead6be49ed111bf93b30",
+    "data-lined": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
+    "database-01-lined": "7750ab6c0c843f90f24260c3ef30d9e29c540d6944271c5963cb40ab3b64169d",
+    "database-02-lined": "bc171f5b72c0ad740b1c0118311d3eb358fd910707502947be6dce8558c393b7",
+    "database-03-lined": "6de7cdc5fea71a70b71f89cbc5f7453df93a08df54caedcdf70ebf53209c28ec",
+    "dataflow-01-lined": "537efd867727df6aa69fc75da112fd15529f1382e7c5bb033959511e6fc833c5",
+    "dataflow-02-lined": "1906206b993e29e73ff664f5326ee926057d339b6915d7a89d436c2263d09820",
+    "dataflow-03-lined": "ec98d5be0cc288fcd329e1b60f946227fb057df65c7509550e24915ab858739d",
+    "dataflow-04-lined": "8ccf88cd4495c69b18f10e1604df5b4bd84932de8e5f05f66e05d2d28fade7c5",
+    "delete-lined": "4c4b12e173f147dfbc7c8e5e731935da941f2ef5a1dc6c5538bff155bcd1a66a",
+    "diamond-01-lined": "60e1df3558d81c3deda8f49e683e0f1da8e7ffad4b437bd444fdacae9c790290",
+    "diamond-02-lined": "d97681523820729f7156c162dcf577be8ca5af16b66bdd35c3a6d93e1bc43bde",
+    "dice-1-lined": "bf8a9b10ff44dd55ec92619c7b7f8a5777bc1569f8e9cb716fc39d8669988cca",
+    "dice-2-lined": "e706c2750604aa0c28a4683bdd48a3e09868e15abffa5e2388be0234df63798b"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

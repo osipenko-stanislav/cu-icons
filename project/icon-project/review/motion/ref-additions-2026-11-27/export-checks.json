@@ -1,0 +1,21 @@
+{
+  "active": 902,
+  "archived": 306,
+  "full_series": 1208,
+  "existing_1189_scenes_unchanged": true,
+  "original_ref_files_unchanged": true,
+  "checks": [
+    {
+      "icon": "ref-plates",
+      "scenes": 1,
+      "bytes": 105467,
+      "zip_integrity": "pass"
+    },
+    {
+      "icon": "pack",
+      "scenes": 902,
+      "bytes": 2917784,
+      "zip_integrity": "pass"
+    }
+  ]
+}

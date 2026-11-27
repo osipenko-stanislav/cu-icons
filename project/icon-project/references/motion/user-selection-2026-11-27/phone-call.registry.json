@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "phone-call",
+  "type": "registry:component",
+  "title": "Phone Call (animated)",
+  "description": "Animated phone call icon (click-replay). Usage: <AnimatedPhoneCall size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "communication"
+  ],
+  "meta": {
+    "keywords": [
+      "call",
+      "communication",
+      "phone",
+      "phone-call"
+    ],
+    "interaction": "click-replay",
+    "interactionDescription": "Replays once from the start on every click unless reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/phone-call.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/phone-call.tsx",
+      "type": "registry:component",
+      "target": "components/animations/phone-call.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/phoneCall\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Phone Call\" from https://useanimations.com (MIT): https://useanimations.com/icons/phone-call\nexport function AnimatedPhoneCall(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

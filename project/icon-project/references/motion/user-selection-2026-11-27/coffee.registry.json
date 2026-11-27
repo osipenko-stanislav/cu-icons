@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "coffee",
+  "type": "registry:component",
+  "title": "Coffee (animated)",
+  "description": "Animated coffee icon (hover-replay). Usage: <AnimatedCoffee size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "other"
+  ],
+  "meta": {
+    "keywords": [
+      "coffee",
+      "other"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/coffee.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/coffee.tsx",
+      "type": "registry:component",
+      "target": "components/animations/coffee.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/coffee\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Coffee\" from https://useanimations.com (MIT): https://useanimations.com/icons/coffee\nexport function AnimatedCoffee(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "sun",
+  "type": "registry:component",
+  "title": "Sun (animated)",
+  "description": "Animated sun icon (hover-replay). Usage: <AnimatedSun size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "weather"
+  ],
+  "meta": {
+    "keywords": [
+      "sun",
+      "weather"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/sun.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/sun.tsx",
+      "type": "registry:component",
+      "target": "components/animations/sun.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/sun\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Sun\" from https://useanimations.com (MIT): https://useanimations.com/icons/sun\nexport function AnimatedSun(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

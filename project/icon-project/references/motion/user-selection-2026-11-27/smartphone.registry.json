@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "smartphone",
+  "type": "registry:component",
+  "title": "Smartphone (animated)",
+  "description": "Animated smartphone icon (hover-replay). Usage: <AnimatedSmartphone size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "devices"
+  ],
+  "meta": {
+    "keywords": [
+      "devices",
+      "smartphone"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/smartphone.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/smartphone.tsx",
+      "type": "registry:component",
+      "target": "components/animations/smartphone.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/smartphone\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Smartphone\" from https://useanimations.com (MIT): https://useanimations.com/icons/smartphone\nexport function AnimatedSmartphone(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

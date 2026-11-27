@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "file-text",
+  "type": "registry:component",
+  "title": "File Text (animated)",
+  "description": "Animated file text icon (hover-replay). Usage: <AnimatedFileText size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "content"
+  ],
+  "meta": {
+    "keywords": [
+      "content",
+      "file",
+      "file-text",
+      "text"
+    ],
+    "interaction": "hover-replay",
+    "interactionDescription": "Plays once on mouseenter unless reduced motion is preferred. Leaving does not stop it; entering during playback does not restart it.",
+    "lottie": "https://useanimations.com/icons/file-text.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/file-text.tsx",
+      "type": "registry:component",
+      "target": "components/animations/file-text.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/fileText\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"File Text\" from https://useanimations.com (MIT): https://useanimations.com/icons/file-text\nexport function AnimatedFileText(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover-replay\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

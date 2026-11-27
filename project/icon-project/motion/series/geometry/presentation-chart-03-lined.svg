@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M12 16V21M6 21L12 16L18 21M8 7V12M12 9V12M16 11V12M22 3H2M6.0 3.0H21.0V13.0A3 3 0 0 1 18.0 16.0H3.0V6.0A3 3 0 0 1 6.0 3.0Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><g><path d="M12 16V21" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M6 21L12 16L18 21" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><path d="M8 7V12" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="0" />
+<path d="M12 9V12" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="1" />
+<path d="M16 11V12" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="2" />
+<path d="M22 3H2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="3" />
+<path d="M6.0 3.0H21.0V13.0A3 3 0 0 1 18.0 16.0H3.0V6.0A3 3 0 0 1 6.0 3.0Z" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="4" />
+</g></svg>

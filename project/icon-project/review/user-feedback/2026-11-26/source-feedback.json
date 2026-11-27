@@ -1,0 +1,4360 @@
+{
+  "version": 1,
+  "project": "reference-series-v1",
+  "needsRevision": [
+    {
+      "icon": "reorder-lined",
+      "comment": "Старая внимация была лучше, верни",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "activity-heart-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "activity-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "airplay-lined",
+      "comment": "Ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "airpods-lined",
+      "comment": "Ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alarm-clock-check-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alarm-clock-lined",
+      "comment": "Ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alarm-clock-minus-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alarm-clock-off-lined",
+      "comment": "Брак в анимации и геометрии иконки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alarm-clock-plus-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alert-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alert-hexagon-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1
+    },
+    {
+      "icon": "alert-octagon-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "alert-square-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "alert-triangle-lined",
+      "comment": "Брак в анимации, треугольник нужно больше",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-bottom-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-bottom-02-lined",
+      "comment": "Динамика была лучше",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-center-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-horizontal-centre-01-lined",
+      "comment": "Нужна динамика, а не строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-horizontal-centre-02-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-justify-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-left-01-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-left-02-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-right-01-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-right-02-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-right-lined",
+      "comment": "Ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-top-01-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-top-02-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-vertical-center-01-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "align-vertical-center-02-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "anchor-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-alert-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-check-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-dots-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-heart-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-info-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-plus-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-question-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "annotation-x-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "announcement-03-lined",
+      "comment": "брак в геометрии\nнужна другая анимация",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "announcement-01-lined",
+      "comment": "Нужна другая анимация",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "announcement-02-lined",
+      "comment": "Нужна другая анимация",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "archive-lined",
+      "comment": "Брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-block-down-lined",
+      "comment": "Нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-block-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-block-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-block-up-lined",
+      "comment": "нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-down-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-down-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-down-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-up-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-up-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-broken-up-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-down-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-down-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-down-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-up-left-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-up-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-circle-up-right-lined",
+      "comment": "тут анимируется только стрелка, границы круга должны быть маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-down-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-down-lined",
+      "comment": "нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-down-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-down-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-down-lined",
+      "comment": "нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-down-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-up-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-up-lined",
+      "comment": "нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-narrow-up-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-down-left-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-down-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-down-right-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-left-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-right-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-up-left-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-up-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-square-up-right-lined",
+      "comment": "анимируем только стрелку, гарницв прямоугольника должны выступать маской для стрелки",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-up-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-up-lined",
+      "comment": "нужна динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrow-up-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrows-down-lined",
+      "comment": "брак анимации, стрелки дожны двигаться вверх и вниз но по-разному",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrows-left-lined",
+      "comment": "брак анимации, стрелки дожлны двигаться влево и вправо но по-разному",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrows-right-lined",
+      "comment": "брак анимации, стрелки дожлны двигаться влево и вправо но по-разному",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrows-triangle-lined",
+      "comment": "брак в анимации, прошлая со строуком была лучше",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "arrows-up-lined",
+      "comment": "брак анимации, стрелки дожлны двигаться вверх и вниз но по-разному",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "asterisk-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "asterisk-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "at-sign-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "atom-01-lined",
+      "comment": "брак геометрии и анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "atom-02-lined",
+      "comment": "брак геометрии и анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "attachment-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "attachment-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "award-01-lined",
+      "comment": "брак анимации, в последнем кадре круг наезжает на хвост",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "award-02-lined",
+      "comment": "брак анимации, в последнем кадре круг наезжает на хвост",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "award-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "award-04-lined",
+      "comment": "брак анимации, в последнем кадре круг наезжает на хвост",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "award-05-lined",
+      "comment": "брак анимации, в последнем кадре круг наезжает на хвост",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "backpack-lined",
+      "comment": "это отлично",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bank-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bank-note-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bank-note-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bank-note-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-05-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-06-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-07-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-08-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-09-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-10-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-11-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-12-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-circle-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-circle-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-circle-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-down-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-minus-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-plus-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-chart-square-up-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bar-line-chart-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-charging-01-lined",
+      "comment": "брак анимации, линия справа не работает",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-charging-02-lined",
+      "comment": "хорошо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-empty-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-full-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-low-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "battery-mid-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "beaker-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "beaker-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-01-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-02-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-03-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-04-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-minus-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-off-01-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-off-02-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-off-03-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-plus-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-ringing-01-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-ringing-02-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-ringing-03-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bell-ringing-04-lined",
+      "comment": "брак анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bezier-curve-01-lined",
+      "comment": "лучше строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bezier-curve-02-lined",
+      "comment": "лучше строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bezier-curve-03-lined",
+      "comment": "лучше строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bluetooth-connect-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bluetooth-off-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bluetooth-on-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bluetooth-signal-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bold-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bold-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bold-square-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "book-closed-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "book-open-01-lined",
+      "comment": "можно динамичнее",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "book-open-02-lined",
+      "comment": "лучше строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bookmark-add-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bookmark-check-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bookmark-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bookmark-minus-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bookmark-x-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "box-lined",
+      "comment": "отлично",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-check-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-ellipses-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-minus-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-plus-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-slash-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brackets-x-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "briefcase-01-lined",
+      "comment": "отлично",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "briefcase-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "browser-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brush-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brush-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "brush-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-05-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-06-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-07-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "building-08-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "bus-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calculator-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-check-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-check-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-date-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-heart-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-heart-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-minus-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-minus-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-plus-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "calendar-plus-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-lens-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-off-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "camera-plus-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "car-01-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "car-02-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "certificate-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "certificate-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chart-breakout-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chart-breakout-square-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-circle-broken-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-done-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-done-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-heart-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-small-16-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-small-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-square-broken-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-square-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-verified-01-lined",
+      "comment": "ок, но в конце можно анимировать отдельно приближение звезды, как в других подобных примерах",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-verified-02-lined",
+      "comment": "ок, но в конце можно анимировать отдельно приближение звезды, как в других подобных примерах",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "check-verified-03-lined",
+      "comment": "ок, но в конце можно анимировать отдельно приближение звезды, как в других подобных примерах",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-down-double-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-down-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-left-double-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-left-lined",
+      "comment": "перегруденная анимация",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-right-double-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-right-lined",
+      "comment": "перегруженная анимация",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-selector-horizontal-lined",
+      "comment": "лучше разводить стрелки в стороны",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-selector-vertical-lined",
+      "comment": "лучше разводить стрелки ввех и вниз",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-up-double-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chevron-up-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "chrome-cast-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "circle-cut-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clapperboard-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-attachment-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-check-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-download-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-lined",
+      "comment": "брак геометрии и анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-minus-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-plus-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clipboard-x-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-check-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-fast-forward-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-plus-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-refresh-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-rewind-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-snooze-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "clock-stopwatch-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-blank-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-blank-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-lightning-lined",
+      "comment": "ок, но в геометрии облака хоется сделать промежуток над молнией",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-moon-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-off-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-05-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-raining-06-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-snowing-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-snowing-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-sun-01-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-sun-02-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cloud-sun-03-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-02-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-browser-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-circle-01-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-circle-02-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-circle-03-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-snippet-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-snippet-02-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-square-01-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "code-square-02-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "codepen-lined",
+      "comment": "брак анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-hand-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-stacked-01-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-stacked-02-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-stacked-03-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-stacked-04-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-swap-01-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "coins-swap-02-lined",
+      "comment": "брак геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "colors-lined-1",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "colors-lined",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "columns-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "columns-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "columns-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "command-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "compass-01-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "compass-02-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "compass-03-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "compass-lined",
+      "comment": "старая анимация была лучше",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "container-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "contrast-01-lined",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "contrast-02-lined",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "contrast-03-lined",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-05-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-06-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "copy-07-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-down-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-down-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-left-down-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-left-up-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-right-down-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-up-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-right-up-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "corner-up-right-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cpu-chip-01-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cpu-chip-02-lined",
+      "comment": "анимация не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-check-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-down-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-download-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-edit-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-lock-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-minus-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-plus-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-refresh-lined",
+      "comment": "брак в геометрии\nанимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-search-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-shield-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-up-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-upload-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "credit-card-x-lined",
+      "comment": "анимируй сам объект пояснения, а не двигай карту",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "crop-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "crop-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cryptocurrency-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cryptocurrency-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cryptocurrency-03-lined",
+      "comment": "не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cryptocurrency-04-lined",
+      "comment": "не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cube-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cube-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cube-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cube-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cube-outline-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-bitcoin-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-bitcoin-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-dollar-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-dollar-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-ethereum-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-ethereum-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-euro-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-euro-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-pound-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-pound-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-ruble-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-ruble-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-rupee-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-rupee-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-yen-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "currency-yen-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-box-lined",
+      "comment": "анимируй только курсов",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-click-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "cursor-click-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "data-lined",
+      "comment": "не подходит",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "database-01-lined",
+      "comment": "ок, но 2 3 и 4 линии надо анимировать не одновременно",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "database-02-lined",
+      "comment": "ок, но 2 3 и 4 линии надо анимировать не одновременно",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "database-03-lined",
+      "comment": "брак в геометрии\nок, но 2 3 и 4 линии надо анимировать не одновременно",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dataflow-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dataflow-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dataflow-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dataflow-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "delete-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "diamond-01-lined",
+      "comment": "анимация не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "diamond-02-lined",
+      "comment": "не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-1-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-2-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-3-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-4-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-5-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dice-6-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "disc-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "disc-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "distribute-spacing-horizontal-lined",
+      "comment": "ок, но лучше динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "distribute-spacing-vertical-lined",
+      "comment": "ок, но лучше динамика",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "divide-01-lined",
+      "comment": "супер",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "divide-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "divide-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "divider-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dot-single-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dotpoints-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dotpoints-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dots-grid-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dots-horizontal-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dots-vertical-lined",
+      "comment": "лучше в стороны как горизонтальных",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-cloud-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "download-cloud-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "drop-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "droplets-01-lined",
+      "comment": "лучше не одновременно",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "droplets-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "droplets-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "dropper-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "eagle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "edit-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "edit-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "edit-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "edit-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "edit-05-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "equal-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "equal-not-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "eraser-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-05-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "expand-06-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "eye-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "eye-off-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-content-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-frown-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-happy-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-id-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-id-square-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-neutral-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-sad-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-smile-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "face-wink-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fast-backward-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fast-forward-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "feather-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "figma-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-04-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-05-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-06-lined",
+      "comment": "ок, но геометрия не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-07-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-attachment-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-attachment-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-attachment-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-attachment-04-lined",
+      "comment": "ок, но геометрия не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-attachment-05-lined",
+      "comment": "ок, но геометрия не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-check-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-check-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-check-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-circle-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-code-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-code-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-download-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-download-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-download-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-heart-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-heart-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-heart-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-lock-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-lock-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-lock-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-minus-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-minus-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-minus-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-plus-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-plus-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-plus-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-question-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-question-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-question-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-search-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-search-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-search-03-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-shield-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "file-x-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "film-01-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "film-02-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "filter-funnel-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "filter-funnel-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "filter-lines-down-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "filter-lines-up-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fingerprint-01-lined",
+      "comment": "не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fingerprint-02-lined",
+      "comment": "не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fingerprint-03-lined",
+      "comment": "не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "fingerprint-04-lined",
+      "comment": "не зациклена",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-01-lined",
+      "comment": "нет анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-02-lined",
+      "comment": "нет анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-03-lined",
+      "comment": "нет анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-04-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-05-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flag-06-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flash-lined",
+      "comment": "супер",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flash-off-lined",
+      "comment": "супер",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flex-align-bottom-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "flex-align-left-lined",
+      "comment": "ок",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "folder-lined",
+      "comment": "это вообще кайф",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "folder-code-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "folder-plus-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "folder-question-lined",
+      "comment": "вопрос в открытом состоянии не влезает",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "git-branch-01-lined",
+      "comment": "брак",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "git-branch-02-lined",
+      "comment": "брак",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "grid-03-lined",
+      "comment": "норм, но центарльный объект не двигай",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "grid-dots-blank-lined",
+      "comment": "плохо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "grid-dots-bottom-lined",
+      "comment": "плохо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "grid-dots-horizontal-center-lined",
+      "comment": "плохо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hand-lined",
+      "comment": "хорошо, но брак по геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hard-drive-lined",
+      "comment": "кайф",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "heart-rounded-lined",
+      "comment": "норм",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hearts-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "help-circle-lined",
+      "comment": "хорошо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-04-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-05-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "home-smile-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hurricane-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hurricane-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "hurricane-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-check-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-down-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-indent-left-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-left-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-plus-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-right-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-user-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "image-user-plus-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "info-circle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "info-hexagon-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "keyboard-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "italic-square-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "lightbulb-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "lightbulb-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "lightbulb-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "line-chart-down-02-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "line-chart-up-02-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "link-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "link-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "link-broken-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "log-out-01-lined",
+      "comment": "хороший пример",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "log-in-02-lined",
+      "comment": "тут плохо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "mail-01-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "mail-02-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "mail-05-lined",
+      "comment": "брак в анимации и геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "maximize-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "medical-cross-lined",
+      "comment": "не зацикленно",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "menu-03-lined",
+      "comment": "плохо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "monitor-04-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "old-time-messenger-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "pause-circle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "pause-square-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "phone-call-02-lined",
+      "comment": "кайф",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "pie-chart-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "placeholder-lined",
+      "comment": "нет анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "play-circle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "play-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "play-square-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "recording-01-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "recording-02-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "save-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "scales-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "search-md-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "search-lg-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "scissors-cut-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "send-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "send-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "settings-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "settings-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "share-01-lined",
+      "comment": "динамика не строук",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "share-07-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "shopping-cart-01-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "signal-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "signal-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "signal-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "sliders-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "snowflake-01-lined",
+      "comment": "брак в анимации и геомерии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "snowflake-02-lined",
+      "comment": "брак в анимации и геомерии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "spacing-height-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "spacing-height-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "spacing-width-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "speaker-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "speaker-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "star-04-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "stars-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "star-07-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "star-06-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "sticker-square-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "sticker-circle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "sun-setting-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "sun-setting-03-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "switch-vertical-02-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "train-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "transform-lined",
+      "comment": "не нравится",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "user-plus-01-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "user-plus-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "users-03-lined",
+      "comment": "хорошо",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "video-recorder-off-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "virus-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "watch-circle-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "webcam-02-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "zoom-in-lined",
+      "comment": "брак в анимации",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    },
+    {
+      "icon": "zap-off-lined",
+      "comment": "брак в геометрии",
+      "preset": "Balanced",
+      "speed": 1,
+      "strokeWidth": 1.5
+    }
+  ]
+}

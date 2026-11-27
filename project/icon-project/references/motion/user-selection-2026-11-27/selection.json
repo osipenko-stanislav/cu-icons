@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-27",
+  "source": "user",
+  "classes": {
+    "object-gesture": [
+      "inbox",
+      "file",
+      "file-text",
+      "phone-call",
+      "message-circle",
+      "battery-charging",
+      "cloud-rain",
+      "sun",
+      "gift",
+      "scissors",
+      "coffee"
+    ],
+    "mechanism": [
+      "tool",
+      "hard-drive",
+      "smartphone",
+      "battery-charging",
+      "video-v2",
+      "settings-v2",
+      "folder",
+      "calendar",
+      "notification-v4",
+      "more-horizontal"
+    ],
+    "signal-propagation": [
+      "wifi",
+      "phone-call",
+      "rss",
+      "shuffle"
+    ],
+    "state-transition": [
+      "menu-v2",
+      "arrow-left",
+      "notification-v2",
+      "microphone-v2",
+      "volume",
+      "heart",
+      "thumb-up",
+      "user-plus",
+      "user-x"
+    ]
+  },
+  "notes": {
+    "video-v2": "User note is truncated after «это пример для вкыл»; intended on/off direction remains unspecified."
+  }
+}

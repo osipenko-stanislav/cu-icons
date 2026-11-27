@@ -1,0 +1,7570 @@
+{
+  "references": [
+    {
+      "id": "arrow-left",
+      "path": "references/arrow-left.svg",
+      "sha256": "07a1d187450e8e28c648a5a25af60aa9ff4937035acb9347d89471428f9809d9",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 5,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "arrow-link",
+      "path": "references/arrow-link.svg",
+      "sha256": "ea5a7d0f80ccb8a05828825465e1d1019d615966c7f39cffa3d11114e5b8df3c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 5,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          3.4921875,
+          20.5078125,
+          20.5078125
+        ],
+        "padding": [
+          3.4921875,
+          3.4921875,
+          3.4921875,
+          3.4921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "arrow-right",
+      "path": "references/arrow-right.svg",
+      "sha256": "9ba4abf9f7553b537efb6627f0d7daa1f2cbae0f35fac3d0ed62b945f6267696",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 5,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "award",
+      "path": "references/award.svg",
+      "sha256": "08670848d704cebced4545efd7e8f6c94cba375c5f406e8bdb4c518237db22d7",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "g": 1,
+          "path": 2,
+          "defs": 1,
+          "clipPath": 1,
+          "rect": 1
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 44,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.5859375,
+          0.5859375,
+          23.4140625,
+          23.4140625
+        ],
+        "padding": [
+          0.5859375,
+          0.5859375,
+          0.5859375,
+          0.5859375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "bed",
+      "path": "references/bed.svg",
+      "sha256": "b4887a4e71d12e20e73ef92dffc4465e64fc255667f1d4c333347c977400780c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 15,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.09375
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.90625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "bell",
+      "path": "references/bell.svg",
+      "sha256": "410e78b7ad30858e8452e4fbc1707b85b1ed7d4bf6bd3dc3b2736995b0544f44",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 18,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          1.5,
+          21.515625,
+          22.5
+        ],
+        "padding": [
+          2.484375,
+          1.5,
+          2.484375,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "bio",
+      "path": "references/bio.svg",
+      "sha256": "e826ab930ec433b7739db277c1cb103ac6194dc798710ef6c363caba34646663",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1,
+          "circle": 7
+        },
+        "fills": 6,
+        "strokes": 2,
+        "layers": 8,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [
+            "1.09091",
+            "1.63636",
+            "3.86364"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.1796875,
+          1.6171875,
+          21.8203125,
+          21.8203125
+        ],
+        "padding": [
+          2.1796875,
+          1.6171875,
+          2.1796875,
+          2.1796875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "book",
+      "path": "references/book.svg",
+      "sha256": "e23ab7034a5caf535c2273f438c645e8e9f253b3e6af92d110af6ca734f5bffb",
+      "facts": {},
+      "issues": [
+        {
+          "level": "Error",
+          "code": "element",
+          "message": "Unsupported element mask"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute mask"
+        },
+        {
+          "level": "Error",
+          "code": "external-ref",
+          "message": "Only internal references allowed in mask"
+        }
+      ]
+    },
+    {
+      "id": "brand-academic-lined",
+      "path": "references/brand-academic-lined.svg",
+      "sha256": "711b9631fb6ef822d423c5420acad60a557ec09ef7ded2e7206e4414d499ea5f",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.984375,
+          3.890625,
+          23.015625,
+          19.734375
+        ],
+        "padding": [
+          0.984375,
+          3.890625,
+          0.984375,
+          4.265625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-award1-lined",
+      "path": "references/brand-award1-lined.svg",
+      "sha256": "f4530acd572873f8ef10caf44756be9bf47e4f8837b12fe9591f85a701498e76",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "g": 1,
+          "path": 1,
+          "defs": 1,
+          "clipPath": 1,
+          "rect": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 44,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.4921875,
+          0.4921875,
+          23.5078125,
+          23.5078125
+        ],
+        "padding": [
+          0.4921875,
+          0.4921875,
+          0.4921875,
+          0.4921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-biotech-lined",
+      "path": "references/brand-biotech-lined.svg",
+      "sha256": "8882430c500f62f13bfc36b2be52a07baa47e289ce7e26d72788edba831c81e8",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 1,
+        "strokes": 0,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 139,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.90625,
+          2.7421875,
+          21.09375,
+          21.2578125
+        ],
+        "padding": [
+          2.90625,
+          2.7421875,
+          2.90625,
+          2.7421875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-briefcase-lined",
+      "path": "references/brand-briefcase-lined.svg",
+      "sha256": "323e3f47a585ce312552d8d7b539852d1158a2abfcee83b797618e1190eed12a",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.765625,
+          2.2265625,
+          21.7734375,
+          20.15625
+        ],
+        "padding": [
+          2.765625,
+          2.2265625,
+          2.2265625,
+          3.84375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-chart-lined",
+      "path": "references/brand-chart-lined.svg",
+      "sha256": "dabe208e785d180a86386f6e4952f1cc32bf1cd25bbf695935dcd8c8ee5e1d8f",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 5,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          3.4921875,
+          22.5,
+          19.5
+        ],
+        "padding": [
+          2.484375,
+          3.4921875,
+          1.5,
+          4.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-chip-lined",
+      "path": "references/brand-chip-lined.svg",
+      "sha256": "5c593dda51080c657275daa949c40056aa072716998085fd936b7b99a2a47192",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 1,
+        "strokes": 0,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 222,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.6640625,
+          1.6640625,
+          22.3359375,
+          22.3359375
+        ],
+        "padding": [
+          1.6640625,
+          1.6640625,
+          1.6640625,
+          1.6640625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-code-lined",
+      "path": "references/brand-code-lined.svg",
+      "sha256": "9b9ee3fb0c3eaad93ac05b764587e1933f128e7124d38e330c36108c0d21067b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.1484375,
+          4.40625,
+          22.8984375,
+          19.78125
+        ],
+        "padding": [
+          1.1484375,
+          4.40625,
+          1.1015625,
+          4.21875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-device-desktop-lined",
+      "path": "references/brand-device-desktop-lined.svg",
+      "sha256": "d8011583bea41f958289f4e9bfc105e26bce215a1d5120f5818054100de8b2ce",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 14,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          3.234375,
+          22.0078125,
+          20.765625
+        ],
+        "padding": [
+          1.9921875,
+          3.234375,
+          1.9921875,
+          3.234375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-doc-lined",
+      "path": "references/brand-doc-lined.svg",
+      "sha256": "2b538c5013e2207b761663edcfd2435e18af47fc3dd22f85bbaa9ffc0440601c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 15,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.9921875,
+          2.484375,
+          20.015625,
+          21.515625
+        ],
+        "padding": [
+          4.9921875,
+          2.484375,
+          3.984375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-glasses-lined",
+      "path": "references/brand-glasses-lined.svg",
+      "sha256": "df752a1789ce7531e4b2a163c7a92adb91c69cfcaf7d4cdb40ccd47d95f17164",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 22,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          4.5,
+          21.515625,
+          19.0078125
+        ],
+        "padding": [
+          2.484375,
+          4.5,
+          2.484375,
+          4.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-home-lined",
+      "path": "references/brand-home-lined.svg",
+      "sha256": "509a8d9e5484fde9ddab684b8f55dfc70e352dd884f01487beaaffd4511a09bf",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 13,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 4,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          2.296875,
+          20.5078125,
+          21.515625
+        ],
+        "padding": [
+          3.4921875,
+          2.296875,
+          3.4921875,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-math-lined",
+      "path": "references/brand-math-lined.svg",
+      "sha256": "c21c4ab0c328d6c65a62fa2380e02bbc9c78705ebc5af0221f6f966d6bd5c6e5",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          2.484375,
+          22.5,
+          21.515625
+        ],
+        "padding": [
+          1.5,
+          2.484375,
+          1.5,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-message-lined",
+      "path": "references/brand-message-lined.svg",
+      "sha256": "3401f70847a9d4616e1d2970ab77e7b6345a6f61ffaa962ad33d31554369e6e7",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 17,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-molecule-lined",
+      "path": "references/brand-molecule-lined.svg",
+      "sha256": "6de760d0c2ece1dc72a8189c392619b3e5a576923997553c9d41f402fcfd209c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 54,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.1796875,
+          1.640625,
+          21.8671875,
+          21.8203125
+        ],
+        "padding": [
+          2.1796875,
+          1.640625,
+          2.1328125,
+          2.1796875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-network-lined",
+      "path": "references/brand-network-lined.svg",
+      "sha256": "a15ecf2d09a1c7479e11c23a90134ecc46ddbb9186ff89212d5cf948aefccbd9",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 26,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.5,
+          2.484375,
+          20.2265625,
+          21.515625
+        ],
+        "padding": [
+          4.5,
+          2.484375,
+          3.7734375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-question-lined",
+      "path": "references/brand-question-lined.svg",
+      "sha256": "aa02e3636e3ecec4fa5c68d7db2124f16d0015e352540e0a4a8e8f0328e125d3",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 1,
+        "strokes": 0,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 111,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-rocket-lined",
+      "path": "references/brand-rocket-lined.svg",
+      "sha256": "803418df31b39157abee937d4364fdbe03dfa1d5ae0cdce8b62667716c2200f8",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 29,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.609375,
+          1.921875,
+          20.390625,
+          21.9375
+        ],
+        "padding": [
+          3.609375,
+          1.921875,
+          3.609375,
+          2.0625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-shield-lined",
+      "path": "references/brand-shield-lined.svg",
+      "sha256": "499e94afc28c43421103558573ba63f2cf1e4caea6aa9590577c4d1274468617",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          2.484375,
+          20.5078125,
+          22.0078125
+        ],
+        "padding": [
+          3.4921875,
+          2.484375,
+          3.4921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-shine-lined",
+      "path": "references/brand-shine-lined.svg",
+      "sha256": "a401d49e5d0bf1d72d4918b3e876c1de954a600ec3bc385b84c50b441b9089ab",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 28,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.2265625,
+          2.2265625,
+          21.7734375,
+          21.7734375
+        ],
+        "padding": [
+          2.2265625,
+          2.2265625,
+          2.2265625,
+          2.2265625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-smile-lined",
+      "path": "references/brand-smile-lined.svg",
+      "sha256": "be790dec99d94c93d4c03a77c46369820825588d7bcd8616b6033a2cc46065d6",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 24,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-users2-lined",
+      "path": "references/brand-users2-lined.svg",
+      "sha256": "8208b25390879ecb438da1c8c5654708aeaba302a48334943700a15aa4b51923",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 1,
+        "strokes": 1,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 38,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.984375,
+          3.234375,
+          23.1328125,
+          20.765625
+        ],
+        "padding": [
+          0.984375,
+          3.234375,
+          0.8671875,
+          3.234375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "brand-way-lined",
+      "path": "references/brand-way-lined.svg",
+      "sha256": "6c5a75f91619e155e40c7d77b5bb91b50af6717a5ee54975af95069dd995568a",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 19,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "black"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          3.4921875,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          3.4921875,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "calendar",
+      "path": "references/calendar.svg",
+      "sha256": "4bbb8904f13f126a7123114e60293c9c38fc6bb79fe95b4b1c1b408a07b5f9b7",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1,
+          "line": 1,
+          "circle": 5
+        },
+        "fills": 5,
+        "strokes": 2,
+        "layers": 7,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [
+            "1"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.0,
+          3.0,
+          21.0,
+          21.0
+        ],
+        "padding": [
+          3.0,
+          3.0,
+          3.0,
+          3.0
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "cap-academic",
+      "path": "references/cap-academic.svg",
+      "sha256": "dee6b6e27faecd7f8814b7910c2e77bdb8382d156ddd12c22bc6e4a8fe5b3b37",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.984375,
+          3.890625,
+          23.015625,
+          19.734375
+        ],
+        "padding": [
+          0.984375,
+          3.890625,
+          0.984375,
+          4.265625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "case",
+      "path": "references/case.svg",
+      "sha256": "eaed423fd9e62d433965ee072cab27800a5a22c23b716dcfa5de7436a5d753c3",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.765625,
+          2.2265625,
+          21.7734375,
+          20.15625
+        ],
+        "padding": [
+          2.765625,
+          2.2265625,
+          2.2265625,
+          3.84375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "chair",
+      "path": "references/chair.svg",
+      "sha256": "73e63b59ad87863bfe3de4b711f28e16affd6d70e557d469c7776e5d9fcdffd4",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 6
+        },
+        "fills": 0,
+        "strokes": 6,
+        "layers": 6,
+        "transforms": 0,
+        "commands": 22,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "chat",
+      "path": "references/chat.svg",
+      "sha256": "17949cf703550dd81f0da1c19aba15483f7e3fc6c479e36d11fc3be16bfc6c84",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 17,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "check",
+      "path": "references/check.svg",
+      "sha256": "4d36f6644409c591625e613674f33667168a72e0973c990220d64158111377ca",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 3,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          5.484375,
+          20.5078125,
+          18.515625
+        ],
+        "padding": [
+          3.4921875,
+          5.484375,
+          3.4921875,
+          5.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "chervon-down",
+      "path": "references/chervon-down.svg",
+      "sha256": "3f8fb237f82267407f375bfb2940f8e15e93691e0f1b8a65372b2c03b1825272",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 3,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          5.484375,
+          8.484375,
+          18.515625,
+          15.703125
+        ],
+        "padding": [
+          5.484375,
+          8.484375,
+          5.484375,
+          8.296875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "chervon-up",
+      "path": "references/chervon-up.svg",
+      "sha256": "56d32950200cc200440248f18bde91633eab9e1ff718828b1ce69606e8887cda",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 3,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          5.484375,
+          8.296875,
+          18.515625,
+          15.515625
+        ],
+        "padding": [
+          5.484375,
+          8.296875,
+          5.484375,
+          8.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "chip",
+      "path": "references/chip.svg",
+      "sha256": "0e8f3e9e8208d50a5a4e0c46c8cceb6942f2fa2ed49fad4582fac32b38c32d68",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 10
+        },
+        "fills": 8,
+        "strokes": 2,
+        "layers": 10,
+        "transforms": 0,
+        "commands": 126,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.6640625,
+          1.6640625,
+          22.3359375,
+          22.3359375
+        ],
+        "padding": [
+          1.6640625,
+          1.6640625,
+          1.6640625,
+          1.6640625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "clock",
+      "path": "references/clock.svg",
+      "sha256": "e0e0ad68464f197e412a82840afec2d2b69e560cfa6dea4be99390e0c4b22d95",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "circle": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 3,
+        "radii": {
+          "r": [
+            "10"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 1,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "closet",
+      "path": "references/closet.svg",
+      "sha256": "0a2a7fa46ae2bfe14fe1c8df4ab877b572d051d3f3762c4d56530e2cc2a6476b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 4
+        },
+        "fills": 0,
+        "strokes": 4,
+        "layers": 4,
+        "transforms": 0,
+        "commands": 14,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.5,
+          2.484375,
+          19.5,
+          21.515625
+        ],
+        "padding": [
+          4.5,
+          2.484375,
+          4.5,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "code",
+      "path": "references/code.svg",
+      "sha256": "69ea10a378bc9803e8659a3b0a7987f9b7432cd47520d927a7a3376922cee927",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.1484375,
+          4.40625,
+          22.8984375,
+          19.78125
+        ],
+        "padding": [
+          1.1484375,
+          4.40625,
+          1.1015625,
+          4.21875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "copy",
+      "path": "references/copy.svg",
+      "sha256": "a5270005f3a077256839b2861a8c5578d08573fc5fb54ca8d6fe82a34b97b329",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 30,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "coworking",
+      "path": "references/coworking.svg",
+      "sha256": "b3878d7db68d28a0044667011a26127d612c2c5530d235a2e33f8e3d313d7a58",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 12
+        },
+        "fills": 1,
+        "strokes": 11,
+        "layers": 12,
+        "transforms": 0,
+        "commands": 78,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          1.5,
+          22.0078125,
+          22.5
+        ],
+        "padding": [
+          1.9921875,
+          1.5,
+          1.9921875,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "cross-brand-2",
+      "path": "references/cross-brand-2.svg",
+      "sha256": "7a8ff9e302c5430fa1122e98655ec18e7d1a9e3f4d7d639462dd4d4b620e7dc6",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "g": 1,
+          "path": 1,
+          "defs": 1,
+          "clipPath": 1,
+          "rect": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.5703125,
+          4.5703125,
+          19.4296875,
+          19.4296875
+        ],
+        "padding": [
+          4.5703125,
+          4.5703125,
+          4.5703125,
+          4.5703125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "cross-brand",
+      "path": "references/cross-brand.svg",
+      "sha256": "7d3233c75598da1684d2ccf83d7d9a290524ac220907f513a80e99e2a390f002",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          1.9921875,
+          22.0078125,
+          22.0078125
+        ],
+        "padding": [
+          1.9921875,
+          1.9921875,
+          1.9921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "data",
+      "path": "references/data.svg",
+      "sha256": "38b8224047365ea91f35aaa06b334423bd9d161177f8502d9a8b973cd0401b83",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3,
+          "ellipse": 1,
+          "line": 2
+        },
+        "fills": 0,
+        "strokes": 6,
+        "layers": 6,
+        "transforms": 0,
+        "commands": 9,
+        "radii": {
+          "r": [],
+          "rx": [
+            "8.72727"
+          ],
+          "ry": [
+            "2.18182"
+          ]
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.2265625,
+          20.953125,
+          21.234375
+        ],
+        "padding": [
+          2.484375,
+          2.2265625,
+          3.046875,
+          2.765625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "desktop",
+      "path": "references/desktop.svg",
+      "sha256": "bab3ac0b914a0577566d6af5ab6819cf6e56252bf9c82c107caf6911f9fe008f",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 14,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          3.4921875,
+          22.0078125,
+          21.0
+        ],
+        "padding": [
+          1.9921875,
+          3.4921875,
+          1.9921875,
+          3.0
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "doc",
+      "path": "references/doc.svg",
+      "sha256": "3b0a773d8b0e334ebbe1760d8fab6994f4a627c20696af5640de3e3a470512ef",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 4
+        },
+        "fills": 0,
+        "strokes": 4,
+        "layers": 4,
+        "transforms": 0,
+        "commands": 19,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 2,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.984375,
+          1.5,
+          20.015625,
+          21.515625
+        ],
+        "padding": [
+          3.984375,
+          1.5,
+          3.984375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "dot",
+      "path": "references/dot.svg",
+      "sha256": "ee8c4087255efb712403d4ea7273b98c9f28b360ca5ea03ad236e7c8ec31de2a",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "circle": 1
+        },
+        "fills": 1,
+        "strokes": 0,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 0,
+        "radii": {
+          "r": [
+            "1.5"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 1,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          10.5,
+          10.5,
+          13.5,
+          13.5
+        ],
+        "padding": [
+          10.5,
+          10.5,
+          10.5,
+          10.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "dots",
+      "path": "references/dots.svg",
+      "sha256": "65a4cf12a149542b952d70fc20b503c9bc19ba8ba2ed501ec04251ed2f1923ea",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 3,
+        "strokes": 0,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 18,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "evenodd"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          6.0,
+          10.9921875,
+          18.0,
+          13.0078125
+        ],
+        "padding": [
+          6.0,
+          10.9921875,
+          6.0,
+          10.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "download",
+      "path": "references/download.svg",
+      "sha256": "06a86b525cfd3ab981fc098127f0df8509b568376d785a0fddcc943509f21b69",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 11,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "edit-01",
+      "path": "references/edit-01.svg",
+      "sha256": "3ca3b6d557f32df807b7f1d652070c251fc8ee469c9673dcec534a86f70dd803",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 23,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.3984375,
+          21.4921875
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.6015625,
+          2.5078125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "edit-02",
+      "path": "references/edit-02.svg",
+      "sha256": "af3324892497d0be6fe68e58b3524bf7021823b1e5824aa90edb4ea998fe02f6",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 9,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          23.5078125,
+          20.5078125
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          0.4921875,
+          3.4921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "error",
+      "path": "references/error.svg",
+      "sha256": "38d924b79e038cab7a4c9966c3711e0d19bc8c7b7a9574dbf5e67b3804a758d5",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "circle": 1,
+          "path": 2
+        },
+        "fills": 1,
+        "strokes": 2,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [
+            "9.5"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 4,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          1.9921875,
+          22.0078125,
+          22.0078125
+        ],
+        "padding": [
+          1.9921875,
+          1.9921875,
+          1.9921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "file",
+      "path": "references/file.svg",
+      "sha256": "02323fb14f516a0300abb02e4eb7c2ed60db8dc441c9b55716727dfe20db92c5",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 4
+        },
+        "fills": 0,
+        "strokes": 4,
+        "layers": 4,
+        "transforms": 0,
+        "commands": 15,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.9921875,
+          2.484375,
+          20.015625,
+          21.515625
+        ],
+        "padding": [
+          4.9921875,
+          2.484375,
+          3.984375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "filter",
+      "path": "references/filter.svg",
+      "sha256": "485910189ebeff1d31956c53a217ff0cebaab9488dcab42895b8710ae5db1eaf",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          4.5,
+          21.515625,
+          19.5
+        ],
+        "padding": [
+          2.484375,
+          4.5,
+          2.484375,
+          4.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "flag",
+      "path": "references/flag.svg",
+      "sha256": "c5e76eb9ba09732053959086912b22bf909fab53b0c334e9e535653b7b913d72",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 7,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 1,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          7.5,
+          2.484375,
+          20.5078125,
+          21.515625
+        ],
+        "padding": [
+          7.5,
+          2.484375,
+          3.4921875,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "fridge",
+      "path": "references/fridge.svg",
+      "sha256": "f3ebe8b5a41e2b5d12a864a21246102869c67ff1a0c63a2c70d82405ef704ec9",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 5
+        },
+        "fills": 0,
+        "strokes": 5,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.5,
+          2.484375,
+          19.5,
+          21.515625
+        ],
+        "padding": [
+          4.5,
+          2.484375,
+          4.5,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "glasses",
+      "path": "references/glasses.svg",
+      "sha256": "bfa3db11c95001031458fcaaeaaedbf67ccdbaf025aa6faf2c8a5e83523ad77b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 5
+        },
+        "fills": 0,
+        "strokes": 5,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 22,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          5.3671875,
+          21.515625,
+          19.875
+        ],
+        "padding": [
+          2.484375,
+          5.3671875,
+          2.484375,
+          4.125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "grow",
+      "path": "references/grow.svg",
+      "sha256": "95188e30e26b7d153f265d335114da3106a7d747f4f0f1a633493b07d7a3f185",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 5,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          3.4921875,
+          22.5,
+          19.5
+        ],
+        "padding": [
+          2.484375,
+          3.4921875,
+          1.5,
+          4.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "heart",
+      "path": "references/heart.svg",
+      "sha256": "71c900e94ec58cb976d4b54b140fd28fc9fe2f70c3a7b80a70bfd5c7153480dc",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 11,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          2.484375,
+          22.5,
+          21.3515625
+        ],
+        "padding": [
+          1.5,
+          2.484375,
+          1.5,
+          2.6484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "hide",
+      "path": "references/hide.svg",
+      "sha256": "c82c6845df115d828b939584dcdcaddc8f9ae8ab27baec4c1993e309283a1475",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 10,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "home",
+      "path": "references/home.svg",
+      "sha256": "8e8d8d293b4f88c1d8ea155b9bc96b17b797720627e0a9dff8ae70601e41c03f",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "rect": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 7,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.328125,
+          2.1796875,
+          20.671875,
+          22.1015625
+        ],
+        "padding": [
+          3.328125,
+          2.1796875,
+          3.328125,
+          1.8984375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "info",
+      "path": "references/info.svg",
+      "sha256": "22271c619e12821bac5783ceec0c05a4ccfff0dc0b1007f87159145198782d05",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2,
+          "circle": 1
+        },
+        "fills": 1,
+        "strokes": 2,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [
+            "9.5"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          1.9921875,
+          22.0078125,
+          22.0078125
+        ],
+        "padding": [
+          1.9921875,
+          1.9921875,
+          1.9921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "iron",
+      "path": "references/iron.svg",
+      "sha256": "809ad980e412b927cd226f89bf6f2e8c00ef65fd96d94000e71d860359a11383",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 11,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          4.5,
+          22.265625,
+          19.5
+        ],
+        "padding": [
+          2.484375,
+          4.5,
+          1.734375,
+          4.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "kitchen",
+      "path": "references/kitchen.svg",
+      "sha256": "4bf84ebb717b675c1dacc4c636527dac72e660d3650ab71e1f1239fb6e253e5e",
+      "facts": {},
+      "issues": [
+        {
+          "level": "Error",
+          "code": "element",
+          "message": "Unsupported element mask"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute mask"
+        },
+        {
+          "level": "Error",
+          "code": "external-ref",
+          "message": "Only internal references allowed in mask"
+        }
+      ]
+    },
+    {
+      "id": "laundry",
+      "path": "references/laundry.svg",
+      "sha256": "5f9ab7ec6e2bc0bffd3ff2b768b038302ba458f591b50bb5ff42987b3992a0f1",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2,
+          "circle": 3
+        },
+        "fills": 2,
+        "strokes": 3,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 10,
+        "radii": {
+          "r": [
+            "0.5",
+            "6"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          2.484375,
+          20.5078125,
+          21.515625
+        ],
+        "padding": [
+          3.4921875,
+          2.484375,
+          3.4921875,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "loading",
+      "path": "references/loading.svg",
+      "sha256": "cbf6904789a4c87b8834c8d5fb7f6c735bad6550111941441c3703c8b2434f25",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 9,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          1.9921875,
+          22.0078125,
+          22.0078125
+        ],
+        "padding": [
+          1.9921875,
+          1.9921875,
+          1.9921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "log-out-03",
+      "path": "references/log-out-03.svg",
+      "sha256": "7fac7aaf9d699bd73145d9395f36c9f864d39d5866d75988c2840a6bfb02f95c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 21,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.8828125,
+          21.515625,
+          21.1171875
+        ],
+        "padding": [
+          2.484375,
+          2.8828125,
+          2.484375,
+          2.8828125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "marker-pin-01",
+      "path": "references/marker-pin-01.svg",
+      "sha256": "9fc5a7bd849541fd440070d90b06596790fcca4692b801eda569c2713deaa381",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          1.5,
+          20.5078125,
+          22.5
+        ],
+        "padding": [
+          3.4921875,
+          1.5,
+          3.4921875,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "marker-pin-04",
+      "path": "references/marker-pin-04.svg",
+      "sha256": "14e03a64bb50f19343306fd038038900238a150424c4c688157e9426b867699e",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 17,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "marketeq-wallet-money",
+      "path": "references/marketeq-wallet-money.svg",
+      "sha256": "e01e2a4b552bc90820ec4b688d9bb5754a24e7be808be63422a9259c6438bd02",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 32,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.3671875,
+          2.3671875,
+          22.5,
+          21.6328125
+        ],
+        "padding": [
+          2.3671875,
+          2.3671875,
+          1.5,
+          2.3671875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "math",
+      "path": "references/math.svg",
+      "sha256": "508f166b0b291f3e5d8f9e3419a3f6dd8a8d7a2f5f396bd1b1f5310ee4b5b498",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 4
+        },
+        "fills": 0,
+        "strokes": 4,
+        "layers": 4,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.765625,
+          2.765625,
+          21.234375,
+          21.234375
+        ],
+        "padding": [
+          2.765625,
+          2.765625,
+          2.765625,
+          2.765625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "medical",
+      "path": "references/medical.svg",
+      "sha256": "638303ed1645d953a61693553aa4e6285fb47d4c8baf9049a4ee3381b9824f69",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 16,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "menu",
+      "path": "references/menu.svg",
+      "sha256": "13e38bc7870af60d4bc2ebf8870454625f9f3f03a354994566a3e600462d36a6",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 4,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          7.5,
+          21.515625,
+          16.5
+        ],
+        "padding": [
+          2.484375,
+          7.5,
+          2.484375,
+          7.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "message",
+      "path": "references/message.svg",
+      "sha256": "6d2ef78b48c179dd65366465668b7760cdd83616495368745bfa906d0bada402",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 3,
+        "strokes": 0,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 39,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [],
+        "caps": [],
+        "joins": [],
+        "miters": [],
+        "fill_rules": [
+          "evenodd"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          3.4921875,
+          20.5078125,
+          20.5078125
+        ],
+        "padding": [
+          2.484375,
+          3.4921875,
+          3.4921875,
+          3.4921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "microwave",
+      "path": "references/microwave.svg",
+      "sha256": "d6bd5fd6d163227767732b0337cc1d259f57b6d9de7a23ce75e80b7ebbb1f150",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 2,
+        "strokes": 1,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 32,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.1953125,
+          4.1953125,
+          22.8046875,
+          19.8046875
+        ],
+        "padding": [
+          1.1953125,
+          4.1953125,
+          1.1953125,
+          4.1953125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "minus-round",
+      "path": "references/minus-round.svg",
+      "sha256": "cdfb1890e156937204e2a4f37fc83e8e844b1658aa6fabd77b6c165fb9b28222",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "g": 1,
+          "path": 1,
+          "circle": 1,
+          "defs": 1,
+          "clipPath": 1,
+          "rect": 1
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 2,
+        "radii": {
+          "r": [
+            "11"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.4921875,
+          0.4921875,
+          23.5078125,
+          23.5078125
+        ],
+        "padding": [
+          0.4921875,
+          0.4921875,
+          0.4921875,
+          0.4921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "minus",
+      "path": "references/minus.svg",
+      "sha256": "3507758c78aaf46718625f46c3d9da5d1d10b553b415c1790fffe547436f87e6",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 2,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          11.484375,
+          20.5078125,
+          12.515625
+        ],
+        "padding": [
+          3.4921875,
+          11.484375,
+          3.4921875,
+          11.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "mode",
+      "path": "references/mode.svg",
+      "sha256": "976827bce06b23087c768c7c3d054149615305e54859b71d18d73cd6bc805899",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 1,
+        "strokes": 2,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 19,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "moon-02-lined",
+      "path": "references/moon-02-lined.svg",
+      "sha256": "14f96259472d89f58c157538ad1fd3b6cc64ec9da33ecff205b7fbd9da35cf6a",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "museum",
+      "path": "references/museum.svg",
+      "sha256": "3303b3a207f2f6c708bd9b03c918cdc1d779da211910bb30ad4e801b2b3c2eb2",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "g": 1,
+          "path": 8,
+          "defs": 1,
+          "clipPath": 1,
+          "rect": 1
+        },
+        "fills": 0,
+        "strokes": 8,
+        "layers": 8,
+        "transforms": 0,
+        "commands": 22,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0,
+          10.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          2.484375,
+          22.5,
+          21.0
+        ],
+        "padding": [
+          1.5,
+          2.484375,
+          1.5,
+          3.0
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "pin",
+      "path": "references/pin.svg",
+      "sha256": "de650388dc0e69565543a51e78e581856de0201f57e58e251e9c91e644a6c53b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 13,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          2.484375,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          2.484375,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "plates",
+      "path": "references/plates.svg",
+      "sha256": "a323fc442075b4656dc2084e6d24bc72ec5444c443a9e5b3406dbae229f40d1a",
+      "facts": {},
+      "issues": [
+        {
+          "level": "Error",
+          "code": "element",
+          "message": "Unsupported element mask"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute style"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute maskUnits"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute mask"
+        },
+        {
+          "level": "Error",
+          "code": "external-ref",
+          "message": "Only internal references allowed in mask"
+        }
+      ]
+    },
+    {
+      "id": "play-circle",
+      "path": "references/play-circle.svg",
+      "sha256": "9aa012bc748166cb2bdb2d7b702b659b327240dd3732d0174062d8fdbb632df4",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 20,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "play-square-lined",
+      "path": "references/play-square-lined.svg",
+      "sha256": "c9b7d13b368221bf0806758a13eeb8341fb5c51eb6b00729600e45fc156e5aa9",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 32,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "profile",
+      "path": "references/profile.svg",
+      "sha256": "c7530df818e853a301586a27528c4fd887b8b31b30ccac55aed018fda4c9b586",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 14,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.171875,
+          3.234375,
+          19.828125,
+          20.765625
+        ],
+        "padding": [
+          4.171875,
+          3.234375,
+          4.171875,
+          3.234375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "reward",
+      "path": "references/reward.svg",
+      "sha256": "f7ef386240887039fdc31133c0602e88243ea9e13bbab65423635d415cb032bc",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "circle": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 19,
+        "radii": {
+          "r": [
+            "8.5"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.234375,
+          1.1484375,
+          21.2578125,
+          23.015625
+        ],
+        "padding": [
+          3.234375,
+          1.1484375,
+          2.7421875,
+          0.984375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "rocket",
+      "path": "references/rocket.svg",
+      "sha256": "03b6f048a994114f4bc21d11b1e45bb0c84c7f70b64ea0418444668fbc28aa66",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 5
+        },
+        "fills": 0,
+        "strokes": 5,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 31,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.609375,
+          1.921875,
+          20.390625,
+          21.9375
+        ],
+        "padding": [
+          3.609375,
+          1.921875,
+          3.609375,
+          2.0625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "sale",
+      "path": "references/sale.svg",
+      "sha256": "3c12178b1ad6d68d9b4f65539c31513d99b6050f42ee3a9639c1c6fc887d3bfe",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 24,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "search",
+      "path": "references/search.svg",
+      "sha256": "1682b5572fa254d476bd78faea380b970b0c611281f88321939c5ec19f861d3a",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 8,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          2.484375,
+          20.859375,
+          20.859375
+        ],
+        "padding": [
+          2.484375,
+          2.484375,
+          3.140625,
+          3.140625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "shield",
+      "path": "references/shield.svg",
+      "sha256": "bc6a53b74991dacc7fa73510c66ce27e016f0b38bf7a85845a02d0a503f11411",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 12,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          2.484375,
+          20.5078125,
+          22.0078125
+        ],
+        "padding": [
+          3.4921875,
+          2.484375,
+          3.4921875,
+          1.9921875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "shine",
+      "path": "references/shine.svg",
+      "sha256": "5115c22d04321ef4c1ac46eaac8e4392ad700561df83e0f1a880d743451f804b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 28,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.2265625,
+          2.2265625,
+          21.7734375,
+          21.7734375
+        ],
+        "padding": [
+          2.2265625,
+          2.2265625,
+          2.2265625,
+          2.2265625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "show",
+      "path": "references/show.svg",
+      "sha256": "e60d3b4d5cfc39adc33c338ea2ea33637dd96e31a14aa18143c52c4e52b74319",
+      "facts": {},
+      "issues": [
+        {
+          "level": "Error",
+          "code": "element",
+          "message": "Unsupported element mask"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute style"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute maskUnits"
+        },
+        {
+          "level": "Error",
+          "code": "attribute",
+          "message": "Unsupported attribute mask"
+        },
+        {
+          "level": "Error",
+          "code": "external-ref",
+          "message": "Only internal references allowed in mask"
+        }
+      ]
+    },
+    {
+      "id": "shower",
+      "path": "references/shower.svg",
+      "sha256": "fca361f143bd6dd3fe1cf4ad876322425ace17d8eb1920ff2ad85e0cb7977609",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 31,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          1.5,
+          21.515625,
+          21.515625
+        ],
+        "padding": [
+          2.484375,
+          1.5,
+          2.484375,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "steam",
+      "path": "references/steam.svg",
+      "sha256": "5ca4106546280ea6406a338e815691f5debfbd346f5bee6c7ffb82b085a411ff",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 5
+        },
+        "fills": 0,
+        "strokes": 5,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 24,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.3671875,
+          2.859375,
+          21.6328125,
+          21.140625
+        ],
+        "padding": [
+          2.3671875,
+          2.859375,
+          2.3671875,
+          2.859375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "success",
+      "path": "references/success.svg",
+      "sha256": "701c7668ed34a594ce2c50cbcae18b2e3834238ea3f1c49c00e48ee2d3163481",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1,
+          "circle": 1
+        },
+        "fills": 0,
+        "strokes": 2,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 3,
+        "radii": {
+          "r": [
+            "10"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 1,
+        "stroke_widths": [
+          0.909091,
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.546875,
+          1.546875,
+          22.453125,
+          22.453125
+        ],
+        "padding": [
+          1.546875,
+          1.546875,
+          1.546875,
+          1.546875
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "sun-lined",
+      "path": "references/sun-lined.svg",
+      "sha256": "5d1d1af6c577c4e4582dacfd00c30c5b7925cad4a1af064cd883dc575a9b51ab",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 22,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          1.5,
+          22.5,
+          22.5
+        ],
+        "padding": [
+          1.5,
+          1.5,
+          1.5,
+          1.5
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "teacher",
+      "path": "references/teacher.svg",
+      "sha256": "f564b53543aa96d85ca6ddcff7354a17e64f7643cf6c98f66c26c25421fb1af0",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 3
+        },
+        "fills": 0,
+        "strokes": 3,
+        "layers": 3,
+        "transforms": 0,
+        "commands": 21,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.9921875,
+          2.484375,
+          22.0078125,
+          21.6796875
+        ],
+        "padding": [
+          1.9921875,
+          2.484375,
+          1.9921875,
+          2.3203125
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "trash",
+      "path": "references/trash.svg",
+      "sha256": "1ebad5027fc69eab0c8a3439b843930cbff12348d7065ffea9eea60d4557d5fb",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 14,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          3.4921875,
+          2.484375,
+          20.5078125,
+          21.515625
+        ],
+        "padding": [
+          3.4921875,
+          2.484375,
+          3.4921875,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "trophy",
+      "path": "references/trophy.svg",
+      "sha256": "2fe65e373c7db5e553b9eeeb400eff57ef2d74011573cf9fad056b7008f6989e",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 21,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          1.5,
+          2.484375,
+          22.5,
+          21.515625
+        ],
+        "padding": [
+          1.5,
+          2.484375,
+          1.5,
+          2.484375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "users-plus",
+      "path": "references/users-plus.svg",
+      "sha256": "e2ee71215ff4e29927227091bbf78610f9f963729f9c51796dc7dad112131ce2",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 4
+        },
+        "fills": 1,
+        "strokes": 3,
+        "layers": 4,
+        "transforms": 0,
+        "commands": 26,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt",
+          "square"
+        ],
+        "joins": [
+          "miter",
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.984375,
+          3.234375,
+          21.7734375,
+          20.015625
+        ],
+        "padding": [
+          0.984375,
+          3.234375,
+          2.2265625,
+          3.984375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "users",
+      "path": "references/users.svg",
+      "sha256": "c576ae82118387e59606f4a09b250a4979980598923de8983de8dc65ad43317b",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 2
+        },
+        "fills": 1,
+        "strokes": 1,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 38,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.984375,
+          3.234375,
+          23.1328125,
+          20.765625
+        ],
+        "padding": [
+          0.984375,
+          3.234375,
+          0.8671875,
+          3.234375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "walk",
+      "path": "references/walk.svg",
+      "sha256": "c29ae3c7523c16cf64c001b3b8e6a4923b3b9acfddff1f9288ac0c4d12206087",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 5
+        },
+        "fills": 0,
+        "strokes": 5,
+        "layers": 5,
+        "transforms": 0,
+        "commands": 21,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          4.5,
+          21.515625,
+          20.015625
+        ],
+        "padding": [
+          2.484375,
+          4.5,
+          2.484375,
+          3.984375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "way",
+      "path": "references/way.svg",
+      "sha256": "0775152bf0ace9d6f049a0dc942a6835ee6072e589858137b94bffb172453126",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 19,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "butt"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          2.484375,
+          3.4921875,
+          21.46875,
+          21.375
+        ],
+        "padding": [
+          2.484375,
+          3.4921875,
+          2.53125,
+          2.625
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "wifi",
+      "path": "references/wifi.svg",
+      "sha256": "2c96f7daf7443de0ed05ff736eb0160cfd7f4b96c94134c61548a5d294b4ec54",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1,
+          "circle": 1
+        },
+        "fills": 1,
+        "strokes": 1,
+        "layers": 2,
+        "transforms": 0,
+        "commands": 9,
+        "radii": {
+          "r": [
+            "0.75"
+          ],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 5,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "round"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [
+          "nonzero"
+        ],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          0.6796875,
+          3.984375,
+          23.3203125,
+          20.015625
+        ],
+        "padding": [
+          0.6796875,
+          3.984375,
+          0.6796875,
+          3.984375
+        ]
+      },
+      "issues": []
+    },
+    {
+      "id": "x-close",
+      "path": "references/x-close.svg",
+      "sha256": "5452324f3f2556484ab13a4bf3c48969d3b10aa5e4eb9880c3df42ccb698627c",
+      "facts": {
+        "viewbox": [
+          0.0,
+          0.0,
+          24.0,
+          24.0
+        ],
+        "canvas": [
+          "24",
+          "24"
+        ],
+        "elements": {
+          "svg": 1,
+          "path": 1
+        },
+        "fills": 0,
+        "strokes": 1,
+        "layers": 1,
+        "transforms": 0,
+        "commands": 4,
+        "radii": {
+          "r": [],
+          "rx": [],
+          "ry": []
+        },
+        "coordinate_precision": 0,
+        "stroke_widths": [
+          1.0
+        ],
+        "caps": [
+          "round"
+        ],
+        "joins": [
+          "miter"
+        ],
+        "miters": [
+          4.0
+        ],
+        "fill_rules": [],
+        "colors": [
+          "white"
+        ],
+        "opacities": [
+          1.0
+        ],
+        "bounds": [
+          4.5,
+          4.5,
+          19.5,
+          19.5
+        ],
+        "padding": [
+          4.5,
+          4.5,
+          4.5,
+          4.5
+        ]
+      },
+      "issues": []
+    }
+  ],
+  "technical_clusters": {
+    "arrow-left,arrow-link,arrow-right,chat,check,copy,download,edit-01,edit-02,filter,flag,grow,heart,hide,iron,log-out-03,marker-pin-01,marker-pin-04,medical,minus,moon-02-lined,pin,play-circle,play-square-lined,sale,sun-lined,trash,trophy,walk": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "award,desktop,shine": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "bed,bell,chervon-down,chervon-up,code,loading,math,menu,steam,x-close": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "bio,users": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-academic-lined,brand-chart-lined,brand-doc-lined,brand-message-lined,brand-shield-lined,brand-smile-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-award1-lined,brand-device-desktop-lined,brand-shine-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-biotech-lined,brand-chip-lined,brand-question-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-briefcase-lined,brand-home-lined,brand-molecule-lined,brand-network-lined,brand-rocket-lined,brand-way-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-code-lined,brand-glasses-lined,brand-math-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "brand-users2-lined": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "black"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "calendar": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "cap-academic,marketeq-wallet-money,reward,shield,teacher": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "case,cross-brand-2,cross-brand,data,home,profile,rocket,search,way": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "chair,clock,closet,doc,file,fridge,glasses,shower": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "chip": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "coworking,microwave,mode,wifi": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "dot": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "dots,message": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "evenodd"
+      ],
+      "geometry": "filled",
+      "joins": [],
+      "miters": [],
+      "stroke_widths": [],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "error,info": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "laundry": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "minus-round": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "museum": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter"
+      ],
+      "miters": [
+        4.0,
+        10.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "success": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "round"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [],
+      "geometry": "outline",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        0.909091,
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    },
+    "users-plus": {
+      "canvas": [
+        "24",
+        "24"
+      ],
+      "caps": [
+        "butt",
+        "square"
+      ],
+      "colors": [
+        "white"
+      ],
+      "fill_rules": [
+        "nonzero"
+      ],
+      "geometry": "mixed",
+      "joins": [
+        "miter",
+        "round"
+      ],
+      "miters": [
+        4.0
+      ],
+      "stroke_widths": [
+        1.0
+      ],
+      "viewbox": [
+        0.0,
+        0.0,
+        24.0,
+        24.0
+      ]
+    }
+  },
+  "style_conflicts": true,
+  "visual_observations": "Pending inspection of rendered references"
+}

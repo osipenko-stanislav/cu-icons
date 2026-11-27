@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M15 4V2M15 16V14M8 9H10M20 9H22M17.8 11.8L19 13M17.8 6.2L19 5M3 21L12 12M12.2 6.2L11 5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><path d="M15 4V2" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M15 16V14" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="0" />
+<path d="M8 9H10" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="1" />
+<path d="M20 9H22" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="2" />
+<path d="M17.8 11.8L19 13" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="3" />
+<path d="M17.8 6.2L19 5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="4" />
+<path d="M3 21L12 12" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="5" />
+<path d="M12.2 6.2L11 5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="6" />
+</g></svg>

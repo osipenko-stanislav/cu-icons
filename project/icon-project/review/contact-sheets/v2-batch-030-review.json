@@ -1,0 +1,63 @@
+{
+  "png_sha256": "e9319e8a0165ab1c2c9adb6d331b029d7580de433896ba9a9b9071a2c3213a92",
+  "icons": {
+    "sun-setting-01-lined": "9f589610e9cd8f95132f5566403bc1cb7428a112c8ac2fdb18dfbb0c6f0ba88d",
+    "sun-setting-02-lined": "76471dfb51019e10bb2f51e78c98f0a8b1b4fb883e036a32b7e30eab0eab378d",
+    "sun-setting-03-lined": "cd084609fcc4515463f50fc57a8fcb4f8bafd3f365a591590a06b36df306946c",
+    "sunrise-lined": "9e215a46ef36fad63f72f258090db779d650dc7fe747db7b9025d647952bf0c8",
+    "sunset-lined": "5cb0a6225fd9392e098cca7bb32e7908d5fdc0b15a412255acdda154e654c770",
+    "switch-horizontal-01-lined": "6b5c86bb2db1ea5a62e96fb5006e713487859ebc0b4fd7c3f93ecae8ba9636b4",
+    "switch-horizontal-02-lined": "f82ea6915d2ce3795bb2fe37f7cf51a44f23d3bfaf55fe20d5e2f32483c57929",
+    "switch-vertical-01-lined": "be591e2eb7221394ab73536643caaed0b6bd52d54191c3237e3909ce5dbb22e9",
+    "switch-vertical-02-lined": "0fa20484c2a5c91b564d0d552234a4143e675ed9547158215116778c9b5e653d",
+    "table-lined": "cadb767f9ea341fbeb3ae9b2f3319bc40aefa4bc60ef1c4657e3edccfcbc6b60",
+    "tablet-01-lined": "6f055200bb50cb9551029ce36ae33662c65fa31af20cc61df4792d0c9b35bc48",
+    "tablet-02-lined": "ebcf661ca4577a3e6bec44ebd707a2cd85f81addbca71e087990d57e01a2fd70",
+    "tag-01-lined": "c115487135de723fbd82f8ab300c8a3409569b6db63a09ae5e1c2a8ecc0afd46",
+    "tag-02-lined": "b402f47f041b31cce11d4dfe0e86bed22432e582265de80c42df4f90096114d3",
+    "tag-03-lined": "daa6b89813f384e04296401735fddc83790584cdb0a4c5e34596e99a28a666b4",
+    "target-01-lined": "26e222828e06c9a12f26538bb2d90545137587cd4d7156e8ca94d54c43e19fba",
+    "target-02-lined": "b9660aeed975bb43f41e2dab2674308ac17811c319f8a3aac0797bc0fcef4780",
+    "target-03-lined": "a0063b65b983faa48e26e16ebc96c613202b73195240ad3b67efa6c1b3e369dd",
+    "target-04-lined": "20d2abd5ffbbf87a3b088802f2991cf13feddaf0f49ad37a6bd47eaa476e0453",
+    "target-05-lined": "901da4d5864b68679821bcc34a78ae28f132d87fb957c908010610ba0a3b495e",
+    "telescope-lined": "01e81f140fb9cae7b83dbe547f199b27dced4a953aa9273e9cc6615a09f25c1a",
+    "terminal-browser-lined": "cbd8ce293ff109a45d0a5b2b767d20d8dd4b87fe157f0ac45e04ce88d597b79a",
+    "terminal-circle-lined": "cfa33b61ffabb1918ef475109566c8aa9fc7a33c3866fddbeea636f57f432f55",
+    "terminal-lined": "c4373fa1bd4c9df548eace0c0f67ab3018779d0663ba65e951b9f3a20bb506b5",
+    "terminal-square-lined": "d8c0788985abc955b21469220bc71bc261f8cf3706c22383c4613b301804b341",
+    "text-input-lined": "0e59c38c643fc9f8aa42cce0d26098fb6f580a2be1e8da64f13eef85cc6f3ce7",
+    "thermometer-01-lined": "e6623b8adf00a1100e035302d01277575d46f2fe2e0cb74f8bd02e768496fbfc",
+    "thermometer-02-lined": "31c35ab989d227a7b7fb379d69d95f27c1463ff9b066614cb4f4079437646d10",
+    "thermometer-03-lined": "2e1379c2751d191ab782581b501d361fc5b2dc0fb2407dcf8c48c16e15212ed9",
+    "thermometer-cold-lined": "241f0c2cd4b77dd55264186dfb4d62389ae825c76eb3291dc4209fae78e89601",
+    "thermometer-warm-lined": "30ed93bdd51c727e53b1d7a92c98b3b9d69ecdba13e9646fadae455994788245",
+    "thumbs-down-lined": "2c92f50eb368e34bd6cab8493ec8364b51e0cc16a139e26e7ff0b6403e40d4b6",
+    "thumbs-up-lined": "f7d6aa5c8e73f0c3f298ee9b10750df1a9036909bc54182be4c0d6b69fc5f56b",
+    "ticket-01-lined": "6cb9f4ed3e90ad93a110df860d9264787768a3dbe669a45dc4c5391a2a45bb10",
+    "ticket-02-lined": "7ba3cad943b5757385799271ef1bbae6b9c5d953b50ebb8712b9d63d2ccc0543"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pause-circle-lined",
+    "target": "play-circle-lined",
+    "description": "Three continuous curve chains map to two pause bars. Fixed frame; original rounded play outline retained; no opacity tracks.",
+    "status": "agent-reviewed-user-review-pending"
+  },
+  {
+    "id": "pause-square-lined",
+    "target": "play-square-lined",
+    "description": "Three continuous curve chains map to two pause bars. Fixed frame; original rounded play outline retained; no opacity tracks.",
+    "status": "agent-reviewed-user-review-pending"
+  },
+  {
+    "id": "play-circle-lined",
+    "target": "pause-circle-lined",
+    "description": "Three continuous curve chains map to two pause bars. Fixed frame; original rounded play outline retained; no opacity tracks.",
+    "status": "agent-reviewed-user-review-pending"
+  },
+  {
+    "id": "play-lined",
+    "target": "pause-lined",
+    "description": "Three continuous curve chains map to two pause bars. Fixed frame; original rounded play outline retained; no opacity tracks.",
+    "status": "agent-reviewed-user-review-pending"
+  },
+  {
+    "id": "play-square-lined",
+    "target": "pause-square-lined",
+    "description": "Three continuous curve chains map to two pause bars. Fixed frame; original rounded play outline retained; no opacity tracks.",
+    "status": "agent-reviewed-user-review-pending"
+  }
+]

@@ -1,0 +1,222 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Анимации · основной набор</title>
+<style>
+:root{color-scheme:light dark}*{box-sizing:border-box}body{margin:0;font:15px system-ui;background:Canvas;color:CanvasText}body[data-theme=light]{color-scheme:light}body[data-theme=dark]{color-scheme:dark}main{max-width:1120px;margin:auto;padding:40px 24px}
+h1{font-size:26px;margin:0 0 22px}.toolbar,.actions{display:flex;align-items:center;flex-wrap:wrap;gap:8px}.toolbar input{flex:1 1 220px;min-width:0}.control,select,input,textarea{font:inherit;color:inherit;background:transparent;border:1px solid color-mix(in srgb,currentColor 24%,transparent);border-radius:7px;padding:8px 11px}button,a{cursor:pointer}a{color:inherit}.control{text-decoration:none;display:inline-flex;align-items:center;justify-content:center}.control[disabled]{opacity:.45;cursor:default}
+#grid{margin-top:22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,178px),1fr));gap:12px}article{content-visibility:auto;contain-intrinsic-size:auto 250px;min-width:0;border:1px solid color-mix(in srgb,currentColor 21%,transparent);border-radius:9px;padding:12px}h2{font-size:14px;margin:0;min-height:40px}.preview{width:100%;height:86px;color:inherit;background:none;border:none;display:grid;place-items:center}.preview svg{width:var(--icon-size,48px);height:var(--icon-size,48px);overflow:visible}.preview svg :is(path,circle,ellipse,rect,line,polyline,polygon){vector-effect:non-scaling-stroke;stroke-width:var(--icon-stroke,1px)}.trigger{width:100%;font-size:12px;opacity:.7;margin:5px 0 10px}.actions .control{padding:5px}.actions svg{width:18px;height:18px}.marked{outline:1px solid currentColor}
+details{font-size:13px;margin-top:10px}summary{cursor:pointer}pre{white-space:pre-wrap;overflow-wrap:anywhere}dialog{width:min(410px,calc(100% - 24px));background:Canvas;color:CanvasText;border:1px solid color-mix(in srgb,currentColor 25%,transparent);border-radius:9px;padding:18px}dialog::backdrop{background:#0006}textarea{width:100%;margin:8px 0 12px}#status:empty{display:none}[hidden]{display:none!important}
+.samples{display:flex;gap:12px;align-items:flex-start;margin:4px 0 10px}.samples figure{margin:0;min-width:0;flex:1;font-size:12px}.samples svg{display:block;width:24px;height:24px;margin:0 0 4px}.samples figcaption{overflow-wrap:anywhere}.settings{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}.export-name{overflow-wrap:anywhere;font-size:12px;margin:0;opacity:.7}.settings label{display:flex;align-items:center;gap:6px}</style></head><body><main>
+<h1>Анимации · основной набор</h1><p>Архивные альтернативы исключены из просмотра и скачивания. Способ запуска можно изменить для каждой иконки.</p>
+<p><a href="https://github.com/osipenko-stanislav/cu-icons">Исходники на GitHub</a> · <a href="downloads/cu-icons-balanced-1x.zip" download>Готовый пак · Balanced 1×</a></p><div class="toolbar">
+<select id="theme" aria-label="Тема"><option value="system">Системная тема</option><option value="light">Светлая тема</option><option value="dark">Тёмная тема</option></select>
+<input id="search" type="search" aria-label="Поиск по названию" placeholder="Поиск по названию">
+<button class="control" id="copy" disabled>Скопировать правки</button>
+<a class="control" id="pack" href="exports/balanced-1/pack.zip" download="cu-iconizer-balanced-1x.zip">Скачать пак</a>
+</div>
+<div class="settings"><label>Тип анимации <select id="motion-type"><option>Smooth</option><option selected>Balanced</option><option>Expressive</option></select></label>
+<label>Скорость <select id="speed"><option value="0.75">0,75×</option><option value="1" selected>1×</option><option value="1.25">1,25×</option><option value="1.5">1,5×</option></select></label>
+<label>Префикс <input id="prefix" type="text" maxlength="24" size="8" placeholder="cu-"></label>
+<label>Суффикс <input id="suffix" type="text" maxlength="24" size="8" placeholder="-line"></label>
+</div>
+<div class="settings"><label>Обводка <input id="stroke-width" type="range" min="0.5" max="3" step="0.25" value="1" aria-label="Толщина обводки"><output id="stroke-value" for="stroke-width">1 px</output></label></div>
+<div class="settings"><label>Размер <select id="icon-size"><option>16</option><option>24</option><option>32</option><option selected>48</option></select></label><label>Семейство <select id="family"><option value="">Все</option></select></label><span id="count"></span></div><p id="status" role="status"></p>
+<div id="grid"></div><p id="empty" hidden>Иконки не найдены.</p>
+<dialog id="dialog" aria-labelledby="feedback-title">
+<h2 id="feedback-title"></h2><label for="feedback">Что поправить?</label>
+<textarea id="feedback" rows="4" maxlength="2000"></textarea>
+<div class="actions"><button class="control" id="save">Сохранить</button><button class="control" id="remove">Удалить правку</button><button class="control" id="close">Закрыть</button></div>
+</dialog>
+</main><script src="static-export.js"></script><script src="player.js"></script><script type="module">
+
+const config = await (await fetch('scenes.json')).json();window.referenceSeriesConfig=config;window.seriesControllers=[];
+(async()=>{
+const $ = id => document.getElementById(id);
+const svgs = {
+ chat:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M20 11.5a8 8 0 0 1-8 8H5l1.3-3A8 8 0 1 1 20 11.5Z"/></svg>',
+ download:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m-4-4 4 4 4-4M4 16v4h16v-4"/></svg>'
+};
+$('motion-type').value=config.defaultPreset;
+const triggerKey='cu-iconizer-triggers:'+config.project;
+let triggerOverrides={};
+try{triggerOverrides=JSON.parse(localStorage.getItem(triggerKey)||'{}')}catch{}
+try{const response=await fetch('/api/triggers?collection=reference-series');if(response.ok)triggerOverrides=await response.json()}catch{}
+const validModes=['reference','hover','click-replay','hover-click'];
+for(const scene of config.scenes)if(validModes.includes(triggerOverrides[scene.id]))scene.trigger=triggerOverrides[scene.id];
+const notes = new Map();
+const key='cu-iconizer-final-check-v1:'+config.project, cards=[];
+let active, opener;
+const strokeKey='cu-iconizer-stroke:'+config.project;
+try{const saved=Number(localStorage.getItem(strokeKey));if(saved>=.5&&saved<=3)$('stroke-width').value=saved}catch{}
+function updateStroke(){const width=Number($('stroke-width').value);document.body.style.setProperty('--icon-stroke',width+'px');$('stroke-value').textContent=width+' px';try{localStorage.setItem(strokeKey,String(width))}catch{};updateDownloads()}
+const selectedSettings=()=>({preset:$('motion-type').value,speed:Number($('speed').value),strokeWidth:Number($('stroke-width').value)});
+$('stroke-width').oninput=updateStroke;
+function playbackPreset() {
+  const {preset,speed}=selectedSettings(), base=config.presets[preset];
+  return {...base,duration:base.duration/speed};
+}
+async function downloadSelection(event,icon,link){
+  event.preventDefault();const {preset,speed,strokeWidth}=selectedSettings();
+  try{const response=await fetch('/api/export',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({preset,speed,strokeWidth,icon,collection:config.collection||'series',prefix:$('prefix').value,suffix:$('suffix').value,overrides:triggerOverrides})});if(!response.ok)throw Error();const blob=await response.blob(),url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=link.download;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(url),1000);$('status').textContent='Пак скачан с выбранными способами запуска.'}
+  catch{$('status').textContent='Не удалось собрать пак. Обновите страницу и повторите.'}
+}
+$('pack').onclick=event=>downloadSelection(event,'pack',$('pack'));
+function updateDownloads() {
+  const {preset,speed}=selectedSettings(), suffix=preset.toLowerCase()+'-'+speed;
+  const prefix=$('prefix').value, ending=$('suffix').value;
+  const query='?'+new URLSearchParams({prefix,suffix:ending,stroke:selectedSettings().strokeWidth});
+  $('pack').href='exports/'+suffix+'/pack.zip'+query;
+  $('pack').download='cu-iconizer-'+suffix+'x.zip';
+  for(const {scene,download,exportName} of cards) {
+    const name=prefix+scene.id+ending;
+    download.href='exports/'+suffix+'/'+scene.id+'.zip'+query;
+    download.download=name+'-'+suffix+'x.zip';
+    exportName.textContent=name+'.svg';
+    exportName.hidden=!(prefix||ending);
+  }
+}
+$('motion-type').onchange=$('speed').onchange=()=>{updateDownloads();for(const c of window.seriesControllers)c.updateSpeed?.()};
+for(const id of ['prefix','suffix']) {
+  $(id).oninput=event=>{
+    const field=event.currentTarget;
+    const clean=field.value.replace(/[^a-z0-9_-]/gi,'');
+    if(clean!==field.value) {
+      field.value=clean;
+      $('status').textContent='Для имён подходят латинские буквы, цифры, дефис и подчёркивание.';
+    }
+    updateDownloads();
+  };
+}
+try {
+  for (const item of JSON.parse(localStorage.getItem(key)||'[]')) {
+    if(config.scenes.some(s=>s.id===item.icon)&&typeof item.comment==='string') notes.set(item.icon,{comment:item.comment,preset:item.preset||config.defaultPreset,speed:item.speed||1});
+  }
+} catch {}
+function refresh() {
+  $('copy').disabled=!notes.size;
+  for(const {scene,feedback} of cards) feedback.classList.toggle('marked',notes.has(scene.id));
+}
+function action(node,text,art) {
+  node.className='control';node.setAttribute('aria-label',text);node.title=text;node.innerHTML=art;return node;
+}
+const observed=new WeakMap();
+const observer=new IntersectionObserver(entries=>{for(const e of entries){const c=observed.get(e.target);if(e.isIntersecting)c.load();else c.pause()}},{rootMargin:'120px'});
+function mountDeferred(root,parts,scene,preset){
+ let motion=null,visible=false;
+ const load=()=>{visible=true;if(!motion){motion=mountMotion(root,parts,scene,preset);window.seriesControllers.push(motion)}else motion.resume?.();return motion};
+ const pause=()=>{visible=false;motion?.suspend?.()};
+ observed.set(root,{load,pause});observer.observe(root);
+ root.addEventListener('pointerenter',()=>{if(!motion){const m=load();m.ready?.then(()=>{if(root.matches(':hover'))root.dispatchEvent(new Event('pointerenter'))})}});
+ root.addEventListener('click',()=>{if(!motion){const m=load();m.ready?.then(()=>root.click())}});
+ return {setTrigger(value){scene.trigger=value;motion?.setTrigger?.(value)},stop(){motion?.stop?.()},load};
+}
+function triggerDescription(scene){
+ if(scene.trigger!=='reference')return ({hover:'Наведение', 'click-replay':'Клик', 'hover-click':'Наведение или клик'})[scene.trigger]||'Наведение';
+ return ({'hover-replay':'Наведение · проиграть','click-replay':'Клик · проиграть','click-toggle':'Клик · переключить','hover':'Наведение · переход состояния','hover-loop':'Наведение · цикл','loop':'Автоматический цикл'})[scene.tracks[0][7]?.interaction]||'Наведение · проиграть';
+}
+for(const scene of config.scenes) {
+  const card=document.createElement('article');
+  const heading=document.createElement('h2');heading.textContent=scene.label;
+  const exportName=document.createElement('p');exportName.className='export-name';exportName.hidden=true;
+  card.append(heading,exportName);
+  let motion;
+  if(scene.svg) {
+    const preview=document.createElement('button');preview.className='preview';
+    preview.setAttribute('aria-label',triggerDescription(scene)+': '+scene.label);preview.title=triggerDescription(scene);
+    preview.innerHTML=scene.svg.replaceAll('stroke="white"','stroke="currentColor"');
+    motion=mountDeferred(preview,[...preview.querySelectorAll('[data-part]')],scene,playbackPreset);
+    card.append(preview);
+    if(scene.tracks[0][1]==='reference-lottie'){
+     const payload=scene.tracks[0][7],link=document.createElement(payload.authored?'span':'a');link.textContent=payload.authored?'Авторская анимация':'useAnimations · '+payload.sourceId;if(!payload.authored)link.href=payload.sourceUrl;link.target='_blank';link.rel='noopener';link.style.cssText='display:block;font-size:11px;opacity:.6;margin-bottom:8px';card.append(link);
+     const slider=document.createElement('input');slider.type='range';slider.min=0;slider.max=1000;slider.value=0;slider.style.cssText='width:100%;padding:0';slider.setAttribute('aria-label','Кадр: '+scene.label);slider.oninput=()=>{const m=motion.load();m.ready?.then(()=>m.seek(Number(slider.value)/1000))};card.append(slider);
+    }
+  }
+  const samples=document.createElement('div');samples.className='samples';
+  for(const [svg,name,caption] of [[scene.original,'Исходник','Исходная иконка'],[scene.reference,'Референс',scene.referenceName]]) {
+    if(!svg) continue;
+    const figure=document.createElement('figure');figure.title=caption;
+    figure.innerHTML=svg.replace(/stroke="(?:black|white)"/g,'stroke="currentColor"');
+    figure.querySelector('svg').setAttribute('aria-hidden','true');
+    const label=document.createElement('figcaption');label.textContent=name;
+    figure.append(label);samples.append(figure);
+  }
+  if(samples.childElementCount) card.append(samples);
+  const trigger=document.createElement('select');trigger.className='trigger';trigger.setAttribute('aria-label','Запуск: '+scene.label);
+  for(const [value,label] of [['reference','По умолчанию: '+triggerDescription({...scene,trigger:'reference'})],['hover','Только наведение'],['click-replay','Только нажатие'],['hover-click','Наведение и нажатие']]){const option=document.createElement('option');option.value=value;option.textContent=label;trigger.append(option)}
+  trigger.value=scene.trigger;
+  trigger.onchange=async()=>{
+    motion?.setTrigger?.(trigger.value);scene.trigger=trigger.value;triggerOverrides[scene.id]=trigger.value;const preview=card.querySelector('.preview');preview.title=triggerDescription(scene);preview.setAttribute('aria-label',triggerDescription(scene)+': '+scene.label);
+    try{localStorage.setItem(triggerKey,JSON.stringify(triggerOverrides))}catch{}
+    try{const response=await fetch('/api/triggers?collection=reference-series',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({[scene.id]:trigger.value})});if(!response.ok)throw Error();$('status').textContent='Способ запуска сохранён.'}
+    catch{$('status').textContent='Способ запуска сохранён в этом браузере.'}
+  };
+  const area=document.createElement('div');area.className='actions';
+  const feedback=action(document.createElement('button'),'Оставить правку: '+scene.label,svgs.chat);
+  feedback.onclick=()=>{
+    active=scene;opener=feedback;
+    $('feedback-title').textContent=scene.label;
+    $('feedback').value=notes.get(scene.id)?.comment||'';
+    $('remove').hidden=!notes.has(scene.id);
+    $('dialog').showModal();
+    $('feedback').focus();
+  };
+  const download=action(document.createElement('a'),'Скачать: '+scene.label,svgs.download);
+  download.href='downloads/'+scene.id+'.zip';download.download='';
+  download.onclick=event=>downloadSelection(event,scene.id,download);
+  area.append(feedback,download);card.append(trigger,area);
+  if(scene.source) {
+    const details=document.createElement('details'), label=document.createElement('summary'), code=document.createElement('pre');
+    label.textContent='Исходный SVG';code.textContent=scene.source;
+    details.append(label,code);card.append(details);
+  }
+  $('grid').append(card);cards.push({scene,card,feedback,download,exportName});
+}
+$('theme').onchange=({target})=>document.body.dataset.theme=target.value;
+const families=[...new Set(config.scenes.map(s=>s.id.split('-')[0]))].sort();
+for(const family of families){const option=document.createElement('option');option.value=family;option.textContent=family;$('family').append(option)}
+const requestedFamily=new URLSearchParams(location.search).get('family');if(families.includes(requestedFamily))$('family').value=requestedFamily;
+$('icon-size').onchange=()=>document.body.style.setProperty('--icon-size',$('icon-size').value+'px');$('icon-size').onchange();
+function filterCards(){
+  const query=$('search').value.trim().toLocaleLowerCase('ru'),family=$('family').value;
+  for(const {scene,card} of cards) card.hidden=(family && scene.id.split('-')[0]!==family)||![scene.label,scene.id].some(name=>name.toLocaleLowerCase('ru').includes(query));
+  $('count').textContent=cards.filter(({card})=>!card.hidden).length+' / '+cards.length;
+  $('empty').hidden=cards.some(({card})=>!card.hidden);
+}
+$('search').oninput=$('family').onchange=filterCards;filterCards();
+function save() {
+  try {localStorage.setItem(key,JSON.stringify([...notes].map(([icon,note])=>({icon,...note}))));}
+  catch {$('status').textContent='Скопируйте правки до закрытия страницы.';}
+  refresh();$('dialog').close();
+}
+$('save').onclick=()=>{
+  const text=$('feedback').value.trim();
+  if(!text){$('feedback').focus();return;}
+  notes.set(active.id,{comment:text,...selectedSettings()});save();
+};
+$('remove').onclick=()=>{notes.delete(active.id);save();};
+$('close').onclick=()=>$('dialog').close();
+$('dialog').addEventListener('close',()=>opener?.focus());
+$('copy').onclick=async()=>{
+  const text=JSON.stringify({version:1,project:config.project,needsRevision:[...notes].map(([icon,note])=>({icon,...note}))},null,2);
+  $('status').textContent='';
+  try {
+    await navigator.clipboard.writeText(text);
+  } catch {
+    const field=document.createElement('textarea');
+    field.value=text;
+    field.readOnly=true;
+    field.style.cssText='position:fixed;left:-9999px;top:0';
+    document.body.append(field);
+    field.select();
+    let copied=false;
+    try {copied=document.execCommand('copy');} catch {}
+    finally {field.remove();$('copy').focus();}
+    if(!copied) {
+      $('status').textContent='Не удалось скопировать правки. Проверьте доступ к буферу обмена.';
+      return;
+    }
+  }
+  $('status').textContent='Правки скопированы.';
+};
+refresh();
+updateStroke();
+})();
+</script></body></html>

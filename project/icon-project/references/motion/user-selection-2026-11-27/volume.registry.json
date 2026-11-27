@@ -1,0 +1,42 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "volume",
+  "type": "registry:component",
+  "title": "Volume (animated)",
+  "description": "Animated volume icon (click-toggle). Usage: <AnimatedVolume size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "media"
+  ],
+  "meta": {
+    "keywords": [
+      "audio",
+      "media",
+      "mute",
+      "sound",
+      "speaker",
+      "volume",
+      "volume-1",
+      "volume-2",
+      "volume-x"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/volume.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/volume.tsx",
+      "type": "registry:component",
+      "target": "components/animations/volume.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/volume\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Volume\" from https://useanimations.com (MIT): https://useanimations.com/icons/volume\nexport function AnimatedVolume(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

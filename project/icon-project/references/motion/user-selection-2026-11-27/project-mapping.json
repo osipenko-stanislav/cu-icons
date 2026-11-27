@@ -1,0 +1,228 @@
+[
+  {
+    "reference": "inbox",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "inbox-01-lined"
+  },
+  {
+    "reference": "file",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "file-02-lined"
+  },
+  {
+    "reference": "file-text",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "file-02-lined"
+  },
+  {
+    "reference": "phone-call",
+    "classes": [
+      "object-gesture",
+      "signal-propagation"
+    ],
+    "project_id": "phone-call-02-lined"
+  },
+  {
+    "reference": "message-circle",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "message-circle-01-lined"
+  },
+  {
+    "reference": "battery-charging",
+    "classes": [
+      "object-gesture",
+      "mechanism"
+    ],
+    "project_id": "battery-charging-02-lined"
+  },
+  {
+    "reference": "cloud-rain",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "cloud-raining-01-lined"
+  },
+  {
+    "reference": "sun",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "sun-lined"
+  },
+  {
+    "reference": "gift",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "gift-01-lined"
+  },
+  {
+    "reference": "scissors",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": "scissors-01-lined"
+  },
+  {
+    "reference": "coffee",
+    "classes": [
+      "object-gesture"
+    ],
+    "project_id": null
+  },
+  {
+    "reference": "tool",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "tool-01-lined"
+  },
+  {
+    "reference": "hard-drive",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "hard-drive-lined"
+  },
+  {
+    "reference": "smartphone",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "phone-01-lined"
+  },
+  {
+    "reference": "video-v2",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "video-recorder-lined"
+  },
+  {
+    "reference": "settings-v2",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "settings-03-lined"
+  },
+  {
+    "reference": "folder",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "folder-lined"
+  },
+  {
+    "reference": "calendar",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "calendar-lined"
+  },
+  {
+    "reference": "notification-v4",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "bell-01-lined"
+  },
+  {
+    "reference": "more-horizontal",
+    "classes": [
+      "mechanism"
+    ],
+    "project_id": "dots-horizontal-lined"
+  },
+  {
+    "reference": "wifi",
+    "classes": [
+      "signal-propagation"
+    ],
+    "project_id": "wifi-lined"
+  },
+  {
+    "reference": "rss",
+    "classes": [
+      "signal-propagation"
+    ],
+    "project_id": "rss-01-lined"
+  },
+  {
+    "reference": "shuffle",
+    "classes": [
+      "signal-propagation"
+    ],
+    "project_id": "shuffle-01-lined"
+  },
+  {
+    "reference": "menu-v2",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "menu-01-lined"
+  },
+  {
+    "reference": "arrow-left",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "arrow-left-lined"
+  },
+  {
+    "reference": "notification-v2",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "bell-off-01-lined"
+  },
+  {
+    "reference": "microphone-v2",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "microphone-01-lined"
+  },
+  {
+    "reference": "volume",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "volume-max-lined"
+  },
+  {
+    "reference": "heart",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "heart-lined"
+  },
+  {
+    "reference": "thumb-up",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "thumbs-up-lined"
+  },
+  {
+    "reference": "user-plus",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "user-plus-01-lined"
+  },
+  {
+    "reference": "user-x",
+    "classes": [
+      "state-transition"
+    ],
+    "project_id": "user-x-01-lined"
+  }
+]

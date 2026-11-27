@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "defaultPreset": "Balanced",
+  "presets": {
+    "Smooth": {
+      "duration": 0.85,
+      "amplitude": 0.65,
+      "curve": "cosine"
+    },
+    "Balanced": {
+      "duration": 1,
+      "amplitude": 1,
+      "curve": "cosine"
+    },
+    "Expressive": {
+      "duration": 1.2,
+      "amplitude": 1.2,
+      "curve": "spring"
+    }
+  },
+  "scenes": [
+    {
+      "id": "arrow-right-lined",
+      "label": "Arrow Right",
+      "trigger": "hover-click",
+      "duration": 1250,
+      "tracks": [
+        [
+          0,
+          "x",
+          1.05,
+          0,
+          0,
+          0,
+          1,
+          "direction"
+        ]
+      ]
+    },
+    {
+      "id": "book-open-01-lined",
+      "label": "Book Open 01",
+      "trigger": "hover",
+      "duration": 1700,
+      "tracks": [
+        [
+          0,
+          "page-turn",
+          1,
+          12,
+          12,
+          0,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "settings-01-lined",
+      "label": "Settings 01",
+      "trigger": "hover-click",
+      "duration": 1300,
+      "tracks": [
+        [
+          0,
+          "rotate",
+          16,
+          12,
+          12,
+          0,
+          1,
+          "mechanism"
+        ]
+      ]
+    },
+    {
+      "id": "trash-01-lined",
+      "label": "Trash 01",
+      "trigger": "click-replay",
+      "duration": 1450,
+      "tracks": [
+        [
+          0,
+          "rotate",
+          -10.5,
+          5,
+          6,
+          0,
+          1,
+          "hinge"
+        ]
+      ]
+    },
+    {
+      "id": "folder-lined",
+      "label": "Folder",
+      "trigger": "hover",
+      "duration": 1400,
+      "tracks": [
+        [
+          0,
+          "scale-y",
+          -0.08,
+          12,
+          20.5,
+          0,
+          1,
+          "fold"
+        ]
+      ]
+    },
+    {
+      "id": "heart-lined",
+      "label": "Heart",
+      "trigger": "hover",
+      "duration": 1200,
+      "tracks": [
+        [
+          0,
+          "scale",
+          -0.09,
+          12,
+          12,
+          0,
+          1,
+          "heartbeat"
+        ]
+      ]
+    },
+    {
+      "id": "wifi-lined",
+      "label": "Wifi",
+      "trigger": "hover",
+      "duration": 1500,
+      "tracks": [
+        [
+          0,
+          "scale",
+          -0.12,
+          12,
+          19.25,
+          0.24,
+          1,
+          "ripple"
+        ],
+        [
+          1,
+          "scale",
+          -0.12,
+          12,
+          19.25,
+          0.12,
+          1,
+          "ripple"
+        ],
+        [
+          2,
+          "scale",
+          -0.12,
+          12,
+          19.25,
+          0.0,
+          1,
+          "ripple"
+        ]
+      ]
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "label": "Bar Chart 01",
+      "trigger": "hover",
+      "duration": 1450,
+      "tracks": [
+        [
+          0,
+          "scale-y",
+          -0.35,
+          3,
+          20.2,
+          0.24,
+          1,
+          "chart"
+        ],
+        [
+          1,
+          "scale-y",
+          -0.35,
+          3,
+          20.2,
+          0.12,
+          1,
+          "chart"
+        ],
+        [
+          2,
+          "scale-y",
+          -0.35,
+          3,
+          20.2,
+          0.0,
+          1,
+          "chart"
+        ]
+      ]
+    },
+    {
+      "id": "flag-01-lined",
+      "label": "Flag 01",
+      "trigger": "hover",
+      "duration": 1450,
+      "tracks": [
+        [
+          0,
+          "scale-x",
+          -0.17,
+          8,
+          3,
+          0,
+          1,
+          "flutter"
+        ]
+      ]
+    }
+  ]
+}

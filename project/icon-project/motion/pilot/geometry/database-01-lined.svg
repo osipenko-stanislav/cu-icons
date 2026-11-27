@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="motion-idle"><path d="M20.4545 18.5454C20.4545 19.7504 16.5472 20.7272 11.7273 20.7272C6.90733 20.7272 3 19.7504 3 18.5454" stroke="currentColor" />
+<path d="M20.4545 14.1818C20.4545 15.3867 16.5472 16.3636 11.7273 16.3636C6.90733 16.3636 3 15.3867 3 14.1818" stroke="currentColor" />
+<path d="M20.4545 9.27271C20.4545 10.4777 16.5472 11.4545 11.7273 11.4545C6.90733 11.4545 3 10.4777 3 9.27271" stroke="currentColor" />
+<ellipse cx="11.7273" cy="4.90911" rx="8.72727" ry="2.18182" stroke="currentColor" />
+<line x1="20.4502" y1="4.9082" x2="20.4502" y2="18.5446" stroke="currentColor" />
+<line x1="3" y1="4.9082" x2="3" y2="18.5446" stroke="currentColor" />
+</g><g id="motion-active" visibility="hidden"><path d="M20.4545 18.5454C20.4545 19.7504 16.5472 20.7272 11.7273 20.7272C6.90733 20.7272 3 19.7504 3 18.5454" stroke="currentColor" data-part="0" />
+<path d="M20.4545 14.1818C20.4545 15.3867 16.5472 16.3636 11.7273 16.3636C6.90733 16.3636 3 15.3867 3 14.1818" stroke="currentColor" data-part="1" />
+<path d="M20.4545 9.27271C20.4545 10.4777 16.5472 11.4545 11.7273 11.4545C6.90733 11.4545 3 10.4777 3 9.27271" stroke="currentColor" data-part="2" />
+<ellipse cx="11.7273" cy="4.90911" rx="8.72727" ry="2.18182" stroke="currentColor" />
+<line x1="20.4502" y1="4.9082" x2="20.4502" y2="18.5446" stroke="currentColor" />
+<line x1="3" y1="4.9082" x2="3" y2="18.5446" stroke="currentColor" />
+</g></svg>

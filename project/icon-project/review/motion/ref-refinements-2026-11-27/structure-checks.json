@@ -1,0 +1,10 @@
+{
+  "weather_visible_direction": "pass",
+  "cutlery_opposite_direction_and_coherent_parts": "pass",
+  "bio_all_bond_endpoints_attached": "pass",
+  "bed_posts_and_baseline_fixed": "pass",
+  "network_graph_fixed_and_accents_hidden_at_rest": "pass",
+  "all_other_scenes_unchanged": "pass",
+  "browser_checks": 66,
+  "browser_errors": []
+}

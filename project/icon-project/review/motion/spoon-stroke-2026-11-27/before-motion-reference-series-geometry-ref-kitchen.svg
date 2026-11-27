@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1" color="currentColor">
+<g data-part="0"><path d="M7.5 21L7.5 11" stroke-linecap="round" stroke="currentColor" data-part="1" />
+<path d="M16.5 21L16.5 10" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="2" />
+<path d="M16.5 10C18.1569 10 19.5 8.32853 19.5 6.26667V3M16.5 10C14.8431 10 13.5 8.32853 13.5 6.26667V3M16.5 10V3" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" data-part="3" />
+<mask id="stroke0_1899_19" fill="white">
+<path d="M11 6.5C11 8.98528 9.433 11 7.5 11C5.567 11 4 8.98528 4 6.5C4 4.01472 5.567 2 7.5 2C9.433 2 11 4.01472 11 6.5Z" />
+</mask>
+<ellipse cx="7.5" cy="6.5" rx="3.5" ry="4.5" stroke-width="2" stroke="currentColor" mask="url(#stroke0_1899_19)" data-part="4" />
+</g></svg>

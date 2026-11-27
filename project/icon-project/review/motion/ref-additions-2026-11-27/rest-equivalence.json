@@ -1,0 +1,287 @@
+[
+  {
+    "id": "ref-bed",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-bed",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-bed",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-bio",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-bio",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-bio",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-chair",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-chair",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-chair",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-closet",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-closet",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-closet",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand-2",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand-2",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-cross-brand-2",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-fridge",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-fridge",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-fridge",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-iron",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-iron",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-iron",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-kitchen",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-laundry",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-laundry",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-laundry",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-math",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-math",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-math",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-microwave",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-microwave",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-microwave",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-museum",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-museum",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-museum",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-plates",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-plates",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-plates",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-shower",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-shower",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-shower",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-steam",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-steam",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-steam",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-teacher",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-teacher",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-teacher",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-walk",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-walk",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-walk",
+    "size": 48,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 16,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 24,
+    "rest_geometry_equal": true
+  },
+  {
+    "id": "ref-brand-network",
+    "size": 48,
+    "rest_geometry_equal": true
+  }
+]

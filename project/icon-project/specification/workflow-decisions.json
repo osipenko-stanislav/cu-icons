@@ -1,0 +1,41 @@
+{
+  "scenario": {
+    "value": "restyle",
+    "source": "user",
+    "confidence": "high"
+  },
+  "brief": {
+    "value": "Restyle all supplied work icons using ref as style basis; preserve source semantics and editable SVG.",
+    "source": "user",
+    "confidence": "high"
+  },
+  "reference_choice": {
+    "value": "provided",
+    "source": "user",
+    "confidence": "high"
+  },
+  "direction": {
+    "value": "Thin monochrome linework, selective asymmetric corners, simplified geometric contours.",
+    "source": "reference",
+    "confidence": "high"
+  },
+  "geometry": {
+    "value": "outline",
+    "source": "reference",
+    "confidence": "high"
+  },
+  "target_sizes": {
+    "value": [
+      16,
+      24,
+      32
+    ],
+    "source": "inferred",
+    "confidence": "medium"
+  },
+  "motion_mode": {
+    "value": "static",
+    "source": "default",
+    "confidence": "high"
+  }
+}

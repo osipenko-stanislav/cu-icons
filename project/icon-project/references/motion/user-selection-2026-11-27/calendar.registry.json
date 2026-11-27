@@ -1,0 +1,37 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "calendar",
+  "type": "registry:component",
+  "title": "Calendar (animated)",
+  "description": "Animated calendar icon (hover). Usage: <AnimatedCalendar size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "action"
+  ],
+  "meta": {
+    "keywords": [
+      "action",
+      "calendar",
+      "date",
+      "schedule"
+    ],
+    "interaction": "hover",
+    "interactionDescription": "Plays forward on mouseenter and backward on mouseleave.",
+    "lottie": "https://useanimations.com/icons/calendar.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/calendar.tsx",
+      "type": "registry:component",
+      "target": "components/animations/calendar.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/calendar\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Calendar\" from https://useanimations.com (MIT): https://useanimations.com/icons/calendar\nexport function AnimatedCalendar(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"hover\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

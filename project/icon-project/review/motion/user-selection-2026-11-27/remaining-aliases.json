@@ -1,0 +1,453 @@
+{
+  "confirmed_groups": [
+    {
+      "members": [
+        "message-alert-circle-lined",
+        "message-alert-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-check-circle-lined",
+        "message-check-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-dots-circle-lined",
+        "message-dots-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-heart-circle-lined",
+        "message-heart-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-plus-circle-lined",
+        "message-plus-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-question-circle-lined",
+        "message-question-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-x-circle-lined",
+        "message-x-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "award-01-lined",
+        "award-02-lined",
+        "award-04-lined",
+        "award-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "beaker-01-lined",
+        "beaker-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "check-circle-broken-lined",
+        "check-circle-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "check-small-16-lined",
+        "check-small-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "check-square-broken-lined",
+        "check-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "cloud-raining-03-lined",
+        "cloud-raining-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "cloud-snowing-01-lined",
+        "cloud-snowing-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "cloud-sun-01-lined",
+        "cloud-sun-02-lined",
+        "cloud-sun-03-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "code-01-lined",
+        "code-snippet-01-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "code-02-lined",
+        "code-snippet-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "coins-01-lined",
+        "coins-03-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "coins-02-lined",
+        "coins-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "coins-stacked-01-lined",
+        "coins-stacked-03-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "dotpoints-01-lined",
+        "list-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "file-03-lined",
+        "file-07-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "file-04-lined",
+        "file-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "flag-01-lined",
+        "flag-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "flag-04-lined",
+        "flag-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "flash-lined",
+        "lightning-01-lined",
+        "zap-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "flash-off-lined",
+        "zap-off-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "heart-lined",
+        "heart-rounded-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "home-02-lined",
+        "home-03-lined",
+        "home-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "image-01-lined",
+        "image-03-lined",
+        "image-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "indeterminate-small-16-lined",
+        "indeterminate-small-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "lightbulb-01-lined",
+        "lightbulb-03-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "line-chart-down-01-lined",
+        "trend-down-01-lined",
+        "trend-down-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "line-chart-down-03-lined",
+        "line-chart-down-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "line-chart-up-01-lined",
+        "trend-up-01-lined",
+        "trend-up-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "line-chart-up-03-lined",
+        "line-chart-up-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "loading-01-lined",
+        "loading-tui-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "marker-pin-01-lined",
+        "marker-pin-02-lined",
+        "marker-pin-03-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-chat-circle-lined",
+        "message-chat-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-notification-circle-lined",
+        "message-notification-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "message-smile-circle-lined",
+        "message-smile-square-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "refresh-ccw-02-lined",
+        "refresh-ccw-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "refresh-ccw-03-lined",
+        "refresh-ccw-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "refresh-cw-02-lined",
+        "refresh-cw-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "refresh-cw-03-lined",
+        "refresh-cw-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "repeat-01-lined",
+        "repeat-03-lined",
+        "repeat-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "sale-02-lined",
+        "sale-03-lined",
+        "sale-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "share-01-lined",
+        "share-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "share-03-lined",
+        "share-04-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "share-05-lined",
+        "share-06-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "sliders-01-lined",
+        "sliders-02-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "star-03-lined",
+        "star-07-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    },
+    {
+      "members": [
+        "star-04-lined",
+        "star-05-lined"
+      ],
+      "semantic_basis": "Same named action/status/metaphor or explicit synonyms; frame style alternatives only.",
+      "evidence": "Exact alpha-mask equality at both 24 and 48px."
+    }
+  ],
+  "not_exact": [],
+  "deferred_distinct_semantics": [
+    "annotation vs message (annotation and chat contexts)",
+    "circle vs placeholder",
+    "cloud vs cloud-blank (weather/storage context)",
+    "data/database vs coins (wrong geometry is not semantic equivalence)",
+    "filter/settings/sliders (product context)",
+    "flip vs reverse (flip and undo)",
+    "moon vs eclipse (state)",
+    "repeat vs switch (repeat and swap)",
+    "share vs upload (action)",
+    "users/stars (object counts)",
+    "x-close vs x (dismiss vs generic cross)"
+  ]
+}

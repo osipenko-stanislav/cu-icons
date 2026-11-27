@@ -1,0 +1,63 @@
+{
+  "png_sha256": "aa3f07ad8bf8a76b815fedb426b1d4a21e7ad7f50be6fc601d3c4d691c622ca1",
+  "icons": {
+    "users-check-lined": "8b9337a1f5a642aef3621b1f1ab7d0c737fa1016b322f5ac431ba4867a11cdac",
+    "users-down-lined": "dc8c31cbc72f5cf6decee624acdc4f7bb333840b90eebc748ec86ecd28122f01",
+    "users-edit-lined": "56e36da7defe73962efb38a10a86cef6c432383ff5e9ac06e0b2156899cfd2cb",
+    "users-left-lined": "5a32e23cd19738729ea28c3683d215759de8eb610c4d3c241df208148245bedc",
+    "users-minus-lined": "80ab99d435b7fa7da9b956188f36f449b85e1288f30b798ec14591f80eb26db0",
+    "users-right-lined": "677058732bba8fc3e0cc46ce1ef1b3ada065ef771eea5e751fb52e0f16c69fa9",
+    "users-up-lined": "e6de9fca3625ad94ebade373e297d2a467fe545784e3417fe30a323b30b2a354",
+    "users-x-lined": "10c9637a51b6422c1e312f1b4c94231a1308373261b79994c6e487ba460db119",
+    "variable-lined": "0594b2cb116d27257aa2886e462d58a776c014fb6438943e2ddf3b483dc7e1f9",
+    "video-recorder-lined": "53bac1ec1a9752ed0effc2fa8507de5ba66ad2bc95aee65907cb0b662de31fc2",
+    "video-recorder-off-lined": "604a5b6e2752e3367a444ef36602432ec358f0de228c9662be9f522c67d5929d",
+    "virus-lined": "c8d7cf5207689be27959f78bc578c59d835c6f2c7a362259651a5ee0ece63237",
+    "voicemail-lined": "5b2d0c2e4ee365d0c0e2d03e54591f068522ff8804ed7d111248744a3364786d",
+    "volume-max-lined": "09e37f5207271259b8f4ce469ee22e00b45ba0652fb51e355369641ccaf1d448",
+    "volume-min-lined": "cd7829da4575dfd08306972ef88a9a89fc7fc41ee081084dbdef8a38619a88fc",
+    "volume-minus-lined": "99c8806b839454860ff5c3ef238f2e01ec0fb161b43389e499476ab11a7355f4",
+    "volume-plus-lined": "1490f1e2bf2530975d27422108d64179832f8780b1ba019500fabc65bfc9a7c2",
+    "volume-x-lined": "95c2c8373ce9b495f9e41334b4c713db9cfde5b09e3e35a1c3a2e422c719af8b",
+    "wallet-01-lined": "26838c6ed15f3a8c9320391d4bf5abb5e91583b3b4f85220b06350d3efd0255b",
+    "wallet-02-lined": "ddbf85337416723be9cad11d9fd20cc8166ccff4efe06f6c8e61a9298b6b9a02",
+    "wallet-03-lined": "9290ac71f084f99d18d4fc0a986b2a1853dea7f43f1d40fd471da37215975bea",
+    "wallet-04-lined": "10986fb56045216980c2b880791b7f52da5559f48810333719a3f49dffc756bf",
+    "wallet-05-lined": "ff9158853d6bb0dd7156256042b82a90bd67e1a74f2edc9d5d08acf14417cc48",
+    "watch-circle-lined": "f6ba06a827ff4705e84440441de72a4fbede16aaa55e512b6f8622c51ba5644d",
+    "watch-square-lined": "556eb9377dd500486d82894d0191336b97facb0296be5105629cee4dde294c37",
+    "waves-lined": "d07accf20a10e75591af1e418b88e4cb46089bb0593bdf3d462287448d98201b",
+    "webcam-01-lined": "8133fd3167c5cc27786630600cbfb650fc3a15653f3af57bced0dc8aa2ac3590",
+    "webcam-02-lined": "2ab8c24f152e9d03f4cfa1dcf0cd9a3c4c94d4ffd544da2dd2d2cef4a0b6fe13",
+    "wifi-lined": "4fb7550c0e393c6e675ecf2438cfc8602dd602a286716dc64f0aa0085a77edb2",
+    "wifi-off-lined": "51e0ae7f9050e78ba76e9cba3492996542656db3e71c4a4f47eb4b6b5c2d6d15",
+    "wind-01-lined": "b0db1dbea5c8c02b3a223e16a47b8a9c659059f03683d3bcfe57e24ab086439f",
+    "wind-02-lined": "1270ec0531e7c034a58958b4e2e638d573d1fb5b21a30b18922067ce8acaeff9",
+    "wind-03-lined": "5c2aded53622130277f84c7340784fa398a60c2740aaefe09ab4d0a83b991a2f",
+    "x-circle-lined": "4b61629ea824185c33dda3c547dc79d9dffd68fc80b10af64ee0e500571b8b21",
+    "x-close-lined": "7a78a360a655b9728d49b6119e3efab090ed2ae86531d6fe26fb04108852a68e"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

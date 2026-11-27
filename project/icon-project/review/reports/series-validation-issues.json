@@ -1,0 +1,9 @@
+{
+  "umbrella-03-lined": [
+    {
+      "level": "Warning",
+      "code": "precision",
+      "message": "Coordinate precision exceeds specification"
+    }
+  ]
+}

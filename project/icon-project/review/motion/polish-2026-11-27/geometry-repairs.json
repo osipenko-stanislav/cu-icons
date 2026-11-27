@@ -1,0 +1,188 @@
+[
+  {
+    "id": "alarm-clock-off-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "89ab25bf5863cf8ceb626c8a651d2ba5cbe25b71639c9bc234a91d2d093ab1ee",
+    "after_sha256": "e58418e18324b88ee4ffdb1aac261966ed61bdaf4f998c7ef2bb6d823b113a3c"
+  },
+  {
+    "id": "camera-off-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "131d436241d70f0a54d81440ddd876809d7c94f4c6fbb8f16bdfc2dcea7eb6a4",
+    "after_sha256": "3659477d18dc36f578937cec0f4341f822da5b3b9c545cf0c53508af1df09151"
+  },
+  {
+    "id": "clipboard-attachment-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "3e5fda51c92f34f03d5872803ebd50122879210fdd152b616e488496f24ca9ba",
+    "after_sha256": "458221823e596cfaa633bd85bcc921392a93f5da657111e1b1a26d7f13040cf5"
+  },
+  {
+    "id": "clipboard-check-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "a8f8642498ff56f3ed000b1fdc90b100831b2b463bc898eb61c1177f0a4b7229",
+    "after_sha256": "f6f37dfa9aef19bd00ea07376d211e3ed8c9d2b76161dee7ae187e97e6eb4af3"
+  },
+  {
+    "id": "clipboard-download-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "4d6e7c9d66076502ca84c37e478595968054d382d873017a71cdc18cb1682af0",
+    "after_sha256": "6d4e3a5224e768717808fdf6bb0b0bb97293916ae40ad2540c07df808e5022f0"
+  },
+  {
+    "id": "clipboard-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "bb8e765e833b6d7a69a2f1b284c538f6d9f1f60ce3d65d939339d0bca26f5f2b",
+    "after_sha256": "41353ce1dff9378df9486df872df9f332731bbe23c0fcef26dee2885620f5a0c"
+  },
+  {
+    "id": "clipboard-minus-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "2094db0d855b02cf694981137ca1ab5909ba06751e247ea2a443f7dd83d696b3",
+    "after_sha256": "eada2bd274e39b19f5dfc3565eef9358a8b624afde92aec66e2c138ce7e89196"
+  },
+  {
+    "id": "clipboard-plus-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "66acbad9325df5eac45c66e49fe2f53317fc45a935c57c5adcb69479f1e11b53",
+    "after_sha256": "f3901b1e7769836a04ef941462fd7d01f069da3eab04a0ff6f93b9967a2a4101"
+  },
+  {
+    "id": "clipboard-x-lined",
+    "reason": "Remove body line crossing the clip; preserve existing clip, content, modifier and asymmetric corner.",
+    "before_sha256": "b9318a813fb29cfe4d5a542caf840eb254cacdd9d04bb3821b0dcbe1f3994f02",
+    "after_sha256": "330f258c88e71986b0946e639e8e27c7f9772d07e55a2869466e9c9b8fc458aa"
+  },
+  {
+    "id": "clock-fast-forward-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "b915eaa01f2188dfe3fcdafb245a8e3cb9c94459aa28ac9625d2feef66484634",
+    "after_sha256": "d89c38fcb93d5cde91cc85dd85e3d1d1ba642b67dfcd1825fccf5ffa5f76db95"
+  },
+  {
+    "id": "clock-refresh-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "07d47a448fe0aa04aaa60476b33018b52d9ad18b6cdb9dcd5d74d52996dbdaee",
+    "after_sha256": "ccad29ced424ec96c10cc0d8395f3b37fc5fa0278b494f7ef3f909589f855c91"
+  },
+  {
+    "id": "clock-rewind-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "837c82175a6f6cd0620709822d5881eb45a8cb45bcfb205800601b223b3e6ece",
+    "after_sha256": "446f5ad1e7f6b8be615871e6b94060b74798557a75dfc4140f76e97d03355a1f"
+  },
+  {
+    "id": "clock-snooze-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "bab79d51f7a1b59cb0ed65823c05a6416e853139a74a6c272b34ce723fc94bfe",
+    "after_sha256": "246dcaebb2d582c0d36f680c619cc4de81d90e673a924abd843efc145d4b3264"
+  },
+  {
+    "id": "clock-stopwatch-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "3f6089893ec74105b0a9dc74c123796153659a630c2e2b0b2432e0582267cc15",
+    "after_sha256": "fb0ee2330261eb4723f71db7c1209384c5f84a60a3410d540a537a7a24efbb8e"
+  },
+  {
+    "id": "cloud-lightning-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "2fff28191888255755b1c9f6b70c3e09ce2726b2aff7b5abeeabba6ea053793f",
+    "after_sha256": "3822be03799ff5f705ab4dcc209fedbb5f1b68a4efb49e74c1078d772a5b8516"
+  },
+  {
+    "id": "cloud-moon-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "ca16e8742b3b240243bd4d197dcb05897ac6c354a9bc7f2527c94f5cd1b26e45",
+    "after_sha256": "e92a4d6a897c37abdf175d3c85e31e4bb48fad2702778e47f2757856764d2e20"
+  },
+  {
+    "id": "cloud-sun-01-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "eede03937ecb4d2829582383d81fc1cabcd5f5034193eefb9acdc027e12d8939",
+    "after_sha256": "750ffdf039bf07f3cb0a6328b490de4549063d1e2105fbdc04f198a2d0f9d699"
+  },
+  {
+    "id": "coins-swap-01-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "f39c70fe2c10c5e458d0550cffe90b0db81038b22e78afba5d309f3da487c9fa",
+    "after_sha256": "49b7e4c13e3b281a78bc0018cd140a555f4c5e8ebad29a2450facfcd03a6feae"
+  },
+  {
+    "id": "coins-swap-02-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "cac1e73c6a1355c02ac6db519adacbc02f3ab0510247a802ec363daaeb93a9aa",
+    "after_sha256": "2628ba3180ce1e68e7a6c0c2487807327311b60f7e020e62466c1eee5ff67585"
+  },
+  {
+    "id": "credit-card-refresh-lined",
+    "reason": "Separate the card frame from its refresh badge so only the badge reacts.",
+    "before_sha256": "3b3f7caabd6fb9e6f57632df930c70d234f6b002d2d2d1df9f51a2e9a4a0b569",
+    "after_sha256": "9469a6d48a954427910bad685d42cffb8cc67d18e8847682bf4a1de216adaf48"
+  },
+  {
+    "id": "eye-lined",
+    "reason": "Center the pupil inside the eye; keep the reference eyelid silhouette.",
+    "before_sha256": "41a0adf9427faae06c99222ab22cb381fc236e6138820d9db751da557336fdd5",
+    "after_sha256": "1cd8575c31c93cba225ac5572e0990abed6cbb133f5ec8eb2a425aa716d33254"
+  },
+  {
+    "id": "eye-off-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "8821bf044ab70e856e54fb3b7732cf7c32cf74f52556d2f1f8f80fd88789cc89",
+    "after_sha256": "b8d50acd769ce5d51260840454d86be9302f353cc1992aa26f6a648d9e46fdae"
+  },
+  {
+    "id": "file-06-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "44e343e55709b76eb6ac8a80c842e4f906db1f2dd4cb420296b9506aa6a10816",
+    "after_sha256": "7e675d63b2cb4ce983a055c65bd26f54639fba7ceff05a79604006e997a42bc5"
+  },
+  {
+    "id": "flag-04-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "0bcfb7e750eb8defe6a18895047c89c2fbf7447e5d3f0e808271904c80893262",
+    "after_sha256": "6767488acc480667a255d3788bcbfdeb48a0a1b49fb731eb430c30d2b7caf815"
+  },
+  {
+    "id": "flag-06-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "f645cf948066783e29fa545ab3a9f75955754b3f132cf3901ecddf80fb30a359",
+    "after_sha256": "02e2fbd593e3b6863073583a739ec44aa6a9d360321692309d941724c0ca7991"
+  },
+  {
+    "id": "line-chart-down-02-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "8b4441d274dce8d93a2bcbbfcd9910874151f2337455a5c854788bf7bd050c14",
+    "after_sha256": "a331dfaa4df0b8fbad8b6f76b5bee165d00643e5e9b79856abbc9d470952cd1b"
+  },
+  {
+    "id": "line-chart-up-02-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "c45e34026a716b6e1ef91b1e081d949d5b891eeca67e9136084ac157ea37bdb6",
+    "after_sha256": "16d2246c6a9c0d1b8df92821ce8d27ae64ea23ec64c0fdcf67b2030f10502129"
+  },
+  {
+    "id": "recording-01-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "c397361055b48db9771182710640d14b06c31489da08d700ec777823b395e9c3",
+    "after_sha256": "7e484c115586708fc1406664a0083452030bb74552790a3003fe818c8e42d04b"
+  },
+  {
+    "id": "recording-02-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "42e15e86c16c9fe6035460865ca04749c36b099e2629317a2e962454d1656283",
+    "after_sha256": "3e67e21194d4a83867e124b76ddfc6be7a4c104d844b667fe93ff7c3a4e91908"
+  },
+  {
+    "id": "search-lg-lined",
+    "reason": "Restore source centerlines and semantic detail; normalize only paint and stroke width to the established style.",
+    "before_sha256": "a1dee500cbe39e6c303c04ee210e969bccbb0cc0da91dc2b898178d09baec538",
+    "after_sha256": "0f7a9d57158495e4aeb4586dbec58e0b4e382d98553f90d56107d46d7cdd867f"
+  },
+  {
+    "id": "alert-triangle-lined",
+    "before_sha256": "1b8698c909c0380a96d82636b9fd1f7bac9a36ba7e4d591ecf404da801fa1ef1",
+    "after_sha256": "34363dc2e766f33037f6b55b4ed6de3dd8ab29155921d135e5bf4bc4eb2dcfdc",
+    "reason": "Enlarge the alert triangle to the established 2..22 canvas bounds as requested."
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "direction": {
+    "value": "Reference form takes priority over source construction. Preserve the icon meaning; rebuild geometry from ref instead of retaining source silhouette. User explicitly selected this policy after feedback on series v1.",
+    "source": "user",
+    "confidence": "high"
+  }
+}

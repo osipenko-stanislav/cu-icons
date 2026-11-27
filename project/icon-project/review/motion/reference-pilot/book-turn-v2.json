@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "checks": [
+    {
+      "preset": "Smooth",
+      "stopRestores": true,
+      "visibleFrames": 46,
+      "maxAnchorError": 0,
+      "anchorsFixed": true,
+      "pageInsideCover": true,
+      "outsideSamples": 0,
+      "rightToLeftOnly": true,
+      "restored": true
+    },
+    {
+      "preset": "Balanced",
+      "stopRestores": true,
+      "visibleFrames": 46,
+      "maxAnchorError": 0,
+      "anchorsFixed": true,
+      "pageInsideCover": true,
+      "outsideSamples": 0,
+      "rightToLeftOnly": true,
+      "restored": true
+    },
+    {
+      "preset": "Expressive",
+      "stopRestores": true,
+      "visibleFrames": 46,
+      "maxAnchorError": 0,
+      "anchorsFixed": true,
+      "pageInsideCover": true,
+      "outsideSamples": 0,
+      "rightToLeftOnly": true,
+      "restored": true
+    }
+  ],
+  "samples_per_preset": 61,
+  "other_eight_scenes_unchanged": true,
+  "geometry": "One full leaf moves from the right cover to the left, with fixed spine anchors and a dynamically lifted top edge",
+  "static_start_end": "exact original pose"
+}

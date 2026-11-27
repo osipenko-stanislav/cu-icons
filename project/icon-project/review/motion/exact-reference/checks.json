@@ -1,0 +1,24 @@
+{
+  "scenes": 13,
+  "user_approval": "pending",
+  "reference": "https://useanimations.com/#icons",
+  "behavior_policy": "User authorized reference state changes and loops",
+  "runtime": "Vendored lottie-web light 5.13.0 SVG renderer; offline",
+  "artwork": "Retargeted current result/svg; source artwork displayed only in review comparison",
+  "static_original_hashes_unchanged": true,
+  "event_assertions": 33,
+  "event_checks_passed": true,
+  "export_checks_passed": true,
+  "visual_review": {
+    "method": "sequential, rasterized Chrome comparison",
+    "frames_per_scene": 7,
+    "total_frames": 91,
+    "source_and_own_synchronized": true,
+    "status": "reviewed by agent; user approval pending"
+  },
+  "exceptions": {
+    "book": "Original light squeeze restored; excluded from reference replacement",
+    "loading": "Reference four trim phases follow the existing open project arc, with no added quadrant"
+  },
+  "scope": "13-scene pilot only. Existing full library remains on prior motion until approval."
+}

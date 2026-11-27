@@ -1,0 +1,11 @@
+{
+  "source": "User explicitly requested full useAnimations motion and authorized reference state changes and loops",
+  "geometry": "Use current restyled result/svg; never substitute reference drawings",
+  "book_exception": "Restore and retain original light compression; no added or turning pages",
+  "reference_behavior": "Copy state changes, loops, timing and easing; manual per-icon trigger overrides remain available",
+  "full_mapping": {
+    "direct_name_matches": 395,
+    "source_animations": 184,
+    "part_mapping": "requires visual verification; naming matches are not production-ready"
+  }
+}

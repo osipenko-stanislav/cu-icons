@@ -1,0 +1,2135 @@
+{
+  "browser_checks": [
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "settings-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "trash-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "folder-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "heart-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "wifi-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "startHasAllParts": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "reducedMotion": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "hover": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Smooth",
+      "clickReplay": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "startHasAllParts": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "reducedMotion": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "hover": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Balanced",
+      "clickReplay": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "startHasAllParts": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0.15,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0.33,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0.5,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0.67,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 0.85,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "t": 1,
+      "noFade": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "moved": true,
+      "restored": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "reducedMotion": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "hover": true
+    },
+    {
+      "id": "flag-01-lined",
+      "preset": "Expressive",
+      "clickReplay": true
+    }
+  ],
+  "static_equivalence": [
+    {
+      "id": "arrow-right-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "arrow-right-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "book-open-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "settings-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "settings-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "settings-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "settings-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "trash-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "trash-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "trash-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "trash-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "folder-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "folder-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "folder-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "folder-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "heart-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "heart-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "heart-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "heart-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "wifi-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "wifi-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "wifi-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "wifi-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "flag-01-lined",
+      "size": 16,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "flag-01-lined",
+      "size": 24,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "flag-01-lined",
+      "size": 32,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    },
+    {
+      "id": "flag-01-lined",
+      "size": 64,
+      "identical": true,
+      "max_channel_delta": 0,
+      "changed_pixels": 0,
+      "equivalent": true
+    }
+  ],
+  "sampled_frames": 189,
+  "status": "pass",
+  "limitations": [
+    "Chromium only; deterministic frame sampling, not real device timing."
+  ]
+}

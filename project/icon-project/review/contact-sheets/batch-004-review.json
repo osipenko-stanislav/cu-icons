@@ -1,0 +1,63 @@
+{
+  "png_sha256": "082fd944ba96085e966f422bc4ef8986530e9dc83ee2aeb2727b13106e901135",
+  "icons": {
+    "bank-note-01-lined": "2ecf02a8d5f5cd9fb142b6f18b2bfb2cb05ccfd515a0869d983b288090f89829",
+    "bank-note-02-lined": "eb6b84e17329ddfa9e63ed5fa107fbb456243ffcaa68882c31c6e16845add1c1",
+    "bank-note-03-lined": "beb1580c077afe41d38a6c4fe3ea8ab265cf18a966000844edf59ef643544fdf",
+    "bar-chart-01-lined": "ca2d7a5e790d9d52ffd1b49e5086e1fcc28c2b5a54bbf5e9e08b3acb3e1f47c6",
+    "bar-chart-02-lined": "9b1f40df59b24dd576e134bd5ffd507bdb66d37f8f6cebe821e7c34553e9bac8",
+    "bar-chart-03-lined": "7fd2373b8645c0153818836f7ff7e7c61be7b8dcaa1335ddf7dba45cdbc1622d",
+    "bar-chart-04-lined": "5d3775a3f275f03ab038d1aa5e31c9aab02dace50f3c5fe250a7a8d9fc0a3937",
+    "bar-chart-05-lined": "626424ccb6e3d468737815ccd1f35533e4519b11138ffd2a1572fa9473b465e2",
+    "bar-chart-06-lined": "89e57343f805d183ec68349964cc949a826405c2cb12286e573f5ee6d3446c89",
+    "bar-chart-07-lined": "1fb2b7bb1be3e7f54bd5a9eb69bcedfbbd0b9f4d83f07feec9c64e715d80e230",
+    "bar-chart-08-lined": "713c30580912f533a3d29fc45ba36c859970bf7c24080bf14ba5cbad02d43f93",
+    "bar-chart-09-lined": "99f4665b18d653cd75ca8017401e27e27bf919db3252e4fa4041de1f98996a6b",
+    "bar-chart-10-lined": "bb1c12f98884f73160a4cdcd0f8b0777b73c582324b131966f3204cc3952808e",
+    "bar-chart-11-lined": "8fdf682f36b875abb6cecf6b0e7e1a04a215e27004921995f674c777ca27fc8e",
+    "bar-chart-12-lined": "ad3c5d55974b19802b3c53f6edbbb89aa884acd5549a1362dddbc7242968c417",
+    "bar-chart-circle-01-lined": "42c9009d86395a6fd6722148963f7034cabdff318851ac4223446b167ae27529",
+    "bar-chart-circle-02-lined": "aa5ef7b11f8c055177a17f0169d25bc584989809686fcdcd5def3c54c5a7b753",
+    "bar-chart-circle-03-lined": "4691e71a4816f430717f8095827625a7d853c03e527fbd7a150484dd15408d33",
+    "bar-chart-square-01-lined": "eabeda798cbb3f6166a41be9a374e7217937806253babfd6876e4703f5c2c5e4",
+    "bar-chart-square-02-lined": "014646a4c8dc3c1ef80c7c529dcf79080dc33fa4b05fd70830610418c1a39bad",
+    "bar-chart-square-03-lined": "b8f47357ac14673638937f91cdce08d568494ae6a8549797f59292dbf7e90169",
+    "bar-chart-square-down-lined": "66194a51492b4e96fcda8ac103a459ab808ab2b51a0b487eaf5a7536c8025947",
+    "bar-chart-square-minus-lined": "fef9df444e187b2442d6afad0710171c618289676282ee1042d234ed72e1a71c",
+    "bar-chart-square-plus-lined": "e8496886a602c8eef41fd85f27c29bfd32b78e6ef415d0dd40c5c3b9434989ee",
+    "bar-chart-square-up-lined": "ca2fd78ea0e3e2e9e7a9870ca6633c0e4c73c863cd1b044f838239cdc653b487",
+    "bar-line-chart-lined": "6ccd42bddf6348c51840d70ab1fc805f432a7bbcf14b91611f381fe856e5d968",
+    "battery-charging-01-lined": "935ec0a22ecaf8aad33b5cce059f3fe5e0c64d9f2ea6f6e57354dc1b541e30bc",
+    "battery-charging-02-lined": "d0a5b0b76825844f2c3cda677f09a6d8ead4c99089c8bb2dd73bd01e84cbfd00",
+    "battery-empty-lined": "fdf8a7c4e63b98d02d6571f926c9b6e17a8998f6bcd23b1c6edf7ff44690f862",
+    "battery-full-lined": "de745b4f1161e319bee7a44a157715f044d30a2852760a92b4e1100c79259b36",
+    "battery-low-lined": "b4cca7b90d8fe5fef401ce7f6d4d446676749a00578532a8638c3f90f71d8db2",
+    "battery-mid-lined": "eab72e68cc2e8c72dac0aaa56fdd6fd1a53784bc0ec2c16671d753a79d4a8079",
+    "beaker-01-lined": "7d56ec9d6f00a30671b8da06c688f578cabcb908281436c8cbaabef5b48aeffc",
+    "beaker-02-lined": "c6365aab83d4ec1b868860c90d9cd46fa0e7e57259700d7e235e2ac6f4311768",
+    "bell-02-lined": "d89cca25cd0fb4cd5bd4335f213340aecb018efe35b340d490d8274be44b481a"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

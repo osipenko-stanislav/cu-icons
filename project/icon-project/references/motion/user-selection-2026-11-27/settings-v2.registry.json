@@ -1,0 +1,39 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "settings-v2",
+  "type": "registry:component",
+  "title": "Settings V2 (animated)",
+  "description": "Animated settings v2 icon (click-toggle). Usage: <AnimatedSettingsV2 size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "action"
+  ],
+  "meta": {
+    "keywords": [
+      "action",
+      "cog",
+      "gear",
+      "preferences",
+      "settings",
+      "sliders"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/settings-v2.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/settings-v2.tsx",
+      "type": "registry:component",
+      "target": "components/animations/settings-v2.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/settings2\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Settings V2\" from https://useanimations.com (MIT): https://useanimations.com/icons/settings-v2\nexport function AnimatedSettingsV2(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

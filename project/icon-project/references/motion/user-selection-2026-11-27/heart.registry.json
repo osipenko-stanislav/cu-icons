@@ -1,0 +1,38 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "heart",
+  "type": "registry:component",
+  "title": "Heart (animated)",
+  "description": "Animated heart icon (click-toggle). Usage: <AnimatedHeart size={24} />",
+  "author": "useAnimations <https://useanimations.com>",
+  "dependencies": [
+    "react-useanimations@^3.1.1"
+  ],
+  "registryDependencies": [
+    "https://useanimations.com/r/use-animation.json"
+  ],
+  "categories": [
+    "animated-icons",
+    "action"
+  ],
+  "meta": {
+    "keywords": [
+      "action",
+      "favorite",
+      "heart",
+      "like",
+      "love"
+    ],
+    "interaction": "click-toggle",
+    "interactionDescription": "Toggles between two states on click, or switches immediately when reduced motion is preferred.",
+    "lottie": "https://useanimations.com/icons/heart.json"
+  },
+  "files": [
+    {
+      "path": "registry/animations/heart.tsx",
+      "type": "registry:component",
+      "target": "components/animations/heart.tsx",
+      "content": "\"use client\"\n\nimport animation from \"react-useanimations/lib/heart\"\n\nimport { UseAnimation, type UseAnimationProps } from \"@/components/use-animation\"\n\n// \"Heart\" from https://useanimations.com (MIT): https://useanimations.com/icons/heart\nexport function AnimatedHeart(\n  props: Omit<UseAnimationProps, \"animationData\">\n) {\n  return (\n    <UseAnimation\n      animationData={animation.animationData}\n      interaction=\"click-toggle\"\n      {...props}\n    />\n  )\n}\n"
+    }
+  ]
+}

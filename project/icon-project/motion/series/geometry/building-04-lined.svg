@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke-width="1">
+<g id="idle--motion-idle"><path d="M9.5 7H14.5M9.5 11H14.5M9.5 15H14.5M18 21V6.2L18 3L14.8 3H9.2L9 3A3 3 0 0 0 6 6L6 6.2V21M20 21H4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g><g id="active--motion-active" visibility="hidden"><path d="M9.5 7H14.5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<g data-part="0"><path d="M9.5 11H14.5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M9.5 15H14.5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M18 21V6.2L18 3L14.8 3H9.2L9 3A3 3 0 0 0 6 6L6 6.2V21" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+<path d="M20 21H4" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" />
+</g></g></svg>

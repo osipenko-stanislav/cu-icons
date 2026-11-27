@@ -1,0 +1,18 @@
+{
+  "id": "ref-kitchen",
+  "label": "Ref · Kitchen",
+  "trigger": "hover",
+  "duration": 850,
+  "tracks": [
+    [
+      1,
+      "erase-redraw",
+      1,
+      12,
+      12,
+      0.1,
+      0.85,
+      "mechanism"
+    ]
+  ]
+}

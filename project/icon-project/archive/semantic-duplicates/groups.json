@@ -1,0 +1,2020 @@
+[
+  {
+    "meaning_key": "align-bottom-01",
+    "canonical": "align-bottom-01-lined",
+    "archived": [
+      "align-bottom-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "align-horizontal-centre-01",
+    "canonical": "align-horizontal-centre-01-lined",
+    "archived": [
+      "align-horizontal-centre-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "align-left-01",
+    "canonical": "align-left-01-lined",
+    "archived": [
+      "align-left-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "align-right-01",
+    "canonical": "align-right-01-lined",
+    "archived": [
+      "align-right-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "align-top-01",
+    "canonical": "align-top-01-lined",
+    "archived": [
+      "align-top-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "align-vertical-center-01",
+    "canonical": "align-vertical-center-01-lined",
+    "archived": [
+      "align-vertical-center-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "announcement-01",
+    "canonical": "announcement-01-lined",
+    "archived": [
+      "announcement-02-lined",
+      "announcement-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-down-left",
+    "canonical": "arrow-down-left-lined",
+    "archived": [
+      "arrow-narrow-down-left-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-down",
+    "canonical": "arrow-down-lined",
+    "archived": [
+      "arrow-narrow-down-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-down-right",
+    "canonical": "arrow-down-right-lined",
+    "archived": [
+      "arrow-narrow-down-right-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-left",
+    "canonical": "arrow-left-lined",
+    "archived": [
+      "arrow-narrow-left-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-right",
+    "canonical": "arrow-right-lined",
+    "archived": [
+      "arrow-narrow-right-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-up-left",
+    "canonical": "arrow-up-left-lined",
+    "archived": [
+      "arrow-narrow-up-left-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-up",
+    "canonical": "arrow-up-lined",
+    "archived": [
+      "arrow-narrow-up-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "arrow-up-right",
+    "canonical": "arrow-up-right-lined",
+    "archived": [
+      "arrow-narrow-up-right-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "asterisk-01",
+    "canonical": "asterisk-01-lined",
+    "archived": [
+      "asterisk-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "attachment-01",
+    "canonical": "attachment-01-lined",
+    "archived": [
+      "attachment-02-lined",
+      "paperclip-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "award-01",
+    "canonical": "award-01-lined",
+    "archived": [
+      "award-02-lined",
+      "award-04-lined",
+      "award-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "beaker-01",
+    "canonical": "beaker-01-lined",
+    "archived": [
+      "beaker-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "bell-01",
+    "canonical": "bell-01-lined",
+    "archived": [
+      "bell-02-lined",
+      "bell-03-lined",
+      "bell-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "bell-off-01",
+    "canonical": "bell-off-01-lined",
+    "archived": [
+      "bell-off-02-lined",
+      "bell-off-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "bell-ringing-01",
+    "canonical": "bell-ringing-01-lined",
+    "archived": [
+      "bell-ringing-02-lined",
+      "bell-ringing-03-lined",
+      "bell-ringing-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "bold-01",
+    "canonical": "bold-01-lined",
+    "archived": [
+      "bold-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "book-open-01",
+    "canonical": "book-open-01-lined",
+    "archived": [
+      "book-open-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "briefcase-01",
+    "canonical": "briefcase-01-lined",
+    "archived": [
+      "briefcase-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "calendar-check-01",
+    "canonical": "calendar-check-01-lined",
+    "archived": [
+      "calendar-check-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "calendar-heart-01",
+    "canonical": "calendar-heart-01-lined",
+    "archived": [
+      "calendar-heart-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "calendar-minus-01",
+    "canonical": "calendar-minus-01-lined",
+    "archived": [
+      "calendar-minus-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "calendar-plus-01",
+    "canonical": "calendar-plus-01-lined",
+    "archived": [
+      "calendar-plus-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "camera-01",
+    "canonical": "camera-01-lined",
+    "archived": [
+      "camera-02-lined",
+      "camera-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "car-01",
+    "canonical": "car-01-lined",
+    "archived": [
+      "car-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "check-circle",
+    "canonical": "check-circle-lined",
+    "archived": [
+      "check-circle-broken-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "check-done-01",
+    "canonical": "check-done-01-lined",
+    "archived": [
+      "check-done-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "check-small",
+    "canonical": "check-small-lined",
+    "archived": [
+      "check-small-16-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "check-square",
+    "canonical": "check-square-lined",
+    "archived": [
+      "check-square-broken-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "check-verified-01",
+    "canonical": "check-verified-01-lined",
+    "archived": [
+      "check-verified-02-lined",
+      "check-verified-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cloud-01",
+    "canonical": "cloud-01-lined",
+    "archived": [
+      "cloud-02-lined",
+      "cloud-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cloud-blank-01",
+    "canonical": "cloud-blank-01-lined",
+    "archived": [
+      "cloud-blank-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cloud-raining-03",
+    "canonical": "cloud-raining-03-lined",
+    "archived": [
+      "cloud-raining-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cloud-snowing-01",
+    "canonical": "cloud-snowing-01-lined",
+    "archived": [
+      "cloud-snowing-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cloud-sun-01",
+    "canonical": "cloud-sun-01-lined",
+    "archived": [
+      "cloud-sun-02-lined",
+      "cloud-sun-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "code-01",
+    "canonical": "code-01-lined",
+    "archived": [
+      "code-snippet-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "code-02",
+    "canonical": "code-02-lined",
+    "archived": [
+      "code-snippet-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "code-circle-01",
+    "canonical": "code-circle-01-lined",
+    "archived": [
+      "code-circle-02-lined",
+      "code-circle-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "code-square-01",
+    "canonical": "code-square-01-lined",
+    "archived": [
+      "code-square-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "coins-01",
+    "canonical": "coins-01-lined",
+    "archived": [
+      "coins-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "coins-02",
+    "canonical": "coins-02-lined",
+    "archived": [
+      "coins-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "coins-stacked-01",
+    "canonical": "coins-stacked-01-lined",
+    "archived": [
+      "coins-stacked-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "colors",
+    "canonical": "colors-lined",
+    "archived": [
+      "colors-lined-1"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "copy-01",
+    "canonical": "copy-01-lined",
+    "archived": [
+      "copy-02-lined",
+      "copy-03-lined",
+      "copy-04-lined",
+      "copy-05-lined",
+      "copy-06-lined",
+      "copy-07-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cpu-chip-01",
+    "canonical": "cpu-chip-01-lined",
+    "archived": [
+      "cpu-chip-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "credit-card-01",
+    "canonical": "credit-card-01-lined",
+    "archived": [
+      "credit-card-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "crop-01",
+    "canonical": "crop-01-lined",
+    "archived": [
+      "crop-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cursor-01",
+    "canonical": "cursor-01-lined",
+    "archived": [
+      "cursor-02-lined",
+      "cursor-03-lined",
+      "cursor-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "cursor-click-01",
+    "canonical": "cursor-click-01-lined",
+    "archived": [
+      "cursor-click-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "database-01",
+    "canonical": "database-01-lined",
+    "archived": [
+      "database-02-lined",
+      "database-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "diamond-01",
+    "canonical": "diamond-01-lined",
+    "archived": [
+      "diamond-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "dotpoints-01",
+    "canonical": "dotpoints-01-lined",
+    "archived": [
+      "dotpoints-02-lined",
+      "list-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "download-01",
+    "canonical": "download-01-lined",
+    "archived": [
+      "download-02-lined",
+      "download-03-lined",
+      "download-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "download-cloud-01",
+    "canonical": "download-cloud-01-lined",
+    "archived": [
+      "download-cloud-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "edit-01",
+    "canonical": "edit-01-lined",
+    "archived": [
+      "edit-02-lined",
+      "edit-03-lined",
+      "edit-04-lined",
+      "edit-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-03",
+    "canonical": "file-03-lined",
+    "archived": [
+      "file-07-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-04",
+    "canonical": "file-04-lined",
+    "archived": [
+      "file-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-attachment-01",
+    "canonical": "file-attachment-01-lined",
+    "archived": [
+      "file-attachment-02-lined",
+      "file-attachment-03-lined",
+      "file-attachment-04-lined",
+      "file-attachment-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-check-01",
+    "canonical": "file-check-01-lined",
+    "archived": [
+      "file-check-02-lined",
+      "file-check-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-code-01",
+    "canonical": "file-code-01-lined",
+    "archived": [
+      "file-code-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-download-01",
+    "canonical": "file-download-01-lined",
+    "archived": [
+      "file-download-02-lined",
+      "file-download-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-heart-01",
+    "canonical": "file-heart-01-lined",
+    "archived": [
+      "file-heart-02-lined",
+      "file-heart-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-lock-01",
+    "canonical": "file-lock-01-lined",
+    "archived": [
+      "file-lock-02-lined",
+      "file-lock-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-minus-01",
+    "canonical": "file-minus-01-lined",
+    "archived": [
+      "file-minus-02-lined",
+      "file-minus-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-plus-01",
+    "canonical": "file-plus-01-lined",
+    "archived": [
+      "file-plus-02-lined",
+      "file-plus-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-question-01",
+    "canonical": "file-question-01-lined",
+    "archived": [
+      "file-question-02-lined",
+      "file-question-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-search-01",
+    "canonical": "file-search-01-lined",
+    "archived": [
+      "file-search-02-lined",
+      "file-search-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-shield-01",
+    "canonical": "file-shield-01-lined",
+    "archived": [
+      "file-shield-02-lined",
+      "file-shield-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "file-x-01",
+    "canonical": "file-x-01-lined",
+    "archived": [
+      "file-x-02-lined",
+      "file-x-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "film-01",
+    "canonical": "film-01-lined",
+    "archived": [
+      "film-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "filter-funnel-01",
+    "canonical": "filter-funnel-01-lined",
+    "archived": [
+      "filter-funnel-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "fingerprint-01",
+    "canonical": "fingerprint-01-lined",
+    "archived": [
+      "fingerprint-02-lined",
+      "fingerprint-03-lined",
+      "fingerprint-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "flag-01",
+    "canonical": "flag-01-lined",
+    "archived": [
+      "flag-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "flag-04",
+    "canonical": "flag-04-lined",
+    "archived": [
+      "flag-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "flash",
+    "canonical": "flash-lined",
+    "archived": [
+      "lightning-01-lined",
+      "lightning-02-lined",
+      "zap-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "flash-off",
+    "canonical": "flash-off-lined",
+    "archived": [
+      "zap-off-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "gaming-pad-01",
+    "canonical": "gaming-pad-01-lined",
+    "archived": [
+      "gaming-pad-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "gift-01",
+    "canonical": "gift-01-lined",
+    "archived": [
+      "gift-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "git-branch-01",
+    "canonical": "git-branch-01-lined",
+    "archived": [
+      "git-branch-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "glasses-01",
+    "canonical": "glasses-01-lined",
+    "archived": [
+      "glasses-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "globe-slated-01",
+    "canonical": "globe-slated-01-lined",
+    "archived": [
+      "globe-slated-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "graduation-hat-01",
+    "canonical": "graduation-hat-01-lined",
+    "archived": [
+      "graduation-hat-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "hash-01",
+    "canonical": "hash-01-lined",
+    "archived": [
+      "hash-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "headphones-01",
+    "canonical": "headphones-01-lined",
+    "archived": [
+      "headphones-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "heart-rounded",
+    "canonical": "heart-rounded-lined",
+    "archived": [
+      "heart-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "hexagon-01",
+    "canonical": "hexagon-01-lined",
+    "archived": [
+      "hexagon-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "home-02",
+    "canonical": "home-02-lined",
+    "archived": [
+      "home-03-lined",
+      "home-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "horizontal-bar-chart-01",
+    "canonical": "horizontal-bar-chart-01-lined",
+    "archived": [
+      "horizontal-bar-chart-02-lined",
+      "horizontal-bar-chart-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "hourglass-01",
+    "canonical": "hourglass-01-lined",
+    "archived": [
+      "hourglass-02-lined",
+      "hourglass-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "image-01",
+    "canonical": "image-01-lined",
+    "archived": [
+      "image-03-lined",
+      "image-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "inbox-01",
+    "canonical": "inbox-01-lined",
+    "archived": [
+      "inbox-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "indeterminate-small",
+    "canonical": "indeterminate-small-lined",
+    "archived": [
+      "indeterminate-small-16-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "italic-01",
+    "canonical": "italic-01-lined",
+    "archived": [
+      "italic-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "key-01",
+    "canonical": "key-01-lined",
+    "archived": [
+      "key-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "keyboard-02",
+    "canonical": "keyboard-02-lined",
+    "archived": [
+      "keyboard-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "laptop-01",
+    "canonical": "laptop-01-lined",
+    "archived": [
+      "laptop-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "layers-three-01",
+    "canonical": "layers-three-01-lined",
+    "archived": [
+      "layers-three-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "layers-two-01",
+    "canonical": "layers-two-01-lined",
+    "archived": [
+      "layers-two-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "left-indent-01",
+    "canonical": "left-indent-01-lined",
+    "archived": [
+      "left-indent-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "life-buoy-01",
+    "canonical": "life-buoy-01-lined",
+    "archived": [
+      "life-buoy-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "lightbulb-01",
+    "canonical": "lightbulb-01-lined",
+    "archived": [
+      "lightbulb-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "line-chart-down-03",
+    "canonical": "line-chart-down-03-lined",
+    "archived": [
+      "line-chart-down-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "line-chart-up-03",
+    "canonical": "line-chart-up-03-lined",
+    "archived": [
+      "line-chart-up-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "link-03",
+    "canonical": "link-03-lined",
+    "archived": [
+      "link-01-lined",
+      "link-02-lined",
+      "link-04-lined",
+      "link-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "link-broken-01",
+    "canonical": "link-broken-01-lined",
+    "archived": [
+      "link-broken-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "link-external-01",
+    "canonical": "link-external-01-lined",
+    "archived": [
+      "link-external-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "loading-01",
+    "canonical": "loading-01-lined",
+    "archived": [
+      "loading-02-lined",
+      "loading-03-lined",
+      "loading-tui-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "lock-01",
+    "canonical": "lock-01-lined",
+    "archived": [
+      "lock-02-lined",
+      "lock-03-lined",
+      "lock-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "lock-unlocked-01",
+    "canonical": "lock-unlocked-01-lined",
+    "archived": [
+      "lock-unlocked-02-lined",
+      "lock-unlocked-03-lined",
+      "lock-unlocked-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "log-in-01",
+    "canonical": "log-in-01-lined",
+    "archived": [
+      "log-in-02-lined",
+      "log-in-03-lined",
+      "log-in-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "log-out-01",
+    "canonical": "log-out-01-lined",
+    "archived": [
+      "log-out-02-lined",
+      "log-out-03-lined",
+      "log-out-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "luggage-01",
+    "canonical": "luggage-01-lined",
+    "archived": [
+      "luggage-02-lined",
+      "luggage-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "magic-wand-01",
+    "canonical": "magic-wand-01-lined",
+    "archived": [
+      "magic-wand-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "mail-03",
+    "canonical": "mail-03-lined",
+    "archived": [
+      "mail-01-lined",
+      "mail-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "mail-04",
+    "canonical": "mail-04-lined",
+    "archived": [
+      "mail-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "marker-pin-01",
+    "canonical": "marker-pin-01-lined",
+    "archived": [
+      "marker-pin-02-lined",
+      "marker-pin-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "maximize-02",
+    "canonical": "maximize-02-lined",
+    "archived": [
+      "maximize-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-alert-circle",
+    "canonical": "message-alert-circle-lined",
+    "archived": [
+      "message-alert-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-chat-circle",
+    "canonical": "message-chat-circle-lined",
+    "archived": [
+      "message-chat-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-check-circle",
+    "canonical": "message-check-circle-lined",
+    "archived": [
+      "message-check-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-circle-01",
+    "canonical": "message-circle-01-lined",
+    "archived": [
+      "message-circle-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-dots-circle",
+    "canonical": "message-dots-circle-lined",
+    "archived": [
+      "message-dots-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-heart-circle",
+    "canonical": "message-heart-circle-lined",
+    "archived": [
+      "message-heart-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-notification-circle",
+    "canonical": "message-notification-circle-lined",
+    "archived": [
+      "message-notification-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-plus-circle",
+    "canonical": "message-plus-circle-lined",
+    "archived": [
+      "message-plus-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-question-circle",
+    "canonical": "message-question-circle-lined",
+    "archived": [
+      "message-question-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-smile-circle",
+    "canonical": "message-smile-circle-lined",
+    "archived": [
+      "message-smile-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-square-01",
+    "canonical": "message-square-01-lined",
+    "archived": [
+      "message-square-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-text-circle-01",
+    "canonical": "message-text-circle-01-lined",
+    "archived": [
+      "message-text-circle-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-text-square-01",
+    "canonical": "message-text-square-01-lined",
+    "archived": [
+      "message-text-square-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "message-x-circle",
+    "canonical": "message-x-circle-lined",
+    "archived": [
+      "message-x-square-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "microphone-01",
+    "canonical": "microphone-01-lined",
+    "archived": [
+      "microphone-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "microphone-off-01",
+    "canonical": "microphone-off-01-lined",
+    "archived": [
+      "microphone-off-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "minimize-01",
+    "canonical": "minimize-01-lined",
+    "archived": [
+      "minimize-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "modem-01",
+    "canonical": "modem-01-lined",
+    "archived": [
+      "modem-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "monitor-01",
+    "canonical": "monitor-01-lined",
+    "archived": [
+      "monitor-02-lined",
+      "monitor-03-lined",
+      "monitor-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "moon-01",
+    "canonical": "moon-01-lined",
+    "archived": [
+      "moon-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "music-note-01",
+    "canonical": "music-note-01-lined",
+    "archived": [
+      "music-note-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "navigation-pointer-01",
+    "canonical": "navigation-pointer-01-lined",
+    "archived": [
+      "navigation-pointer-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "navigation-pointer-off-01",
+    "canonical": "navigation-pointer-off-01-lined",
+    "archived": [
+      "navigation-pointer-off-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "pen-tool-01",
+    "canonical": "pen-tool-01-lined",
+    "archived": [
+      "pen-tool-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "pencil-01",
+    "canonical": "pencil-01-lined",
+    "archived": [
+      "pencil-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "percent-01",
+    "canonical": "percent-01-lined",
+    "archived": [
+      "percent-02-lined",
+      "percent-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "phone-01",
+    "canonical": "phone-01-lined",
+    "archived": [
+      "phone-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "phone-call-02",
+    "canonical": "phone-call-02-lined",
+    "archived": [
+      "phone-call-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "phone-incoming-01",
+    "canonical": "phone-incoming-01-lined",
+    "archived": [
+      "phone-incoming-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "phone-outgoing-01",
+    "canonical": "phone-outgoing-01-lined",
+    "archived": [
+      "phone-outgoing-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "piggy-bank-01",
+    "canonical": "piggy-bank-01-lined",
+    "archived": [
+      "piggy-bank-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "pilcrow-01",
+    "canonical": "pilcrow-01-lined",
+    "archived": [
+      "pilcrow-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "pin-01",
+    "canonical": "pin-01-lined",
+    "archived": [
+      "pin-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "power-01",
+    "canonical": "power-01-lined",
+    "archived": [
+      "power-02-lined",
+      "power-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "presentation-chart-01",
+    "canonical": "presentation-chart-01-lined",
+    "archived": [
+      "presentation-chart-02-lined",
+      "presentation-chart-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "puzzle-piece-01",
+    "canonical": "puzzle-piece-01-lined",
+    "archived": [
+      "puzzle-piece-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "qr-code-01",
+    "canonical": "qr-code-01-lined",
+    "archived": [
+      "qr-code-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "refresh-ccw-02",
+    "canonical": "refresh-ccw-02-lined",
+    "archived": [
+      "refresh-ccw-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "refresh-ccw-03",
+    "canonical": "refresh-ccw-03-lined",
+    "archived": [
+      "refresh-ccw-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "refresh-cw-02",
+    "canonical": "refresh-cw-02-lined",
+    "archived": [
+      "refresh-cw-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "refresh-cw-03",
+    "canonical": "refresh-cw-03-lined",
+    "archived": [
+      "refresh-cw-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "repeat-01",
+    "canonical": "repeat-01-lined",
+    "archived": [
+      "repeat-03-lined",
+      "repeat-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "right-indent-01",
+    "canonical": "right-indent-01-lined",
+    "archived": [
+      "right-indent-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "rocket-01",
+    "canonical": "rocket-01-lined",
+    "archived": [
+      "rocket-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "rss-01",
+    "canonical": "rss-01-lined",
+    "archived": [
+      "rss-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "sale-02",
+    "canonical": "sale-02-lined",
+    "archived": [
+      "sale-03-lined",
+      "sale-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "save-01",
+    "canonical": "save-01-lined",
+    "archived": [
+      "save-02-lined",
+      "save-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "scissors-01",
+    "canonical": "scissors-01-lined",
+    "archived": [
+      "scissors-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "scissors-cut-01",
+    "canonical": "scissors-cut-01-lined",
+    "archived": [
+      "scissors-cut-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "send-01",
+    "canonical": "send-01-lined",
+    "archived": [
+      "send-02-lined",
+      "send-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "share-02",
+    "canonical": "share-02-lined",
+    "archived": [
+      "share-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "share-03",
+    "canonical": "share-03-lined",
+    "archived": [
+      "share-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "share-05",
+    "canonical": "share-05-lined",
+    "archived": [
+      "share-06-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "shield-01",
+    "canonical": "shield-01-lined",
+    "archived": [
+      "shield-02-lined",
+      "shield-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "shopping-bag-01",
+    "canonical": "shopping-bag-01-lined",
+    "archived": [
+      "shopping-bag-02-lined",
+      "shopping-bag-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "shopping-cart-02",
+    "canonical": "shopping-cart-02-lined",
+    "archived": [
+      "shopping-cart-01-lined",
+      "shopping-cart-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "shuffle-01",
+    "canonical": "shuffle-01-lined",
+    "archived": [
+      "shuffle-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "sliders-02",
+    "canonical": "sliders-02-lined",
+    "archived": [
+      "sliders-01-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "snowflake-01",
+    "canonical": "snowflake-01-lined",
+    "archived": [
+      "snowflake-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "speaker-01",
+    "canonical": "speaker-01-lined",
+    "archived": [
+      "speaker-02-lined",
+      "speaker-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "star-03",
+    "canonical": "star-03-lined",
+    "archived": [
+      "star-07-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "star-05",
+    "canonical": "star-05-lined",
+    "archived": [
+      "star-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "strikethrough-01",
+    "canonical": "strikethrough-01-lined",
+    "archived": [
+      "strikethrough-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "tablet-01",
+    "canonical": "tablet-01-lined",
+    "archived": [
+      "tablet-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "tag-01",
+    "canonical": "tag-01-lined",
+    "archived": [
+      "tag-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "thermometer-01",
+    "canonical": "thermometer-01-lined",
+    "archived": [
+      "thermometer-02-lined",
+      "thermometer-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "ticket-01",
+    "canonical": "ticket-01-lined",
+    "archived": [
+      "ticket-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "translate-01",
+    "canonical": "translate-01-lined",
+    "archived": [
+      "translate-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "trash-01",
+    "canonical": "trash-01-lined",
+    "archived": [
+      "trash-02-lined",
+      "trash-03-lined",
+      "trash-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "trend-down-01",
+    "canonical": "trend-down-01-lined",
+    "archived": [
+      "line-chart-down-01-lined",
+      "trend-down-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "trend-up-01",
+    "canonical": "trend-up-01-lined",
+    "archived": [
+      "line-chart-up-01-lined",
+      "trend-up-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "trophy-01",
+    "canonical": "trophy-01-lined",
+    "archived": [
+      "trophy-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "truck-01",
+    "canonical": "truck-01-lined",
+    "archived": [
+      "truck-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "tv-01",
+    "canonical": "tv-01-lined",
+    "archived": [
+      "tv-02-lined",
+      "tv-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "type-01",
+    "canonical": "type-01-lined",
+    "archived": [
+      "type-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "type-strikethrough-01",
+    "canonical": "type-strikethrough-01-lined",
+    "archived": [
+      "type-strikethrough-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "umbrella-01",
+    "canonical": "umbrella-01-lined",
+    "archived": [
+      "umbrella-02-lined",
+      "umbrella-03-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "underline-01",
+    "canonical": "underline-01-lined",
+    "archived": [
+      "underline-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "upload-01",
+    "canonical": "upload-01-lined",
+    "archived": [
+      "upload-02-lined",
+      "upload-03-lined",
+      "upload-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "upload-cloud-01",
+    "canonical": "upload-cloud-01-lined",
+    "archived": [
+      "upload-cloud-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-01",
+    "canonical": "user-01-lined",
+    "archived": [
+      "user-02-lined",
+      "user-03-lined",
+      "user-04-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-check-01",
+    "canonical": "user-check-01-lined",
+    "archived": [
+      "user-check-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-down-01",
+    "canonical": "user-down-01-lined",
+    "archived": [
+      "user-down-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-left-01",
+    "canonical": "user-left-01-lined",
+    "archived": [
+      "user-left-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-minus-01",
+    "canonical": "user-minus-01-lined",
+    "archived": [
+      "user-minus-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-plus-01",
+    "canonical": "user-plus-01-lined",
+    "archived": [
+      "user-plus-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-right-01",
+    "canonical": "user-right-01-lined",
+    "archived": [
+      "user-right-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-up-01",
+    "canonical": "user-up-01-lined",
+    "archived": [
+      "user-up-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "user-x-01",
+    "canonical": "user-x-01-lined",
+    "archived": [
+      "user-x-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "wallet-01",
+    "canonical": "wallet-01-lined",
+    "archived": [
+      "wallet-02-lined",
+      "wallet-03-lined",
+      "wallet-04-lined",
+      "wallet-05-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  },
+  {
+    "meaning_key": "webcam-01",
+    "canonical": "webcam-01-lined",
+    "archived": [
+      "webcam-02-lined"
+    ],
+    "basis": "Recorded semantic variants/synonyms. Supplemental groups also have equal alpha masks at 24 and 48px.",
+    "canonical_selection": "Prefer positive user feedback and selected reference examples; preserve all other versions in archive."
+  }
+]

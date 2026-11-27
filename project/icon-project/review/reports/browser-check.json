@@ -1,0 +1,17 @@
+{
+  "result": "passed: search, four-way comparison, sizes, theme, family, approval scope, SVG download availability",
+  "environment": "Local Chrome headless, self-contained review HTML",
+  "checks": [
+    "search",
+    "four-way comparison",
+    "size switch",
+    "theme switch",
+    "family filter",
+    "approval scope",
+    "SVG download availability"
+  ],
+  "not_exercised": [
+    "actual file download dialog",
+    "clipboard permission prompt"
+  ]
+}

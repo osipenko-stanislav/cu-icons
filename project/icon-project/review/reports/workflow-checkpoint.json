@@ -1,0 +1,54 @@
+{
+  "next_step": "review-static-pilot",
+  "decisions": {
+    "scenario": {
+      "value": "restyle",
+      "source": "user",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "brief": {
+      "value": "Restyle all supplied work icons using ref as style basis; preserve source semantics and editable SVG.",
+      "source": "user",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "reference_choice": {
+      "value": "provided",
+      "source": "user",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "direction": {
+      "value": "Thin monochrome linework, selective asymmetric corners, simplified geometric contours.",
+      "source": "reference",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "geometry": {
+      "value": "outline",
+      "source": "reference",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "target_sizes": {
+      "value": [
+        16,
+        24,
+        32
+      ],
+      "source": "inferred",
+      "confidence": "medium",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    },
+    "motion_mode": {
+      "value": "static",
+      "source": "default",
+      "confidence": "high",
+      "updated_at": "2026-11-26T10:57:33+00:00"
+    }
+  },
+  "sources_confirmed": false,
+  "static_pilot_approved": false,
+  "motion_mode": "static"
+}

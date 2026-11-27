@@ -1,0 +1,63 @@
+{
+  "png_sha256": "c2b907e46a00233fff0c9b23231635326f6aa2c8f15ba63bf0f1ad765df67510",
+  "icons": {
+    "image-02-lined": "7e5b95e46b54b405a381abb21e61f3c4d802cbd18d225036765ac8ba384c275b",
+    "image-03-lined": "2c299addac22e7de2def45bafc567906e454e688555405d7ea861bff035a698a",
+    "image-04-lined": "2c299addac22e7de2def45bafc567906e454e688555405d7ea861bff035a698a",
+    "image-05-lined": "677ccdca9fcc76e0537005cb4b99a40a2b24237e3612073fa7ba9d82de4e543f",
+    "image-check-lined": "c48abf6e849c7deb46a9f011c040ce72e6ab68a5478c16ea984c1260459833bc",
+    "image-down-lined": "386fa13e1f4d762027ebbfa869fd23490a9dbd1e65bb6c35b78bc368febe1ce1",
+    "image-indent-left-lined": "183761d6c63872dbbb5124bfa43e6c1fd59d0c54c4e7866f63157f02b9ef9ff5",
+    "image-indent-right-lined": "2049d6f744cf9043080216b1587143c1b4dc9abf896cd725e4767a3771aacd9a",
+    "image-left-lined": "0900c5444aee170e034e399fe39f1002ca67c847aae3eefac8e65ffc4126c688",
+    "image-plus-lined": "efe3b836d8b2d819b4ca92b19bcf6fa3f4e0bc2114ab69921dfd3cc623c674e9",
+    "image-right-lined": "cb567d7774e72b606a00c707dd03f50af6596b69a3b5e42afb7e320f6deaa91a",
+    "image-up-lined": "566930335b976efb3a13b4b07579fa27d75bb4e289370c0372cdfe9b18908932",
+    "image-user-check-lined": "1a770b8e5e3f15e38e7add6677396b9d96be14d76d25b38a4620810697ad11d5",
+    "image-user-down-lined": "3a35c53805acc267f905e6f0f387ee21d3f061553f6adb553f730416a9fac709",
+    "image-user-left-lined": "924db8861e2d2a2012c7fb25bd1798fb2af19dfeba1c0574aeb6bc3b3ab0327e",
+    "image-user-lined": "7a70c8119a5c19761ad9660cf59343cc581684b2ed1068ce7a2f4a9d5189f69e",
+    "image-user-plus-lined": "d3275b4b21ac6c812b0af29d4a17276cf532ef3fe7a7fedf82f595421b92db97",
+    "image-user-right-lined": "e34b801d364e0865289a6ef3f3ab67436d446099d7d6dd07c67cdb6c3fad8c23",
+    "image-user-up-lined": "1c39a28e093c541b1a929634b6bbee554464b0d481538a463efdb04f72480e7f",
+    "image-user-x-lined": "da34741e4dc4ab28841fe5905390c38815f0f21ca4eeaa55cb1a287f76584b42",
+    "image-x-lined": "033b62f8393ee639dbcbd623b1c1016c4fa07cdc4fb19934afa964e5a2743723",
+    "inbox-01-lined": "52fd9476129800e199639c216965c06e6e21ebb4ca9476c1a360d843054058ab",
+    "inbox-02-lined": "2ac56e83b914dec4201cc5da511391e339e8d7bd06fe8ad1c9f08b71ef529cd1",
+    "indeterminate-lined": "56cea4027c2a0dc16d81c1f7945fa3a4cb573afcd5ef8ffa2c7ec2b6b29ff86a",
+    "indeterminate-small-16-lined": "b48b3b91881ced2115a0af7b00562c628a726fe0eb4d417427e4f12413422830",
+    "indeterminate-small-lined": "b48b3b91881ced2115a0af7b00562c628a726fe0eb4d417427e4f12413422830",
+    "infinity-lined": "6122a86628cc60a7488d0c7924699fa40d797db7ab5fa2f3ce5537ee20e9204a",
+    "info-circle-lined": "070b368dc7b9dcf1f99c46f0c275ac803ded3aecdfc1d6e3e9d772acfa838bcf",
+    "info-hexagon-lined": "4c930a3b8ebe376a8cd7fcea462d273dc096aa4e9e2aefc880a24ef7b4100f4c",
+    "info-octagon-lined": "619d892923154b3fbcb5ba7d147b9c2e1411dc106bf0f47787cfbff321c2de93",
+    "info-square-lined": "cba4098c26a585e05ca0f1371f8df59606b91da453abe68b5ad460e7a0fe2483",
+    "intersect-circle-lined": "3cd2860aa72dc6e318bee09b947f3dc1418860302c4d97d9ed26032b041be0b0",
+    "intersect-square-lined": "f4e65751c77020161d8a6fe87bf5b46dba06b0e05697e96fa3088ce8f734c3b1",
+    "italic-01-lined": "4c6deee62bed6e1f0a2e4d7c1c546977f1707efff6df3706db6d83969e61b22a",
+    "italic-02-lined": "ad17dec3a70cfa00fa99e618d7d13babc0eb69bc71de9cb52781685349e64712"
+  },
+  "references": [
+    "brand-doc-lined",
+    "calendar",
+    "brand-device-desktop-lined",
+    "brand-chip-lined",
+    "profile",
+    "brand-users2-lined",
+    "message",
+    "brand-shield-lined",
+    "heart",
+    "arrow-right",
+    "brand-home-lined"
+  ],
+  "sizes": [
+    16,
+    24,
+    48
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "source_comparison": true
+}

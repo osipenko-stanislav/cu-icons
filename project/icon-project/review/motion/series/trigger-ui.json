@@ -1,0 +1,13 @@
+{
+  "cards": 1189,
+  "selectors": 1189,
+  "initial": "hover",
+  "clickOnlyNoHover": true,
+  "clickOnlyClick": true,
+  "changeRestores": true,
+  "hoverOnlyNoClick": true,
+  "hoverOnlyHover": true,
+  "saved": true,
+  "export": true,
+  "exportBytes": 5695
+}

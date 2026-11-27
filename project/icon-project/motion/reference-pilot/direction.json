@@ -1,0 +1,80 @@
+{
+  "status": "pilot-for-user-review",
+  "principles": "Original choreography informed by observed gesture phases; existing transformed static artwork retained; start/end full; no fade; per-icon trigger policy retained",
+  "references_observed": [
+    "trash",
+    "book-open",
+    "settings",
+    "arrow-right",
+    "folder",
+    "wifi",
+    "bar-chart",
+    "menu-v2",
+    "globe"
+  ],
+  "scenes": [
+    {
+      "id": "arrow-right-lined",
+      "idea": "Arrow nudge: a short preparation, clear travel, pause and return",
+      "reference": "https://useanimations.com/icons/arrow-right",
+      "geometry_sha256": "00cb2ebd622bf3e6fd76dbdad762101974c6df3435ee37bc718c70ef5036db5f",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "book-open-01-lined",
+      "idea": "Light compression of the original book spread about its fixed spine; user requested no added or turning pages",
+      "reference": "https://useanimations.com/icons/book-open",
+      "geometry_sha256": "e4a65b46a1295ab40fb6ba16f4c799a6d95f8f0f254e72dffd66e5dd37b51332",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "settings-01-lined",
+      "idea": "Gear takes up movement, turns and settles back",
+      "reference": "https://useanimations.com/icons/settings",
+      "geometry_sha256": "aec943fb19cf7826e10b34cebe7596425017f080fe4a61c214bec1c1b9ccc02f",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "trash-01-lined",
+      "idea": "Lid opens around its left hinge, pauses, then closes; bin remains still",
+      "reference": "https://useanimations.com/icons/trash",
+      "geometry_sha256": "b6ecb11500e4f2e81d9847e6a40bb22e0b33524e8b8b96236905632f1e1a7f2a",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "folder-lined",
+      "idea": "Connected folder shell folds slightly toward its bottom edge and reopens",
+      "reference": "https://useanimations.com/icons/folder",
+      "geometry_sha256": "0a2bb351869e701041dd93adb072123cab23cf017828538c7432797fd4157e9f",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "heart-lined",
+      "idea": "Two contractions of different strength followed by a long rest",
+      "reference": "https://useanimations.com/icons/heart",
+      "geometry_sha256": "69d2a851cbc0185fe6b654ad9f44903c4b83139e0992625368976f6b1f5ceb11",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "wifi-lined",
+      "idea": "Geometric signal wave travels from the emitter toward the outer arc, with no fading",
+      "reference": "https://useanimations.com/icons/wifi",
+      "geometry_sha256": "e4fb01c3af793fcebf857a609da851354ad4276bbbcc6b70221f8549a734449c",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "bar-chart-01-lined",
+      "idea": "Bars move from their common baseline, left to right, then recover",
+      "reference": "https://useanimations.com/icons/bar-chart",
+      "geometry_sha256": "29d82794de1fb478afe5a241bd533c3ce7a430d03f3cc0ad1e83279bc3e44d6c",
+      "motion_approval": "pending-new-direction"
+    },
+    {
+      "id": "flag-01-lined",
+      "idea": "Fabric makes two decaying folds around the fixed flagpole",
+      "reference": "https://useanimations.com/icons/flag",
+      "geometry_sha256": "29d3881a34265b0518db0ea702b519a8a037a9aec4597430c002e32c412d9532",
+      "motion_approval": "pending-new-direction"
+    }
+  ]
+}

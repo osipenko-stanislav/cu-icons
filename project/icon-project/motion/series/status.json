@@ -1,0 +1,138 @@
+{
+  "total": 1189,
+  "animated": 1189,
+  "unprocessed": 0,
+  "pilot_approved": 4,
+  "series_pending_user_review": 1185,
+  "presets": [
+    "Smooth",
+    "Balanced",
+    "Expressive"
+  ],
+  "default_preset": "Balanced",
+  "trigger": {
+    "hover": 918,
+    "hover-click": 139,
+    "click-replay": 132
+  },
+  "start_end": "complete original SVG pose",
+  "opacity_animation": false,
+  "static_inputs_unchanged": true,
+  "static_approval_statuses_unchanged": true,
+  "patterns": {
+    "layout-reflow": 63,
+    "detail-path": 448,
+    "object-pivot": 17,
+    "content-slide": 69,
+    "container-detail": 32,
+    "arrow-vector-return": 64,
+    "cycle-return": 1,
+    "rays-turn": 11,
+    "inner-orbit": 38,
+    "award-rock": 18,
+    "assembled-object-pivot": 24,
+    "interior-lift": 13,
+    "chart-bar-wave": 26,
+    "environment-flow": 47,
+    "bell-swing": 13,
+    "book-page-edge": 1,
+    "book-page-fold": 2,
+    "tool-pivot": 27,
+    "vehicle-travel": 11,
+    "lens-focus": 21,
+    "connected-symbol-turn": 3,
+    "selector-spread": 2,
+    "hand-sweep": 10,
+    "rotation-return": 22,
+    "drafting-compass-hinge": 1,
+    "approved-pilot": 4,
+    "currency-symbol-turn": 16,
+    "directional-return": 24,
+    "face-blink": 4,
+    "flag-fold": 6,
+    "device-detail": 23,
+    "audio-vibration": 17,
+    "heart-beat": 8,
+    "keyhole-feedback": 1,
+    "shackle-lift": 9,
+    "envelope-flap": 2,
+    "map-marker-lift": 15,
+    "signal-expansion": 15,
+    "pie-sector-turn": 4,
+    "rocket-lift": 2,
+    "search-scan": 6,
+    "server-assembly": 1,
+    "slider-travel": 6,
+    "spacing-span": 3,
+    "lid-hinge": 4,
+    "person-nod": 35
+  },
+  "runtime": "Standalone shared JavaScript + editable JSON and SVG; Chromium verified",
+  "checks": {
+    "preset_runs": 3567,
+    "sampled_raster_frames": 4894,
+    "static_equivalence_sizes": [
+      16,
+      24,
+      32
+    ],
+    "failures": 0
+  },
+  "approval_scope": "User approved four-scene pilot and authorized all current SVGs for motion production. Remaining scenes are review candidates, not automatically user-approved.",
+  "release_status": "complete-motion-review-set",
+  "player_sha256": "5e135565c85fe773eb41ce3c4589b9e8ec5022edf21e64ee76b46facd449e864",
+  "balanced_pack_bytes": 1325488,
+  "runtime_correction": "Arrow translation moved to canvas coordinates; 64 vectors verified. Per-icon trigger guards and scale channels added. Approved pilot choreography retained.",
+  "stroke_control": {
+    "range_px": [
+      0.5,
+      3
+    ],
+    "step_px": 0.25,
+    "default_px": 1,
+    "independent_of_icon_size": true,
+    "raster_sizes_tested": [
+      16,
+      24,
+      32,
+      48
+    ],
+    "widths_tested": [
+      1,
+      2.5
+    ],
+    "export_width_tested": 2.25,
+    "status": "pass"
+  },
+  "arrow_junction_fix": {
+    "affected_icons": 142,
+    "rigid_groups": 170,
+    "junctions": 177,
+    "preset_runs": 426,
+    "frames_per_run": 21,
+    "max_joint_gap": 0,
+    "visual_review": "sequential: three focused sheets covering all 142 affected icons, plus alignment/chart/spacing sheets",
+    "archive_samples": "full Balanced pack and two affected individual packages: pass"
+  },
+  "geometry_motion_scenes": 761,
+  "structural_audit": {
+    "source_contacts_checked": 2582,
+    "source_icons": 1189,
+    "geometric_preset_runs": 993,
+    "unexpected_separations": 0,
+    "intentional_releases": {
+      "count": 3,
+      "reason": "Right edge of trash lid opens while the left hinge at (5,6) stays fixed"
+    },
+    "new_contour_crossings": 0,
+    "moving_pairs_sampled": 43274,
+    "revised_geometry_count": 169,
+    "limitations": "Sampled Chromium trajectories and contour polylines; no analytic proof for every instant or cross-browser verification",
+    "review": "Sequential; no independent agent"
+  },
+  "reference_motion_pilot": {
+    "scenes": 9,
+    "status": "pending-user-review",
+    "url": "http://127.0.0.1:8766/reference-pilot/"
+  }
+}

@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1"><g id="idle--motion-idle"><g transform="rotate(90 12 12)"><path d="M6 9L12 15L18 9" stroke-linecap="round" stroke="currentColor" />
+</g></g><g id="active--motion-active" visibility="hidden"><g transform="rotate(90 12 12)" /><g data-part="0"><g transform="rotate(90 12 12)"><path d="M6 9L12 15L18 9" stroke-linecap="round" stroke="currentColor" />
+</g></g></g></svg>

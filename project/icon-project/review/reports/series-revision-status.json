@@ -1,0 +1,9 @@
+{
+  "status": "reference-first-series-complete-for-user-review",
+  "user_feedback": "Мне кажется, ты недостаточно опираешься в геометрии на рефы, у большиства примеров визуально просто поменялся ширина stroke",
+  "pilot_preserved": true,
+  "width_only_candidates_requiring_reassessment": 962,
+  "final_pack_ready": false,
+  "review_set_ready": true,
+  "total": 1189
+}
